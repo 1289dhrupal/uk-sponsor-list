@@ -32,6 +32,6 @@ jobs:
               run: |
                   git config --local user.email "action@github.com"
                   git config --local user.name "GitHub Action Bot"
-                  git add sponsors.json
-                  git commit -m "Automated daily sponsor list update" || exit 0
+                  git add data/
+                  git commit -m "Automated daily sponsor list split update" || exit 0
                   git push

@@ -1,0 +1,32 @@
+{
+    "types": {
+        "1": "Skilled Worker",
+        "2": "Global Business Mobility: UK Expansion Worker",
+        "3": "Tier 2 Ministers of Religion",
+        "4": "Charity Worker",
+        "5": "Religious Worker",
+        "6": "Creative Worker",
+        "7": "Global Business Mobility: Graduate Trainee",
+        "8": "Global Business Mobility: Senior or Specialist Worker",
+        "9": "International Agreement",
+        "10": "Scale-up",
+        "11": "International Sportsperson",
+        "12": "Government Authorised Exchange",
+        "13": "Seasonal Worker",
+        "14": "Global Business Mobility: Service Supplier",
+        "15": "Global Business Mobility: Secondment Worker",
+        "16": "Intra Company Transfers (ICT)",
+        "17": "Intra-company Routes"
+    },
+    "ratings": {
+        "1": "Worker (A rating)",
+        "2": "Worker (UK Expansion Worker: Provisional )",
+        "3": "Temporary Worker (A rating)",
+        "4": "Worker (B rating)",
+        "5": "Temporary Worker (B rating)",
+        "6": "Temporary Worker (A (SME+))",
+        "7": "Worker (A (SME+))",
+        "8": "Worker (A (Premium))",
+        "9": "Temporary Worker (A (Premium))"
+    }
+}
