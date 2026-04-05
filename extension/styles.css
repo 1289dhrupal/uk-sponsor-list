@@ -1,0 +1,74 @@
+.uk-sponsor-badge {
+    display: inline-flex;
+    align-items: center;
+    background-color: #e6f4ea;
+    color: #137333;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 2px 6px;
+    margin-left: 8px;
+    border-radius: 4px;
+    border: 1px solid #ceead6;
+    vertical-align: middle;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    user-select: none;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+
+    /* Force LinkedIn's flexbox to respect the badge's size so it doesn't get crushed to 0px */
+    flex-shrink: 0;
+    white-space: nowrap;
+    z-index: 10;
+}
+
+.uk-sponsor-badge.negative {
+    background-color: #fce8e6;
+    color: #c5221f;
+    border-color: #fad2cf;
+}
+
+/* * THE SILVER BULLET FOR OBFUSCATED CLASSES:
+ * Use the modern :has() selector to find ANY container that holds our badge.
+ * This forces LinkedIn's strict truncating containers to open up, 
+ * allowing the badge to be visible and drop to the next line if needed.
+ */
+*:has(> .uk-sponsor-badge) {
+    overflow: visible !important;
+    white-space: normal !important;
+    text-overflow: clip !important;
+
+    /* Override LinkedIn's strict line-clamp truncation */
+    display: inline-flex !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    -webkit-line-clamp: unset !important;
+}
+
+/* Go one level higher just in case the parent's parent is the one cutting it off */
+*:has(> *:has(> .uk-sponsor-badge)) {
+    overflow: visible !important;
+}
+
+/* Ensure the parent container doesn't cut off the badge (Legacy Fallbacks) */
+.job-card-container__primary-description,
+.job-card-container__company-name,
+.job-details-jobs-unified-top-card__company-name,
+.job-details-jobs-unified-top-card__primary-description,
+.artdeco-entity-lockup__subtitle,
+.entity-result__primary-subtitle,
+.job-card-list__company-name,
+[class*="company-name"],
+[class*="subtitle"],
+[class*="primary-description"],
+a[href*="/company/"],
+[aria-label*="Company"] {
+    overflow: visible !important;
+    white-space: normal !important;
+    text-overflow: clip !important;
+    flex-wrap: wrap !important;
+}
+
+/* Prevent clipping in the dynamic componentkey cards */
+div[role="button"][componentkey] p {
+    overflow: visible !important;
+    white-space: normal !important;
+}

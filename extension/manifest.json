@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "UK Visa Sponsor Checker for LinkedIn",
+    "version": "1.0",
+    "description": "Highlights companies on LinkedIn that are on the UK Home Office Register of Licensed Sponsors.",
+    "permissions": [
+        "storage"
+    ],
+    "host_permissions": [
+        "https://raw.githubusercontent.com/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.linkedin.com/jobs/*",
+                "*://*.linkedin.com/company/*/jobs/*",
+                "*://*.linkedin.com/my-items/saved-jobs/*"
+            ],
+            "css": [
+                "styles.css"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
