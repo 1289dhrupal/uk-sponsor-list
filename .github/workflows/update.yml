@@ -25,7 +25,7 @@ jobs:
             - name: Run Update Script
               # Injects the GitHub Variable into the Node.js process
               env:
-                  GOV_PAGE_URL: ${{ vars.GOV_PAGE_URL }}
+                  GOV_PAGE_URL: 'https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers'
               run: node update.js
 
             - name: Commit and Push Changes
