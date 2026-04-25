@@ -2,8 +2,8 @@ name: Daily Sponsor Update
 
 on:
     schedule:
-        # Runs at midnight UTC every day
-        - cron: "0 0 * * *"
+        # Runs at 8:45 AM, every Saturday
+        - cron: "45 8 * * 6"
     workflow_dispatch:
         # Allows manual triggering from the GitHub Actions UI
 
