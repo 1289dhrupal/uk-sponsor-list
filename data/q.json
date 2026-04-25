@@ -23,6 +23,12 @@
             "rating": 1
         }
     ],
+    "queen elizabeth park": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "quick tills": [
         {
             "type": 1,
@@ -1220,6 +1226,12 @@
         }
     ],
     "qm london trading": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "qm recycled energy": [
         {
             "type": 1,
             "rating": 1
@@ -2965,6 +2977,12 @@
             "rating": 1
         }
     ],
+    "quartz digital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "quartz technical": [
         {
             "type": 1,
@@ -3064,6 +3082,12 @@
     "quay court care centre": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "quay garage and car sales": [
+        {
+            "type": 11,
             "rating": 1
         }
     ],
@@ -3360,6 +3384,12 @@
         }
     ],
     "queens fish bar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "queens head inn": [
         {
             "type": 1,
             "rating": 1
@@ -3678,16 +3708,6 @@
     "quest recovery": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "quest software": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
             "rating": 1
         }
     ],

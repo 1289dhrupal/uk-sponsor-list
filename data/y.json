@@ -587,12 +587,6 @@
             "rating": 1
         }
     ],
-    "yacine construction": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "yadav healthcare": [
         {
             "type": 1,
@@ -1524,6 +1518,12 @@
         }
     ],
     "ybu": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ybu-sushi": [
         {
             "type": 1,
             "rating": 1
@@ -2501,6 +2501,12 @@
             "rating": 3
         }
     ],
+    "ymestyn": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ymg constructions": [
         {
             "type": 1,
@@ -2771,12 +2777,6 @@
             "rating": 1
         }
     ],
-    "yogiz": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "yogni registered address": [
         {
             "type": 1,
@@ -2921,11 +2921,11 @@
     ],
     "yondr": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3167,6 +3167,12 @@
             "rating": 1
         }
     ],
+    "yorkers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "yorkshire ambulance service nhs trust": [
         {
             "type": 1,
@@ -3336,6 +3342,12 @@
         }
     ],
     "yorktest laboratories": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "yorton farm stud": [
         {
             "type": 1,
             "rating": 1
@@ -4042,7 +4054,7 @@
     "your trip mate": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "your village store": [
@@ -4892,6 +4904,12 @@
         }
     ],
     "yumchop foods": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "yume food": [
         {
             "type": 1,
             "rating": 1

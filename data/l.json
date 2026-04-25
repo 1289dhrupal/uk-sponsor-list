@@ -1277,12 +1277,6 @@
             "rating": 1
         }
     ],
-    "l10n media": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "l2s2": [
         {
             "type": 1,
@@ -1601,12 +1595,6 @@
             "rating": 1
         }
     ],
-    "la irenita polo team": [
-        {
-            "type": 11,
-            "rating": 1
-        }
-    ],
     "la juliana polo": [
         {
             "type": 11,
@@ -1810,6 +1798,12 @@
         }
     ],
     "level": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "la pizzica pizzeria": [
         {
             "type": 1,
             "rating": 1
@@ -2531,6 +2525,12 @@
             "rating": 1
         }
     ],
+    "ladybird nurseries london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ladybird nurseries": [
         {
             "type": 1,
@@ -2810,6 +2810,20 @@
         }
     ],
     "laidlaw foundation": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "laika films": [
+        {
+            "type": 6,
+            "rating": 3
+        },
+        {
+            "type": 8,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -3899,6 +3913,12 @@
             "rating": 1
         }
     ],
+    "lancaster and morecambe college": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lancaster cricket club": [
         {
             "type": 11,
@@ -4152,12 +4172,6 @@
             "type": 8,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "landermead investments": [
         {
             "type": 1,
             "rating": 1
@@ -5171,6 +5185,12 @@
             "rating": 1
         }
     ],
+    "lapen inns- barley mow": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lapithus management": [
         {
             "type": 1,
@@ -5708,6 +5728,12 @@
         }
     ],
     "lassic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "last brand trading co": [
         {
             "type": 1,
             "rating": 1
@@ -6813,6 +6839,12 @@
             "rating": 1
         }
     ],
+    "lawtech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lawton gallagher": [
         {
             "type": 1,
@@ -6860,12 +6892,6 @@
             "type": 8,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "laxmi m/cr": [
         {
             "type": 1,
             "rating": 1
@@ -7065,12 +7091,6 @@
             "rating": 1
         }
     ],
-    "lazeez kitchen": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lazer lamps": [
         {
             "type": 1,
@@ -7166,6 +7186,12 @@
         }
     ],
     "lc international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lc invest globalltd": [
         {
             "type": 1,
             "rating": 1
@@ -7792,7 +7818,7 @@
     "leader development": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "leader electronics of europe": [
@@ -7858,6 +7884,12 @@
         }
     ],
     "leadership in play": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "leadership through data|": [
         {
             "type": 1,
             "rating": 1
@@ -9143,19 +9175,7 @@
             "rating": 1
         }
     ],
-    "leftley rowe corporate finance": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "legacie contracts": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "legacy agency": [
         {
             "type": 1,
             "rating": 1
@@ -9782,6 +9802,12 @@
     "leicester riders": [
         {
             "type": 11,
+            "rating": 1
+        }
+    ],
+    "leicester square opco": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11770,12 +11796,6 @@
         }
     ],
     "lewisham food market meat": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lewisham nexus service": [
         {
             "type": 1,
             "rating": 1
@@ -13907,16 +13927,6 @@
             "rating": 1
         }
     ],
-    "lightfoot solutions": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lightful": [
         {
             "type": 1,
@@ -13935,15 +13945,15 @@
             "rating": 1
         }
     ],
-    "lighthouse capital advisory": [
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
     "lighthouse design for business": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "lighthouse ely": [
+        {
+            "type": 3,
             "rating": 1
         }
     ],
@@ -14216,12 +14226,6 @@
         }
     ],
     "like care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "like digital media": [
         {
             "type": 1,
             "rating": 1
@@ -14739,12 +14743,6 @@
             "rating": 1
         }
     ],
-    "limewood nursing and residential home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "limi skin": [
         {
             "type": 1,
@@ -15146,6 +15144,12 @@
         },
         {
             "type": 8,
+            "rating": 1
+        }
+    ],
+    "lindar media": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16211,6 +16215,12 @@
             "rating": 1
         }
     ],
+    "lion oar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lion re:sources": [
         {
             "type": 1,
@@ -17047,12 +17057,6 @@
             "rating": 1
         }
     ],
-    "little futures childminding": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "little garden nursery": [
         {
             "type": 1,
@@ -17342,6 +17346,12 @@
         }
     ],
     "little robes royale": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "little rock equine vets": [
         {
             "type": 1,
             "rating": 1
@@ -18001,6 +18011,12 @@
             "rating": 1
         }
     ],
+    "liverpool college independent school trust": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "liverpool construction": [
         {
             "type": 1,
@@ -18125,13 +18141,19 @@
             "rating": 1
         }
     ],
+    "liverpool wholesale fruit and veg market": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "liverpool women s fc": [
         {
-            "type": 11,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -19521,6 +19543,12 @@
             "rating": 1
         }
     ],
+    "lobaso": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lobo seafood midland": [
         {
             "type": 1,
@@ -19554,6 +19582,12 @@
     "local cars oxford": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "local christian assembly vauxhall": [
+        {
+            "type": 3,
             "rating": 1
         }
     ],
@@ -21033,6 +21067,12 @@
             "rating": 1
         }
     ],
+    "london & west investments": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "london 4 domiciliary specsavers": [
         {
             "type": 1,
@@ -21731,12 +21771,6 @@
             "rating": 1
         }
     ],
-    "london collegiate": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "london community care": [
         {
             "type": 1,
@@ -21969,25 +22003,13 @@
             "rating": 1
         }
     ],
-    "london essex hot tubs": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "london essex outdoor living": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "london ev company": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -23055,7 +23077,17 @@
             "rating": 1
         }
     ],
+    "london rheumatology centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "london riverside church": [
+        {
+            "type": 3,
+            "rating": 1
+        },
         {
             "type": 5,
             "rating": 3
@@ -23063,10 +23095,6 @@
         {
             "type": 4,
             "rating": 3
-        },
-        {
-            "type": 3,
-            "rating": 1
         }
     ],
     "london road convenience store": [
@@ -24261,6 +24289,12 @@
             "rating": 1
         }
     ],
+    "longsword building & maintenance": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "longtek electronics europe": [
         {
             "type": 1,
@@ -25069,6 +25103,12 @@
             "rating": 1
         }
     ],
+    "lotus care brandon lodge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lotus care croxteth park": [
         {
             "type": 1,
@@ -25194,6 +25234,12 @@
         }
     ],
     "lotus lounge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lotus pharma": [
         {
             "type": 1,
             "rating": 1
@@ -26645,7 +26691,7 @@
             "rating": 1
         }
     ],
-    "le raj": [
+    "lrg corporation": [
         {
             "type": 1,
             "rating": 1
@@ -27239,12 +27285,6 @@
             "rating": 1
         }
     ],
-    "luciandesigns": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "luciano bar and bistro": [
         {
             "type": 1,
@@ -27321,12 +27361,6 @@
             "rating": 1
         }
     ],
-    "lucinda ellery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lucion": [
         {
             "type": 1,
@@ -27364,6 +27398,12 @@
         }
     ],
     "luckmans duckett parker": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lucknow borough": [
         {
             "type": 1,
             "rating": 1
@@ -28069,12 +28109,6 @@
             "rating": 1
         }
     ],
-    "luminary care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "luminary roli": [
         {
             "type": 1,
@@ -28427,11 +28461,11 @@
     ],
     "lupin healthcare": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28982,6 +29016,12 @@
         }
     ],
     "luxe 88": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "luxe canapes": [
         {
             "type": 1,
             "rating": 1

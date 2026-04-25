@@ -1039,6 +1039,12 @@
             "rating": 1
         }
     ],
+    "h l residency private": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "h living": [
         {
             "type": 1,
@@ -1046,12 +1052,6 @@
         }
     ],
     "h m foods supplier": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "h m h travel agency": [
         {
             "type": 1,
             "rating": 1
@@ -1459,12 +1459,6 @@
             "rating": 1
         }
     ],
-    "h&r energy solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "h&r london contractors": [
         {
             "type": 1,
@@ -1834,6 +1828,12 @@
         }
     ],
     "h2 design": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "h2a online": [
         {
             "type": 1,
             "rating": 1
@@ -2769,6 +2769,12 @@
             "rating": 1
         }
     ],
+    "hafren scientific": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hafren veterinary": [
         {
             "type": 1,
@@ -2885,23 +2891,29 @@
             "rating": 1
         }
     ],
-    "haier appliances co": [
+    "haiduk s padel company": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "haier appliances co": [
         {
             "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
     "haier smart home &i": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -2963,6 +2975,10 @@
         {
             "type": 8,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "hainault costcutter": [
@@ -3020,6 +3036,18 @@
         }
     ],
     "hair and beauty palace ventures": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hair and beauty poetry": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hair by floria": [
         {
             "type": 1,
             "rating": 1
@@ -3919,16 +3947,16 @@
     ],
     "halliburton manufacturing and": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
             "type": 8,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 7,
+            "rating": 3
         }
     ],
     "halliday meecham architects": [
@@ -4038,12 +4066,6 @@
         }
     ],
     "halo accident repair centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "halo invest": [
         {
             "type": 1,
             "rating": 1
@@ -4520,6 +4542,12 @@
         }
     ],
     "hamilton west medical practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hamilton-brown business graphics": [
         {
             "type": 1,
             "rating": 1
@@ -5854,6 +5882,12 @@
             "type": 8,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hanoto technology": [
         {
             "type": 1,
             "rating": 1
@@ -7800,16 +7834,6 @@
         }
     ],
     "harmain jewellers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "harman connected corporation india private": [
-        {
-            "type": 8,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -9899,12 +9923,6 @@
             "rating": 1
         }
     ],
-    "hasz recruitment solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hat trick productions": [
         {
             "type": 6,
@@ -10629,12 +10647,6 @@
             "rating": 1
         }
     ],
-    "havilah endeavours": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "havilah global empire": [
         {
             "type": 1,
@@ -10658,12 +10670,6 @@
             "type": 8,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hawa london": [
         {
             "type": 1,
             "rating": 1
@@ -12509,12 +12515,6 @@
             "rating": 1
         }
     ],
-    "headforwards solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "headhunting experts management": [
         {
             "type": 1,
@@ -13199,12 +13199,6 @@
             "rating": 1
         }
     ],
-    "healthier tastier food ta crussh": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "healthier west wirral pcn": [
         {
             "type": 1,
@@ -13814,6 +13808,12 @@
         }
     ],
     "heat genius": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "heat plumb drain": [
         {
             "type": 1,
             "rating": 1
@@ -14925,12 +14925,6 @@
             "rating": 1
         }
     ],
-    "helastel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "helen & douglas house": [
         {
             "type": 1,
@@ -15964,7 +15958,7 @@
     "henola care": [
         {
             "type": 1,
-            "rating": 4
+            "rating": 1
         }
     ],
     "henriettas news": [
@@ -16374,6 +16368,12 @@
         }
     ],
     "hereford mobile repair": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hereford operations": [
         {
             "type": 1,
             "rating": 1
@@ -17059,6 +17059,12 @@
             "rating": 1
         }
     ],
+    "hesha consultancy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "heshi s supermarket": [
         {
             "type": 1,
@@ -17606,12 +17612,6 @@
         }
     ],
     "heyne tillett steel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "heyo": [
         {
             "type": 1,
             "rating": 1
@@ -18705,12 +18705,6 @@
             "rating": 1
         }
     ],
-    "high performance": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "high performance sports t/a": [
         {
             "type": 1,
@@ -19023,12 +19017,6 @@
             "rating": 1
         }
     ],
-    "highdown school & sixth form centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "highem": [
         {
             "type": 1,
@@ -19324,12 +19312,6 @@
         }
     ],
     "highland sporting estate mr mark jam diks": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "highland storage shipping": [
         {
             "type": 1,
             "rating": 1
@@ -21269,6 +21251,12 @@
             "rating": 1
         }
     ],
+    "hirix": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hirix intenational": [
         {
             "type": 1,
@@ -21872,6 +21860,12 @@
         }
     ],
     "hiyacar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hiyacar newco": [
         {
             "type": 1,
             "rating": 1
@@ -22520,12 +22514,6 @@
         }
     ],
     "hmd recoveries & exports": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hmd seal/less pumps": [
         {
             "type": 1,
             "rating": 1
@@ -23532,12 +23520,6 @@
         }
     ],
     "holiday reservations": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "holiday wagon private": [
         {
             "type": 1,
             "rating": 1
@@ -25375,12 +25357,6 @@
             "rating": 1
         }
     ],
-    "homelands care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "homelead care": [
         {
             "type": 1,
@@ -25862,6 +25838,12 @@
         }
     ],
     "honey transport": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "honey&greens": [
         {
             "type": 1,
             "rating": 1
@@ -26441,12 +26423,6 @@
             "rating": 1
         }
     ],
-    "hope haven initiative": [
-        {
-            "type": 4,
-            "rating": 3
-        }
-    ],
     "hope health kare": [
         {
             "type": 1,
@@ -26722,6 +26698,12 @@
         }
     ],
     "horae": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "horam pharma": [
         {
             "type": 1,
             "rating": 1
@@ -27445,6 +27427,18 @@
             "rating": 1
         }
     ],
+    "hossack & co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hossack studio": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hossain brother": [
         {
             "type": 1,
@@ -27455,6 +27449,16 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "host broadcast hbs": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 3
         }
     ],
     "hostbbray": [
@@ -27780,7 +27784,7 @@
     "hotic shoes": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "hotka": [
@@ -28260,6 +28264,12 @@
         }
     ],
     "house of lords": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "house of love care": [
         {
             "type": 1,
             "rating": 1
@@ -29345,12 +29355,6 @@
             "rating": 1
         }
     ],
-    "hrk hamble": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hrm homecare": [
         {
             "type": 1,
@@ -29687,6 +29691,12 @@
             "rating": 1
         }
     ],
+    "hsj & ksj": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hsj information": [
         {
             "type": 1,
@@ -29868,6 +29878,12 @@
         }
     ],
     "ht london e1": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ht pest proofing": [
         {
             "type": 1,
             "rating": 1
@@ -31136,6 +31152,12 @@
         }
     ],
     "humber foods": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "humber security": [
         {
             "type": 1,
             "rating": 1
@@ -33181,12 +33203,6 @@
             "rating": 1
         }
     ],
-    "hypemasters": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hyper apps": [
         {
             "type": 1,
@@ -33751,6 +33767,12 @@
             "rating": 1
         }
     ],
+    "harmony projects": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "home instead birmingham": [
         {
             "type": 1,
@@ -34148,6 +34170,12 @@
         }
     ],
     "herali": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "harbury catch": [
         {
             "type": 1,
             "rating": 1

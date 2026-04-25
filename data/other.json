@@ -597,12 +597,6 @@
             "rating": 1
         }
     ],
-    "13 artists": [
-        {
-            "type": 6,
-            "rating": 3
-        }
-    ],
     "13 local": [
         {
             "type": 1,
@@ -1739,7 +1733,11 @@
             "rating": 1
         }
     ],
-    "27@northgate gp practice": [
+    "26 2": [
+        {
+            "type": 8,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -2459,12 +2457,6 @@
             "rating": 1
         }
     ],
-    "365ab": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "369 builders merchants": [
         {
             "type": 1,
@@ -2574,6 +2566,12 @@
         }
     ],
     "3a telecom consultancy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "3a s consultants": [
         {
             "type": 1,
             "rating": 1
@@ -2925,11 +2923,11 @@
     ],
     "3forge": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3098,6 +3096,12 @@
         }
     ],
     "3s knowledge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "3s legal": [
         {
             "type": 1,
             "rating": 1

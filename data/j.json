@@ -2211,6 +2211,12 @@
             "rating": 1
         }
     ],
+    "ja brooks mechanical": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ja chicken hut": [
         {
             "type": 1,
@@ -2494,6 +2500,12 @@
         }
     ],
     "jack russell inn": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jack sears house": [
         {
             "type": 1,
             "rating": 1
@@ -4395,16 +4407,6 @@
             "rating": 1
         }
     ],
-    "jamia masjid bilal and community centre": [
-        {
-            "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 4,
-            "rating": 3
-        }
-    ],
     "jamia masjid kanzul iman": [
         {
             "type": 3,
@@ -4830,12 +4832,6 @@
         }
     ],
     "jani building": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "jani foods": [
         {
             "type": 1,
             "rating": 1
@@ -6165,12 +6161,6 @@
             "rating": 1
         }
     ],
-    "jay & m properties": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "jay & sons": [
         {
             "type": 1,
@@ -6688,6 +6678,12 @@
         }
     ],
     "jb quick": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jb structures": [
         {
             "type": 1,
             "rating": 1
@@ -7257,6 +7253,12 @@
             "rating": 1
         }
     ],
+    "jds": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "jds mart": [
         {
             "type": 1,
@@ -7655,11 +7657,11 @@
     ],
     "jellyfish": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8059,17 +8061,23 @@
             "rating": 1
         }
     ],
-    "jerich": [
+    "jeremy moore associates": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "jerich": [
         {
             "type": 7,
             "rating": 3
         },
         {
             "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8441,6 +8449,12 @@
             "rating": 1
         }
     ],
+    "jet set events by jenny": [
+        {
+            "type": 6,
+            "rating": 3
+        }
+    ],
     "jet support": [
         {
             "type": 1,
@@ -8561,7 +8575,17 @@
             "rating": 1
         }
     ],
+    "jetpath": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "jetro london japan external trade organization": [
+        {
+            "type": 9,
+            "rating": 3
+        },
         {
             "type": 8,
             "rating": 1
@@ -8569,10 +8593,6 @@
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 3
         }
     ],
     "jets electrical contractors": [
@@ -8594,6 +8614,12 @@
         }
     ],
     "jetsco": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jetset rides": [
         {
             "type": 1,
             "rating": 1
@@ -8749,11 +8775,25 @@
             "rating": 1
         }
     ],
-    "jewish futures trust": [
+    "jewish council of scotland": [
+        {
+            "type": 4,
+            "rating": 3
+        },
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 3,
             "rating": 1
         },
+        {
+            "type": 5,
+            "rating": 3
+        }
+    ],
+    "jewish futures trust": [
         {
             "type": 4,
             "rating": 3
@@ -8761,6 +8801,10 @@
         {
             "type": 5,
             "rating": 3
+        },
+        {
+            "type": 3,
+            "rating": 1
         }
     ],
     "jewish music institute": [
@@ -10327,12 +10371,6 @@
             "rating": 1
         }
     ],
-    "jk smart": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "jk staffing & management": [
         {
             "type": 1,
@@ -11113,11 +11151,11 @@
     ],
     "jn bank": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11439,12 +11477,6 @@
             "rating": 1
         }
     ],
-    "joe hughes international": [
-        {
-            "type": 11,
-            "rating": 1
-        }
-    ],
     "joe joes chicken & ribs": [
         {
             "type": 1,
@@ -11614,6 +11646,12 @@
         }
     ],
     "john & jessica dance": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "john & pascalis": [
         {
             "type": 1,
             "rating": 1
@@ -11890,12 +11928,6 @@
         }
     ],
     "john julian": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "john kellys london": [
         {
             "type": 1,
             "rating": 1
@@ -12831,12 +12863,6 @@
             "rating": 1
         }
     ],
-    "jones & adams": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "jones & duffin solicitors leicester": [
         {
             "type": 1,
@@ -12898,6 +12924,12 @@
         }
     ],
     "jones engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jones fm": [
         {
             "type": 1,
             "rating": 1
@@ -12988,12 +13020,6 @@
         }
     ],
     "jonsel aberaeron": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "jonsel management black": [
         {
             "type": 1,
             "rating": 1
@@ -13212,6 +13238,12 @@
         }
     ],
     "joseph hage aaronson & bremen": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "joseph henry howard": [
         {
             "type": 1,
             "rating": 1
@@ -13893,6 +13925,12 @@
             "rating": 1
         }
     ],
+    "jpg contrast": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "jph catering": [
         {
             "type": 1,
@@ -14355,6 +14393,12 @@
             "rating": 1
         }
     ],
+    "js locum": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "js mataj construction": [
         {
             "type": 1,
@@ -14608,12 +14652,6 @@
         }
     ],
     "jsm management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "jsm tandoori": [
         {
             "type": 1,
             "rating": 1
@@ -15056,12 +15094,6 @@
         }
     ],
     "jubilee healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "jubilee international": [
         {
             "type": 1,
             "rating": 1
@@ -15699,20 +15731,14 @@
             "rating": 1
         }
     ],
-    "jungle bunk": [
+    "jungle creations": [
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "jungle creations": [
+        },
         {
             "type": 6,
             "rating": 3
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "jungle dwellers": [
@@ -15917,12 +15943,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "jupiter spring productions": [
-        {
-            "type": 6,
-            "rating": 3
         }
     ],
     "jupitor corporation": [
@@ -16254,12 +16274,6 @@
         }
     ],
     "just law solicitors t/ a just law solicitors": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "just mango tree": [
         {
             "type": 1,
             "rating": 1
@@ -16721,6 +16735,12 @@
             "rating": 1
         }
     ],
+    "jww construction": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "jxk": [
         {
             "type": 1,
@@ -16986,6 +17006,12 @@
         }
     ],
     "jamaica blue rushden": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "juices 4 life": [
         {
             "type": 1,
             "rating": 1

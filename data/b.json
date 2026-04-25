@@ -1064,7 +1064,11 @@
     "b iota laboratories": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "b nai b rith hillel foundation": [
@@ -1978,12 +1982,6 @@
         }
     ],
     "babur 1998": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "baby glimpse 3d/4d ultrasound": [
         {
             "type": 1,
             "rating": 1
@@ -3299,11 +3297,11 @@
     ],
     "baker tilly international": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3360,6 +3358,12 @@
         }
     ],
     "bakersway store": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bakery boutique": [
         {
             "type": 1,
             "rating": 1
@@ -3572,6 +3576,12 @@
         }
     ],
     "balance performance physiotherapy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "balance street practice": [
         {
             "type": 1,
             "rating": 1
@@ -5671,6 +5681,12 @@
             "rating": 1
         }
     ],
+    "banner & associates": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "banner house support": [
         {
             "type": 1,
@@ -5777,6 +5793,12 @@
             "rating": 1
         }
     ],
+    "bansi food and beverages": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bansi global solutions": [
         {
             "type": 1,
@@ -5868,18 +5890,6 @@
         }
     ],
     "banyan educational consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "banyan fernhurst": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "banyan restaurant": [
         {
             "type": 1,
             "rating": 1
@@ -6368,6 +6378,12 @@
         }
     ],
     "barcem": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "barchester finco 2019": [
         {
             "type": 1,
             "rating": 1
@@ -7811,19 +7827,7 @@
             "rating": 1
         }
     ],
-    "barton food & wine": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "barton house medical practice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "barton house nursing home": [
         {
             "type": 1,
             "rating": 1
@@ -8841,6 +8845,12 @@
             "rating": 1
         }
     ],
+    "batree": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "batt laboratories": [
         {
             "type": 1,
@@ -9613,12 +9623,6 @@
             "rating": 1
         }
     ],
-    "bb civil engineering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bb designs europe": [
         {
             "type": 1,
@@ -9859,16 +9863,6 @@
             "rating": 1
         }
     ],
-    "bboxx": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bbq hut brum": [
         {
             "type": 1,
@@ -10038,12 +10032,6 @@
         }
     ],
     "bcas bio-medical": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bcb international": [
         {
             "type": 1,
             "rating": 1
@@ -13047,6 +13035,12 @@
             "rating": 1
         }
     ],
+    "beesocialize": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "beespace technologies": [
         {
             "type": 1,
@@ -13989,6 +13983,12 @@
             "rating": 1
         }
     ],
+    "bella bambini day nursery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bella be": [
         {
             "type": 1,
@@ -14026,6 +14026,12 @@
         }
     ],
     "bella roma europe": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bella spice": [
         {
             "type": 1,
             "rating": 1
@@ -14313,19 +14319,13 @@
             "rating": 1
         }
     ],
-    "belmar care homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "belmond": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14661,12 +14661,6 @@
             "rating": 1
         }
     ],
-    "bembridge dental practice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bemo tunnelling": [
         {
             "type": 8,
@@ -14780,6 +14774,12 @@
         }
     ],
     "ben uri gallery & museum": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ben whistler": [
         {
             "type": 1,
             "rating": 1
@@ -15527,6 +15527,12 @@
             "rating": 1
         }
     ],
+    "benross marketing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bens advisory": [
         {
             "type": 1,
@@ -15834,6 +15840,12 @@
         }
     ],
     "bere peninsula care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bere peninsula pharmacy": [
         {
             "type": 1,
             "rating": 1
@@ -16581,16 +16593,6 @@
             "rating": 1
         }
     ],
-    "berylls strategy advisors": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 1
-        }
-    ],
     "beryllus capital": [
         {
             "type": 1,
@@ -17029,6 +17031,12 @@
             "rating": 1
         }
     ],
+    "best care js": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "best care liverpool": [
         {
             "type": 1,
@@ -17204,12 +17212,6 @@
         }
     ],
     "best homes builder": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "best hope": [
         {
             "type": 1,
             "rating": 1
@@ -18847,18 +18849,6 @@
             "rating": 1
         }
     ],
-    "bfc constructions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bfc constructions build and renovation": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bfc distribution": [
         {
             "type": 1,
@@ -19338,12 +19328,6 @@
         }
     ],
     "bhandal care 1st care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bhandal care bsb care": [
         {
             "type": 1,
             "rating": 1
@@ -20927,12 +20911,6 @@
             "rating": 1
         }
     ],
-    "bijoux royaux": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bijoy youth": [
         {
             "type": 3,
@@ -21508,12 +21486,6 @@
         }
     ],
     "bims walthamstow": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bimsense": [
         {
             "type": 1,
             "rating": 1
@@ -22837,12 +22809,6 @@
             "rating": 1
         }
     ],
-    "birmingham city council children young people and families": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "birmingham city council corporate": [
         {
             "type": 1,
@@ -23359,6 +23325,12 @@
             "rating": 1
         }
     ],
+    "bishop milner catholic college": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bishop ramsey coe school": [
         {
             "type": 1,
@@ -23723,6 +23695,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "bite collective": [
+        {
+            "type": 6,
+            "rating": 3
         }
     ],
     "bite investments": [
@@ -24768,10 +24746,6 @@
         }
     ],
     "black swan data": [
-        {
-            "type": 8,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -26075,6 +26049,12 @@
             "rating": 1
         }
     ],
+    "blends flavours and colours": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "blengold": [
         {
             "type": 1,
@@ -26970,6 +26950,12 @@
         }
     ],
     "blossom tree montessori": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "blossom commercial": [
         {
             "type": 1,
             "rating": 1
@@ -28341,12 +28327,6 @@
             "rating": 1
         }
     ],
-    "bluebird care rother & hastings": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bluebird care shropshire": [
         {
             "type": 1,
@@ -28569,6 +28549,12 @@
             "rating": 1
         }
     ],
+    "bluelayer": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "blueleaf consultants": [
         {
             "type": 1,
@@ -28704,6 +28690,12 @@
         }
     ],
     "blueprint pictures": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "blueprint sport consulting": [
         {
             "type": 1,
             "rating": 1
@@ -29221,6 +29213,12 @@
             "rating": 1
         }
     ],
+    "bma car care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bma consultancy": [
         {
             "type": 1,
@@ -29316,6 +29314,12 @@
         }
     ],
     "bme enclosures ni": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bmf international": [
         {
             "type": 1,
             "rating": 1
@@ -31375,6 +31379,12 @@
             "rating": 1
         }
     ],
+    "bonbon pottery battersea": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bonbon pottery": [
         {
             "type": 1,
@@ -33429,6 +33439,16 @@
             "rating": 1
         }
     ],
+    "bourne partners": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 1
+        }
+    ],
     "bourne stores": [
         {
             "type": 1,
@@ -33520,12 +33540,6 @@
             "type": 8,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bournville solicitors": [
         {
             "type": 1,
             "rating": 1
@@ -34267,6 +34281,12 @@
             "rating": 1
         }
     ],
+    "bp payments": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bp telecoms": [
         {
             "type": 1,
@@ -34400,12 +34420,6 @@
         }
     ],
     "bpr residential and commercial": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bpro": [
         {
             "type": 1,
             "rating": 1
@@ -34554,6 +34568,12 @@
         }
     ],
     "brabant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "brabers consultancy": [
         {
             "type": 1,
             "rating": 1
@@ -35529,11 +35549,11 @@
     ],
     "branch metrics": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -35995,12 +36015,6 @@
             "rating": 1
         }
     ],
-    "brasa holdings": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "brasfood": [
         {
             "type": 1,
@@ -36011,6 +36025,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "brass for africa": [
+        {
+            "type": 6,
+            "rating": 3
         }
     ],
     "brasserie 21": [
@@ -36504,12 +36524,6 @@
         }
     ],
     "breckon & breckon": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "brecon medical practice": [
         {
             "type": 1,
             "rating": 1
@@ -37429,12 +37443,6 @@
             "rating": 1
         }
     ],
-    "bridge cross care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bridge dental care": [
         {
             "type": 1,
@@ -37481,6 +37489,18 @@
             "rating": 1
         }
     ],
+    "bridge house oxfordshire": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bridge house": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bridge house holdings": [
         {
             "type": 1,
@@ -37488,6 +37508,12 @@
         }
     ],
     "bridge house medical practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bridge housing solutions": [
         {
             "type": 1,
             "rating": 1
@@ -38283,6 +38309,12 @@
             "rating": 1
         }
     ],
+    "bright futures sc": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bright glazing systems": [
         {
             "type": 1,
@@ -38680,6 +38712,12 @@
         }
     ],
     "brighton and hove social welfare and educational trust": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "brighton cleaning": [
         {
             "type": 1,
             "rating": 1
@@ -40020,6 +40058,12 @@
         }
     ],
     "britasia tv networks": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "britbakers london": [
         {
             "type": 1,
             "rating": 1
@@ -41780,12 +41824,6 @@
         }
     ],
     "brook medical partnership": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "brook of life care": [
         {
             "type": 1,
             "rating": 1
@@ -44603,6 +44641,12 @@
             "rating": 1
         }
     ],
+    "bucks music": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bucks pharmacies": [
         {
             "type": 1,
@@ -44821,19 +44865,13 @@
             "rating": 1
         }
     ],
-    "budo sport": [
-        {
-            "type": 11,
-            "rating": 1
-        }
-    ],
     "budri london": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -47447,6 +47485,12 @@
             "rating": 1
         }
     ],
+    "buttercross dental": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "buttercross view dental practice": [
         {
             "type": 1,
@@ -47841,6 +47885,12 @@
             "rating": 1
         }
     ],
+    "bvm": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bvm medical": [
         {
             "type": 1,
@@ -48090,6 +48140,12 @@
         }
     ],
     "bxcat": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bxk": [
         {
             "type": 1,
             "rating": 1
@@ -48468,6 +48524,12 @@
         }
     ],
     "bodyworks": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bramley court": [
         {
             "type": 1,
             "rating": 1
@@ -49141,12 +49203,6 @@
             "rating": 1
         }
     ],
-    "benllech tandoori": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ban thai": [
         {
             "type": 1,
@@ -49280,6 +49336,12 @@
         }
     ],
     "bay leaf indian restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "brooklands nursing and residential home": [
         {
             "type": 1,
             "rating": 1
@@ -50200,6 +50262,12 @@
         }
     ],
     "brunswick stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "birstall groceries": [
         {
             "type": 1,
             "rating": 1

@@ -341,16 +341,6 @@
             "rating": 1
         }
     ],
-    "virtuosi racing": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 11,
-            "rating": 1
-        }
-    ],
     "vegan ranch": [
         {
             "type": 1,
@@ -2171,12 +2161,6 @@
             "rating": 1
         }
     ],
-    "valo smart city": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "valohai": [
         {
             "type": 1,
@@ -2605,6 +2589,12 @@
             "rating": 1
         }
     ],
+    "van etten consulting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "van hessen operations": [
         {
             "type": 1,
@@ -2622,6 +2612,12 @@
         }
     ],
     "van leeuwen": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "van mossel automotive": [
         {
             "type": 1,
             "rating": 1
@@ -2726,6 +2722,12 @@
         },
         {
             "type": 8,
+            "rating": 1
+        }
+    ],
+    "vanderpump & sykes": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6201,12 +6203,6 @@
             "rating": 1
         }
     ],
-    "verified care and support": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "verified care": [
         {
             "type": 1,
@@ -6543,6 +6539,12 @@
             "rating": 1
         }
     ],
+    "vernsa healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "verofy": [
         {
             "type": 1,
@@ -6668,6 +6670,12 @@
         }
     ],
     "versus law": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vertala": [
         {
             "type": 1,
             "rating": 1
@@ -7615,16 +7623,6 @@
             "rating": 1
         }
     ],
-    "via manco t/a via outlets": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "via properties investments": [
         {
             "type": 1,
@@ -8405,6 +8403,12 @@
             "rating": 1
         }
     ],
+    "victoria s smile": [
+        {
+            "type": 4,
+            "rating": 3
+        }
+    ],
     "victorian news": [
         {
             "type": 1,
@@ -8837,18 +8841,6 @@
             "rating": 1
         }
     ],
-    "viet qoan": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "viet quan": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "viet rice box": [
         {
             "type": 1,
@@ -9274,7 +9266,7 @@
     "vilja solutions": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "villa brazil": [
@@ -9759,6 +9751,10 @@
     ],
     "vine church": [
         {
+            "type": 3,
+            "rating": 1
+        },
+        {
             "type": 4,
             "rating": 3
         },
@@ -9922,12 +9918,6 @@
         }
     ],
     "vinny building contract": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "vinny enterprises": [
         {
             "type": 1,
             "rating": 1
@@ -10850,16 +10840,6 @@
         },
         {
             "type": 8,
-            "rating": 1
-        }
-    ],
-    "virtusa": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -12033,12 +12013,6 @@
             "rating": 1
         }
     ],
-    "vital facilities management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vital family dental care": [
         {
             "type": 1,
@@ -12882,6 +12856,12 @@
         }
     ],
     "vk express": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vk international": [
         {
             "type": 1,
             "rating": 1
@@ -13843,12 +13823,6 @@
             "rating": 1
         }
     ],
-    "volt europe": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "volt signs global": [
         {
             "type": 1,
@@ -13972,12 +13946,6 @@
         }
     ],
     "voltshare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "voltvision": [
         {
             "type": 1,
             "rating": 1
@@ -14107,7 +14075,7 @@
             "rating": 1
         }
     ],
-    "von roll": [
+    "von preussen pease reynolds architects": [
         {
             "type": 1,
             "rating": 1
@@ -14595,13 +14563,19 @@
             "rating": 1
         }
     ],
+    "vq restaurants london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vr advisory": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],

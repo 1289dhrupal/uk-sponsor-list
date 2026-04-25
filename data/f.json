@@ -107,12 +107,6 @@
             "rating": 1
         }
     ],
-    "fusion": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fazeley park contemporary": [
         {
             "type": 1,
@@ -955,11 +949,11 @@
     ],
     "f50 league gb": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2357,6 +2351,12 @@
             "rating": 1
         }
     ],
+    "fairshot ai": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fairstone": [
         {
             "type": 1,
@@ -3369,8 +3369,16 @@
     ],
     "fallen angels dance theatre north west": [
         {
+            "type": 6,
+            "rating": 3
+        },
+        {
             "type": 4,
             "rating": 3
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "fallibroome academy": [
@@ -4041,6 +4049,16 @@
             "rating": 1
         }
     ],
+    "far east orchard management": [
+        {
+            "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "far fillimore care homes": [
         {
             "type": 1,
@@ -4204,12 +4222,6 @@
             "type": 4,
             "rating": 3
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "farewill": [
         {
             "type": 1,
             "rating": 1
@@ -4646,6 +4658,12 @@
         }
     ],
     "faros capital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "faros point capital": [
         {
             "type": 1,
             "rating": 1
@@ -5177,6 +5195,12 @@
             "rating": 1
         }
     ],
+    "fast installations": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fast k9 security": [
         {
             "type": 1,
@@ -5337,6 +5361,12 @@
             "rating": 1
         }
     ],
+    "fastdrivve movers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fastems": [
         {
             "type": 1,
@@ -5390,6 +5420,16 @@
         }
     ],
     "fasthosts internet": [
+        {
+            "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fastino": [
         {
             "type": 8,
             "rating": 1
@@ -5588,12 +5628,6 @@
     "fata automation": [
         {
             "type": 8,
-            "rating": 1
-        }
-    ],
-    "fatama": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -7019,6 +7053,12 @@
             "rating": 1
         }
     ],
+    "feme": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "femina hair & beauty": [
         {
             "type": 1,
@@ -7400,6 +7440,12 @@
         }
     ],
     "fern computer": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fern cottage dental practice": [
         {
             "type": 1,
             "rating": 1
@@ -7827,12 +7873,6 @@
             "rating": 1
         }
     ],
-    "fexillon": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fez transport": [
         {
             "type": 1,
@@ -7948,12 +7988,6 @@
         }
     ],
     "fg4": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fgc money": [
         {
             "type": 1,
             "rating": 1
@@ -9389,6 +9423,12 @@
             "rating": 1
         }
     ],
+    "finborough school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "finbourne technology": [
         {
             "type": 1,
@@ -9746,12 +9786,6 @@
         }
     ],
     "fine point glass london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fine point glass": [
         {
             "type": 1,
             "rating": 1
@@ -10451,6 +10485,12 @@
             "rating": 1
         }
     ],
+    "firbeck dental surgery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fircroft": [
         {
             "type": 1,
@@ -10771,12 +10811,6 @@
             "rating": 1
         }
     ],
-    "firehouse bar & grill": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "firelog": [
         {
             "type": 1,
@@ -11082,6 +11116,12 @@
         }
     ],
     "first care homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "first care lodge": [
         {
             "type": 1,
             "rating": 1
@@ -12418,6 +12458,12 @@
         }
     ],
     "fission care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fit out": [
         {
             "type": 1,
             "rating": 1
@@ -14169,12 +14215,6 @@
             "rating": 1
         }
     ],
-    "fletchers fish bar": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fletcherwilson": [
         {
             "type": 1,
@@ -14495,6 +14535,12 @@
             "rating": 1
         }
     ],
+    "flexxy education": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "flick games": [
         {
             "type": 1,
@@ -14739,11 +14785,11 @@
     ],
     "flo health": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -15131,6 +15177,18 @@
             "rating": 1
         }
     ],
+    "flow neuroscience": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "flow traders": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "flow&ebb": [
         {
             "type": 1,
@@ -15251,15 +15309,15 @@
             "rating": 1
         }
     ],
-    "flowmade enterprises": [
+    "flowla": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "flowmax global": [
+    "flowmade enterprises": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15809,12 +15867,6 @@
             "rating": 1
         }
     ],
-    "fm star": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fm&zm": [
         {
             "type": 1,
@@ -15842,6 +15894,12 @@
         }
     ],
     "fmcc enterprise": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fmcg": [
         {
             "type": 1,
             "rating": 1
@@ -17269,12 +17327,6 @@
             "rating": 1
         }
     ],
-    "foodtek": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "foodway supermarket": [
         {
             "type": 1,
@@ -17544,6 +17596,12 @@
         }
     ],
     "foragers ai": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "foran construction": [
         {
             "type": 1,
             "rating": 1
@@ -18925,6 +18983,12 @@
             "rating": 1
         }
     ],
+    "forta advisors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "forte physical health": [
         {
             "type": 1,
@@ -19752,6 +19816,12 @@
         }
     ],
     "fosse healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fosse meadows": [
         {
             "type": 1,
             "rating": 1
@@ -21467,6 +21537,12 @@
             "rating": 1
         }
     ],
+    "frank reynolds architects": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "frank roberts and sons": [
         {
             "type": 1,
@@ -21616,6 +21692,12 @@
     "frankton cricket club": [
         {
             "type": 11,
+            "rating": 1
+        }
+    ],
+    "frankton": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23119,6 +23201,12 @@
             "rating": 1
         }
     ],
+    "freshway retail": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "freshway store": [
         {
             "type": 1,
@@ -23775,6 +23863,12 @@
             "rating": 1
         }
     ],
+    "from snout to tail": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fromagerie beillevaire": [
         {
             "type": 1,
@@ -23936,6 +24030,12 @@
             "type": 8,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "frontier global consultants": [
         {
             "type": 1,
             "rating": 1
@@ -24413,6 +24513,12 @@
             "rating": 1
         }
     ],
+    "fryent primary school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fryer freemans": [
         {
             "type": 1,
@@ -24567,6 +24673,12 @@
             "rating": 1
         }
     ],
+    "ft childcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ft foods": [
         {
             "type": 1,
@@ -24650,16 +24762,6 @@
         },
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "ftl capital": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
             "rating": 1
         }
     ],
@@ -24916,12 +25018,6 @@
         },
         {
             "type": 8,
-            "rating": 1
-        }
-    ],
-    "fuheng wang": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -25208,12 +25304,6 @@
         }
     ],
     "fulham po": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fulham reach": [
         {
             "type": 1,
             "rating": 1
@@ -27073,12 +27163,6 @@
             "rating": 1
         }
     ],
-    "fyka global": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fyld": [
         {
             "type": 1,
@@ -27914,6 +27998,12 @@
             "type": 8,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fast fuel": [
         {
             "type": 1,
             "rating": 1

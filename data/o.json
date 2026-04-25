@@ -35,12 +35,6 @@
             "rating": 1
         }
     ],
-    "one stop at the saxon s": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "okome clarkston": [
         {
             "type": 1,
@@ -2051,12 +2045,6 @@
             "rating": 1
         }
     ],
-    "oatlands care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oatlands park hotel": [
         {
             "type": 1,
@@ -2404,7 +2392,7 @@
     "observe care": [
         {
             "type": 1,
-            "rating": 4
+            "rating": 1
         }
     ],
     "obsidian archernar": [
@@ -4087,16 +4075,16 @@
     ],
     "ogilvy & mathers holdings": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 1
         },
         {
             "type": 6,
             "rating": 3
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "ogletree deakins": [
@@ -4797,7 +4785,7 @@
             "rating": 1
         }
     ],
-    "olbeac": [
+    "olc college": [
         {
             "type": 1,
             "rating": 1
@@ -5379,6 +5367,12 @@
             "rating": 1
         }
     ],
+    "olivalis consulting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "olivares": [
         {
             "type": 1,
@@ -5808,10 +5802,6 @@
     "olr": [
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
             "rating": 1
         }
     ],
@@ -6311,12 +6301,6 @@
             "rating": 1
         }
     ],
-    "omc global": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "omeda studios": [
         {
             "type": 1,
@@ -6627,20 +6611,14 @@
             "rating": 1
         }
     ],
-    "omidyar network": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "omilan productions": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 6,
             "rating": 3
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "omim technology": [
@@ -8721,6 +8699,12 @@
             "rating": 1
         }
     ],
+    "onis legal": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "onix solutions": [
         {
             "type": 1,
@@ -8949,6 +8933,12 @@
             "rating": 1
         }
     ],
+    "onpoint trading": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "onsb": [
         {
             "type": 1,
@@ -8995,23 +8985,29 @@
             "rating": 1
         }
     ],
-    "ontic engineering and manufacturing": [
-        {
-            "type": 8,
-            "rating": 1
-        },
+    "ontex healthcare": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "ontier holdings": [
+    "ontic engineering and manufacturing": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
+            "type": 8,
+            "rating": 1
+        }
+    ],
+    "ontier holdings": [
+        {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 8,
             "rating": 1
         }
     ],
@@ -9475,11 +9471,11 @@
     ],
     "open cosmos": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -10151,6 +10147,16 @@
             "rating": 1
         }
     ],
+    "opmobility exterior": [
+        {
+            "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "oponee consulting and construction": [
         {
             "type": 1,
@@ -10741,6 +10747,18 @@
             "rating": 1
         }
     ],
+    "optimism supported housing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "optimistic tech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "optimity": [
         {
             "type": 1,
@@ -11324,12 +11342,6 @@
         }
     ],
     "oracare scotland": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "oracle capital advisors": [
         {
             "type": 1,
             "rating": 1
@@ -13083,12 +13095,6 @@
             "rating": 1
         }
     ],
-    "orion retail": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "orion technologies": [
         {
             "type": 1,
@@ -13176,12 +13182,6 @@
         }
     ],
     "orla homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "orlando care homes": [
         {
             "type": 1,
             "rating": 1
@@ -13348,12 +13348,6 @@
         }
     ],
     "ornate rugs": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ornits": [
         {
             "type": 1,
             "rating": 1
@@ -15349,12 +15343,6 @@
             "rating": 1
         }
     ],
-    "ouzaria": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oval care homes": [
         {
             "type": 1,
@@ -17327,6 +17315,12 @@
             "rating": 1
         }
     ],
+    "ozz": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ozzas": [
         {
             "type": 1,
@@ -17454,12 +17448,6 @@
         }
     ],
     "one stop dearnley": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "oaka supercity": [
         {
             "type": 1,
             "rating": 1

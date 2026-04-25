@@ -123,12 +123,6 @@
             "rating": 1
         }
     ],
-    "e & o restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "esher pizza": [
         {
             "type": 1,
@@ -963,12 +957,6 @@
             "rating": 1
         }
     ],
-    "e-therapeutics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "e-totem": [
         {
             "type": 1,
@@ -1083,12 +1071,6 @@
             "rating": 1
         }
     ],
-    "e m r search & selection": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "e on control solutions": [
         {
             "type": 1,
@@ -1101,12 +1083,12 @@
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 7,
             "rating": 3
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "e s a engineering": [
@@ -1587,6 +1569,12 @@
             "rating": 1
         }
     ],
+    "eagle s nest ministry": [
+        {
+            "type": 4,
+            "rating": 3
+        }
+    ],
     "eagle s nest support": [
         {
             "type": 1,
@@ -1616,12 +1604,6 @@
         }
     ],
     "eagles recruitment and healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "eagles wing healthcare soulations": [
         {
             "type": 1,
             "rating": 1
@@ -2397,12 +2379,6 @@
             "rating": 1
         }
     ],
-    "east business": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "east calder smile centre": [
         {
             "type": 1,
@@ -2683,6 +2659,12 @@
             "rating": 1
         }
     ],
+    "east london metal engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "east london nhs foundation trust": [
         {
             "type": 1,
@@ -2884,12 +2866,6 @@
         }
     ],
     "east pizzas": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "east point care": [
         {
             "type": 1,
             "rating": 1
@@ -3240,6 +3216,12 @@
         }
     ],
     "easterly carpet zone": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "eastern academic health science network": [
         {
             "type": 1,
             "rating": 1
@@ -3735,12 +3717,6 @@
             "rating": 1
         }
     ],
-    "easy care 247": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "easy care 4 u": [
         {
             "type": 1,
@@ -3932,12 +3908,6 @@
         }
     ],
     "easyadmin": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "easycar": [
         {
             "type": 1,
             "rating": 1
@@ -4211,12 +4181,6 @@
             "rating": 1
         }
     ],
-    "eat-": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "eat17": [
         {
             "type": 1,
@@ -4230,12 +4194,6 @@
         }
     ],
     "eatalia": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "eatalian s": [
         {
             "type": 1,
             "rating": 1
@@ -5229,11 +5187,11 @@
     ],
     "echosec systems": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5763,6 +5721,10 @@
     ],
     "eco-worthy clean energy": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 2,
             "rating": 1
         }
@@ -5810,6 +5772,12 @@
         }
     ],
     "ecoaly": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ecobase solutions": [
         {
             "type": 1,
             "rating": 1
@@ -7841,12 +7809,6 @@
             "rating": 1
         }
     ],
-    "edmond x construction": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "edmondson design": [
         {
             "type": 1,
@@ -8408,6 +8370,12 @@
         }
     ],
     "edward james london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "edward pearce and partners": [
         {
             "type": 1,
             "rating": 1
@@ -9517,11 +9485,11 @@
     ],
     "egnyte": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10431,12 +10399,6 @@
         {
             "type": 4,
             "rating": 3
-        }
-    ],
-    "ekklesia integrated": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "ekkosense": [
@@ -11463,6 +11425,12 @@
             "rating": 1
         }
     ],
+    "electricom": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "electrification solutions": [
         {
             "type": 1,
@@ -11500,6 +11468,16 @@
         }
     ],
     "electro gas plus": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "electro rayma": [
+        {
+            "type": 8,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -12178,6 +12156,12 @@
         }
     ],
     "elettro mechanica": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "elev8 fire engineering": [
         {
             "type": 1,
             "rating": 1
@@ -13701,12 +13685,6 @@
             "rating": 1
         }
     ],
-    "ellern mede ridgeway": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ellerston polo": [
         {
             "type": 11,
@@ -14343,6 +14321,12 @@
             "rating": 1
         }
     ],
+    "elomi": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "elorarez": [
         {
             "type": 1,
@@ -14644,12 +14628,6 @@
             "type": 8,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "elwood trading": [
         {
             "type": 1,
             "rating": 1
@@ -15164,6 +15142,10 @@
         }
     ],
     "embassy of the kingdom of the netherlands": [
+        {
+            "type": 12,
+            "rating": 3
+        },
         {
             "type": 9,
             "rating": 3
@@ -16471,12 +16453,6 @@
             "rating": 1
         }
     ],
-    "empire health care service": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "empire healthcare": [
         {
             "type": 1,
@@ -16550,12 +16526,6 @@
         }
     ],
     "empire restaurant wales": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "empire rv": [
         {
             "type": 1,
             "rating": 1
@@ -16875,16 +16845,6 @@
             "rating": 1
         }
     ],
-    "emso asset management": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 1
-        }
-    ],
     "emsurge": [
         {
             "type": 1,
@@ -17070,12 +17030,6 @@
         }
     ],
     "enable living solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "enable media": [
         {
             "type": 1,
             "rating": 1
@@ -18173,6 +18127,12 @@
             "rating": 1
         }
     ],
+    "energyforce": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "energylab consulting": [
         {
             "type": 1,
@@ -18358,12 +18318,6 @@
         }
     ],
     "enex hoizon": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "enferm medical": [
         {
             "type": 1,
             "rating": 1
@@ -18893,12 +18847,6 @@
             "rating": 1
         }
     ],
-    "enhanc3d genomics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "enhance dynamics": [
         {
             "type": 1,
@@ -18936,6 +18884,12 @@
         }
     ],
     "enhanced engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "enhanced genomics": [
         {
             "type": 1,
             "rating": 1
@@ -21073,6 +21027,12 @@
             "rating": 1
         }
     ],
+    "epicora": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "epicuk": [
         {
             "type": 1,
@@ -21634,6 +21594,12 @@
         }
     ],
     "equal london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "equal people mencap": [
         {
             "type": 1,
             "rating": 1
@@ -22545,12 +22511,6 @@
             "rating": 1
         }
     ],
-    "ermaagain": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ermine local": [
         {
             "type": 1,
@@ -22599,12 +22559,6 @@
         {
             "type": 7,
             "rating": 3
-        }
-    ],
-    "erohealthcare": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "eros home care": [
@@ -22918,6 +22872,12 @@
             "type": 8,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "escentral": [
         {
             "type": 1,
             "rating": 1
@@ -24333,6 +24293,12 @@
             "rating": 1
         }
     ],
+    "estately law": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "este medical cosmetic surgery": [
         {
             "type": 1,
@@ -25136,12 +25102,6 @@
         }
     ],
     "etimad travel & multi": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "etiquette recruitment & staffing": [
         {
             "type": 1,
             "rating": 1
@@ -26453,6 +26413,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 1
         }
     ],
     "europe arab bank": [
@@ -27020,12 +26984,6 @@
             "type": 8,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "eusebi deli": [
         {
             "type": 1,
             "rating": 1
@@ -28632,6 +28590,12 @@
         }
     ],
     "everyoung clinic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "everystory charity": [
         {
             "type": 1,
             "rating": 1
@@ -30983,6 +30947,12 @@
             "rating": 1
         }
     ],
+    "experia construction&development": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "experian": [
         {
             "type": 7,
@@ -31765,12 +31735,6 @@
             "rating": 1
         }
     ],
-    "extergeo industries": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "exterior architecture": [
         {
             "type": 1,
@@ -32195,12 +32159,6 @@
             "rating": 1
         }
     ],
-    "eyya": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ez company formations": [
         {
             "type": 1,
@@ -32208,12 +32166,6 @@
         }
     ],
     "ez ramyeon": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ez security": [
         {
             "type": 1,
             "rating": 1
@@ -32408,6 +32360,12 @@
         }
     ],
     "eddie coyle optometrists": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "enfield speciality doors": [
         {
             "type": 1,
             "rating": 1

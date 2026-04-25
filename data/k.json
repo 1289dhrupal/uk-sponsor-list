@@ -237,6 +237,12 @@
             "rating": 1
         }
     ],
+    "khushis": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "keystore express": [
         {
             "type": 1,
@@ -1011,23 +1017,29 @@
             "rating": 1
         }
     ],
-    "k line europe": [
-        {
-            "type": 8,
-            "rating": 1
-        },
+    "k legal solicitors": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "k line bulk shipping": [
+    "k line europe": [
         {
             "type": 1,
             "rating": 1
         },
         {
             "type": 8,
+            "rating": 1
+        }
+    ],
+    "k line bulk shipping": [
+        {
+            "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2511,12 +2523,6 @@
             "rating": 1
         }
     ],
-    "kaf health care training centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kaf telecom": [
         {
             "type": 1,
@@ -3539,12 +3545,6 @@
             "rating": 3
         }
     ],
-    "kamberley solicitors": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kambi": [
         {
             "type": 1,
@@ -3979,6 +3979,12 @@
             "rating": 1
         }
     ],
+    "kane s construction": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kanect": [
         {
             "type": 1,
@@ -4346,6 +4352,12 @@
             "type": 8,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kaplan international colleges u k": [
         {
             "type": 1,
             "rating": 1
@@ -5222,6 +5234,12 @@
     "karuna manor": [
         {
             "type": 3,
+            "rating": 1
+        }
+    ],
+    "karva care": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7423,12 +7441,6 @@
             "rating": 1
         }
     ],
-    "kea nz": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kea-flex mouldings": [
         {
             "type": 1,
@@ -8113,6 +8125,20 @@
             "rating": 1
         }
     ],
+    "kellogg brown and root solutions": [
+        {
+            "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 7,
+            "rating": 3
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kelloggs holding company": [
         {
             "type": 1,
@@ -8131,15 +8157,21 @@
     ],
     "kellton tech": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
+        {
+            "type": 8,
+            "rating": 1
+        }
+    ],
+    "kelltron consulting": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "kelltron consulting": [
+    "kelltron software solutions": [
         {
             "type": 1,
             "rating": 1
@@ -8393,19 +8425,13 @@
             "rating": 1
         }
     ],
-    "kemfa": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kemin": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -8611,6 +8637,12 @@
         {
             "type": 4,
             "rating": 3
+        }
+    ],
+    "kenfighil superstore": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "kengineers": [
@@ -10187,12 +10219,6 @@
             "rating": 1
         }
     ],
-    "kettle foods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kettle produce": [
         {
             "type": 1,
@@ -10521,12 +10547,6 @@
         {
             "type": 6,
             "rating": 3
-        }
-    ],
-    "keyhead": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "keyit technologies": [
@@ -12209,12 +12229,6 @@
             "rating": 1
         }
     ],
-    "kiaan": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kiaan stores": [
         {
             "type": 1,
@@ -13449,11 +13463,11 @@
     ],
     "king & spalding international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -13778,12 +13792,6 @@
             "type": 4,
             "rating": 3
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "king s schools taunton": [
         {
             "type": 1,
             "rating": 1
@@ -16023,16 +16031,6 @@
             "rating": 1
         }
     ],
-    "kiwicom": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kiyanni": [
         {
             "type": 1,
@@ -16363,12 +16361,6 @@
             "rating": 1
         }
     ],
-    "kkj property": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kkm garages": [
         {
             "type": 1,
@@ -16627,12 +16619,6 @@
             "rating": 1
         }
     ],
-    "kleare care solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kleemann lifts": [
         {
             "type": 1,
@@ -16765,6 +16751,12 @@
             "rating": 1
         }
     ],
+    "klinica physiotherapy and healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "klinika": [
         {
             "type": 1,
@@ -16800,6 +16792,16 @@
     "kln barbecue and local": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "kln freight": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 8,
             "rating": 1
         }
     ],
@@ -17249,6 +17251,12 @@
             "rating": 1
         }
     ],
+    "knaresborough cricket club": [
+        {
+            "type": 11,
+            "rating": 1
+        }
+    ],
     "knarkz solutions": [
         {
             "type": 1,
@@ -17334,12 +17342,6 @@
         }
     ],
     "knells country house /ta horizon residential homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "knepp farms": [
         {
             "type": 1,
             "rating": 1
@@ -19549,16 +19551,6 @@
             "rating": 1
         }
     ],
-    "kore potash": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kore software": [
         {
             "type": 1,
@@ -20495,6 +20487,12 @@
             "rating": 1
         }
     ],
+    "kpn sai health care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kpnews": [
         {
             "type": 1,
@@ -21279,12 +21277,6 @@
             "rating": 1
         }
     ],
-    "kritikal solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "krititek": [
         {
             "type": 1,
@@ -21409,12 +21401,6 @@
             "rating": 1
         }
     ],
-    "kroll issuer": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "krome technologies": [
         {
             "type": 1,
@@ -21478,12 +21464,6 @@
         }
     ],
     "kroren": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "krotech": [
         {
             "type": 1,
             "rating": 1
@@ -22109,12 +22089,6 @@
             "rating": 1
         }
     ],
-    "ksubi": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ksya": [
         {
             "type": 1,
@@ -22188,6 +22162,12 @@
         }
     ],
     "kt s care angels": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kt20 bakehouse": [
         {
             "type": 1,
             "rating": 1
@@ -22448,12 +22428,6 @@
             "type": 8,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kudanaath": [
         {
             "type": 1,
             "rating": 1
@@ -23281,6 +23255,12 @@
             "rating": 1
         }
     ],
+    "kvh shuttering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kvika securities": [
         {
             "type": 8,
@@ -23604,6 +23584,12 @@
         }
     ],
     "kybernetes security": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kydos digital": [
         {
             "type": 1,
             "rating": 1
@@ -24103,12 +24089,6 @@
             "rating": 1
         }
     ],
-    "kanchhi": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kims news": [
         {
             "type": 1,
@@ -24188,6 +24168,12 @@
         }
     ],
     "kassia kitchen drayton": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "keldergate news & off licence": [
         {
             "type": 1,
             "rating": 1
