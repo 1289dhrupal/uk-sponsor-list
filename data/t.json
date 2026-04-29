@@ -3617,7 +3617,7 @@
     ],
     "t g u eng": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -4384,12 +4384,6 @@
         }
     ],
     "t1 digital consulting": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "t1 real estates": [
         {
             "type": 1,
             "rating": 1
@@ -6077,11 +6071,11 @@
     ],
     "talent acquisitionco": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6394,6 +6388,12 @@
         }
     ],
     "tally money": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "talo elements": [
         {
             "type": 1,
             "rating": 1
@@ -13013,12 +13013,6 @@
             "rating": 1
         }
     ],
-    "teesside personnel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "teethforever": [
         {
             "type": 1,
@@ -14610,6 +14604,12 @@
         }
     ],
     "tenet compliance & litigation": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tenet search": [
         {
             "type": 1,
             "rating": 1
@@ -19735,6 +19735,12 @@
             "rating": 1
         }
     ],
+    "the bionic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the birches medical centre": [
         {
             "type": 1,
@@ -22657,6 +22663,12 @@
             "rating": 1
         }
     ],
+    "the corner shop - rectory farm": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the corner shop productions": [
         {
             "type": 6,
@@ -23181,7 +23193,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -24545,16 +24557,6 @@
             "rating": 1
         }
     ],
-    "the fairtrade foundation": [
-        {
-            "type": 4,
-            "rating": 3
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the fairy falls hotel": [
         {
             "type": 1,
@@ -24576,6 +24578,12 @@
     "the faith mission": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "the falkirk muslim educational and cultural community centre": [
+        {
+            "type": 3,
             "rating": 1
         }
     ],
@@ -24695,7 +24703,7 @@
     ],
     "the felixstowe dock & railway company": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -25630,6 +25638,12 @@
         }
     ],
     "the garden theatres": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the gardenists": [
         {
             "type": 1,
             "rating": 1
@@ -27999,12 +28013,6 @@
             "rating": 1
         }
     ],
-    "the institute of environmental management and assessment": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the institute of grocery distribution": [
         {
             "type": 1,
@@ -28038,6 +28046,12 @@
         },
         {
             "type": 8,
+            "rating": 1
+        }
+    ],
+    "the institute of sustainability and environmental professionals": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28350,12 +28364,6 @@
         }
     ],
     "the jet business international": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the jet miners inn": [
         {
             "type": 1,
             "rating": 1
@@ -33973,12 +33981,6 @@
             "rating": 1
         }
     ],
-    "the plaice enterprise": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the plough at rhosmaen": [
         {
             "type": 1,
@@ -34515,6 +34517,12 @@
             "rating": 1
         }
     ],
+    "the quest school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the quick fix h": [
         {
             "type": 1,
@@ -34841,12 +34849,6 @@
             "rating": 1
         }
     ],
-    "the recpool": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the recruitment partnership": [
         {
             "type": 1,
@@ -35069,6 +35071,16 @@
         {
             "type": 3,
             "rating": 1
+        }
+    ],
+    "the redeemed christian church of god rccg lighthouse abingdon": [
+        {
+            "type": 3,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 3
         }
     ],
     "the redeemed christian church of god rccg wisdom centre": [
@@ -39941,6 +39953,12 @@
             "rating": 1
         }
     ],
+    "the woodlands care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the woodlands residential home": [
         {
             "type": 1,
@@ -42890,6 +42908,12 @@
         }
     ],
     "three flames": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "three flames steakhouse": [
         {
             "type": 1,
             "rating": 1
@@ -50069,6 +50093,12 @@
             "rating": 1
         }
     ],
+    "total medico": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "total motion": [
         {
             "type": 1,
@@ -53599,16 +53629,6 @@
             "rating": 1
         }
     ],
-    "travelperk irl": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "travelport international": [
         {
             "type": 8,
@@ -55907,12 +55927,6 @@
             "rating": 1
         }
     ],
-    "trinity and ventures": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "trinity solutions east anglia": [
         {
             "type": 1,
@@ -57734,6 +57748,12 @@
         }
     ],
     "trustid": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "trustin foods": [
         {
             "type": 1,
             "rating": 1

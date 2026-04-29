@@ -5489,7 +5489,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         }
     ],
@@ -7183,6 +7183,12 @@
             "rating": 1
         }
     ],
+    "neighbourhood trading": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "neighbourly helpers": [
         {
             "type": 1,
@@ -8283,7 +8289,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -11816,6 +11822,12 @@
         }
     ],
     "new way international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "new wings": [
         {
             "type": 1,
             "rating": 1
@@ -19865,12 +19877,12 @@
     ],
     "nooria mission": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 3
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "noormahal": [
@@ -20319,7 +20331,7 @@
     ],
     "norgine": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -21679,6 +21691,12 @@
             "rating": 1
         }
     ],
+    "northcott house": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "northcourt lodge nursing home": [
         {
             "type": 1,
@@ -21871,7 +21889,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         }
     ],
@@ -24943,12 +24961,6 @@
             "rating": 1
         }
     ],
-    "nsc investments": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "nsc trading": [
         {
             "type": 1,
@@ -25134,6 +25146,16 @@
         }
     ],
     "nt international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "nt island operations": [
+        {
+            "type": 8,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

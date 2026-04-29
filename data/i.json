@@ -3903,6 +3903,12 @@
             "rating": 1
         }
     ],
+    "ifixxtech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ifl furniture contracts": [
         {
             "type": 1,
@@ -7461,12 +7467,6 @@
             "rating": 1
         }
     ],
-    "impos global": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "impra wood protection": [
         {
             "type": 1,
@@ -7884,6 +7884,12 @@
         }
     ],
     "in situ site investigation": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "in toto ed": [
         {
             "type": 1,
             "rating": 1
@@ -13119,6 +13125,12 @@
             "rating": 1
         }
     ],
+    "inrock": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ins global": [
         {
             "type": 1,
@@ -13250,12 +13262,6 @@
             "type": 8,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "insight britain": [
         {
             "type": 1,
             "rating": 1
@@ -13955,23 +13961,17 @@
             "rating": 1
         }
     ],
-    "inspiretec": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "inspirext consulting": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 7,
             "rating": 3
         },
         {
             "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16769,19 +16769,13 @@
             "rating": 1
         }
     ],
-    "international gemstones": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "international general insurance company": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19436,6 +19430,12 @@
         }
     ],
     "iotac": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "iov42": [
         {
             "type": 1,
             "rating": 1
@@ -23812,12 +23812,6 @@
         }
     ],
     "iyris technology": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "iz energy": [
         {
             "type": 1,
             "rating": 1

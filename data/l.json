@@ -6029,6 +6029,12 @@
             "rating": 1
         }
     ],
+    "latium research": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "latona leisure": [
         {
             "type": 1,
@@ -8348,6 +8354,10 @@
     "learning pool": [
         {
             "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14759,6 +14769,12 @@
             "rating": 1
         }
     ],
+    "liminal systems": [
+        {
+            "type": 8,
+            "rating": 1
+        }
+    ],
     "limitedspace": [
         {
             "type": 1,
@@ -18197,6 +18213,12 @@
             "rating": 1
         }
     ],
+    "livestockex": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "livetec systems": [
         {
             "type": 1,
@@ -18428,16 +18450,6 @@
     "living word ministry hull": [
         {
             "type": 3,
-            "rating": 1
-        }
-    ],
-    "livingbridge ep": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -20369,7 +20381,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         }
     ],
@@ -27869,6 +27881,20 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "luli festival": [
+        {
+            "type": 6,
+            "rating": 3
+        },
+        {
+            "type": 4,
+            "rating": 3
+        },
+        {
+            "type": 5,
+            "rating": 3
         }
     ],
     "lullington park cricket club": [

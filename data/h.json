@@ -395,6 +395,12 @@
             "rating": 1
         }
     ],
+    "haute dolci deansgate": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "harrow inn": [
         {
             "type": 1,
@@ -1393,12 +1399,6 @@
             "rating": 1
         }
     ],
-    "h&m projects": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "h&m tailoring": [
         {
             "type": 1,
@@ -1652,12 +1652,6 @@
         }
     ],
     "h b fuller manufacturing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "h d works": [
         {
             "type": 1,
             "rating": 1
@@ -1994,12 +1988,6 @@
         }
     ],
     "ha transport": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ha trim": [
         {
             "type": 1,
             "rating": 1
@@ -2625,12 +2613,6 @@
             "rating": 1
         }
     ],
-    "hadson": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hadson retail": [
         {
             "type": 1,
@@ -2776,6 +2758,12 @@
         }
     ],
     "hafren veterinary": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hafren water": [
         {
             "type": 1,
             "rating": 1
@@ -6083,6 +6071,16 @@
             "rating": 1
         }
     ],
+    "hanson asset management": [
+        {
+            "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hanson grey": [
         {
             "type": 1,
@@ -6112,6 +6110,12 @@
         }
     ],
     "hanson trade international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hanson wade conferences": [
         {
             "type": 1,
             "rating": 1
@@ -6714,6 +6718,12 @@
         }
     ],
     "happysignals": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "haps service": [
         {
             "type": 1,
             "rating": 1
@@ -8180,6 +8190,12 @@
         }
     ],
     "harpenden secondary education trust": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "harper & willow": [
         {
             "type": 1,
             "rating": 1
@@ -10488,12 +10504,6 @@
         }
     ],
     "haven rose residential care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "haven security": [
         {
             "type": 1,
             "rating": 1
@@ -13786,6 +13796,12 @@
         }
     ],
     "hearyou counselling": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "heat afro lounge": [
         {
             "type": 1,
             "rating": 1
@@ -20549,6 +20565,12 @@
             "rating": 1
         }
     ],
+    "himalayan salt suppliers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "himalayan spice nepalese restaurant and bar": [
         {
             "type": 1,
@@ -20881,16 +20903,20 @@
         {
             "type": 5,
             "rating": 3
+        },
+        {
+            "type": 4,
+            "rating": 3
         }
     ],
     "hindu temple trust": [
         {
-            "type": 3,
-            "rating": 1
-        },
-        {
             "type": 5,
             "rating": 3
+        },
+        {
+            "type": 3,
+            "rating": 1
         }
     ],
     "hindu welfare association of essex": [
@@ -21277,11 +21303,11 @@
     ],
     "hirose financial": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21689,7 +21715,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         }
     ],
@@ -26637,7 +26663,7 @@
     ],
     "hops labour solutions": [
         {
-            "type": 13,
+            "type": 14,
             "rating": 3
         }
     ],
@@ -28892,6 +28918,12 @@
         }
     ],
     "hoxton ventures": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hoxton wealth": [
         {
             "type": 1,
             "rating": 1
@@ -33204,12 +33236,6 @@
         }
     ],
     "hyper apps": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hyper ar": [
         {
             "type": 1,
             "rating": 1

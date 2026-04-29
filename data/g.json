@@ -6053,15 +6053,9 @@
     ],
     "geg capital investments": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "geg care": [
         {
             "type": 1,
             "rating": 1
@@ -6253,7 +6247,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         }
     ],
@@ -6823,6 +6817,12 @@
             "rating": 1
         }
     ],
+    "generation 10": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "generation 3": [
         {
             "type": 1,
@@ -7166,12 +7166,6 @@
         },
         {
             "type": 8,
-            "rating": 1
-        }
-    ],
-    "genetix research": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -10480,6 +10474,12 @@
         }
     ],
     "gillian jason modern and contemporary art": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gillingham clinic": [
         {
             "type": 1,
             "rating": 1
@@ -14151,12 +14151,6 @@
             "rating": 1
         }
     ],
-    "global market index": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "global marketing company reading": [
         {
             "type": 1,
@@ -15245,6 +15239,12 @@
             "rating": 1
         }
     ],
+    "globexpert": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "globle-link logistic": [
         {
             "type": 1,
@@ -16275,7 +16275,7 @@
     ],
     "gnbl": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -17383,6 +17383,12 @@
             "rating": 1
         }
     ],
+    "goji administration": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gok immigration service": [
         {
             "type": 1,
@@ -17964,6 +17970,12 @@
         }
     ],
     "golden empire restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "golden events wm": [
         {
             "type": 1,
             "rating": 1
@@ -20214,12 +20226,6 @@
         }
     ],
     "gosh! food": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "goshen care solutions": [
         {
             "type": 1,
             "rating": 1
@@ -22690,12 +22696,6 @@
         }
     ],
     "granton information centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grantrow": [
         {
             "type": 1,
             "rating": 1
@@ -30163,12 +30163,12 @@
     ],
     "gurdwara dukh nirwaran sahib": [
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 3,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 3
         },
         {
             "type": 5,

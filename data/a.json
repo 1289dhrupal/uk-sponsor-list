@@ -9813,6 +9813,12 @@
             "rating": 1
         }
     ],
+    "ach healthcare bicester": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "aburi restaurant": [
         {
             "type": 1,
@@ -10185,6 +10191,12 @@
             "rating": 3
         }
     ],
+    "academy of live technology": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "academy of medical royal colleges": [
         {
             "type": 12,
@@ -10197,11 +10209,11 @@
             "rating": 3
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -13749,6 +13761,12 @@
             "rating": 1
         }
     ],
+    "actors studio": [
+        {
+            "type": 6,
+            "rating": 3
+        }
+    ],
     "actors touring company london": [
         {
             "type": 1,
@@ -16077,6 +16095,12 @@
             "rating": 1
         }
     ],
+    "adler pelzer washington": [
+        {
+            "type": 13,
+            "rating": 3
+        }
+    ],
     "adlib audio": [
         {
             "type": 1,
@@ -17858,6 +17882,18 @@
         }
     ],
     "advice cloud": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "advice doctor": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "annabel house care centre": [
         {
             "type": 1,
             "rating": 1
@@ -21505,7 +21541,7 @@
     ],
     "agri-hr": [
         {
-            "type": 13,
+            "type": 14,
             "rating": 3
         }
     ],
@@ -23731,7 +23767,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -23759,7 +23795,7 @@
             "rating": 3
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -26931,6 +26967,12 @@
             "rating": 1
         }
     ],
+    "al musaafir": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "al mustafa trust international": [
         {
             "type": 4,
@@ -29777,11 +29819,11 @@
     ],
     "alexander mann solutions": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -30605,7 +30647,7 @@
             "rating": 1
         }
     ],
-    "ali groveries": [
+    "ali groceries": [
         {
             "type": 1,
             "rating": 1
@@ -32071,11 +32113,11 @@
     ],
     "all world foods": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -32246,6 +32288,12 @@
         }
     ],
     "allbars vaping": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "allbest solutions": [
         {
             "type": 1,
             "rating": 1
@@ -32829,7 +32877,7 @@
     ],
     "alliance one oilfield": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         }
     ],
@@ -36009,12 +36057,6 @@
             "rating": 1
         }
     ],
-    "aluna leisure": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "aluna partners": [
         {
             "type": 1,
@@ -37907,12 +37949,6 @@
             "rating": 1
         }
     ],
-    "ambu kare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ambue": [
         {
             "type": 1,
@@ -39274,6 +39310,16 @@
         }
     ],
     "aml reporting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "aml rightsource": [
+        {
+            "type": 8,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -41732,6 +41778,12 @@
         }
     ],
     "andreu world": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "andrew & edyta catering": [
         {
             "type": 1,
             "rating": 1
@@ -45325,6 +45377,12 @@
             "rating": 1
         }
     ],
+    "aoc homecare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "aoc resins": [
         {
             "type": 1,
@@ -47097,12 +47155,6 @@
             "rating": 1
         }
     ],
-    "apple homecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "apple house leics": [
         {
             "type": 1,
@@ -47306,6 +47358,12 @@
         }
     ],
     "appletree dental practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "appletree dental studio herne": [
         {
             "type": 1,
             "rating": 1
@@ -50977,19 +51035,13 @@
             "rating": 1
         }
     ],
-    "ardgowan hospice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ardian investment": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -52025,16 +52077,6 @@
             "rating": 1
         }
     ],
-    "arius technology": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 1
-        }
-    ],
     "ariya african restaurant & bar": [
         {
             "type": 1,
@@ -52608,12 +52650,6 @@
             "type": 10,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "arla foods ingredients felinfach": [
         {
             "type": 1,
             "rating": 1
@@ -53626,6 +53662,12 @@
         }
     ],
     "arreoblue": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "arri holdings": [
         {
             "type": 1,
             "rating": 1
@@ -55562,6 +55604,12 @@
         }
     ],
     "as marylebone": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "as medicare": [
         {
             "type": 1,
             "rating": 1
@@ -59067,12 +59115,6 @@
             "rating": 1
         }
     ],
-    "asmtech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "asmz barbers": [
         {
             "type": 1,
@@ -59530,12 +59572,6 @@
         }
     ],
     "aspirations academies trust": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "aspirations care": [
         {
             "type": 1,
             "rating": 1
@@ -60431,7 +60467,7 @@
     ],
     "associated petroleum terminals immingham": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -68961,6 +68997,12 @@
             "rating": 1
         }
     ],
+    "axalux": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "axbridge & wedmore medical practice": [
         {
             "type": 1,
@@ -69800,12 +69842,6 @@
         }
     ],
     "ayesha holyhead": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ayesha javaid & co": [
         {
             "type": 1,
             "rating": 1

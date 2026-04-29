@@ -7971,6 +7971,12 @@
             "rating": 1
         }
     ],
+    "capsugel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "capsule comms": [
         {
             "type": 1,
@@ -8960,6 +8966,18 @@
             "type": 8,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cardinal hospital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cardinal clinic": [
         {
             "type": 1,
             "rating": 1
@@ -13677,12 +13695,6 @@
             "rating": 3
         }
     ],
-    "castlemooore": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "castlepaving ireland": [
         {
             "type": 1,
@@ -14665,6 +14677,12 @@
             "rating": 3
         }
     ],
+    "caversham coachworks slough": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "caverswall cricket club": [
         {
             "type": 11,
@@ -14748,6 +14766,12 @@
     "cawthorne cricket club": [
         {
             "type": 11,
+            "rating": 1
+        }
+    ],
+    "caxton am1": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -32087,12 +32111,6 @@
             "rating": 1
         }
     ],
-    "cl global": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cl international management": [
         {
             "type": 1,
@@ -35253,11 +35271,11 @@
     ],
     "clintec international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -38530,12 +38548,6 @@
         }
     ],
     "codsall mobile repair": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "codwellers com": [
         {
             "type": 1,
             "rating": 1
@@ -43371,7 +43383,7 @@
     ],
     "concordia": [
         {
-            "type": 13,
+            "type": 14,
             "rating": 3
         },
         {
@@ -43981,7 +43993,7 @@
             "rating": 1
         }
     ],
-    "connaught house veterinary hospital": [
+    "connaught house veterinary": [
         {
             "type": 1,
             "rating": 1
@@ -48183,12 +48195,6 @@
             "rating": 1
         }
     ],
-    "cornish metals": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cornmarket insurance": [
         {
             "type": 1,
@@ -48877,7 +48883,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -49774,6 +49780,12 @@
         }
     ],
     "count energy distribution": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "count": [
         {
             "type": 1,
             "rating": 1
@@ -52371,12 +52383,6 @@
             "rating": 1
         }
     ],
-    "crb cunninghams": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "crc london": [
         {
             "type": 1,
@@ -52842,6 +52848,12 @@
         }
     ],
     "creative education trust": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "creative england": [
         {
             "type": 1,
             "rating": 1
@@ -54110,12 +54122,6 @@
         }
     ],
     "crispy buns": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "crispy chicken": [
         {
             "type": 1,
             "rating": 1
@@ -56623,12 +56629,6 @@
             "rating": 1
         }
     ],
-    "csdk": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "csg bodyshop": [
         {
             "type": 1,
@@ -57319,12 +57319,6 @@
             "rating": 1
         }
     ],
-    "cubo communications": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cucina 35": [
         {
             "type": 1,
@@ -57443,7 +57437,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         }
     ],
@@ -59259,11 +59253,11 @@
     ],
     "cwt": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -59448,16 +59442,6 @@
         }
     ],
     "cyberdog": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cybereason": [
-        {
-            "type": 8,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1

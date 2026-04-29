@@ -275,12 +275,6 @@
             "rating": 1
         }
     ],
-    "buckingham news": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "buchanan arms hotel": [
         {
             "type": 1,
@@ -528,6 +522,12 @@
         }
     ],
     "b b courier": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "b bagel": [
         {
             "type": 1,
             "rating": 1
@@ -812,6 +812,12 @@
         }
     ],
     "b&c retails t/as the cornish oggy oggy pasty company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "b&e live": [
         {
             "type": 1,
             "rating": 1
@@ -9939,6 +9945,12 @@
             "rating": 1
         }
     ],
+    "bc care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bc chesterfield": [
         {
             "type": 1,
@@ -18307,7 +18319,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         }
     ],
@@ -20881,12 +20893,6 @@
             "rating": 1
         }
     ],
-    "bigtincan": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bigtree recruitment": [
         {
             "type": 1,
@@ -21061,7 +21067,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -21662,12 +21668,6 @@
         }
     ],
     "biniyougbarta": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "binks overseas": [
         {
             "type": 1,
             "rating": 1
@@ -23691,12 +23691,6 @@
             "rating": 1
         }
     ],
-    "bite and draught t/as the moonraker": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bite collective": [
         {
             "type": 6,
@@ -25495,6 +25489,12 @@
             "rating": 1
         }
     ],
+    "blackwell associates": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "blackwell waltmaier": [
         {
             "type": 1,
@@ -26634,7 +26634,7 @@
     "bloom&square london": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "bloombar watches": [
@@ -28471,11 +28471,11 @@
     ],
     "bluefield": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -29497,7 +29497,7 @@
     ],
     "bmw holdings": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -35685,6 +35685,12 @@
             "rating": 1
         }
     ],
+    "brand traction": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "brand up consulting": [
         {
             "type": 1,
@@ -39145,12 +39151,6 @@
             "rating": 1
         }
     ],
-    "brimchalk healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "brimington dental practice": [
         {
             "type": 1,
@@ -39687,13 +39687,19 @@
             "rating": 1
         }
     ],
-    "bristol uniforms": [
+    "bristol sweet mart": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "bristol uniforms": [
         {
             "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -39764,12 +39770,6 @@
         }
     ],
     "brit bazar": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "brit college": [
         {
             "type": 1,
             "rating": 1
@@ -43409,6 +43409,12 @@
             "rating": 1
         }
     ],
+    "bryn darland surgery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bryn davan care": [
         {
             "type": 1,
@@ -44500,6 +44506,12 @@
         }
     ],
     "buckingham legal associates": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "buckingham news": [
         {
             "type": 1,
             "rating": 1
@@ -47082,6 +47094,12 @@
         }
     ],
     "business rates hub": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "business rates relief": [
         {
             "type": 1,
             "rating": 1

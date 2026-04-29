@@ -1761,6 +1761,12 @@
             "rating": 1
         }
     ],
+    "quaisr": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "quaker service": [
         {
             "type": 4,
@@ -2123,12 +2129,6 @@
             "rating": 1
         }
     ],
-    "quality first care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "quality florence": [
         {
             "type": 1,
@@ -2410,12 +2410,6 @@
         }
     ],
     "qualys": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "quanna": [
         {
             "type": 1,
             "rating": 1

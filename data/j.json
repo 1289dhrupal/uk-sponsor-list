@@ -2551,6 +2551,12 @@
             "rating": 1
         }
     ],
+    "jackmans lodge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "jackos fish and chips": [
         {
             "type": 1,
@@ -2664,12 +2670,6 @@
         },
         {
             "type": 8,
-            "rating": 1
-        }
-    ],
-    "jacobs & co solicitors": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -4511,7 +4511,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         }
     ],
@@ -7225,7 +7225,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         }
     ],
@@ -7657,11 +7657,11 @@
     ],
     "jellyfish": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -10569,7 +10569,7 @@
     ],
     "jla": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -11257,12 +11257,6 @@
             "rating": 1
         }
     ],
-    "jnp restaurants": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "jnpk": [
         {
             "type": 1,
@@ -11555,17 +11549,7 @@
             "rating": 1
         }
     ],
-    "joghide home care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "jogmec japan organization for metals and energy security": [
-        {
-            "type": 9,
-            "rating": 3
-        },
         {
             "type": 1,
             "rating": 1
@@ -11573,6 +11557,10 @@
         {
             "type": 8,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 3
         }
     ],
     "joh berenberg gossler & co kg london branch": [
@@ -14591,12 +14579,6 @@
             "rating": 1
         }
     ],
-    "jsh cooperation": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "jsjn retail": [
         {
             "type": 1,
@@ -16927,6 +16909,12 @@
             "rating": 1
         }
     ],
+    "jely": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "jacksons chicken": [
         {
             "type": 1,
@@ -16976,12 +16964,6 @@
         }
     ],
     "jassi wines": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "jet stansted londis": [
         {
             "type": 1,
             "rating": 1

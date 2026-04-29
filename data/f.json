@@ -227,6 +227,12 @@
             "rating": 1
         }
     ],
+    "fix auto slough": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fern labs": [
         {
             "type": 1,
@@ -2989,12 +2995,6 @@
             "rating": 1
         }
     ],
-    "falafel & shawarma lebaness": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "falafel bar london": [
         {
             "type": 1,
@@ -3080,12 +3080,6 @@
         }
     ],
     "falcon abseiling": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "falcon carriers": [
         {
             "type": 1,
             "rating": 1
@@ -17643,6 +17637,16 @@
             "rating": 1
         }
     ],
+    "forcast": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 3
+        }
+    ],
     "force engineering": [
         {
             "type": 1,
@@ -18436,6 +18440,12 @@
         }
     ],
     "forge care homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "forge europa": [
         {
             "type": 1,
             "rating": 1
@@ -20695,6 +20705,10 @@
         {
             "type": 8,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "fox lodge cricket club": [
@@ -20989,7 +21003,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -22374,6 +22388,12 @@
         }
     ],
     "freemavens": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "freemen nutra co": [
         {
             "type": 1,
             "rating": 1
@@ -24411,7 +24431,7 @@
     ],
     "fruitful jobs": [
         {
-            "type": 13,
+            "type": 14,
             "rating": 3
         },
         {
@@ -25924,12 +25944,6 @@
         }
     ],
     "furnolic co": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "furry life": [
         {
             "type": 1,
             "rating": 1

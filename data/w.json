@@ -5665,12 +5665,6 @@
             "rating": 1
         }
     ],
-    "we are couch": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "we are covert": [
         {
             "type": 1,
@@ -7663,6 +7657,12 @@
             "rating": 1
         }
     ],
+    "wellers impact": [
+        {
+            "type": 1,
+            "rating": 4
+        }
+    ],
     "wellers retail": [
         {
             "type": 1,
@@ -8042,10 +8042,6 @@
         },
         {
             "type": 3,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -10630,6 +10626,12 @@
         }
     ],
     "westgate solicitors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "westglen consult": [
         {
             "type": 1,
             "rating": 1
@@ -13283,7 +13285,7 @@
     ],
     "whole ice": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -15265,6 +15267,10 @@
     ],
     "wilson tool international europe": [
         {
+            "type": 8,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -16238,6 +16244,12 @@
         }
     ],
     "wingrove legal": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wings for life spinal cord research foundation": [
         {
             "type": 1,
             "rating": 1
@@ -20994,12 +21006,6 @@
         }
     ],
     "world makers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "world media connect": [
         {
             "type": 1,
             "rating": 1

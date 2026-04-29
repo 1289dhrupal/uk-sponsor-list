@@ -9133,12 +9133,6 @@
             "rating": 1
         }
     ],
-    "patni & co": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "patnos04": [
         {
             "type": 1,
@@ -12165,7 +12159,7 @@
     ],
     "pellegrini": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         }
     ],
@@ -13697,11 +13691,11 @@
     ],
     "perceptyx": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14478,6 +14472,16 @@
         }
     ],
     "perk shole aroma": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "perk": [
+        {
+            "type": 8,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -17337,7 +17341,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -17726,6 +17730,12 @@
         }
     ],
     "phoenix house": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "phoenix instinct": [
         {
             "type": 1,
             "rating": 1
@@ -19397,6 +19407,12 @@
             "rating": 1
         }
     ],
+    "picture news": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "picture perfect data": [
         {
             "type": 1,
@@ -20236,12 +20252,6 @@
         }
     ],
     "pinion": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pink & blue moon": [
         {
             "type": 1,
             "rating": 1
@@ -21758,12 +21768,6 @@
         }
     ],
     "pizza & dumplings": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pizza 87": [
         {
             "type": 1,
             "rating": 1
@@ -28603,12 +28607,6 @@
             "rating": 1
         }
     ],
-    "power2x solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "power54 generation": [
         {
             "type": 1,
@@ -33741,6 +33739,12 @@
             "rating": 1
         }
     ],
+    "prime wealth capital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "prime wines surrey": [
         {
             "type": 1,
@@ -35475,7 +35479,7 @@
     ],
     "pro-force": [
         {
-            "type": 13,
+            "type": 14,
             "rating": 3
         },
         {
@@ -37409,6 +37413,12 @@
             "rating": 1
         }
     ],
+    "prompt healthcare staffing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "prompt vehicle management": [
         {
             "type": 1,
@@ -37974,12 +37984,6 @@
         }
     ],
     "proquest solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "proquo ai international": [
         {
             "type": 1,
             "rating": 1
@@ -40287,7 +40291,19 @@
             "rating": 1
         }
     ],
+    "pulpatronics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pulsant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pulsar aerospace": [
         {
             "type": 1,
             "rating": 1
@@ -40318,12 +40334,6 @@
         }
     ],
     "pulse advertising": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pulse african restaurant": [
         {
             "type": 1,
             "rating": 1
@@ -42797,7 +42807,7 @@
     ],
     "port of felixstowe": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {

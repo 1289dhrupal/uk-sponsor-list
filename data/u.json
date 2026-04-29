@@ -1863,6 +1863,10 @@
     ],
     "ulfat s venues": [
         {
+            "type": 6,
+            "rating": 3
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -2490,7 +2494,7 @@
     "ume luxembourg sa": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "umed facilities management": [
@@ -2675,6 +2679,12 @@
             "rating": 1
         }
     ],
+    "umotif": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "umoya trust": [
         {
             "type": 4,
@@ -2806,16 +2816,6 @@
         }
     ],
     "unatrac": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "unb management": [
         {
             "type": 8,
             "rating": 1
@@ -3825,6 +3825,12 @@
             "rating": 1
         }
     ],
+    "uniora cic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "unipaas financial": [
         {
             "type": 1,
@@ -4461,7 +4467,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         }
     ],
@@ -7660,12 +7666,6 @@
         }
     ],
     "uplift physio": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "uplift recruit": [
         {
             "type": 1,
             "rating": 1

@@ -2629,7 +2629,7 @@
             "rating": 3
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -3957,7 +3957,7 @@
     ],
     "vauxhall motors": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -4257,7 +4257,7 @@
     ],
     "vdl steelweld": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         }
     ],
@@ -5923,12 +5923,6 @@
             "rating": 1
         }
     ],
-    "veracity media consulting": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "veracity osi": [
         {
             "type": 1,
@@ -6823,7 +6817,7 @@
     ],
     "vertical aerospace": [
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -15161,7 +15155,7 @@
             "rating": 1
         },
         {
-            "type": 14,
+            "type": 13,
             "rating": 3
         },
         {
@@ -15240,6 +15234,12 @@
         }
     ],
     "vviewing technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vvii": [
         {
             "type": 1,
             "rating": 1
