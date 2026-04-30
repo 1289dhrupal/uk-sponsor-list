@@ -1673,6 +1673,12 @@
             "rating": 1
         }
     ],
+    "shanty bites and brews": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "starlight linen hire": [
         {
             "type": 1,
@@ -1812,12 +1818,6 @@
         }
     ],
     "sanjeevjewellers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "seed salon": [
         {
             "type": 1,
             "rating": 1
@@ -6188,6 +6188,12 @@
         }
     ],
     "saentys communication": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "saentys": [
         {
             "type": 1,
             "rating": 1
@@ -21109,6 +21115,12 @@
             "rating": 1
         }
     ],
+    "second star games": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "second state pizza company": [
         {
             "type": 1,
@@ -26420,6 +26432,12 @@
         }
     ],
     "sgp contracts": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sgs & partners": [
         {
             "type": 1,
             "rating": 1
@@ -35361,12 +35379,6 @@
             "rating": 1
         }
     ],
-    "sideways 6": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sidha baba": [
         {
             "type": 1,
@@ -35535,12 +35547,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "siegmann": [
-        {
-            "type": 2,
-            "rating": 2
         }
     ],
     "siegwerk": [
@@ -41948,6 +41954,12 @@
         }
     ],
     "skilled homecare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "skilled workers cloud": [
         {
             "type": 1,
             "rating": 1
@@ -56138,12 +56150,6 @@
         }
     ],
     "specialised research": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "specialist autism": [
         {
             "type": 1,
             "rating": 1
@@ -85220,6 +85226,16 @@
         }
     ],
     "symeus": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "symfos": [
+        {
+            "type": 8,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

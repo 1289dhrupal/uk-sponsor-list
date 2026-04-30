@@ -3101,12 +3101,6 @@
             "rating": 1
         }
     ],
-    "bajua": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bajwa scotland": [
         {
             "type": 1,
@@ -15081,12 +15075,6 @@
             "rating": 1
         }
     ],
-    "bengal lounge": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bengal curry pot": [
         {
             "type": 1,
@@ -18855,6 +18843,12 @@
             "rating": 1
         }
     ],
+    "bfb labs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bfbs": [
         {
             "type": 1,
@@ -19009,6 +19003,12 @@
             "rating": 1
         }
     ],
+    "bgc bristol": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bgen": [
         {
             "type": 1,
@@ -19140,6 +19140,12 @@
             "type": 8,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bgv real estate": [
         {
             "type": 1,
             "rating": 1
@@ -22314,6 +22320,12 @@
         }
     ],
     "birch airfield composting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "birch assist": [
         {
             "type": 1,
             "rating": 1
@@ -35013,12 +35025,6 @@
             "rating": 1
         }
     ],
-    "bradstow school": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bradwell hall nursing home": [
         {
             "type": 1,
@@ -36838,6 +36844,12 @@
     "brentwood spice": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "brentwood vineyard church": [
+        {
+            "type": 3,
             "rating": 1
         }
     ],
@@ -45725,12 +45737,6 @@
             "rating": 1
         }
     ],
-    "buonkey general trading 15422771": [
-        {
-            "type": 2,
-            "rating": 2
-        }
-    ],
     "buoyancy aerospace": [
         {
             "type": 1,
@@ -48313,6 +48319,16 @@
             "rating": 1
         }
     ],
+    "bynder": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 1
+        }
+    ],
     "byngo payments": [
         {
             "type": 1,
@@ -50406,6 +50422,12 @@
         }
     ],
     "barlow store": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bengal lounge": [
         {
             "type": 1,
             "rating": 1

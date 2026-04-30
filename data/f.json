@@ -9205,6 +9205,12 @@
             "rating": 1
         }
     ],
+    "finaghy south": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "final touches trading": [
         {
             "type": 1,
@@ -19261,11 +19267,11 @@
     ],
     "fortis mondial": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],

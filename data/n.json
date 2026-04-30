@@ -1051,12 +1051,6 @@
             "rating": 1
         }
     ],
-    "n&r": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "n&r son": [
         {
             "type": 1,
@@ -6793,6 +6787,12 @@
             "rating": 1
         }
     ],
+    "nectar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "nectar rays": [
         {
             "type": 1,
@@ -7498,6 +7498,12 @@
         }
     ],
     "neo investment partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "neo next+ energy resources": [
         {
             "type": 1,
             "rating": 1
@@ -10415,12 +10421,6 @@
             "rating": 1
         }
     ],
-    "new godalming sushi": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "new golden coach 2021": [
         {
             "type": 1,
@@ -11387,6 +11387,12 @@
             "rating": 1
         }
     ],
+    "new richmond developments": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "new ritz herbals": [
         {
             "type": 1,
@@ -11680,7 +11686,7 @@
     "new topic": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "new town dental care": [

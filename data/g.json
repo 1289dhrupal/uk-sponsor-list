@@ -4153,12 +4153,6 @@
             "rating": 1
         }
     ],
-    "gasteratos plastic surgery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gastly": [
         {
             "type": 1,
@@ -6830,12 +6824,6 @@
         }
     ],
     "generation asset management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "generation healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -17993,6 +17981,12 @@
             "rating": 1
         }
     ],
+    "golden fern piercing": [
+        {
+            "type": 6,
+            "rating": 3
+        }
+    ],
     "golden fish bazar": [
         {
             "type": 1,
@@ -19079,12 +19073,6 @@
             "rating": 1
         }
     ],
-    "good belly branch": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "good big brother": [
         {
             "type": 1,
@@ -19233,13 +19221,19 @@
             "rating": 1
         }
     ],
+    "good machine": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "good methods": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],

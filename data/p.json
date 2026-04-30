@@ -17747,6 +17747,12 @@
             "rating": 1
         }
     ],
+    "phoenix leisure": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "phoenix lodge coventry": [
         {
             "type": 1,
@@ -24827,16 +24833,6 @@
             "rating": 1
         }
     ],
-    "pmg agency": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 1
-        }
-    ],
     "pmgts": [
         {
             "type": 1,
@@ -30096,20 +30092,6 @@
     "precise financial management": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "precise health": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],
@@ -38179,12 +38161,6 @@
             "rating": 1
         }
     ],
-    "prospective pathway futures cic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "prospector pro": [
         {
             "type": 1,
@@ -41080,6 +41056,12 @@
             "type": 8,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pure renewables commercial": [
         {
             "type": 1,
             "rating": 1
