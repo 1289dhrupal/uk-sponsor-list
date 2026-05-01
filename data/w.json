@@ -15223,6 +15223,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 13,
+            "rating": 3
         }
     ],
     "wilson leitch": [
@@ -16498,12 +16502,6 @@
         }
     ],
     "winpure": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "winray care housing": [
         {
             "type": 1,
             "rating": 1

@@ -263,6 +263,12 @@
             "rating": 1
         }
     ],
+    "grove pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "greenbanks heritage": [
         {
             "type": 1,
@@ -6658,7 +6664,7 @@
     "general intuition": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "general medical council": [
@@ -27594,6 +27600,12 @@
             "type": 8,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "groupme": [
         {
             "type": 1,
             "rating": 1

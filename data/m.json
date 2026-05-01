@@ -6539,12 +6539,6 @@
             "rating": 1
         }
     ],
-    "magic taping and jointing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "magic tech": [
         {
             "type": 1,
@@ -10802,6 +10796,12 @@
         }
     ],
     "manda international logistics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "mandalay medical centre": [
         {
             "type": 1,
             "rating": 1
@@ -19681,12 +19681,6 @@
             "rating": 1
         }
     ],
-    "may beauty london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "may business consulting": [
         {
             "type": 1,
@@ -20876,12 +20870,6 @@
         }
     ],
     "mb&g insurance": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "mba & company consultancy": [
         {
             "type": 1,
             "rating": 1
@@ -22467,13 +22455,23 @@
             "rating": 1
         }
     ],
-    "mda space and robotics": [
+    "mda satconn": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
+            "type": 8,
+            "rating": 1
+        }
+    ],
+    "mda space and robotics": [
+        {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 8,
             "rating": 1
         }
     ],
@@ -38207,12 +38205,6 @@
             "rating": 1
         }
     ],
-    "mk catering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "mk complete joinery": [
         {
             "type": 1,
@@ -44683,6 +44675,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "mori hamada": [
+        {
+            "type": 2,
+            "rating": 2
         }
     ],
     "moriah house": [

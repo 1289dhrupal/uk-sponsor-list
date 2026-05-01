@@ -6387,6 +6387,16 @@
             "rating": 1
         }
     ],
+    "ramp business": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 1
+        }
+    ],
     "ramp swaps": [
         {
             "type": 1,
@@ -17652,6 +17662,12 @@
         }
     ],
     "resilient": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "resilient water accelerator": [
         {
             "type": 1,
             "rating": 1

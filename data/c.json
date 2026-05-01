@@ -15729,6 +15729,12 @@
             "rating": 1
         }
     ],
+    "cdvi": [
+        {
+            "type": 7,
+            "rating": 3
+        }
+    ],
     "cdw": [
         {
             "type": 8,
@@ -16241,7 +16247,7 @@
             "rating": 1
         }
     ],
-    "celebrate church bradforf": [
+    "celebrate church bradford": [
         {
             "type": 5,
             "rating": 3
@@ -44292,6 +44298,12 @@
         }
     ],
     "connective3": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "connector subsea solutions": [
         {
             "type": 1,
             "rating": 1
