@@ -9147,12 +9147,6 @@
             "rating": 1
         }
     ],
-    "care 4 u leicestershire": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "care 4 you manchester": [
         {
             "type": 1,
@@ -9166,6 +9160,12 @@
         }
     ],
     "care 4u midlands": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "care acre": [
         {
             "type": 1,
             "rating": 1
@@ -12338,6 +12338,12 @@
         }
     ],
     "carter fitch": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "carter gregson gray": [
         {
             "type": 1,
             "rating": 1
@@ -25201,6 +25207,18 @@
             "rating": 1
         }
     ],
+    "chilis restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "chillis indian restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "chill catering / the lokanta": [
         {
             "type": 1,
@@ -29225,11 +29243,11 @@
     ],
     "cibt": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -43275,6 +43293,12 @@
             "rating": 1
         }
     ],
+    "conceptdigital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "conception design associates": [
         {
             "type": 1,
@@ -45839,21 +45863,21 @@
     ],
     "contour technologies": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
     "contourglobal solutions northern ireland": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -46199,6 +46223,12 @@
             "rating": 1
         }
     ],
+    "convergence networks": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "convergence business solutions": [
         {
             "type": 1,
@@ -46297,11 +46327,11 @@
     ],
     "conviva": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -50074,6 +50104,12 @@
         }
     ],
     "county heights pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "county homes care home": [
         {
             "type": 1,
             "rating": 1
@@ -57993,12 +58029,6 @@
             "rating": 1
         }
     ],
-    "curationtech holdings": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "curcumin": [
         {
             "type": 1,
@@ -62020,12 +62050,6 @@
         }
     ],
     "cost cutter & lalys butchers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "chillis indian restaurant": [
         {
             "type": 1,
             "rating": 1

@@ -4419,10 +4419,6 @@
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 1
         }
     ],
     "iguana investments": [
@@ -13913,13 +13909,13 @@
             "rating": 1
         }
     ],
-    "inspired pet nutrition": [
+    "inspired": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "inspired": [
+    "inspired pet nutrition": [
         {
             "type": 1,
             "rating": 1
@@ -15040,6 +15036,12 @@
         }
     ],
     "integrated family support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "integrated fire safety systems": [
         {
             "type": 1,
             "rating": 1
@@ -18677,12 +18679,6 @@
             "rating": 1
         }
     ],
-    "investimate research": [
-        {
-            "type": 2,
-            "rating": 2
-        }
-    ],
     "investindustrial advisors": [
         {
             "type": 1,
@@ -21967,12 +21963,6 @@
             "rating": 1
         }
     ],
-    "istanbul cymbals and music company": [
-        {
-            "type": 2,
-            "rating": 2
-        }
-    ],
     "istanbul filmmakers": [
         {
             "type": 1,
@@ -24062,12 +24052,6 @@
         }
     ],
     "infusions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "infusion": [
         {
             "type": 1,
             "rating": 1

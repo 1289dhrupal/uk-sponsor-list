@@ -231,6 +231,12 @@
             "rating": 1
         }
     ],
+    "king of biryani": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kidzbuzz": [
         {
             "type": 1,
@@ -676,12 +682,6 @@
         }
     ],
     "k & q enterprises": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "k & r clothing": [
         {
             "type": 1,
             "rating": 1
@@ -1215,6 +1215,12 @@
             "rating": 1
         }
     ],
+    "k sidhu construction": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "k spice": [
         {
             "type": 1,
@@ -1430,6 +1436,12 @@
         }
     ],
     "k&r accountants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "k&r clothing": [
         {
             "type": 1,
             "rating": 1
@@ -9353,6 +9365,20 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "kent sri lankan buddhist cultural centre": [
+        {
+            "type": 3,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 3
+        },
+        {
+            "type": 4,
+            "rating": 3
         }
     ],
     "kent st wines": [
@@ -19915,12 +19941,6 @@
             "rating": 1
         }
     ],
-    "kosamo domestic and commecial deepclean": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kosanjo care": [
         {
             "type": 1,
@@ -20285,11 +20305,11 @@
     ],
     "kp snacks": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -24420,12 +24440,6 @@
         }
     ],
     "kelstone court nursing home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "karachi wala": [
         {
             "type": 1,
             "rating": 1

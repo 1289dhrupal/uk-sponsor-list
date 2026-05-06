@@ -1483,12 +1483,6 @@
             "rating": 1
         }
     ],
-    "h&s direct solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "h&s facilities management": [
         {
             "type": 1,
@@ -10574,6 +10568,12 @@
         }
     ],
     "haverhill dental practice and cosmetic centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "haverhill family practice": [
         {
             "type": 1,
             "rating": 1
@@ -20685,6 +20685,12 @@
             "rating": 1
         }
     ],
+    "hind leys pre-school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hindawi foundation": [
         {
             "type": 1,
@@ -23319,7 +23325,7 @@
             "rating": 1
         }
     ],
-    "hokodo": [
+    "hokodo work life olld street": [
         {
             "type": 8,
             "rating": 1
@@ -32588,6 +32594,12 @@
         }
     ],
     "hycgan": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hychor": [
         {
             "type": 1,
             "rating": 1

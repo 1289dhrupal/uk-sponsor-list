@@ -2137,6 +2137,12 @@
             "rating": 1
         }
     ],
+    "fairfields house support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fairgate": [
         {
             "type": 1,
@@ -8587,11 +8593,11 @@
     ],
     "fieldfisher": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -9224,6 +9230,12 @@
         }
     ],
     "finance a vehicle": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "finance advice helpline": [
         {
             "type": 1,
             "rating": 1
@@ -11266,12 +11278,6 @@
         }
     ],
     "first city nursing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "first class care": [
         {
             "type": 1,
             "rating": 1
@@ -14275,6 +14281,12 @@
             "rating": 1
         }
     ],
+    "flexenet": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "flexera software": [
         {
             "type": 8,
@@ -16545,13 +16557,13 @@
             "rating": 1
         }
     ],
-    "fone case": [
+    "fone care wells t/as itech andover": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "fone care wells t/as itech andover": [
+    "fone case": [
         {
             "type": 1,
             "rating": 1
@@ -23247,11 +23259,11 @@
     ],
     "freshworks technologies": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -23635,10 +23647,6 @@
     ],
     "friends international ministries": [
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 5,
             "rating": 3
         },
@@ -23649,6 +23657,10 @@
         {
             "type": 3,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 3
         }
     ],
     "friends leisure": [
@@ -24372,12 +24384,6 @@
     "frsni": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "frt japan": [
-        {
-            "type": 2,
             "rating": 1
         }
     ],

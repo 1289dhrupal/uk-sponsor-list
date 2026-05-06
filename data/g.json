@@ -11793,6 +11793,10 @@
         {
             "type": 11,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "glasgow food market": [
@@ -13948,6 +13952,12 @@
         }
     ],
     "global innovation fund": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "global insight conferences": [
         {
             "type": 1,
             "rating": 1
@@ -17093,6 +17103,12 @@
             "rating": 3
         }
     ],
+    "godfrey barnes care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "godhi logistics": [
         {
             "type": 1,
@@ -19360,12 +19376,6 @@
         }
     ],
     "good-loop": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "good2go care": [
         {
             "type": 1,
             "rating": 1
@@ -23374,6 +23384,12 @@
     "great brickhill cricket club": [
         {
             "type": 11,
+            "rating": 1
+        }
+    ],
+    "great bridge dental practice": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -32436,6 +32452,12 @@
         }
     ],
     "great wall chinese restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "grilliant bites": [
         {
             "type": 1,
             "rating": 1

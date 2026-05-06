@@ -9761,6 +9761,12 @@
             "rating": 1
         }
     ],
+    "abtech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "abtrace": [
         {
             "type": 1,
@@ -28875,6 +28881,14 @@
     ],
     "alcatel submarine networks": [
         {
+            "type": 7,
+            "rating": 3
+        },
+        {
+            "type": 8,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -30100,6 +30114,12 @@
         },
         {
             "type": 8,
+            "rating": 1
+        }
+    ],
+    "alfa laval ultrasonics": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -32251,12 +32271,6 @@
             "rating": 1
         }
     ],
-    "allard whiteley associates": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "allasso sa": [
         {
             "type": 1,
@@ -32488,6 +32502,12 @@
         }
     ],
     "allen street clinic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "allenbrook care": [
         {
             "type": 1,
             "rating": 1
@@ -46635,6 +46655,12 @@
             "rating": 1
         }
     ],
+    "apollo & daphne": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "apollo bakery": [
         {
             "type": 1,
@@ -54975,6 +55001,12 @@
             "rating": 1
         }
     ],
+    "aru spa": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "aruba": [
         {
             "type": 1,
@@ -57770,6 +57802,12 @@
         }
     ],
     "ashoka": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ashorne hill management college": [
         {
             "type": 1,
             "rating": 1
@@ -68253,6 +68291,12 @@
             "rating": 1
         }
     ],
+    "avp logistics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "avr k2u sandhu s": [
         {
             "type": 1,
@@ -71672,12 +71716,6 @@
         }
     ],
     "autotronics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "aromate restaurant & bar": [
         {
             "type": 1,
             "rating": 1

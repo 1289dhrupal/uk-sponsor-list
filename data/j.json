@@ -1365,6 +1365,12 @@
             "rating": 1
         }
     ],
+    "j verai": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "j verni foods": [
         {
             "type": 1,
@@ -1390,12 +1396,6 @@
         }
     ],
     "j wild confectioners": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "j wilkes paving & construction": [
         {
             "type": 1,
             "rating": 1
@@ -6265,6 +6265,12 @@
         {
             "type": 6,
             "rating": 3
+        }
+    ],
+    "jay rose care t/as durnsford lodge": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "jay shanti neil": [
@@ -15952,6 +15958,14 @@
         }
     ],
     "jupitor corporation": [
+        {
+            "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 2,
             "rating": 1

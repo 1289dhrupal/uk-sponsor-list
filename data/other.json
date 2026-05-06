@@ -4485,11 +4485,11 @@
     ],
     "720 management": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],

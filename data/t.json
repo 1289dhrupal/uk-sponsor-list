@@ -8975,6 +8975,12 @@
             "rating": 1
         }
     ],
+    "tate solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tatehindle": [
         {
             "type": 1,
@@ -15511,6 +15517,12 @@
             "rating": 1
         }
     ],
+    "tesora technology": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tess management": [
         {
             "type": 1,
@@ -15682,6 +15694,12 @@
         }
     ],
     "testo industrial": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "testo": [
         {
             "type": 1,
             "rating": 1
@@ -23209,12 +23227,12 @@
             "rating": 3
         },
         {
-            "type": 5,
-            "rating": 3
-        },
-        {
             "type": 3,
             "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 3
         }
     ],
     "the dare2dream foundation cic": [
@@ -26749,13 +26767,19 @@
             "rating": 1
         }
     ],
-    "the halo trust": [
+    "the halo project": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "the halo trust": [
         {
             "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -39507,6 +39531,12 @@
             "rating": 1
         }
     ],
+    "the westbury practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the westgate practice": [
         {
             "type": 1,
@@ -47643,6 +47673,12 @@
             "rating": 1
         }
     ],
+    "tom hartley jnr": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tom kitchin": [
         {
             "type": 1,
@@ -55317,12 +55353,6 @@
             "rating": 1
         }
     ],
-    "triloki ram": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "trilokya": [
         {
             "type": 1,
@@ -56845,6 +56875,12 @@
             "rating": 1
         }
     ],
+    "troop london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "trophies frames & screen printing": [
         {
             "type": 1,
@@ -57943,7 +57979,7 @@
             "rating": 1
         }
     ],
-    "tryg fosikring a/s": [
+    "tryg forsikring a/s": [
         {
             "type": 8,
             "rating": 1
@@ -57955,11 +57991,11 @@
     ],
     "tryzens": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -61279,11 +61315,11 @@
     ],
     "txt next": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],

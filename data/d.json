@@ -10857,12 +10857,6 @@
             "rating": 1
         }
     ],
-    "democare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "democracy counts": [
         {
             "type": 1,
@@ -12834,6 +12828,12 @@
         }
     ],
     "design build safely": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "design bundles": [
         {
             "type": 1,
             "rating": 1
@@ -20827,16 +20827,16 @@
     ],
     "dla piper": [
         {
+            "type": 7,
+            "rating": 3
+        },
+        {
             "type": 8,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 7,
-            "rating": 3
         }
     ],
     "dlab": [

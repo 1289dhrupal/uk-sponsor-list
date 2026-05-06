@@ -1341,6 +1341,12 @@
             "rating": 1
         }
     ],
+    "phynix pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pizza 2 night": [
         {
             "type": 1,
@@ -3897,6 +3903,18 @@
             "rating": 1
         }
     ],
+    "palladian publications": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "palladio restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "palladium": [
         {
             "type": 1,
@@ -3905,15 +3923,15 @@
     ],
     "palladium international": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 7,
             "rating": 3
         },
         {
             "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -8455,16 +8473,6 @@
             "rating": 1
         }
     ],
-    "pasta evangelists": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "pasta pit stop t/a emilia s crafted pasta": [
         {
             "type": 1,
@@ -10537,6 +10545,12 @@
             "rating": 1
         }
     ],
+    "pcc of st george & st paul tiverton": [
+        {
+            "type": 3,
+            "rating": 1
+        }
+    ],
     "pcc of st mary & st ambrose edgbaston t/a rea church": [
         {
             "type": 4,
@@ -12075,6 +12089,12 @@
             "rating": 1
         }
     ],
+    "pelagic iq": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pelagonian": [
         {
             "type": 1,
@@ -12772,6 +12792,12 @@
         }
     ],
     "pennine acute hospitals nhs trust": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pennine alliance learning trust": [
         {
             "type": 1,
             "rating": 1
@@ -19661,6 +19687,12 @@
             "rating": 1
         }
     ],
+    "pilgrims hospices in east kent": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pilgrims risk management": [
         {
             "type": 1,
@@ -19819,6 +19851,12 @@
             "rating": 1
         }
     ],
+    "pimberly software development": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pimco europe": [
         {
             "type": 8,
@@ -19864,6 +19902,12 @@
         }
     ],
     "pimlico academy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pimloc": [
         {
             "type": 1,
             "rating": 1
@@ -28045,16 +28089,6 @@
             "rating": 1
         }
     ],
-    "poten & partners": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 1
-        }
-    ],
     "potensial": [
         {
             "type": 1,
@@ -33311,6 +33345,12 @@
             "rating": 1
         }
     ],
+    "prime food products": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "prime food stowmarket": [
         {
             "type": 1,
@@ -38369,12 +38409,6 @@
             "rating": 1
         }
     ],
-    "prot care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "prot": [
         {
             "type": 1,
@@ -38886,6 +38920,12 @@
         }
     ],
     "providence linc united": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "providence lodge": [
         {
             "type": 1,
             "rating": 1

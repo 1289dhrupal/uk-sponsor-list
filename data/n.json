@@ -1869,6 +1869,12 @@
             "rating": 1
         }
     ],
+    "naga health": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "naga pvt": [
         {
             "type": 1,
@@ -5264,6 +5270,12 @@
         },
         {
             "type": 8,
+            "rating": 1
+        }
+    ],
+    "navana london real estate": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9545,18 +9557,6 @@
             "rating": 1
         }
     ],
-    "new asari": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "new asari indian takeaway": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "new ashy s chippy & takeaway": [
         {
             "type": 1,
@@ -9746,12 +9746,6 @@
         }
     ],
     "new care opco woodford": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "new care operations": [
         {
             "type": 1,
             "rating": 1
@@ -10002,12 +9996,6 @@
         }
     ],
     "new cross dental practice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "new cross express": [
         {
             "type": 1,
             "rating": 1
@@ -11410,6 +11398,12 @@
         }
     ],
     "new river health": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "new river trust": [
         {
             "type": 1,
             "rating": 1
@@ -20217,12 +20211,6 @@
             "rating": 1
         }
     ],
-    "norfolk affinity care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "norfolk and norwich university hospitals nhs foundation trust": [
         {
             "type": 1,
@@ -24750,12 +24738,6 @@
         }
     ],
     "nrg industries": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "nrg marine": [
         {
             "type": 1,
             "rating": 1

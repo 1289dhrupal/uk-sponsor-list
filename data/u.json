@@ -4501,12 +4501,6 @@
             "rating": 1
         }
     ],
-    "unit technology": [
-        {
-            "type": 2,
-            "rating": 2
-        }
-    ],
     "unit4 business software": [
         {
             "type": 8,
@@ -7393,11 +7387,11 @@
     ],
     "unybrands operations": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
