@@ -3997,6 +3997,12 @@
             "rating": 1
         }
     ],
+    "rafles": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "raftech": [
         {
             "type": 1,
@@ -14915,12 +14921,6 @@
             "rating": 1
         }
     ],
-    "regional contract": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "regional contractors": [
         {
             "type": 1,
@@ -15948,12 +15948,6 @@
         }
     ],
     "reliant trading contracting": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "reliant travels": [
         {
             "type": 1,
             "rating": 1
@@ -21390,6 +21384,18 @@
         }
     ],
     "ridaan holidays": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "riddings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "riddings pharmacy": [
         {
             "type": 1,
             "rating": 1

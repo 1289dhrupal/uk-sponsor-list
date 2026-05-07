@@ -1119,12 +1119,6 @@
             "rating": 1
         }
     ],
-    "pahuna": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "precision chiropractic": [
         {
             "type": 1,
@@ -34610,6 +34604,12 @@
         }
     ],
     "priory care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "priory cc150": [
         {
             "type": 1,
             "rating": 1

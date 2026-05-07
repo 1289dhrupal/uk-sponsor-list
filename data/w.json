@@ -1711,6 +1711,12 @@
             "rating": 1
         }
     ],
+    "wajiest global": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "wak electrical solutions": [
         {
             "type": 1,
@@ -1719,11 +1725,11 @@
     ],
     "wakam": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
@@ -3482,12 +3488,6 @@
         }
     ],
     "warraich catering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "warraich": [
         {
             "type": 1,
             "rating": 1

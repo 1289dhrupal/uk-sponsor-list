@@ -3997,6 +3997,12 @@
             "rating": 1
         }
     ],
+    "fantastic woman": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fantasy world": [
         {
             "type": 2,
@@ -8187,11 +8193,11 @@
     ],
     "fiat vouge": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8421,12 +8427,6 @@
         {
             "type": 2,
             "rating": 2
-        }
-    ],
-    "fideuram asset management": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "fidler & pepper": [
@@ -15852,12 +15852,6 @@
         },
         {
             "type": 8,
-            "rating": 1
-        }
-    ],
-    "fm leeds": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -26346,6 +26340,12 @@
         }
     ],
     "fusionride technology": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fussy": [
         {
             "type": 1,
             "rating": 1

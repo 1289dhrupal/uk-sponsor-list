@@ -1123,12 +1123,6 @@
             "rating": 1
         }
     ],
-    "h r pharm": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "h reed": [
         {
             "type": 1,
@@ -12531,7 +12525,7 @@
             "rating": 1
         }
     ],
-    "headington rye oxford": [
+    "headington school oxford": [
         {
             "type": 4,
             "rating": 3
@@ -13227,12 +13221,6 @@
             "rating": 1
         }
     ],
-    "healthshare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "healthstart trading": [
         {
             "type": 1,
@@ -13778,12 +13766,6 @@
         }
     ],
     "hearyou counselling": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "heat afro lounge": [
         {
             "type": 1,
             "rating": 1
@@ -17306,6 +17288,12 @@
         }
     ],
     "hexa consulting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hexa fire": [
         {
             "type": 1,
             "rating": 1

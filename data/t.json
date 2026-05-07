@@ -9629,6 +9629,12 @@
             "rating": 1
         }
     ],
+    "taxnet financial": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "taxology": [
         {
             "type": 1,
@@ -13298,6 +13304,16 @@
         },
         {
             "type": 8,
+            "rating": 1
+        }
+    ],
+    "teknicor": [
+        {
+            "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20857,12 +20873,6 @@
             "rating": 1
         }
     ],
-    "the cakery london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the calcutta club ta calcutta club": [
         {
             "type": 1,
@@ -25717,6 +25727,12 @@
             "rating": 1
         }
     ],
+    "the gateshead kehilla g h c": [
+        {
+            "type": 3,
+            "rating": 1
+        }
+    ],
     "the gateway learning community": [
         {
             "type": 1,
@@ -26490,6 +26506,12 @@
         }
     ],
     "the greenacres day nursery school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the greenhouse multi-cultural play and arts project": [
         {
             "type": 1,
             "rating": 1
@@ -33566,6 +33588,12 @@
         }
     ],
     "the partnership in care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the partyman company": [
         {
             "type": 1,
             "rating": 1
@@ -58528,7 +58556,7 @@
     "tt &gizmo": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "tt electronics iot solutions": [

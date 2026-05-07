@@ -5301,6 +5301,12 @@
             "rating": 1
         }
     ],
+    "ilkley care associates": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ilkley dental care": [
         {
             "type": 1,
@@ -8009,11 +8015,11 @@
     ],
     "in-tech": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19029,19 +19035,13 @@
             "rating": 1
         }
     ],
-    "invox pharma": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "invus": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],

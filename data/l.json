@@ -16399,6 +16399,12 @@
             "rating": 1
         }
     ],
+    "lipmann walton & company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lipoelastic": [
         {
             "type": 1,
@@ -23029,6 +23035,12 @@
             "rating": 1
         }
     ],
+    "london pt college": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "london pulse": [
         {
             "type": 11,
@@ -24722,12 +24734,6 @@
         }
     ],
     "lordgrace delight healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lordiinfood": [
         {
             "type": 1,
             "rating": 1
@@ -28491,12 +28497,6 @@
             "rating": 1
         }
     ],
-    "luntim": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lupa pets": [
         {
             "type": 1,
@@ -28505,11 +28505,11 @@
     ],
     "lupin healthcare": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         }
     ],
