@@ -15445,15 +15445,15 @@
     ],
     "mars wrigley confectionery": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 7,
             "rating": 3
         },
         {
             "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -29594,12 +29594,6 @@
         }
     ],
     "mevan restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "mevtec360 locum": [
         {
             "type": 1,
             "rating": 1
@@ -54234,12 +54228,6 @@
         }
     ],
     "mustang hospitality": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "mustard foods": [
         {
             "type": 1,
             "rating": 1

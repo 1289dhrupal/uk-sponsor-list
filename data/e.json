@@ -81,6 +81,12 @@
             "rating": 1
         }
     ],
+    "elm lodge residential care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "edge consulting engineers": [
         {
             "type": 1,
@@ -3092,6 +3098,12 @@
         }
     ],
     "eastbourne grange": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "eastbourne housing": [
         {
             "type": 1,
             "rating": 1
@@ -12446,12 +12458,6 @@
         },
         {
             "type": 8,
-            "rating": 1
-        }
-    ],
-    "elia construction": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -27294,6 +27300,12 @@
         }
     ],
     "eve after dark food concepts": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "eve animal care": [
         {
             "type": 1,
             "rating": 1

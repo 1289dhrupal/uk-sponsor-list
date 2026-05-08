@@ -1619,12 +1619,6 @@
             "rating": 1
         }
     ],
-    "fad childcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fadaat media": [
         {
             "type": 8,
@@ -6785,6 +6779,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 1
         }
     ],
     "feg": [
@@ -7020,16 +7018,6 @@
         }
     ],
     "feltham retail": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "feltonfleet school trust": [
-        {
-            "type": 4,
-            "rating": 3
-        },
         {
             "type": 1,
             "rating": 1
@@ -10540,6 +10528,12 @@
         }
     ],
     "fire engineer": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fire investigation risk evaluation consultancy": [
         {
             "type": 1,
             "rating": 1
@@ -14937,6 +14931,12 @@
             "rating": 1
         }
     ],
+    "flora orthodontics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "floral haven": [
         {
             "type": 6,
@@ -17474,6 +17474,12 @@
         }
     ],
     "footprint sports & entertainment": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "footprints community care": [
         {
             "type": 1,
             "rating": 1

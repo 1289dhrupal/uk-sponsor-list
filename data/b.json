@@ -7839,6 +7839,18 @@
             "rating": 1
         }
     ],
+    "barton dna vetcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "barton veterinary centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "barton family practice": [
         {
             "type": 1,
@@ -10322,6 +10334,10 @@
         }
     ],
     "bct consultants": [
+        {
+            "type": 10,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -17620,12 +17636,6 @@
         }
     ],
     "bestcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bestcare24": [
         {
             "type": 1,
             "rating": 1
@@ -31184,12 +31194,6 @@
         }
     ],
     "bombay bicycle battersea": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bombay biryaniwala": [
         {
             "type": 1,
             "rating": 1

@@ -29057,6 +29057,12 @@
             "rating": 1
         }
     ],
+    "sharp glazing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sharp hawk": [
         {
             "type": 1,
@@ -31009,6 +31015,16 @@
             "rating": 1
         }
     ],
+    "shield ai": [
+        {
+            "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "shield fire safety and security": [
         {
             "type": 1,
@@ -31452,6 +31468,12 @@
         }
     ],
     "shine partnerships": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "shine shopfronts shutter": [
         {
             "type": 1,
             "rating": 1
@@ -34422,6 +34444,12 @@
         }
     ],
     "shrisha beauty": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "shristi it": [
         {
             "type": 1,
             "rating": 1
@@ -41198,6 +41226,12 @@
         }
     ],
     "sk associates": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sk bros logistics": [
         {
             "type": 1,
             "rating": 1
@@ -56118,6 +56152,16 @@
     "special london": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "special melted products": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 8,
             "rating": 1
         }
     ],
@@ -81388,7 +81432,7 @@
     "susan harter studios": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "susan joyce smith": [

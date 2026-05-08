@@ -7475,12 +7475,6 @@
             "rating": 1
         }
     ],
-    "parnall property": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "parnham park estates": [
         {
             "type": 1,
@@ -8720,6 +8714,12 @@
         }
     ],
     "patel s chemist": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "patel s food and chaat t/as patel s food and chaat": [
         {
             "type": 1,
             "rating": 1
@@ -13701,17 +13701,27 @@
             "rating": 1
         }
     ],
-    "perceptual robotics": [
-        {
-            "type": 7,
-            "rating": 3
-        },
+    "perceptive informatics": [
         {
             "type": 8,
             "rating": 1
         },
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "perceptual robotics": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 7,
+            "rating": 3
+        },
+        {
+            "type": 8,
             "rating": 1
         }
     ],
@@ -24941,18 +24951,6 @@
             "rating": 1
         }
     ],
-    "pmt analytics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "playmetech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "pmt traders": [
         {
             "type": 1,
@@ -25592,6 +25590,12 @@
         }
     ],
     "polaris pharma": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "polaris software solutions": [
         {
             "type": 1,
             "rating": 1
@@ -42440,6 +42444,12 @@
         }
     ],
     "pzi international solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "playmetech": [
         {
             "type": 1,
             "rating": 1

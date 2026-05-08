@@ -4281,16 +4281,6 @@
             "rating": 1
         }
     ],
-    "calyx": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "calyx solutions": [
         {
             "type": 1,
@@ -10207,12 +10197,6 @@
             "rating": 1
         }
     ],
-    "care workers union": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "care world agency": [
         {
             "type": 1,
@@ -11284,12 +11268,6 @@
         }
     ],
     "caring hands wiltshire": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "caring hands east london": [
         {
             "type": 1,
             "rating": 1
@@ -23381,6 +23359,12 @@
             "rating": 1
         }
     ],
+    "chempar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "chempney myers": [
         {
             "type": 1,
@@ -24262,12 +24246,6 @@
         }
     ],
     "chesterton community college": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "chestertons global": [
         {
             "type": 1,
             "rating": 1
@@ -28732,6 +28710,10 @@
         }
     ],
     "church of ireland and methodist chaplaincy belfast": [
+        {
+            "type": 3,
+            "rating": 1
+        },
         {
             "type": 5,
             "rating": 3
@@ -38263,12 +38245,6 @@
             "rating": 1
         }
     ],
-    "coda restaurants": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "coda to coda": [
         {
             "type": 1,
@@ -42260,12 +42236,6 @@
         }
     ],
     "compassionate herts": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "compassionate professional care": [
         {
             "type": 1,
             "rating": 1

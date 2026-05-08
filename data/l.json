@@ -4439,12 +4439,6 @@
             "rating": 1
         }
     ],
-    "landvault": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "landvue": [
         {
             "type": 1,
@@ -6755,6 +6749,12 @@
             "rating": 1
         }
     ],
+    "lawnbrook care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lawns": [
         {
             "type": 1,
@@ -7493,6 +7493,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "ldr eduventures pvt": [
+        {
+            "type": 2,
+            "rating": 2
         }
     ],
     "lds repairs": [
@@ -18169,6 +18175,12 @@
             "rating": 1
         }
     ],
+    "liverpool social care partnership cic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "liverpool townhouse": [
         {
             "type": 1,
@@ -21058,6 +21070,12 @@
         }
     ],
     "london & capital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "london & co": [
         {
             "type": 1,
             "rating": 1
