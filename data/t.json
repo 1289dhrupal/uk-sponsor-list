@@ -2469,6 +2469,12 @@
             "rating": 1
         }
     ],
+    "the ganges": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the bun and barrel": [
         {
             "type": 1,
@@ -6627,6 +6633,12 @@
             "rating": 1
         }
     ],
+    "tamarind care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tamarind food": [
         {
             "type": 1,
@@ -8489,12 +8501,6 @@
             "rating": 1
         }
     ],
-    "taste of food": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "taste of gujarat": [
         {
             "type": 1,
@@ -10217,6 +10223,12 @@
             "rating": 1
         }
     ],
+    "tc care global": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tc care": [
         {
             "type": 1,
@@ -10585,6 +10597,12 @@
             "rating": 1
         }
     ],
+    "tea & tips liverpool street": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tea house theatre": [
         {
             "type": 1,
@@ -10784,6 +10802,12 @@
         }
     ],
     "team 17 digital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "team blue internet": [
         {
             "type": 1,
             "rating": 1
@@ -11073,19 +11097,13 @@
             "rating": 1
         }
     ],
-    "teamworkh&c": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "teamworks innovations": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11658,6 +11676,12 @@
         }
     ],
     "techhat": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tech & vape": [
         {
             "type": 1,
             "rating": 1
@@ -13376,10 +13400,6 @@
     "tektronix": [
         {
             "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -16101,11 +16121,11 @@
     ],
     "teya": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16393,11 +16413,11 @@
     ],
     "tga industries": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24301,12 +24321,6 @@
             "rating": 1
         }
     ],
-    "the english cheesecake company": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the english dominican congregation stone": [
         {
             "type": 3,
@@ -31601,20 +31615,14 @@
             "rating": 3
         }
     ],
-    "the national family support service": [
+    "the national gallery": [
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "the national gallery": [
+        },
         {
             "type": 6,
             "rating": 3
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "the national hotel inn": [
@@ -31910,6 +31918,12 @@
         }
     ],
     "the newcastle upon tyne hospitals nhs foundation trust": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the newham hotel": [
         {
             "type": 1,
             "rating": 1
@@ -33597,6 +33611,12 @@
         {
             "type": 4,
             "rating": 3
+        }
+    ],
+    "the pathway funding body": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "the paul hogarth company": [
@@ -35557,6 +35577,12 @@
             "rating": 1
         }
     ],
+    "the renaissance at kelham hall": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the renaissance club at archerfield": [
         {
             "type": 8,
@@ -36051,6 +36077,12 @@
             "rating": 1
         }
     ],
+    "the royal college of ophthalmologists": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the royal college of psychiatrists": [
         {
             "type": 1,
@@ -36355,6 +36387,12 @@
         {
             "type": 12,
             "rating": 3
+        }
+    ],
+    "the saint christopher and nevis international ship registry": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "the salad kitchen": [
@@ -39523,6 +39561,12 @@
             "rating": 1
         }
     ],
+    "the welsh badminton union": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the welsh rugby union": [
         {
             "type": 11,
@@ -40555,12 +40599,6 @@
         {
             "type": 4,
             "rating": 3
-        }
-    ],
-    "thehut com": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "theia insights": [
@@ -41810,12 +41848,6 @@
         }
     ],
     "thistle seafoods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "thistle windows & conservatories": [
         {
             "type": 1,
             "rating": 1
@@ -43099,15 +43131,15 @@
     ],
     "three six zero grp": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 6,
             "rating": 3
         },
         {
             "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -44690,6 +44722,12 @@
         }
     ],
     "tilson solicitors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tilt engineering & design": [
         {
             "type": 1,
             "rating": 1
@@ -46356,12 +46394,6 @@
         }
     ],
     "tlc travel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "tlcare-homes": [
         {
             "type": 1,
             "rating": 1
@@ -48084,6 +48116,12 @@
         }
     ],
     "tonic agency": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tonic studios": [
         {
             "type": 1,
             "rating": 1
@@ -49983,12 +50021,6 @@
             "rating": 1
         }
     ],
-    "total care options": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "total commodities": [
         {
             "type": 1,
@@ -51339,16 +51371,6 @@
             "rating": 1
         }
     ],
-    "tp global operations": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tp icap": [
         {
             "type": 8,
@@ -51366,6 +51388,12 @@
         }
     ],
     "tp jordeson & co t/a jordeson timber": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tp matrix": [
         {
             "type": 1,
             "rating": 1
@@ -54171,12 +54199,6 @@
             "rating": 1
         }
     ],
-    "treehouse batley": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "treehouse dental": [
         {
             "type": 1,
@@ -54907,6 +54929,12 @@
             "rating": 1
         }
     ],
+    "triadic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "triage central": [
         {
             "type": 1,
@@ -55249,6 +55277,12 @@
             "rating": 1
         }
     ],
+    "trigify io": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "trigo adr": [
         {
             "type": 1,
@@ -55484,6 +55518,12 @@
         }
     ],
     "trimstone partnership": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "trimtabs": [
         {
             "type": 1,
             "rating": 1
@@ -58128,6 +58168,12 @@
         }
     ],
     "ts private": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ts tiles and stones": [
         {
             "type": 1,
             "rating": 1

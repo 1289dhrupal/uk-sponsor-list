@@ -1727,6 +1727,12 @@
             "rating": 1
         }
     ],
+    "256 logistics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "25th couriers": [
         {
             "type": 1,
@@ -3929,6 +3935,12 @@
             "rating": 1
         }
     ],
+    "5 star food distribution": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "5 star fruit and veg london": [
         {
             "type": 1,
@@ -5086,12 +5098,6 @@
         }
     ],
     "365 medicare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "1573 bar & grill": [
         {
             "type": 1,
             "rating": 1

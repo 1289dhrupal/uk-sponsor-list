@@ -9819,12 +9819,6 @@
             "rating": 1
         }
     ],
-    "care passion": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "care perfect": [
         {
             "type": 1,
@@ -9964,12 +9958,6 @@
         }
     ],
     "care rehab": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "care remedies": [
         {
             "type": 1,
             "rating": 1
@@ -10354,12 +10342,6 @@
         }
     ],
     "care7": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "careaid": [
         {
             "type": 1,
             "rating": 1
@@ -11412,12 +11394,6 @@
         }
     ],
     "caristo diagnostics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "caritas care solutions": [
         {
             "type": 1,
             "rating": 1
@@ -14117,6 +14093,12 @@
             "rating": 1
         }
     ],
+    "catering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "caterland hospitality": [
         {
             "type": 1,
@@ -14292,12 +14274,6 @@
     "catherine lamacraft": [
         {
             "type": 11,
-            "rating": 1
-        }
-    ],
-    "catherine lodge residential home": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -18872,7 +18848,7 @@
     "ceylex pvt": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "ceylo it solutions": [
@@ -19190,6 +19166,12 @@
         }
     ],
     "cge investments": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cgeuk": [
         {
             "type": 1,
             "rating": 1
@@ -20006,6 +19988,12 @@
         }
     ],
     "champion health plus": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "champion leaflet distribution": [
         {
             "type": 1,
             "rating": 1
@@ -22861,12 +22849,6 @@
             "rating": 1
         }
     ],
-    "chefs of india": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "chefs place": [
         {
             "type": 1,
@@ -23683,12 +23665,6 @@
             "rating": 1
         }
     ],
-    "cherry blossom care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cherry blossom dental care": [
         {
             "type": 1,
@@ -23820,6 +23796,12 @@
         }
     ],
     "cherrysource": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cherrytree care": [
         {
             "type": 1,
             "rating": 1
@@ -24508,6 +24490,12 @@
         }
     ],
     "chg newcastle": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "chg electrical": [
         {
             "type": 1,
             "rating": 1
@@ -27073,12 +27061,6 @@
             "rating": 1
         }
     ],
-    "chosen": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "choton & co ta ck international link": [
         {
             "type": 1,
@@ -27751,6 +27733,24 @@
         {
             "type": 5,
             "rating": 3
+        }
+    ],
+    "christ exalted church": [
+        {
+            "type": 4,
+            "rating": 3
+        },
+        {
+            "type": 5,
+            "rating": 3
+        },
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 1
         }
     ],
     "christ fellowship centre": [
@@ -30149,6 +30149,12 @@
             "rating": 1
         }
     ],
+    "circuit link electrical": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "circuit mind": [
         {
             "type": 1,
@@ -31953,6 +31959,12 @@
             "rating": 1
         }
     ],
+    "cjr propulsion": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cjs managed cloud": [
         {
             "type": 1,
@@ -32959,6 +32971,12 @@
             "rating": 1
         }
     ],
+    "clarke west": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "clarke willmott": [
         {
             "type": 1,
@@ -33481,6 +33499,12 @@
             "rating": 1
         }
     ],
+    "clayton health centre - drs hanif & bannuru practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "clayton medical centre": [
         {
             "type": 1,
@@ -33879,11 +33903,11 @@
     ],
     "clearbank holdings": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -34318,6 +34342,12 @@
         }
     ],
     "cleggs lane practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "clelands of the borders": [
         {
             "type": 1,
             "rating": 1
@@ -40391,6 +40421,12 @@
             "rating": 1
         }
     ],
+    "columbus forty": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "columbus global": [
         {
             "type": 8,
@@ -44557,12 +44593,6 @@
             "rating": 1
         }
     ],
-    "conscience care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "conscious catering": [
         {
             "type": 1,
@@ -44626,6 +44656,12 @@
         }
     ],
     "consett food and wine": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "consett medical centre": [
         {
             "type": 1,
             "rating": 1
@@ -48343,12 +48379,6 @@
             "rating": 1
         }
     ],
-    "cornwallis care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cornwallspice": [
         {
             "type": 1,
@@ -49771,6 +49801,12 @@
             "rating": 3
         }
     ],
+    "coulsdon dental clinic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "coulson and collings care home": [
         {
             "type": 1,
@@ -49912,6 +49948,12 @@
         }
     ],
     "country court care homes 5": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "country court care homes 6": [
         {
             "type": 1,
             "rating": 1
@@ -52221,6 +52263,12 @@
             "rating": 1
         }
     ],
+    "crave motors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "crave-in enterprises": [
         {
             "type": 1,
@@ -52486,6 +52534,12 @@
         }
     ],
     "cream": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cream holdings taunton": [
         {
             "type": 1,
             "rating": 1
@@ -55564,6 +55618,12 @@
         }
     ],
     "crown linen hire": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "crown lodge accommodation": [
         {
             "type": 1,
             "rating": 1

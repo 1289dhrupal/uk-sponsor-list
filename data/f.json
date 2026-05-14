@@ -2511,12 +2511,6 @@
             "rating": 1
         }
     ],
-    "fairy care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fairyland": [
         {
             "type": 1,
@@ -7583,12 +7577,6 @@
             "rating": 1
         }
     ],
-    "fernwood convenience store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ferovinum": [
         {
             "type": 1,
@@ -8414,7 +8402,7 @@
     "fides box and pack": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "fidler & pepper": [
@@ -8713,6 +8701,12 @@
             "rating": 3
         }
     ],
+    "fife curry house": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fife flyers": [
         {
             "type": 11,
@@ -8742,12 +8736,6 @@
         }
     ],
     "fifosys": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fifteen seventy three": [
         {
             "type": 1,
             "rating": 1
@@ -11511,7 +11499,7 @@
             "rating": 1
         }
     ],
-    "first intuition cambridge": [
+    "first intuition east and north": [
         {
             "type": 1,
             "rating": 1
@@ -13351,11 +13339,11 @@
     ],
     "flagship pioneering": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15135,6 +15123,12 @@
             "rating": 1
         }
     ],
+    "flourish healthcare and support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "flourish learning": [
         {
             "type": 1,
@@ -15220,6 +15214,12 @@
         }
     ],
     "flowbird transport": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "flowcopter": [
         {
             "type": 1,
             "rating": 1
@@ -15592,6 +15592,12 @@
         }
     ],
     "fly fu lai aviation": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fly easily travel": [
         {
             "type": 1,
             "rating": 1
@@ -18615,6 +18621,12 @@
             "rating": 1
         }
     ],
+    "forma 5": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "forma advisory": [
         {
             "type": 1,
@@ -19104,10 +19116,6 @@
         }
     ],
     "fortescue zero": [
-        {
-            "type": 7,
-            "rating": 3
-        },
         {
             "type": 8,
             "rating": 1
@@ -20516,6 +20524,12 @@
     "fourquest energy": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "foursquare church great britain": [
+        {
+            "type": 3,
             "rating": 1
         }
     ],
@@ -21974,12 +21988,6 @@
         }
     ],
     "frederic roscop": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fredericia furniture": [
         {
             "type": 1,
             "rating": 1
@@ -26491,6 +26499,12 @@
             "rating": 1
         }
     ],
+    "future connect media": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "future connect recruitment": [
         {
             "type": 1,
@@ -27900,6 +27914,12 @@
         }
     ],
     "fisheracre chip shop": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "foodery": [
         {
             "type": 1,
             "rating": 1

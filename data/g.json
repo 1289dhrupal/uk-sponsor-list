@@ -1331,6 +1331,12 @@
             "rating": 1
         }
     ],
+    "g2 superstore": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "g2 transport": [
         {
             "type": 1,
@@ -8745,12 +8751,6 @@
             "rating": 1
         }
     ],
-    "gevic care agency": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gew2": [
         {
             "type": 1,
@@ -8919,6 +8919,12 @@
             "rating": 1
         }
     ],
+    "gfs flex": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gfs food": [
         {
             "type": 1,
@@ -9032,7 +9038,7 @@
     "ggm gastro": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "ggm stores": [
@@ -18631,6 +18637,12 @@
             "rating": 1
         }
     ],
+    "goldley commercial & trading co": [
+        {
+            "type": 2,
+            "rating": 2
+        }
+    ],
     "goldline fuel hutton": [
         {
             "type": 1,
@@ -20659,6 +20671,16 @@
             "rating": 1
         }
     ],
+    "gozney": [
+        {
+            "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gp acoustics": [
         {
             "type": 7,
@@ -21300,18 +21322,6 @@
         }
     ],
     "grace london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grace manor care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grace manor care centre": [
         {
             "type": 1,
             "rating": 1
@@ -25539,6 +25549,12 @@
             "rating": 1
         }
     ],
+    "greenlam europe": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "greenland united kingdom investment": [
         {
             "type": 8,
@@ -26911,6 +26927,12 @@
             "rating": 1
         }
     ],
+    "grill feast": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "grill hut catering": [
         {
             "type": 1,
@@ -27461,12 +27483,6 @@
             "rating": 1
         }
     ],
-    "grosvenor farms": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "grosvenor gallery fine arts": [
         {
             "type": 1,
@@ -27970,6 +27986,12 @@
         }
     ],
     "growth getters": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "growth hq": [
         {
             "type": 1,
             "rating": 1
@@ -28770,6 +28792,12 @@
         }
     ],
     "gt appliance warehouse": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gt care wakefield": [
         {
             "type": 1,
             "rating": 1
@@ -31075,6 +31103,10 @@
             "rating": 1
         },
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 3,
             "rating": 1
         },
@@ -31368,12 +31400,6 @@
         }
     ],
     "gvinfo": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gvk technologies": [
         {
             "type": 1,
             "rating": 1
@@ -31824,12 +31850,6 @@
         }
     ],
     "ginger indian takeaway": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grampian hotel": [
         {
             "type": 1,
             "rating": 1

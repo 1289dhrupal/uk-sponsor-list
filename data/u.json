@@ -3333,18 +3333,6 @@
             "rating": 1
         }
     ],
-    "unicorn construction": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "unicorn healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "unicorn": [
         {
             "type": 1,
@@ -5133,6 +5121,12 @@
             "rating": 1
         }
     ],
+    "united nepali revival church": [
+        {
+            "type": 5,
+            "rating": 3
+        }
+    ],
     "united overseas bank": [
         {
             "type": 8,
@@ -5491,6 +5485,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "unity for integration project": [
+        {
+            "type": 4,
+            "rating": 3
         }
     ],
     "unity health care solutions": [

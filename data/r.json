@@ -3155,6 +3155,12 @@
             "rating": 1
         }
     ],
+    "racing transmissions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "racing": [
         {
             "type": 1,
@@ -10023,12 +10029,6 @@
             "rating": 1
         }
     ],
-    "rds global": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rdss care": [
         {
             "type": 1,
@@ -12521,12 +12521,6 @@
             "rating": 1
         }
     ],
-    "red restaurants southern": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "red rhino crushers": [
         {
             "type": 1,
@@ -13351,6 +13345,12 @@
             "rating": 1
         }
     ],
+    "redfaire": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "redfire cr": [
         {
             "type": 1,
@@ -13879,12 +13879,6 @@
             "rating": 1
         }
     ],
-    "ree enterprise": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "reecho": [
         {
             "type": 1,
@@ -14104,6 +14098,12 @@
         }
     ],
     "reevate acquisition": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "reeves & co solicitors": [
         {
             "type": 1,
             "rating": 1
@@ -20265,6 +20265,16 @@
             "rating": 1
         }
     ],
+    "rhino products": [
+        {
+            "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rhino rank": [
         {
             "type": 1,
@@ -23187,6 +23197,12 @@
             "rating": 1
         }
     ],
+    "rising tide ai": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rising zal company": [
         {
             "type": 1,
@@ -26094,6 +26110,12 @@
         }
     ],
     "roadside technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "roadster california": [
         {
             "type": 1,
             "rating": 1
@@ -35395,6 +35417,12 @@
         {
             "type": 7,
             "rating": 3
+        }
+    ],
+    "rwg repair & overhauls": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "rwg healthcare": [

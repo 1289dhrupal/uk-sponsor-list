@@ -35,6 +35,12 @@
             "rating": 1
         }
     ],
+    "welltech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "weston convenience store": [
         {
             "type": 1,
@@ -246,12 +252,6 @@
         }
     ],
     "watlington post office stores": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "waterside house": [
         {
             "type": 1,
             "rating": 1
@@ -1348,6 +1348,12 @@
         }
     ],
     "w9 carpets": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wa & bro": [
         {
             "type": 1,
             "rating": 1
@@ -3375,6 +3381,12 @@
             "rating": 1
         }
     ],
+    "warmup": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "warmworks scotland": [
         {
             "type": 1,
@@ -3393,12 +3405,12 @@
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 6,
             "rating": 3
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "warner bros entertainment": [
@@ -3961,6 +3973,12 @@
         {
             "type": 6,
             "rating": 3
+        }
+    ],
+    "waste logics software": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "waste4generation": [
@@ -8064,12 +8082,6 @@
         }
     ],
     "wellspring medical centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "wellspring recruitment and care": [
         {
             "type": 1,
             "rating": 1
@@ -12285,6 +12297,12 @@
             "rating": 1
         }
     ],
+    "white dental": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "white dew": [
         {
             "type": 1,
@@ -12994,6 +13012,12 @@
         }
     ],
     "whiten dry cleaners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "whitepaperco": [
         {
             "type": 1,
             "rating": 1
@@ -13821,12 +13845,6 @@
             "rating": 1
         }
     ],
-    "wijesena": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "wika instruments": [
         {
             "type": 8,
@@ -14373,6 +14391,12 @@
             "rating": 1
         }
     ],
+    "willesden mail": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "willesdens": [
         {
             "type": 1,
@@ -14731,6 +14755,12 @@
             "rating": 1
         }
     ],
+    "willington care village": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "willington cc": [
         {
             "type": 11,
@@ -14886,6 +14916,12 @@
         }
     ],
     "willow pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "willow learn": [
         {
             "type": 1,
             "rating": 1
@@ -16816,12 +16852,6 @@
         },
         {
             "type": 8,
-            "rating": 1
-        }
-    ],
-    "winton property management": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -19653,6 +19683,12 @@
             "rating": 1
         }
     ],
+    "woodlands rest home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "woodlands surgery": [
         {
             "type": 1,
@@ -20303,6 +20339,20 @@
             "rating": 1
         }
     ],
+    "word practitioners ministry": [
+        {
+            "type": 3,
+            "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 3
+        },
+        {
+            "type": 5,
+            "rating": 3
+        }
+    ],
     "word360": [
         {
             "type": 1,
@@ -20392,6 +20442,12 @@
         }
     ],
     "work": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "work nexus labs": [
         {
             "type": 1,
             "rating": 1
@@ -21954,6 +22010,12 @@
         }
     ],
     "wren academy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wren games": [
         {
             "type": 1,
             "rating": 1

@@ -1257,12 +1257,6 @@
             "rating": 1
         }
     ],
-    "oakland primecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oaklands care hove": [
         {
             "type": 1,
@@ -7201,6 +7195,12 @@
             "rating": 1
         }
     ],
+    "on hold communications": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "on line design & engineering": [
         {
             "type": 1,
@@ -13029,6 +13029,12 @@
             "rating": 1
         }
     ],
+    "orion fire engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "orion foods": [
         {
             "type": 1,
@@ -15499,6 +15505,12 @@
             "rating": 1
         }
     ],
+    "overflow solution 11835756": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "overington and roberts": [
         {
             "type": 1,
@@ -15520,7 +15532,7 @@
     "overnight ops": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "overnightsite": [
@@ -15689,11 +15701,11 @@
     ],
     "ovo": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16401,12 +16413,6 @@
             "rating": 1
         }
     ],
-    "oxford human capital incorporated": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oxford immune algorithmics": [
         {
             "type": 1,
@@ -16424,6 +16430,12 @@
         }
     ],
     "oxford indices": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "oxford information labs": [
         {
             "type": 1,
             "rating": 1

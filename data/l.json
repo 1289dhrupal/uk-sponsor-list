@@ -1525,6 +1525,12 @@
             "rating": 1
         }
     ],
+    "la energy solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "la famiglia": [
         {
             "type": 1,
@@ -2585,6 +2591,12 @@
             "rating": 1
         }
     ],
+    "lafayette opco": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lafayette re management": [
         {
             "type": 1,
@@ -3020,6 +3032,12 @@
         }
     ],
     "lakeland veterinary": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lakenham residential care home": [
         {
             "type": 1,
             "rating": 1
@@ -6743,6 +6761,12 @@
             "rating": 1
         }
     ],
+    "lawn dental practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lawn medical centre": [
         {
             "type": 1,
@@ -7484,6 +7508,12 @@
         }
     ],
     "ldn noots": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ldn physio": [
         {
             "type": 1,
             "rating": 1
@@ -8647,6 +8677,12 @@
             "rating": 1
         }
     ],
+    "leconfield property": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lecropt": [
         {
             "type": 1,
@@ -9703,6 +9739,12 @@
             "rating": 1
         }
     ],
+    "leicester cake box": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "leicester chinese christian church": [
         {
             "type": 3,
@@ -10510,7 +10552,7 @@
     "lenwood capital": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "lenz": [
@@ -17847,6 +17889,12 @@
             "rating": 1
         }
     ],
+    "live n care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "live nation music": [
         {
             "type": 8,
@@ -19639,12 +19687,6 @@
             "rating": 1
         }
     ],
-    "local convenience hub": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "local diy building & plumbing supplies": [
         {
             "type": 1,
@@ -20671,11 +20713,11 @@
     ],
     "logistics connect bv": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22543,12 +22585,12 @@
     ],
     "london islamic culture and recreation society": [
         {
-            "type": 5,
-            "rating": 3
-        },
-        {
             "type": 3,
             "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 3
         }
     ],
     "london it training": [
@@ -22568,6 +22610,12 @@
         }
     ],
     "london kensington hotel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "london key real estate": [
         {
             "type": 1,
             "rating": 1
@@ -22920,6 +22968,12 @@
         }
     ],
     "london performance studios cic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "london perrotin": [
         {
             "type": 1,
             "rating": 1
@@ -25331,11 +25385,11 @@
     ],
     "lotus technology innovative": [
         {
-            "type": 1,
+            "type": 8,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26340,6 +26394,12 @@
         }
     ],
     "lowrisc cic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "loxa": [
         {
             "type": 1,
             "rating": 1
@@ -28009,12 +28069,6 @@
             "rating": 1
         }
     ],
-    "lumbahini": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lumbini grocery": [
         {
             "type": 1,
@@ -28415,6 +28469,16 @@
             "rating": 1
         }
     ],
+    "lunalogic": [
+        {
+            "type": 8,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lunar animation": [
         {
             "type": 1,
@@ -28428,6 +28492,12 @@
         }
     ],
     "lunar energy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lunar labs": [
         {
             "type": 1,
             "rating": 1

@@ -2307,12 +2307,6 @@
             "rating": 1
         }
     ],
-    "zee tech security": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "zee s pizza": [
         {
             "type": 1,
@@ -2508,6 +2502,12 @@
             "type": 8,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "zein catering": [
         {
             "type": 1,
             "rating": 1
@@ -5266,7 +5266,7 @@
     "zozo u k": [
         {
             "type": 2,
-            "rating": 2
+            "rating": 1
         }
     ],
     "zpmc": [
