@@ -1,46 +1,4 @@
 {
-    "f-secure": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fab dj": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fareni lifecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fast track consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "five talents": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fusion flavours newcastle": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fylde private gp": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "four in one": [
         {
             "type": 1,
@@ -48,12 +6,6 @@
         }
     ],
     "fonesolutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fone revive": [
         {
             "type": 1,
             "rating": 1
@@ -156,6 +108,12 @@
         }
     ],
     "forte kitchen & interior": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fone revive": [
         {
             "type": 1,
             "rating": 1
@@ -326,15 +284,15 @@
     "family church": [
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 4,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "fusion clan": [
@@ -471,12 +429,12 @@
     ],
     "f b f x": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 3,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 1,
+            "rating": 1
         }
     ],
     "f b downham t/as ashgrove pharmacy": [
@@ -511,11 +469,11 @@
     ],
     "f c brown steel equipment": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -543,7 +501,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -567,11 +525,11 @@
     ],
     "f network holdings": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -619,11 +577,11 @@
     ],
     "f schumacher & co": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -735,30 +693,6 @@
             "rating": 1
         }
     ],
-    "f-m motorparts": [
-        {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "f-prime branch": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 1
-        }
-    ],
     "f b ellmer": [
         {
             "type": 1,
@@ -771,7 +705,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -783,7 +717,7 @@
     ],
     "f list": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -805,14 +739,14 @@
     ],
     "f b e associates": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "franky bollywood": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "f c l frozens manchester": [
@@ -871,15 +805,15 @@
     ],
     "f/ce london lab": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
+            "type": 7,
             "rating": 1
         },
         {
             "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -945,7 +879,7 @@
     ],
     "f5 networks": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -955,11 +889,11 @@
     ],
     "f50 league gb": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1011,23 +945,17 @@
             "rating": 1
         }
     ],
-    "fa-ibi": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "faaborg pharma": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
+            "type": 7,
             "rating": 1
         },
         {
             "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1062,6 +990,12 @@
         }
     ],
     "fab cakes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fab dj": [
         {
             "type": 1,
             "rating": 1
@@ -1159,7 +1093,7 @@
     ],
     "fabio lavina": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -1201,8 +1135,8 @@
     ],
     "fabric life": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         },
         {
             "type": 1,
@@ -1259,11 +1193,11 @@
     ],
     "fabrique": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1312,7 +1246,7 @@
     "fabulatte": [
         {
             "type": 1,
-            "rating": 4
+            "rating": 3
         }
     ],
     "fabulous direct": [
@@ -1389,7 +1323,7 @@
     ],
     "facctum solutions": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -1427,7 +1361,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1445,7 +1379,7 @@
     ],
     "facephi beyond biometrics": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -1539,31 +1473,31 @@
     ],
     "factal": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "factor law": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "factor": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1587,11 +1521,11 @@
     ],
     "factset europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1621,11 +1555,11 @@
     ],
     "fadaat media": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1685,11 +1619,11 @@
     ],
     "faegre drinker biddle & reath": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1759,6 +1693,12 @@
             "rating": 1
         }
     ],
+    "fa-ibi": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "faic": [
         {
             "type": 1,
@@ -1791,7 +1731,7 @@
     ],
     "fair consulting": [
         {
-            "type": 8,
+            "type": 7,
             "rating": 1
         },
         {
@@ -1851,17 +1791,17 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "fair justice system for scotland": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1945,11 +1885,11 @@
     ],
     "fairbanks environmental": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1967,7 +1907,7 @@
     ],
     "fairburn cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -2031,7 +1971,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2259,11 +2199,11 @@
     ],
     "fairmont hotels and resorts": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2377,7 +2317,7 @@
     ],
     "fairview beaconhurst": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2473,8 +2413,8 @@
     ],
     "fairways accommodation support trust": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "fairways care": [
@@ -2503,11 +2443,11 @@
     ],
     "fairwind installation": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2597,11 +2537,11 @@
     ],
     "faith dressage": [
         {
-            "type": 1,
+            "type": 9,
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2625,8 +2565,8 @@
     ],
     "faith in christ christian ministries": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "faith in me homecare": [
@@ -2643,24 +2583,24 @@
     ],
     "faith ministries": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
     "faith ministries churches": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
     "faith miracle church": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "faith montessori nursery": [
@@ -2681,8 +2621,8 @@
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "faith stones": [
@@ -2693,17 +2633,11 @@
     ],
     "faith tabernacle church kettering": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
     "faith worldwide": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "faith s walk healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -2724,11 +2658,11 @@
     "faithful companions of jesus charitable incorporated organisation": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "faithful friend trusty scout": [
@@ -2745,7 +2679,7 @@
     ],
     "faithlife centre ministries": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
@@ -2753,12 +2687,18 @@
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 5,
-            "rating": 3
+            "type": 8,
+            "rating": 2
+        }
+    ],
+    "faith s walk healthcare": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "faithstar": [
@@ -2781,11 +2721,11 @@
     ],
     "faizan - e- rasool education centre": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2797,25 +2737,25 @@
     ],
     "faizan e islam": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "faizan e madina rochdale": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
         }
     ],
@@ -2825,132 +2765,132 @@
             "rating": 1
         }
     ],
-    "faizan-e-islam edecational and culturaltruscentre": [
-        {
-            "type": 4,
-            "rating": 3
-        },
+    "faizane madina mosque committee trust": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
+        }
+    ],
+    "faizan-e-islam edecational and culturaltruscentre": [
+        {
+            "type": 5,
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "faizan-e-madina accrington": [
         {
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 3
         }
     ],
     "faizan-e-madina bradford": [
         {
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 3
         }
     ],
     "faizan-e-madina bristol": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "faizan-e-madina derby": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "faizan-e-madina halifax": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "faizan-e-madina slough": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
         }
     ],
     "faizan-e-madina southend": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
     "faizan-e-madina stechford": [
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "faizan-e-madinah rotherham": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "faizan-e-mustafa": [
         {
-            "type": 5,
-            "rating": 3
-        }
-    ],
-    "faizane madina mosque committee trust": [
-        {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "faizi fashion": [
@@ -3093,7 +3033,7 @@
     ],
     "falcon coffees": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -3113,8 +3053,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "falcon couriers and logistics": [
@@ -3165,7 +3105,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3315,7 +3255,7 @@
     ],
     "falkirk football and athletic club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -3339,7 +3279,7 @@
     ],
     "falkland cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -3351,16 +3291,16 @@
     ],
     "fallen angels dance theatre north west": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "fallibroome academy": [
@@ -3387,8 +3327,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "falmouth visionplus": [
@@ -3423,18 +3363,18 @@
     ],
     "faltec europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "falun dafa association": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "fam international": [
@@ -3551,12 +3491,6 @@
             "rating": 1
         }
     ],
-    "family choice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "family choice food": [
         {
             "type": 1,
@@ -3588,6 +3522,12 @@
         }
     ],
     "family choice r&v": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "family choice": [
         {
             "type": 1,
             "rating": 1
@@ -3643,7 +3583,7 @@
     ],
     "family federation for world peace and unification": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3763,8 +3703,8 @@
     ],
     "family unit trust": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "family works fostering": [
@@ -3835,11 +3775,11 @@
     ],
     "fanatics international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3869,11 +3809,11 @@
     ],
     "fancy lifestyle": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3885,11 +3825,11 @@
     ],
     "fandom-": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3899,7 +3839,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3917,17 +3857,17 @@
     ],
     "fannin": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
     "fanos": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -3949,11 +3889,11 @@
     ],
     "fanscar": [
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3965,12 +3905,12 @@
     ],
     "fantasia productions": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "fantastic floor": [
@@ -3993,7 +3933,7 @@
     ],
     "fantasy world": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -4023,11 +3963,11 @@
     ],
     "far east facade": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4039,7 +3979,7 @@
     ],
     "far east orchard management": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -4054,12 +3994,6 @@
         }
     ],
     "far westfield farm": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "far-": [
         {
             "type": 1,
             "rating": 1
@@ -4125,7 +4059,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4189,6 +4123,12 @@
             "rating": 1
         }
     ],
+    "fareni lifecare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fareport training organisation": [
         {
             "type": 1,
@@ -4201,18 +4141,18 @@
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "fareshare yorkshire": [
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "fareye technologies pvt": [
@@ -4223,11 +4163,11 @@
     ],
     "farfetch": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4269,11 +4209,11 @@
     ],
     "faria education": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4285,7 +4225,7 @@
     ],
     "farient advisors": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -4317,13 +4257,13 @@
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "farleigh school": [
         {
-            "type": 11,
+            "type": 5,
             "rating": 1
         },
         {
@@ -4331,12 +4271,12 @@
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 9,
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "farley nursery school": [
@@ -4395,8 +4335,8 @@
     ],
     "farm yard circus": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "farmaceutics healthcare": [
@@ -4485,11 +4425,11 @@
     ],
     "farmland reserve": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4555,8 +4495,8 @@
     ],
     "farnham maltings": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "farnham park health": [
@@ -4591,23 +4531,23 @@
     ],
     "farnsfield cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
     "farnworth baptist church/tlg bolton": [
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         }
     ],
     "farnworth cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -4629,7 +4569,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4671,11 +4611,11 @@
     ],
     "farra marine": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4711,16 +4651,16 @@
     ],
     "farrel": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "farrell & choudhary": [
@@ -4791,7 +4731,7 @@
     ],
     "farrington polo": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -4850,6 +4790,12 @@
         }
     ],
     "fartown dental practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "far-": [
         {
             "type": 1,
             "rating": 1
@@ -5037,7 +4983,7 @@
     ],
     "fasken martineau": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -5245,11 +5191,11 @@
     ],
     "fast retailing": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5272,6 +5218,12 @@
         }
     ],
     "fast tex": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fast track consultancy": [
         {
             "type": 1,
             "rating": 1
@@ -5363,11 +5315,11 @@
     ],
     "fastenal europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5409,17 +5361,17 @@
     ],
     "fasthosts internet": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fastino": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -5459,17 +5411,17 @@
     ],
     "fastly": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fastmarkets global": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -5557,11 +5509,11 @@
     ],
     "fat llama": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5615,7 +5567,7 @@
     ],
     "fata automation": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5819,26 +5771,26 @@
     ],
     "fauna & flora international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "faurecia": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "faved": [
@@ -5891,8 +5843,8 @@
     ],
     "favour house": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "favourit foods": [
@@ -5945,16 +5897,16 @@
     ],
     "fayat lifting": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "faye": [
@@ -5971,8 +5923,8 @@
     ],
     "faynuus hope community": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "faysha": [
@@ -6047,12 +5999,6 @@
             "rating": 1
         }
     ],
-    "fb-h": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fba couriers": [
         {
             "type": 1,
@@ -6061,11 +6007,11 @@
     ],
     "fba technical": [
         {
-            "type": 15,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 15,
             "rating": 1
         }
     ],
@@ -6088,6 +6034,12 @@
         }
     ],
     "fbc warehouse": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fb-h": [
         {
             "type": 1,
             "rating": 1
@@ -6167,21 +6119,21 @@
     ],
     "fcb health london": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fcb inferno": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6197,21 +6149,21 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "fcc environment": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6247,11 +6199,11 @@
     ],
     "fcmb bank": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6293,11 +6245,11 @@
     ],
     "fd technologies": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6373,7 +6325,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6390,12 +6342,6 @@
         }
     ],
     "fe care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fe-ger trading": [
         {
             "type": 1,
             "rating": 1
@@ -6445,7 +6391,7 @@
     ],
     "fearnleys shipbrokers": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -6497,7 +6443,7 @@
     ],
     "featherstone rovers rlfc": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -6509,8 +6455,8 @@
     ],
     "featuristic breathe deep": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "feb bros ta usa fried & peri peri chicken": [
@@ -6579,12 +6525,12 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "federated financial technology": [
@@ -6595,11 +6541,11 @@
     ],
     "federated hermes": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6617,25 +6563,25 @@
     ],
     "federation of synagogues": [
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "fedex express": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6707,7 +6653,7 @@
     ],
     "feedzai": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -6775,11 +6721,17 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "feg": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fe-ger trading": [
         {
             "type": 1,
             "rating": 1
@@ -6823,8 +6775,8 @@
     ],
     "feisean nan gaidheal": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "feist hedgethorne": [
@@ -6859,11 +6811,11 @@
     ],
     "feld entertainment": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6909,13 +6861,13 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 4,
             "rating": 1
         }
     ],
     "felixstowe and corinthians cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -6945,7 +6897,7 @@
     ],
     "felling cricket club cic": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -6969,16 +6921,16 @@
     ],
     "fellowship of churches of christ": [
         {
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 3
         }
     ],
     "fellpack": [
@@ -7079,7 +7031,7 @@
     ],
     "fenchem gb": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -7113,11 +7065,11 @@
     ],
     "fendi": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7375,7 +7327,7 @@
     ],
     "ferguslie cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -7589,23 +7541,23 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "ferrari": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
     "ferrari n v branch": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -7615,7 +7567,7 @@
     ],
     "ferrari north europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -7631,11 +7583,11 @@
     ],
     "ferrero": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7653,11 +7605,11 @@
     ],
     "ferroglobe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7669,16 +7621,16 @@
     ],
     "ferrovial construction": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "ferry road mini market": [
@@ -7750,11 +7702,11 @@
     "festival church": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "festival republic": [
@@ -7769,7 +7721,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7799,18 +7751,18 @@
     ],
     "fev": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fevered sleep": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "fevertree": [
@@ -8007,11 +7959,11 @@
     ],
     "fgs global": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8113,7 +8065,7 @@
     ],
     "fho racing": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -8149,31 +8101,31 @@
     ],
     "fiamm": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fiat chrysler automobiles": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fiat vouge": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8183,13 +8135,13 @@
             "rating": 1
         }
     ],
-    "fibe": [
+    "fiberlean technologies": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "fiberlean technologies": [
+    "fibe": [
         {
             "type": 1,
             "rating": 1
@@ -8221,14 +8173,8 @@
     ],
     "fibre technology": [
         {
-            "type": 7,
-            "rating": 3
-        }
-    ],
-    "fibre-tech industries": [
-        {
-            "type": 1,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "fibrelite composites": [
@@ -8237,9 +8183,15 @@
             "rating": 1
         }
     ],
+    "fibre-tech industries": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fibretrace technologies": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -8249,11 +8201,11 @@
     ],
     "fibrisol service": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8313,17 +8265,17 @@
     ],
     "fidante partners europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fidbank": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -8351,11 +8303,11 @@
     ],
     "fidelis marketing": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8379,7 +8331,7 @@
     ],
     "fidenda": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -8401,7 +8353,7 @@
     ],
     "fides box and pack": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -8455,7 +8407,7 @@
     ],
     "fiege logistics dirft": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -8487,7 +8439,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8547,12 +8499,12 @@
     ],
     "field io": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "fieldbase": [
@@ -8573,7 +8525,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8625,7 +8577,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8637,8 +8589,8 @@
     ],
     "fierce festival": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         },
         {
             "type": 1,
@@ -8659,12 +8611,12 @@
     ],
     "fiery angel": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "fiery tandoor": [
@@ -8697,8 +8649,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "fife curry house": [
@@ -8709,7 +8661,7 @@
     ],
     "fife flyers": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         },
         {
@@ -8761,16 +8713,16 @@
     ],
     "fifth season": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "fifthdelta": [
@@ -8809,12 +8761,6 @@
             "rating": 1
         }
     ],
-    "fifty-two specialist cars": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fiftynet": [
         {
             "type": 1,
@@ -8822,6 +8768,12 @@
         }
     ],
     "fiftytwo 7 care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fifty-two specialist cars": [
         {
             "type": 1,
             "rating": 1
@@ -8847,17 +8799,17 @@
     ],
     "fighting words northern ireland": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "figma": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8881,11 +8833,11 @@
     ],
     "figured software": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8903,15 +8855,15 @@
     ],
     "fiit": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
+            "rating": 2
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8923,11 +8875,11 @@
     ],
     "fil investment management": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9053,14 +9005,14 @@
     ],
     "film magic": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "film producers of": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "filmchain": [
@@ -9081,7 +9033,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9146,18 +9098,6 @@
         }
     ],
     "fin center": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fin-ex property no 4": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fin-solutions": [
         {
             "type": 1,
             "rating": 1
@@ -9297,11 +9237,11 @@
     ],
     "financial recovery technologies": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9325,7 +9265,7 @@
     ],
     "financial supervisory service": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9371,7 +9311,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9455,13 +9395,13 @@
     ],
     "finchampstead baptist church": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
     "finchampstead cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -9503,11 +9443,11 @@
     ],
     "fincons consulting": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9519,7 +9459,7 @@
     ],
     "fincra technologies": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -9565,8 +9505,8 @@
     ],
     "finda global": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "findel education": [
@@ -9589,16 +9529,16 @@
     ],
     "findhorn foundation": [
         {
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 3
         }
     ],
     "findhorn innovation research and education cic": [
@@ -9747,7 +9687,7 @@
     ],
     "fine organics": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9763,8 +9703,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "fine point glass london": [
@@ -9803,13 +9743,13 @@
             "rating": 1
         }
     ],
-    "fine-cast foundry": [
+    "fineat": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "fineat": [
+    "fine-cast foundry": [
         {
             "type": 1,
             "rating": 1
@@ -9859,17 +9799,17 @@
     ],
     "fineos": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fineqia": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -9967,6 +9907,12 @@
             "rating": 1
         }
     ],
+    "fin-ex property no 4": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "finexos holdings": [
         {
             "type": 1,
@@ -10029,11 +9975,11 @@
     ],
     "finiq solutions": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10081,11 +10027,11 @@
     ],
     "finmechanics": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10125,7 +10071,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10135,17 +10081,17 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "finning": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10175,11 +10121,11 @@
     ],
     "finquest": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10197,7 +10143,7 @@
     ],
     "finsa": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10215,15 +10161,21 @@
     ],
     "finsight": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
     "finsoft consultancy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fin-solutions": [
         {
             "type": 1,
             "rating": 1
@@ -10255,7 +10207,7 @@
     ],
     "finster ai": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -10289,11 +10241,11 @@
     ],
     "fintech partners": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10335,17 +10287,17 @@
     ],
     "fintegral": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fintern": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -10433,7 +10385,7 @@
     ],
     "fiorano software": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10559,8 +10511,8 @@
     ],
     "fire service college": [
         {
-            "type": 12,
-            "rating": 3
+            "type": 11,
+            "rating": 2
         }
     ],
     "fire suppression technology": [
@@ -10570,12 +10522,6 @@
         }
     ],
     "fire systems": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fire-serv midlands": [
         {
             "type": 1,
             "rating": 1
@@ -10721,7 +10667,7 @@
     ],
     "fireblocks int l": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -10737,7 +10683,7 @@
     ],
     "firecracker works": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -10807,27 +10753,27 @@
     ],
     "firemate": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "firemind": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "firemon": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10838,6 +10784,12 @@
         }
     ],
     "fireproof studios": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fire-serv midlands": [
         {
             "type": 1,
             "rating": 1
@@ -10941,16 +10893,16 @@
     ],
     "firmenich": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "firmer terrain": [
@@ -10965,7 +10917,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11005,8 +10957,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "first active 365 homecare": [
@@ -11017,11 +10969,11 @@
     ],
     "first advantage europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11309,7 +11261,7 @@
     ],
     "first commercial bank": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11508,11 +11460,11 @@
     "first ipc presbytery of england": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "first kare academy": [
@@ -11613,8 +11565,8 @@
     ],
     "first model management london": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "first network": [
@@ -11667,7 +11619,7 @@
     ],
     "first presbyterian church non-subscribing dromore": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11679,11 +11631,11 @@
     ],
     "first protocol event management": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11701,11 +11653,11 @@
     ],
     "first quantum minerals": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11715,7 +11667,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11775,11 +11727,11 @@
     ],
     "first sentier investors": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11863,11 +11815,11 @@
     ],
     "first trust global portfolios": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11883,13 +11835,13 @@
             "rating": 1
         }
     ],
-    "first": [
+    "first security": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "first security": [
+    "first": [
         {
             "type": 1,
             "rating": 1
@@ -11903,7 +11855,7 @@
     ],
     "first up s l u": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -11929,25 +11881,13 @@
             "rating": 1
         }
     ],
-    "first-string homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "first4you management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "firstbank": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12043,16 +11983,16 @@
     ],
     "firstrand bank london branch": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "firstsmile": [
@@ -12063,11 +12003,11 @@
     ],
     "firstsource solutions": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12077,13 +12017,19 @@
             "rating": 1
         }
     ],
+    "first-string homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "firstup": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12113,17 +12059,17 @@
     ],
     "firwood bootle cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
     "fis capital markets": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12181,7 +12127,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12263,7 +12209,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12287,11 +12233,11 @@
     ],
     "fisher investments europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12333,16 +12279,16 @@
     ],
     "fishers of men outreach": [
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "fisherton dental care": [
@@ -12425,11 +12371,11 @@
     ],
     "fiskars": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12463,7 +12409,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12493,7 +12439,7 @@
     ],
     "fitminds strategy consulting": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -12649,16 +12595,16 @@
     ],
     "fitzwalter capital": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "fitzwilliam college in the university of cambridge": [
@@ -12723,11 +12669,11 @@
     ],
     "five guys jv": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12745,8 +12691,8 @@
     ],
     "five mile films": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "five oak green pet surgery": [
@@ -12773,7 +12719,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12885,6 +12831,12 @@
             "rating": 1
         }
     ],
+    "five talents": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "five tech": [
         {
             "type": 1,
@@ -12905,27 +12857,27 @@
     ],
     "five9": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fivefold studios": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "fiver london": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12937,7 +12889,7 @@
     ],
     "fives and heronians cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -12949,11 +12901,11 @@
     ],
     "fives landis": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12965,11 +12917,11 @@
     ],
     "fivesky": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12985,13 +12937,13 @@
             "rating": 1
         }
     ],
-    "fiveways convenience store": [
+    "fiveways convenience store skellow": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "fiveways convenience store skellow": [
+    "fiveways convenience store": [
         {
             "type": 1,
             "rating": 1
@@ -13215,11 +13167,11 @@
     ],
     "fk facades": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13255,7 +13207,7 @@
     ],
     "fkn facades": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -13269,18 +13221,18 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "fkp scorpio": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 3,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 1,
+            "rating": 1
         }
     ],
     "fks clinic": [
@@ -13339,7 +13291,7 @@
     ],
     "flagship pioneering": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -13413,7 +13365,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13431,7 +13383,7 @@
     ],
     "flamco": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -13535,14 +13487,14 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "flamingo land": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "flamingo pharma": [
@@ -13691,21 +13643,21 @@
     ],
     "flatiron health": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "flatirons solutions": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13717,7 +13669,7 @@
     ],
     "flatpay aps": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -13965,7 +13917,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14049,11 +14001,11 @@
     ],
     "fleetcor europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14095,7 +14047,7 @@
     ],
     "fleetwood cricket & sports club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -14107,7 +14059,7 @@
     ],
     "fleetwood wanderers": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         },
         {
@@ -14147,11 +14099,11 @@
     ],
     "flender": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14169,8 +14121,8 @@
     ],
     "flesh ripping sonic torment": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "fletcher crane architects": [
@@ -14271,11 +14223,11 @@
     ],
     "flexera software": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14429,7 +14381,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14453,11 +14405,11 @@
     ],
     "flexport international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14485,7 +14437,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14497,11 +14449,11 @@
     ],
     "flextronics global manchester": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14559,7 +14511,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14607,11 +14559,11 @@
     ],
     "flightsafety international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14653,11 +14605,11 @@
     ],
     "flint ink u k": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14681,7 +14633,7 @@
     ],
     "flintec": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -14691,11 +14643,11 @@
     ],
     "flintfox europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14737,7 +14689,7 @@
     ],
     "flitwick cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -14777,7 +14729,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14837,7 +14789,7 @@
     ],
     "flokk": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -14883,11 +14835,11 @@
     ],
     "floqast": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14909,7 +14861,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14927,8 +14879,8 @@
     ],
     "floral haven": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "floral street fragrances": [
@@ -14985,13 +14937,13 @@
             "rating": 1
         }
     ],
-    "florence house": [
+    "florence house medical practice": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "florence house medical practice": [
+    "florence house": [
         {
             "type": 1,
             "rating": 1
@@ -15035,11 +14987,11 @@
     ],
     "florida state university international programs association": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15057,7 +15009,7 @@
     ],
     "flos": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -15085,21 +15037,15 @@
     ],
     "flotation energy": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
     "flour to the people": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "flourish": [
         {
             "type": 1,
             "rating": 1
@@ -15142,6 +15088,12 @@
         }
     ],
     "flourishlife care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "flourish": [
         {
             "type": 1,
             "rating": 1
@@ -15345,7 +15297,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15385,7 +15337,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15493,7 +15445,7 @@
     ],
     "fluke": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -15503,16 +15455,16 @@
     ],
     "fluor": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "fluoro": [
@@ -15565,11 +15517,11 @@
     ],
     "flutterwave": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15711,8 +15663,8 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 6,
+            "rating": 2
         }
     ],
     "flying start day nursery chigwell": [
@@ -15795,11 +15747,11 @@
     ],
     "flywire payments": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15853,11 +15805,11 @@
     ],
     "fm insurance europe s a branch": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15871,6 +15823,20 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "f-m motorparts": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "fm&zm": [
@@ -15887,16 +15853,16 @@
     ],
     "fmc technologies": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "fmcc enterprise": [
@@ -15931,16 +15897,16 @@
     ],
     "fmdm foundation cio": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 3,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 3
         }
     ],
     "fmj solutions": [
@@ -15955,7 +15921,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -16001,7 +15967,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -16061,11 +16027,11 @@
     ],
     "fnz": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -16119,11 +16085,11 @@
     ],
     "focchi": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -16243,11 +16209,11 @@
     ],
     "focus finder": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16311,12 +16277,6 @@
             "rating": 1
         }
     ],
-    "focus-on-care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "focused equine": [
         {
             "type": 1,
@@ -16330,6 +16290,12 @@
         }
     ],
     "focused payroll": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "focus-on-care": [
         {
             "type": 1,
             "rating": 1
@@ -16413,12 +16379,12 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "folium food science": [
@@ -16429,7 +16395,7 @@
     ],
     "folkestone cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -16495,8 +16461,8 @@
     ],
     "fomo models & creative": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "fomtech floww": [
@@ -16505,7 +16471,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 4,
             "rating": 1
         }
     ],
@@ -16647,13 +16613,13 @@
             "rating": 1
         }
     ],
-    "fone mart": [
+    "fone mart alton": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "fone mart alton": [
+    "fone mart": [
         {
             "type": 1,
             "rating": 1
@@ -16743,13 +16709,13 @@
             "rating": 1
         }
     ],
-    "fone-central": [
+    "fonebook": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "fonebook": [
+    "fone-central": [
         {
             "type": 1,
             "rating": 1
@@ -16817,7 +16783,7 @@
     ],
     "fonoa technologies": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -16983,8 +16949,8 @@
     ],
     "food for all africa": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "food for thought kew": [
@@ -17019,12 +16985,12 @@
     ],
     "food hall": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "food hives": [
@@ -17195,13 +17161,13 @@
             "rating": 1
         }
     ],
-    "food zone": [
+    "food zone ta raj kitchen": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "food zone ta raj kitchen": [
+    "food zone": [
         {
             "type": 1,
             "rating": 1
@@ -17419,17 +17385,17 @@
     ],
     "football association": [
         {
-            "type": 11,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 9,
             "rating": 1
         }
     ],
     "football association of wales": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         },
         {
@@ -17563,18 +17529,6 @@
             "rating": 1
         }
     ],
-    "for-a": [
-        {
-            "type": 8,
-            "rating": 1
-        }
-    ],
-    "for-sight": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fora city restaurant": [
         {
             "type": 1,
@@ -17587,6 +17541,12 @@
             "rating": 1
         }
     ],
+    "for-a": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "forada": [
         {
             "type": 1,
@@ -17595,16 +17555,16 @@
     ],
     "forage operations": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "foragers ai": [
@@ -17661,8 +17621,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "force engineering": [
@@ -17673,8 +17633,8 @@
     ],
     "force hire equipment": [
         {
-            "type": 2,
-            "rating": 2
+            "type": 7,
+            "rating": 4
         }
     ],
     "force maintenance team": [
@@ -17701,7 +17661,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -17749,16 +17709,16 @@
     ],
     "ford motor company": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "ford retail": [
@@ -17797,13 +17757,13 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "fordhouses cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -17923,11 +17883,11 @@
     ],
     "forensic risk alliance": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -17951,11 +17911,11 @@
     ],
     "forescout technologies": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -18057,8 +18017,8 @@
     ],
     "forest gate central masjid": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "forest gate fish mela": [
@@ -18177,12 +18137,12 @@
     ],
     "forest peoples programme": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 1,
+            "rating": 1
         }
     ],
     "forest poultry": [
@@ -18247,11 +18207,11 @@
     ],
     "forester holdings europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -18371,8 +18331,8 @@
     ],
     "forever pictures": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "forever warm homes": [
@@ -18395,7 +18355,7 @@
     ],
     "forfar athletic football club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -18441,13 +18401,13 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "forfarshire cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -18471,7 +18431,7 @@
     ],
     "forge europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -18547,7 +18507,7 @@
     ],
     "foris gfs": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -18582,19 +18542,19 @@
     "forkania education & cultural centre": [
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 4,
-            "rating": 3
+            "rating": 1
         },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "forklift hire and sales": [
@@ -18635,7 +18595,7 @@
     ],
     "forma brands": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -18655,7 +18615,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -18733,7 +18693,7 @@
     ],
     "formby cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -18745,12 +18705,12 @@
     ],
     "formech international": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 6,
+            "rating": 2
         }
     ],
     "formedix": [
@@ -18767,11 +18727,11 @@
     ],
     "formica": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -18811,7 +18771,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -18823,16 +18783,16 @@
     ],
     "formula one management": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "formula recruitment": [
@@ -18907,7 +18867,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -18935,6 +18895,12 @@
             "rating": 1
         }
     ],
+    "for-sight": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "forsman and bodenfors london": [
         {
             "type": 1,
@@ -18943,11 +18909,11 @@
     ],
     "forsta worldwide": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19047,17 +19013,17 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
     "fortegra europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19081,21 +19047,21 @@
     ],
     "forter solutions": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "forterro": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19107,7 +19073,7 @@
     ],
     "fortescue": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -19117,7 +19083,7 @@
     ],
     "fortescue zero": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -19157,7 +19123,7 @@
     ],
     "forth point analytics": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -19197,8 +19163,8 @@
     ],
     "forthspring inter community": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "forthstar": [
@@ -19209,11 +19175,11 @@
     ],
     "fortil": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19225,11 +19191,11 @@
     ],
     "fortinet": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19265,11 +19231,11 @@
     ],
     "fortis games": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19281,11 +19247,11 @@
     ],
     "fortis mondial": [
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19321,11 +19287,11 @@
     ],
     "fortna": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19367,11 +19333,11 @@
     ],
     "fortrea development": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19411,7 +19377,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19439,17 +19405,17 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "fortum o&m": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19483,7 +19449,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19537,7 +19503,7 @@
     ],
     "fortune media": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -19685,15 +19651,15 @@
     ],
     "forum for the future": [
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
             "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19711,26 +19677,26 @@
     ],
     "forvis global advisory": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "forvis mazars": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "forward associates": [
@@ -19765,7 +19731,7 @@
     ],
     "forward in faith ministries international": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19801,11 +19767,11 @@
     ],
     "forwessun international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19941,12 +19907,6 @@
             "rating": 1
         }
     ],
-    "foster s primary school": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fostering innovations": [
         {
             "type": 1,
@@ -19954,6 +19914,12 @@
         }
     ],
     "fosters off licence": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "foster s primary school": [
         {
             "type": 1,
             "rating": 1
@@ -19973,11 +19939,11 @@
     ],
     "fosun management": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -20019,8 +19985,8 @@
     ],
     "found entertainment": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "found": [
@@ -20067,8 +20033,8 @@
     ],
     "foundation matters": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "foundation of lady katherine leveson": [
@@ -20095,7 +20061,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -20179,11 +20145,11 @@
     ],
     "fount": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20225,16 +20191,16 @@
     ],
     "fountain of love rccg": [
         {
-            "type": 3,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
+            "type": 10,
+            "rating": 2
+        },
+        {
             "type": 5,
-            "rating": 3
+            "rating": 1
         }
     ],
     "fountain": [
@@ -20269,7 +20235,7 @@
     ],
     "fountains of knowledge": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20287,11 +20253,11 @@
     ],
     "four agency worldwide": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -20411,17 +20377,11 @@
     ],
     "four quarters polo": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
     "four s auto service": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "four seasons": [
         {
             "type": 1,
             "rating": 1
@@ -20447,9 +20407,15 @@
     ],
     "four seasons hotel london at tower bridge": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "four seasons": [
         {
             "type": 1,
             "rating": 1
@@ -20497,12 +20463,6 @@
             "rating": 1
         }
     ],
-    "four-square design & build": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fouracres care": [
         {
             "type": 1,
@@ -20529,18 +20489,24 @@
     ],
     "foursquare church great britain": [
         {
-            "type": 3,
+            "type": 5,
+            "rating": 1
+        }
+    ],
+    "four-square design & build": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
     "foursquare gospel church praise chapel": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "fourstones paper mill co": [
@@ -20575,11 +20541,11 @@
     ],
     "fourth": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -20729,7 +20695,7 @@
     ],
     "fox head britain": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -20739,13 +20705,13 @@
     ],
     "fox lodge cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
     "fox marble": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -20764,38 +20730,6 @@
     "fox williams": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "fox s biscuits": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fox s burton s companies fbc": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 1
-        }
-    ],
-    "fox s marina ipswich": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fox-pitt eventing": [
-        {
-            "type": 11,
             "rating": 1
         }
     ],
@@ -20878,6 +20812,38 @@
         }
     ],
     "foxon media": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fox-pitt eventing": [
+        {
+            "type": 9,
+            "rating": 1
+        }
+    ],
+    "fox s biscuits": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "fox s burton s companies fbc": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fox s marina ipswich": [
         {
             "type": 1,
             "rating": 1
@@ -21003,7 +20969,17 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "f-prime branch": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21015,11 +20991,11 @@
     ],
     "fpt software united kingdom": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21029,12 +21005,12 @@
             "rating": 1
         },
         {
-            "type": 13,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 12,
+            "rating": 2
         }
     ],
     "fr solicitors": [
@@ -21057,7 +21033,7 @@
     ],
     "fractal analytics": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -21097,16 +21073,16 @@
     ],
     "fragomen": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 12,
-            "rating": 3
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "fragrance couture": [
@@ -21133,13 +21109,13 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "framatome": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -21161,12 +21137,12 @@
     ],
     "framestore": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "framework edinburgh": [
@@ -21187,8 +21163,8 @@
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "framlingham medical practice": [
@@ -21253,11 +21229,11 @@
     ],
     "franchise brands": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21342,68 +21318,68 @@
     "franciscan daughters of the immaculate heart": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "franciscan missionaries of mary cio": [
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "franciscan missionaries of st joseph": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
     "franciscan missionary sisters of littlehampton": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "franciscan servants of mary trust": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
         }
     ],
     "franciscan sisters of the heart of jesus": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21415,11 +21391,11 @@
     ],
     "francisco partners operations": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21447,12 +21423,6 @@
             "rating": 1
         }
     ],
-    "franco s bakery 2003": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "francob": [
         {
             "type": 1,
@@ -21460,6 +21430,12 @@
         }
     ],
     "francois square": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "franco s bakery 2003": [
         {
             "type": 1,
             "rating": 1
@@ -21495,13 +21471,13 @@
             "rating": 1
         }
     ],
-    "frangoz": [
+    "frangoz wolv": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "frangoz wolv": [
+    "frangoz": [
         {
             "type": 1,
             "rating": 1
@@ -21545,11 +21521,11 @@
     ],
     "frank hirth": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21613,7 +21589,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21647,7 +21623,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21689,11 +21665,11 @@
     ],
     "franklin templeton global investors": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21703,7 +21679,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21725,13 +21701,13 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "frankton cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -21809,11 +21785,11 @@
     ],
     "frasers hospitality": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21861,21 +21837,15 @@
     ],
     "frauscher": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fraz motors": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "frazer s": [
         {
             "type": 1,
             "rating": 1
@@ -21887,13 +21857,19 @@
             "rating": 1
         }
     ],
+    "frazer s": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "frazier & deeter": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21915,7 +21891,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21925,21 +21901,9 @@
             "rating": 1
         }
     ],
-    "fred s backyard barbecue": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fred s discount store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fred olsen windcarrier": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -21953,7 +21917,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21975,13 +21939,13 @@
             "rating": 1
         }
     ],
-    "freddy s doncaster": [
+    "freddys chicken": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "freddys chicken": [
+    "freddy s doncaster": [
         {
             "type": 1,
             "rating": 1
@@ -22011,6 +21975,18 @@
             "rating": 1
         }
     ],
+    "fred s backyard barbecue": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fred s discount store": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "free 2 talk community interest company": [
         {
             "type": 1,
@@ -22025,11 +22001,11 @@
     ],
     "free believers in christ fellowship trust": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22042,29 +22018,29 @@
     "free church of england": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "free church of scotland": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
-            "type": 5,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "free from fear": [
@@ -22076,11 +22052,11 @@
     "free methodist church in the": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "free off licence": [
@@ -22091,15 +22067,15 @@
     ],
     "free presbyterian church of scotland": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
         }
     ],
@@ -22117,8 +22093,8 @@
     ],
     "free trade agency": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "free trade beers and minerals": [
@@ -22129,14 +22105,14 @@
     ],
     "free trade organisation": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "free world enterprises": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "freeagent central": [
@@ -22147,7 +22123,7 @@
     ],
     "freebalance co": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -22157,11 +22133,11 @@
     ],
     "freeda": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -22171,22 +22147,22 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "freedom ark trust": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 10,
+            "rating": 2
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 3
         }
     ],
     "freedom care 24/7": [
@@ -22201,20 +22177,20 @@
             "rating": 1
         }
     ],
-    "freedom church": [
-        {
-            "type": 4,
-            "rating": 3
-        },
-        {
-            "type": 3,
-            "rating": 1
-        }
-    ],
     "freedom church hereford": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
+        }
+    ],
+    "freedom church": [
+        {
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         }
     ],
     "freedom circle": [
@@ -22243,8 +22219,8 @@
     ],
     "freedom festival arts trust": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "freedom fibre": [
@@ -22277,23 +22253,23 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "freedom productions": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "freedom sportsline": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22311,11 +22287,11 @@
     ],
     "freedompay world europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -22367,7 +22343,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -22431,7 +22407,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -22527,11 +22503,11 @@
     ],
     "freightliner": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -22559,7 +22535,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -22571,20 +22547,20 @@
     ],
     "fremantlemedia": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "fremington medical centre": [
@@ -22595,21 +22571,21 @@
     ],
     "fremman": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "french connection london": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -22663,7 +22639,7 @@
     ],
     "frenchay cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -22709,13 +22685,13 @@
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "frequentis": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -22725,11 +22701,11 @@
     ],
     "frere hall capital management": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -22777,11 +22753,11 @@
     ],
     "fresenius medical care renal": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -22803,7 +22779,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -22815,8 +22791,8 @@
     ],
     "fresh artiste management": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "fresh as a daisy cafe": [
@@ -22855,13 +22831,13 @@
             "rating": 1
         }
     ],
-    "fresh cut": [
+    "fresh cut video": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "fresh cut video": [
+    "fresh cut": [
         {
             "type": 1,
             "rating": 1
@@ -22941,8 +22917,8 @@
     ],
     "fresh film productions": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "fresh foods 4 u": [
@@ -22977,11 +22953,11 @@
     ],
     "fresh gravity software": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23161,11 +23137,11 @@
     ],
     "freshfields service company": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23271,7 +23247,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23301,27 +23277,27 @@
     ],
     "freuchie cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
     "freud communications": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "freudenberg filtration technologies": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23351,11 +23327,11 @@
     ],
     "freudenberg sealing technologies": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23379,11 +23355,11 @@
     ],
     "freyr life sciences": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23393,7 +23369,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23415,19 +23391,19 @@
             "rating": 1
         }
     ],
-    "friar servants of mary": [
+    "friar servants of mary - province of the isles": [
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
         }
     ],
-    "friar servants of mary - province of the isles": [
+    "friar servants of mary": [
         {
-            "type": 3,
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23439,7 +23415,7 @@
     ],
     "friarmere cc": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -23521,7 +23497,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23533,11 +23509,11 @@
     ],
     "friedrich-ebert-stiftung london office": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23549,8 +23525,14 @@
     ],
     "friend productions": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
+        }
+    ],
+    "friend4friend": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "friend-for-ever": [
@@ -23560,12 +23542,6 @@
         }
     ],
     "friend-james": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "friend4friend": [
         {
             "type": 1,
             "rating": 1
@@ -23645,30 +23621,30 @@
     ],
     "friends for all project": [
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "friends international ministries": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "friends leisure": [
@@ -23727,11 +23703,11 @@
     ],
     "friends world committee for consultation": [
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23767,15 +23743,15 @@
     ],
     "frieze events": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
+            "rating": 2
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23811,7 +23787,7 @@
     ],
     "frinton on sea cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -23859,11 +23835,11 @@
     ],
     "frnt financial": [
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23875,7 +23851,7 @@
     ],
     "frocester cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -23959,11 +23935,11 @@
     ],
     "froneri international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23981,11 +23957,11 @@
     ],
     "front europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24021,10 +23997,6 @@
     ],
     "frontera consulting": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 16,
             "rating": 1
         },
@@ -24034,6 +24006,10 @@
         },
         {
             "type": 17,
+            "rating": 1
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24057,21 +24033,21 @@
     ],
     "frontier developments": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "frontier economics": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24129,7 +24105,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24141,11 +24117,11 @@
     ],
     "frontier strategy": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24158,12 +24134,6 @@
     "frontiera real estate": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "frontiers": [
-        {
-            "type": 3,
             "rating": 1
         }
     ],
@@ -24188,6 +24158,12 @@
     "frontiers superstore": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "frontiers": [
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24248,11 +24224,11 @@
     "frontline nations": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "frontline news & media": [
@@ -24281,11 +24257,11 @@
     ],
     "frontline ventures management company": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24303,11 +24279,11 @@
     ],
     "frost & sullivan": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24409,8 +24385,8 @@
     ],
     "frugal empowerment foundation": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "frugalpac": [
@@ -24445,12 +24421,12 @@
     ],
     "fruitful jobs": [
         {
-            "type": 14,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 13,
+            "rating": 2
         }
     ],
     "fruitful software": [
@@ -24503,11 +24479,11 @@
     ],
     "frv energy": [
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24615,7 +24591,7 @@
     ],
     "fs advisory": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -24660,6 +24636,12 @@
         }
     ],
     "fse foundry": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "f-secure": [
         {
             "type": 1,
             "rating": 1
@@ -24745,7 +24727,7 @@
     ],
     "ftai airopco": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -24767,8 +24749,8 @@
     ],
     "ftf worldwide event management": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "ftft": [
@@ -24791,11 +24773,11 @@
     ],
     "fti consulting": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24849,11 +24831,11 @@
     ],
     "ftt": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24865,11 +24847,11 @@
     ],
     "ftv management international": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24995,11 +24977,11 @@
     ],
     "fuelco": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25009,12 +24991,12 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "fueled": [
@@ -25035,7 +25017,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -25051,7 +25033,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -25069,7 +25051,7 @@
     ],
     "fuji industries": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -25081,7 +25063,7 @@
     ],
     "fuji seal europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -25091,17 +25073,17 @@
     ],
     "fuji trading co": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "fujichem sonneborn": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -25111,13 +25093,13 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "fujifilm speciality ink systems": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -25127,41 +25109,41 @@
     ],
     "fujifilm": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fujikura europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fujisankei communications international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fujitec": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -25171,43 +25153,43 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "fujitsu research of europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fujitsu": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fukoku life international": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "fukuda denshi": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -25219,17 +25201,17 @@
     ],
     "fulcrum asset management": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "fulcrum capital europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -25239,11 +25221,11 @@
     ],
     "fulcrum digital": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -25255,11 +25237,11 @@
     ],
     "fulcrum global technologies": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25313,15 +25295,15 @@
     ],
     "fulham football club": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 11,
-            "rating": 1
-        },
-        {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 1
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -25531,8 +25513,8 @@
     ],
     "fullness of christ for all nations": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "fullsafe": [
@@ -25549,7 +25531,7 @@
     ],
     "fullword church for the nations": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -25579,7 +25561,7 @@
     ],
     "fulton market europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -25589,12 +25571,12 @@
     ],
     "fulwell 73": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "fulwell golf club": [
@@ -25605,7 +25587,7 @@
     ],
     "fulwood & broughton cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -25623,7 +25605,7 @@
     ],
     "funcell games": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -25661,22 +25643,22 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "funding circle": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "fundingxchange": [
@@ -25747,11 +25729,11 @@
     ],
     "funko": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -25817,17 +25799,17 @@
     ],
     "furlined": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 3,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 1,
+            "rating": 1
         }
     ],
     "furlong business solutions": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -25857,7 +25839,7 @@
     ],
     "furness cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -25933,13 +25915,13 @@
             "rating": 1
         }
     ],
-    "furniture s hub": [
+    "furniture4u london": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "furniture4u london": [
+    "furniture s hub": [
         {
             "type": 1,
             "rating": 1
@@ -25987,13 +25969,13 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "furuno": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -26035,8 +26017,8 @@
     ],
     "fuse productions": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "fuse universal": [
@@ -26071,12 +26053,12 @@
     ],
     "fusic": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "fusion accountants": [
@@ -26115,13 +26097,13 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "fusion business solutions": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -26191,6 +26173,12 @@
             "rating": 1
         }
     ],
+    "fusion flavours newcastle": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fusion fleet autos falkirk": [
         {
             "type": 1,
@@ -26203,8 +26191,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "fusion fttx": [
@@ -26243,7 +26231,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -26279,7 +26267,7 @@
     ],
     "fusion practices": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -26295,7 +26283,7 @@
     ],
     "fusion risk management": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -26315,7 +26303,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -26345,7 +26333,7 @@
     ],
     "fusionaix technologies": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -26377,7 +26365,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -26395,11 +26383,11 @@
     ],
     "futerra": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -26541,7 +26529,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -26605,7 +26593,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -26689,8 +26677,8 @@
     ],
     "future music records": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "future of finance consulting": [
@@ -26725,11 +26713,11 @@
     ],
     "future": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -26973,7 +26961,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 4,
             "rating": 1
         }
     ],
@@ -27003,7 +26991,7 @@
     ],
     "fuyo lease europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -27017,7 +27005,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -27053,7 +27041,7 @@
     ],
     "fvwl football": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         },
         {
@@ -27181,7 +27169,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -27228,6 +27216,12 @@
         }
     ],
     "fylde healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fylde private gp": [
         {
             "type": 1,
             "rating": 1
@@ -27361,11 +27355,11 @@
     ],
     "four seasons hotel hampshire": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -27521,7 +27515,7 @@
     ],
     "felt bakery": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -27743,11 +27737,11 @@
     ],
     "fernovo": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28041,7 +28035,7 @@
     ],
     "fan tuan": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {

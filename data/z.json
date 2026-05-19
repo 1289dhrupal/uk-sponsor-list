@@ -1,16 +1,4 @@
 {
-    "z n a catering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "zk stores": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "zetor": [
         {
             "type": 1,
@@ -299,6 +287,12 @@
             "rating": 1
         }
     ],
+    "z n a catering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "z palej": [
         {
             "type": 1,
@@ -480,24 +474,6 @@
         }
     ],
     "z&z restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "z-fit consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "z-h - bangla bazaar": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "z-tech control systems": [
         {
             "type": 1,
             "rating": 1
@@ -697,7 +673,7 @@
     ],
     "zachary thomas beim": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -805,11 +781,11 @@
     ],
     "zafin labs": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -863,11 +839,11 @@
     ],
     "zagreb-montaza": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -951,8 +927,8 @@
     ],
     "zahrat kurdufan general trading 15213278": [
         {
-            "type": 2,
-            "rating": 2
+            "type": 7,
+            "rating": 4
         }
     ],
     "zahwas international": [
@@ -1113,11 +1089,11 @@
     ],
     "zaizi": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1169,19 +1145,13 @@
             "rating": 1
         }
     ],
-    "zak s halal": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "zakapps software": [
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1233,6 +1203,12 @@
             "rating": 1
         }
     ],
+    "zak s halal": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "zaks it": [
         {
             "type": 1,
@@ -1247,7 +1223,7 @@
     ],
     "zalaris": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -1345,12 +1321,6 @@
             "rating": 1
         }
     ],
-    "zam s healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "zama dry cleaning": [
         {
             "type": 1,
@@ -1395,8 +1365,8 @@
     ],
     "zambia high commission": [
         {
-            "type": 9,
-            "rating": 3
+            "type": 14,
+            "rating": 2
         }
     ],
     "zamers": [
@@ -1429,13 +1399,13 @@
             "rating": 1
         }
     ],
-    "zamss": [
+    "zam s healthcare": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "zamzam": [
+    "zamss": [
         {
             "type": 1,
             "rating": 1
@@ -1471,6 +1441,12 @@
             "rating": 1
         }
     ],
+    "zamzam": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "zan enterprises": [
         {
             "type": 1,
@@ -1485,11 +1461,11 @@
     ],
     "zanders": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1561,8 +1537,8 @@
     ],
     "zap production": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "zap property": [
@@ -1573,7 +1549,7 @@
     ],
     "zap technology": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -1601,11 +1577,11 @@
     ],
     "zappistore": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1651,12 +1627,6 @@
             "rating": 1
         }
     ],
-    "zara s spice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "zaracare 786": [
         {
             "type": 1,
@@ -1664,6 +1634,12 @@
         }
     ],
     "zarafa": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "zara s spice": [
         {
             "type": 1,
             "rating": 1
@@ -1695,7 +1671,7 @@
     ],
     "zaria": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -1901,12 +1877,6 @@
             "rating": 1
         }
     ],
-    "zayn s general store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "zaynab catering": [
         {
             "type": 1,
@@ -1931,13 +1901,19 @@
             "rating": 1
         }
     ],
+    "zayn s general store": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "zayo": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2015,11 +1991,11 @@
     ],
     "zdf german tv": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2109,7 +2085,7 @@
     ],
     "zebra pen": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2125,7 +2101,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2251,11 +2227,11 @@
     ],
     "zee entertainment": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2307,19 +2283,13 @@
             "rating": 1
         }
     ],
-    "zee s pizza": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "zeeco europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2341,7 +2311,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2365,12 +2335,12 @@
     ],
     "zeepay jv": [
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         },
         {
             "type": 1,
@@ -2414,6 +2384,12 @@
         }
     ],
     "zeera indian takeaway": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "zee s pizza": [
         {
             "type": 1,
             "rating": 1
@@ -2499,11 +2475,11 @@
     ],
     "zeidler legal": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2543,7 +2519,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2561,11 +2537,11 @@
     ],
     "zellis": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2599,7 +2575,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2723,23 +2699,7 @@
             "rating": 1
         }
     ],
-    "zen-noh": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "zen-shay": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "zen-x technology": [
+    "zencontrol": [
         {
             "type": 1,
             "rating": 1
@@ -2751,19 +2711,13 @@
             "rating": 1
         }
     ],
-    "zencontrol": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "zendesk": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2775,11 +2729,11 @@
     ],
     "zenen textile": [
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2813,7 +2767,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2849,11 +2803,11 @@
     ],
     "zenith bank": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2955,11 +2909,11 @@
     ],
     "zenith media": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2989,11 +2943,11 @@
     ],
     "zenium technology partners": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3005,7 +2959,7 @@
     ],
     "zenkyoren europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3017,11 +2971,21 @@
     ],
     "zennar": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "zen-noh": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3033,11 +2997,11 @@
     ],
     "zeno communications": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3065,7 +3029,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3087,17 +3051,23 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
+            "type": 6,
+            "rating": 2
+        }
+    ],
+    "zen-shay": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
     "zensho foods": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -3125,15 +3095,21 @@
     ],
     "zentiva pharma": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "zentron creative": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "zentron creative": [
+    "zen-x technology": [
         {
             "type": 1,
             "rating": 1
@@ -3171,11 +3147,11 @@
     ],
     "zeotap": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3211,11 +3187,11 @@
     ],
     "zepp health": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3251,11 +3227,11 @@
     ],
     "zeren search": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3327,7 +3303,7 @@
     ],
     "zero proof international": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -3373,21 +3349,21 @@
     ],
     "zeroavia": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "zerofox": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3585,11 +3561,11 @@
     ],
     "zeugma kitchen": [
         {
-            "type": 1,
+            "type": 4,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3679,11 +3655,11 @@
     ],
     "zf automotive": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3717,6 +3693,12 @@
             "rating": 1
         }
     ],
+    "z-fit consultancy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "zfl surveyors": [
         {
             "type": 1,
@@ -3731,11 +3713,11 @@
     ],
     "zg lighting": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3751,6 +3733,12 @@
             "rating": 1
         }
     ],
+    "z-h - bangla bazaar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "zh accounting": [
         {
             "type": 1,
@@ -3758,6 +3746,12 @@
         }
     ],
     "zh foods": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "zh law": [
         {
             "type": 1,
             "rating": 1
@@ -3807,11 +3801,11 @@
     ],
     "zhero": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3893,7 +3887,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3942,11 +3936,11 @@
     "zia ul uloom": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "ziath": [
@@ -3987,7 +3981,7 @@
     ],
     "ziebe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -3997,11 +3991,11 @@
     ],
     "ziehl-abegg": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4013,21 +4007,21 @@
     ],
     "ziff davis international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "zifo technologies": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4091,6 +4085,12 @@
             "rating": 1
         }
     ],
+    "zik expert teachers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "zikomo solutions": [
         {
             "type": 1,
@@ -4129,11 +4129,11 @@
     ],
     "zilliant": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4181,8 +4181,8 @@
     ],
     "zimsculpt": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "zinal advisors": [
@@ -4271,7 +4271,7 @@
     ],
     "zinnov private": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -4299,7 +4299,7 @@
     ],
     "zion baptist church": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4317,12 +4317,12 @@
     ],
     "zion christian church": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 5,
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         }
     ],
     "zion community care": [
@@ -4333,11 +4333,11 @@
     ],
     "zion harvest ministries": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4361,12 +4361,12 @@
     ],
     "zionhome film production": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 3,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 1,
+            "rating": 1
         }
     ],
     "zionix technologies": [
@@ -4381,13 +4381,13 @@
             "rating": 1
         }
     ],
-    "zip-clip": [
+    "zipbab": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "zipbab": [
+    "zip-clip": [
         {
             "type": 1,
             "rating": 1
@@ -4497,7 +4497,7 @@
     ],
     "ziton": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -4560,6 +4560,12 @@
         }
     ],
     "zk enterprise": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "zk stores": [
         {
             "type": 1,
             "rating": 1
@@ -4747,14 +4753,14 @@
     ],
     "zoe aflame christian church": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "zoe christian centre": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "zoe communications": [
@@ -4775,27 +4781,21 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "zoetis": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "zog global": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "zoha s pizzas": [
         {
             "type": 1,
             "rating": 1
@@ -4808,6 +4808,12 @@
         }
     ],
     "zoha london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "zoha s pizzas": [
         {
             "type": 1,
             "rating": 1
@@ -4851,11 +4857,11 @@
     ],
     "zoll medical": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4993,12 +4999,12 @@
     ],
     "zoological society of london": [
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "zoom abroad online": [
@@ -5045,7 +5051,7 @@
     ],
     "zoominfo": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -5061,7 +5067,7 @@
     ],
     "zoomo london": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -5113,11 +5119,11 @@
     ],
     "zoox labs": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5201,11 +5207,11 @@
     ],
     "zotefoams": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5228,12 +5234,6 @@
         }
     ],
     "zouk ventures": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "zoweh": [
         {
             "type": 1,
             "rating": 1
@@ -5265,17 +5265,17 @@
     ],
     "zozo u k": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
     "zpmc": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5305,11 +5305,11 @@
     ],
     "zs associates international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5361,7 +5361,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5427,9 +5427,15 @@
     ],
     "zte": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "z-tech control systems": [
         {
             "type": 1,
             "rating": 1
@@ -5454,18 +5460,6 @@
         }
     ],
     "ztw healthcare t/as herts homecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "zu s restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "zu s eat": [
         {
             "type": 1,
             "rating": 1
@@ -5551,16 +5545,16 @@
     ],
     "zuffa": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "zuhayr consultancy": [
@@ -5589,11 +5583,11 @@
     ],
     "zuken": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5665,11 +5659,11 @@
     ],
     "zuora": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5681,15 +5675,27 @@
     ],
     "zurich insurance": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "zuru": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "zuru": [
+    "zu s restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "zu s eat": [
         {
             "type": 1,
             "rating": 1
@@ -5727,7 +5733,7 @@
     ],
     "zvc": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -5743,25 +5749,25 @@
     ],
     "zvilo": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "zwift": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5779,7 +5785,7 @@
     ],
     "zycus infotech private": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -5825,11 +5831,11 @@
     ],
     "zyxel communications": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],

@@ -5,12 +5,6 @@
             "rating": 1
         }
     ],
-    "-seabrook house": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "???£ ess": [
         {
             "type": 1,
@@ -25,12 +19,12 @@
     ],
     "@ home accommodation": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "@ ur eaz": [
@@ -65,11 +59,11 @@
     ],
     "00nation": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -183,8 +177,8 @@
     ],
     "1 model management london": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "1 oak home care": [
@@ -241,24 +235,6 @@
             "rating": 1
         }
     ],
-    "1-2 achieve": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "1-2 call cars": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "1-via": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "10 days studio": [
         {
             "type": 1,
@@ -277,7 +253,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -427,12 +403,12 @@
     ],
     "10bit fx": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "10pearls": [
@@ -531,6 +507,18 @@
             "rating": 1
         }
     ],
+    "1-2 achieve": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "1-2 call cars": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "12 mm": [
         {
             "type": 1,
@@ -587,8 +575,8 @@
     ],
     "1266 music": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "12b solicitors": [
@@ -735,7 +723,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -775,8 +763,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "17care": [
@@ -865,8 +853,8 @@
     ],
     "18apr": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "18plus support": [
@@ -961,11 +949,11 @@
     ],
     "1global operations": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1253,11 +1241,11 @@
     ],
     "1st visa international": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 4,
             "rating": 1
         }
     ],
@@ -1280,6 +1268,12 @@
         }
     ],
     "1sw events london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "1-via": [
         {
             "type": 1,
             "rating": 1
@@ -1377,23 +1371,11 @@
     ],
     "2 sisters food": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "2-4c": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "2-dtech": [
-        {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1404,12 +1386,6 @@
         }
     ],
     "2:30": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "20-20 events management": [
         {
             "type": 1,
             "rating": 1
@@ -1440,6 +1416,12 @@
         }
     ],
     "202 ahst gas": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "20-20 events management": [
         {
             "type": 1,
             "rating": 1
@@ -1577,18 +1559,6 @@
             "rating": 1
         }
     ],
-    "24-4 7 fm": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "24-7 prayer": [
-        {
-            "type": 3,
-            "rating": 1
-        }
-    ],
     "24/7 helping hands service": [
         {
             "type": 1,
@@ -1620,6 +1590,12 @@
         }
     ],
     "24/7 support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "24-4 7 fm": [
         {
             "type": 1,
             "rating": 1
@@ -1667,6 +1643,12 @@
             "rating": 1
         }
     ],
+    "24-7 prayer": [
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "247 staffing support": [
         {
             "type": 1,
@@ -1680,6 +1662,12 @@
         }
     ],
     "247 wholesale": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "2-4c": [
         {
             "type": 1,
             "rating": 1
@@ -1739,9 +1727,19 @@
             "rating": 1
         }
     ],
+    "26 degrees global markets": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "26 2": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -1881,6 +1879,12 @@
             "rating": 1
         }
     ],
+    "2-dtech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "2e accountants": [
         {
             "type": 1,
@@ -1925,11 +1929,11 @@
     ],
     "2h offshore engineering": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2025,7 +2029,7 @@
     ],
     "2x global": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2171,16 +2175,6 @@
             "rating": 1
         }
     ],
-    "3-d matrix": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 1
-        }
-    ],
     "30 grosvenor restaurant opco": [
         {
             "type": 1,
@@ -2259,8 +2253,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "338 mobiles": [
@@ -2347,13 +2341,13 @@
             "rating": 1
         }
     ],
-    "360 energy": [
+    "360 energy n i": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "360 energy n i": [
+    "360 energy": [
         {
             "type": 1,
             "rating": 1
@@ -2391,21 +2385,21 @@
     ],
     "360 trading networks": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
     "360globalnet": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2583,18 +2577,6 @@
             "rating": 1
         }
     ],
-    "3a s consultants": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "3a s petroleum": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "3ab care": [
         {
             "type": 1,
@@ -2692,6 +2674,18 @@
         }
     ],
     "3ar trading": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "3a s consultants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "3a s petroleum": [
         {
             "type": 1,
             "rating": 1
@@ -2829,6 +2823,16 @@
             "rating": 1
         }
     ],
+    "3-d matrix": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "3d people": [
         {
             "type": 1,
@@ -2847,7 +2851,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2858,12 +2862,6 @@
         }
     ],
     "3d trade": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "3d s healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -2889,7 +2887,7 @@
     ],
     "3dmd technologies": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2904,6 +2902,12 @@
         }
     ],
     "3drp": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "3d s healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -2935,7 +2939,7 @@
     ],
     "3forge": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2969,7 +2973,7 @@
     ],
     "3ie": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2984,12 +2988,6 @@
         }
     ],
     "3k fabrics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "3k s engineering company": [
         {
             "type": 1,
             "rating": 1
@@ -3019,6 +3017,12 @@
             "rating": 1
         }
     ],
+    "3k s engineering company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "3lr lighting": [
         {
             "type": 1,
@@ -3033,11 +3037,11 @@
     ],
     "3m united kingdom": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3139,16 +3143,16 @@
     ],
     "3t additive manufacturing": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 7,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "3t logistics": [
@@ -3313,20 +3317,14 @@
             "rating": 1
         }
     ],
-    "4 seasons": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "4 seasons catering": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "4 seasons deli": [
@@ -3342,6 +3340,12 @@
         }
     ],
     "4 seasons inn": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "4 seasons": [
         {
             "type": 1,
             "rating": 1
@@ -3384,12 +3388,6 @@
         }
     ],
     "4 ways healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "4-site power & fibre networks": [
         {
             "type": 1,
             "rating": 1
@@ -3439,8 +3437,8 @@
     ],
     "42 m&p": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "42 technology": [
@@ -3457,11 +3455,11 @@
     ],
     "42gears mobility systems": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3473,8 +3471,8 @@
     ],
     "42video": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         },
         {
             "type": 1,
@@ -3489,17 +3487,17 @@
     ],
     "432 presents cic": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "44 energy": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3565,11 +3563,11 @@
     ],
     "4c europe": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3653,7 +3651,7 @@
     ],
     "4iapps solutions": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -3693,11 +3691,11 @@
     ],
     "4m london": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3768,6 +3766,12 @@
         }
     ],
     "4site consulting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "4-site power & fibre networks": [
         {
             "type": 1,
             "rating": 1
@@ -4061,15 +4065,15 @@
             "rating": 1
         }
     ],
-    "54 queen s gate hotel": [
+    "54 queens gate hotel": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
-    "54 queens gate hotel": [
+    "54 queen s gate hotel": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4279,7 +4283,7 @@
     ],
     "65 equity partners management": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -4343,7 +4347,7 @@
     ],
     "6sense insights": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -4501,7 +4505,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4651,7 +4655,7 @@
     ],
     "7click network": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         },
         {
@@ -4709,11 +4713,11 @@
     ],
     "7th heaven foods": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4761,11 +4765,11 @@
     ],
     "80:20 procurement": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4865,7 +4869,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4889,11 +4893,11 @@
     ],
     "8x8": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4916,6 +4920,12 @@
         }
     ],
     "9 months": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "9 property": [
         {
             "type": 1,
             "rating": 1
@@ -4983,11 +4993,11 @@
     ],
     "98 land and house company": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5053,11 +5063,11 @@
     ],
     "9yards communications": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5225,12 +5235,12 @@
     ],
     "& ireland 2028": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "&i cyber ranges": [
@@ -5247,7 +5257,7 @@
     ],
     "-china culture & education cooperation promotion centre": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {

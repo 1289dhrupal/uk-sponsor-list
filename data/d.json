@@ -127,11 +127,11 @@
     ],
     "digilytics": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -605,7 +605,7 @@
     ],
     "d j cats": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -839,11 +839,11 @@
     ],
     "d&b audiotechnik gb": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1015,85 +1015,7 @@
             "rating": 1
         }
     ],
-    "d addario": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "d auria brothers ice cream & catering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "d lux salon": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "d modish fingerfoods and bakes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "d silva": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "d cent cutz": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "d-fine": [
-        {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "d-link europe": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "d-sky": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "d-tek": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "d-triumph care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "d-way": [
         {
             "type": 1,
             "rating": 1
@@ -1105,7 +1027,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1165,8 +1087,8 @@
     ],
     "d m f music": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "d m j profile tyres": [
@@ -1255,8 +1177,8 @@
     ],
     "d1lon": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "d2 global": [
@@ -1267,7 +1189,7 @@
     ],
     "d2 legal technology": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -1311,7 +1233,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1371,8 +1293,8 @@
     ],
     "d6 culture": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "da bureau": [
@@ -1456,25 +1378,19 @@
     "da watul islam & eire": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 4,
-            "rating": 3
-        }
-    ],
-    "daa-m property management": [
-        {
-            "type": 1,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "daabon": [
@@ -1495,6 +1411,12 @@
             "rating": 1
         }
     ],
+    "daa-m property management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "daani s designs": [
         {
             "type": 1,
@@ -1503,11 +1425,11 @@
     ],
     "daappa": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1591,11 +1513,11 @@
     ],
     "dabur international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1617,7 +1539,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1647,16 +1569,16 @@
     ],
     "dachser": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "daci utilities engineering consultancy": [
@@ -1695,7 +1617,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1712,6 +1634,12 @@
         }
     ],
     "dadar food": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "d addario": [
         {
             "type": 1,
             "rating": 1
@@ -1779,17 +1707,17 @@
     ],
     "daf trucks": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
     "dafen welfare cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -1837,11 +1765,11 @@
     ],
     "dage precision industries": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1871,7 +1799,7 @@
     ],
     "daher aerospace": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -1893,11 +1821,11 @@
     ],
     "dahua technology": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1909,17 +1837,11 @@
     ],
     "dai global": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dai-ichi life international europe": [
-        {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1931,33 +1853,49 @@
     ],
     "daido industrial bearings europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "daido metal co european technical centre": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "daifuku logan": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "daihatsu infinearth europe": [
         {
-            "type": 8,
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "dai-ichi life international europe": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "daiichi sankyo": [
+        {
+            "type": 2,
             "rating": 1
         },
         {
@@ -1967,21 +1905,21 @@
     ],
     "daikin airconditioning": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "daikin applied": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2075,11 +2013,11 @@
     ],
     "daily mail and general trust": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2097,7 +2035,7 @@
     ],
     "dailypay ni": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2123,7 +2061,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2141,11 +2079,11 @@
     ],
     "dairy crest trading as saputo dairy": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2239,12 +2177,6 @@
             "rating": 1
         }
     ],
-    "daisy s nail company": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "daisybank day nursery": [
         {
             "type": 1,
@@ -2269,6 +2201,12 @@
             "rating": 1
         }
     ],
+    "daisy s nail company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "daivid": [
         {
             "type": 1,
@@ -2283,37 +2221,37 @@
     ],
     "daiwa asset management europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "daiwa capital markets europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "daiwa corporate advisory": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "daiwa house": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2329,7 +2267,7 @@
     ],
     "daiwa sports": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2371,11 +2309,11 @@
     ],
     "daks simpson": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2399,30 +2337,30 @@
     ],
     "dalata cardiff": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "dalata": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "dalbeattie": [
@@ -2595,11 +2533,11 @@
     ],
     "dalet": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2677,11 +2615,11 @@
     ],
     "dalkia holding": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2739,13 +2677,13 @@
             "rating": 1
         }
     ],
-    "dalmeny house": [
+    "dalmeny house dental": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "dalmeny house dental": [
+    "dalmeny house": [
         {
             "type": 1,
             "rating": 1
@@ -2769,7 +2707,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2847,7 +2785,7 @@
     ],
     "dalton-in-furness cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -2937,11 +2875,11 @@
     ],
     "damartex": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3017,14 +2955,14 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "damnably": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "damo altrincham": [
@@ -3059,7 +2997,7 @@
     ],
     "dan klores communications": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -3081,39 +3019,33 @@
             "rating": 1
         }
     ],
-    "dan s barbers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dana petroleum": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "dana axle": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "dana driveshaft": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3137,20 +3069,20 @@
     ],
     "dance consortium": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "dance4": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "danceeast": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "dancenbeats": [
@@ -3299,16 +3231,16 @@
     ],
     "danfoss": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "dangelin & co": [
@@ -3355,11 +3287,11 @@
     ],
     "dani foods": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3413,11 +3345,11 @@
     ],
     "daniel j edelman": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3451,24 +3383,6 @@
             "rating": 1
         }
     ],
-    "daniel s sushi bar 2": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "danieru sushi": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "daniel s sushi bar": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "daniela schlingmann literary scouting": [
         {
             "type": 1,
@@ -3477,11 +3391,11 @@
     ],
     "danieli holding": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3503,11 +3417,29 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "daniels lane 99": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "daniel s sushi bar 2": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "danieru sushi": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "daniel s sushi bar": [
         {
             "type": 1,
             "rating": 1
@@ -3527,7 +3459,7 @@
     ],
     "danish bake": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -3543,11 +3475,11 @@
     ],
     "danish crown": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3653,6 +3585,12 @@
             "rating": 1
         }
     ],
+    "dan s barbers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dans foods": [
         {
             "type": 1,
@@ -3691,17 +3629,17 @@
     ],
     "danske bank a/s london branch": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "danske commodities": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -3777,16 +3715,16 @@
     ],
     "danwood branch": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "danyal mujtaba majeed": [
@@ -3851,7 +3789,7 @@
     ],
     "dar al ilm learning centre": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3869,16 +3807,16 @@
     ],
     "dar al-handasah consultants shair & partners": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "dar el meemar holding": [
@@ -3913,8 +3851,8 @@
     ],
     "dar ul uloom islamia longsight": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "darabara business": [
@@ -3955,8 +3893,8 @@
     ],
     "darbar arts culture heritage trust": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         },
         {
             "type": 1,
@@ -4005,12 +3943,6 @@
             "rating": 1
         }
     ],
-    "dare-me consulting engineers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "daredevil pr": [
         {
             "type": 1,
@@ -4019,11 +3951,17 @@
     ],
     "daregal gourmet": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dare-me consulting engineers": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4089,8 +4027,8 @@
     ],
     "dark energy films": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "dark horse digital": [
@@ -4125,8 +4063,8 @@
     ],
     "dark4": [
         {
-            "type": 2,
-            "rating": 2
+            "type": 7,
+            "rating": 4
         },
         {
             "type": 1,
@@ -4147,7 +4085,7 @@
     ],
     "darkocean marine": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -4205,8 +4143,8 @@
     ],
     "darling creative": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "darlington building society": [
@@ -4217,7 +4155,7 @@
     ],
     "darlington cricket & athletic club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -4229,13 +4167,13 @@
     ],
     "darlington mowden park rugby football club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
     "darlington racc": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -4427,7 +4365,7 @@
     ],
     "darts regulation authority": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -4463,22 +4401,22 @@
     ],
     "darul uloom azizia hussainia": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "darul-ilm": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "darussalam international publications": [
@@ -4495,7 +4433,7 @@
     ],
     "darwen cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -4531,11 +4469,11 @@
     ],
     "darwin enterprise": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4655,8 +4593,8 @@
     ],
     "dash arts": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "dash cakes": [
@@ -4709,8 +4647,8 @@
     ],
     "dashmesh sikh temple": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "dasht-e morghab 1&1 foods": [
@@ -4773,7 +4711,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4839,11 +4777,11 @@
     ],
     "data center erith": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4853,7 +4791,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4937,11 +4875,11 @@
     ],
     "data intensity": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4989,11 +4927,11 @@
     ],
     "data science central": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5035,7 +4973,7 @@
     ],
     "data theorem": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -5105,11 +5043,11 @@
     ],
     "databricks": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5127,11 +5065,11 @@
     ],
     "dataco international": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5143,11 +5081,11 @@
     ],
     "datadog ireland": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5201,11 +5139,11 @@
     ],
     "dataiku": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5245,7 +5183,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5255,7 +5193,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5279,11 +5217,11 @@
     ],
     "datametica": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5293,29 +5231,23 @@
             "rating": 1
         }
     ],
-    "datamine digital": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "datamine international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "dataminr": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5345,21 +5277,21 @@
     ],
     "datar cancer genetics private": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "datarobot": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5399,7 +5331,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5429,11 +5361,11 @@
     ],
     "datassential": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5523,7 +5455,7 @@
     ],
     "datchet cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -5571,11 +5503,11 @@
     ],
     "datix": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5623,11 +5555,11 @@
     ],
     "datto europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5657,12 +5589,12 @@
     ],
     "daughters of divine charity": [
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         }
     ],
     "daughters of divine love training and assessment centre - ddltac": [
@@ -5673,77 +5605,77 @@
     ],
     "daughters of divine love english region": [
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         }
     ],
     "daughters of mary help of christians": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
         }
     ],
     "daughters of mary mother of mercy": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
-            "type": 3,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         }
     ],
     "daughters of our lady of providence": [
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
     "daughters of st paul": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "daughters of the heart of mary": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5771,6 +5703,12 @@
             "rating": 1
         }
     ],
+    "d auria brothers ice cream & catering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dauti lifts": [
         {
             "type": 1,
@@ -5785,11 +5723,11 @@
     ],
     "davall gears": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5812,12 +5750,6 @@
         }
     ],
     "dave electrical": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dave s discount stores": [
         {
             "type": 1,
             "rating": 1
@@ -5877,6 +5809,12 @@
             "rating": 1
         }
     ],
+    "dave s discount stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "daves james": [
         {
             "type": 1,
@@ -5909,8 +5847,8 @@
     ],
     "david adkin": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "david andrew estates": [
@@ -6017,12 +5955,12 @@
     ],
     "david ian productions": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "david james mckee": [
@@ -6103,13 +6041,13 @@
             "rating": 1
         }
     ],
-    "david o meara racing": [
+    "david oliver associates": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "david oliver associates": [
+    "david o meara racing": [
         {
             "type": 1,
             "rating": 1
@@ -6139,8 +6077,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "david stanley opticals": [
@@ -6187,11 +6125,11 @@
     ],
     "david zwirner": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6215,7 +6153,7 @@
     ],
     "davidson hospitality": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -6229,7 +6167,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6247,7 +6185,7 @@
     ],
     "davies global cdl": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -6323,11 +6261,11 @@
     ],
     "davis polk & wardwell london": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6357,11 +6295,11 @@
     ],
     "davita international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6391,11 +6329,11 @@
     ],
     "davoud falahatgar etminani": [
         {
-            "type": 1,
+            "type": 9,
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6453,13 +6391,13 @@
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
     "dawdon welfare cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -6553,9 +6491,15 @@
             "rating": 1
         }
     ],
+    "dawson housing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dawson international": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -6571,7 +6515,7 @@
     ],
     "dawsongroup": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -6592,12 +6536,6 @@
         }
     ],
     "daxtra technologies": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "day n nite": [
         {
             "type": 1,
             "rating": 1
@@ -6687,6 +6625,12 @@
             "rating": 1
         }
     ],
+    "day n nite": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "day of the raj express": [
         {
             "type": 1,
@@ -6718,36 +6662,6 @@
         }
     ],
     "day webster": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "day s store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "day-mer turkish & kurdish community centre": [
-        {
-            "type": 6,
-            "rating": 3
-        }
-    ],
-    "day-night ellesmere": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "day-night pharma mm": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "day night pharmacy": [
         {
             "type": 1,
             "rating": 1
@@ -6809,11 +6723,11 @@
     ],
     "dayforce emea": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6829,7 +6743,37 @@
             "rating": 1
         }
     ],
+    "day-mer turkish & kurdish community centre": [
+        {
+            "type": 3,
+            "rating": 2
+        }
+    ],
+    "day-night ellesmere": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "day-night pharma mm": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "day night pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dayonix pharma": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "day s store": [
         {
             "type": 1,
             "rating": 1
@@ -6855,17 +6799,17 @@
     ],
     "dayspring chapel ministries": [
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         }
     ],
     "dayspring church birmingham": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6917,12 +6861,6 @@
             "rating": 1
         }
     ],
-    "dazzling web planet": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dazzyl s": [
         {
             "type": 1,
@@ -6931,7 +6869,7 @@
     ],
     "db cargo": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -7067,11 +7005,11 @@
     ],
     "dbj europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7083,11 +7021,11 @@
     ],
     "dbm vircon": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7117,11 +7055,11 @@
     ],
     "dbs bank london branch": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7139,11 +7077,11 @@
     ],
     "dbt labs": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7275,12 +7213,12 @@
     ],
     "dcc holdings": [
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "dcd rights": [
@@ -7291,8 +7229,8 @@
     ],
     "dcf community church": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "dcg logistics": [
@@ -7331,13 +7269,13 @@
             "rating": 1
         }
     ],
-    "dcl-pro": [
+    "dclick": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "dclick": [
+    "dcl-pro": [
         {
             "type": 1,
             "rating": 1
@@ -7427,17 +7365,17 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
-    "dd foodservice": [
+    "dd foodservice ta dhillon dairy": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "dd foodservice ta dhillon dairy": [
+    "dd foodservice": [
         {
             "type": 1,
             "rating": 1
@@ -7456,12 +7394,6 @@
         }
     ],
     "dd top renovation": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dd s convenient store": [
         {
             "type": 1,
             "rating": 1
@@ -7527,7 +7459,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7550,6 +7482,12 @@
         }
     ],
     "ddre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dd s convenient store": [
         {
             "type": 1,
             "rating": 1
@@ -7593,11 +7531,11 @@
     ],
     "de beers": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7609,11 +7547,11 @@
     ],
     "de brauw blackstone westbroek london b v": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7667,26 +7605,26 @@
     ],
     "de la rue": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "de la salle great britain cio": [
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "de lage landen leasing": [
@@ -7695,7 +7633,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7731,12 +7669,12 @@
     ],
     "de montfort university": [
         {
-            "type": 12,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "de novo architecture": [
@@ -7795,11 +7733,11 @@
     ],
     "de rosee sa": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7852,30 +7790,6 @@
         }
     ],
     "de&nezaj constructions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "de-heritage international": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "de-ientes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "de-koning leisure": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "de-light care and support": [
         {
             "type": 1,
             "rating": 1
@@ -7955,11 +7869,11 @@
     ],
     "dealogic": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8157,8 +8071,8 @@
     ],
     "debbiejones-mgmt": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "debblers": [
@@ -8181,11 +8095,11 @@
     ],
     "debevoise & plimpton": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8197,11 +8111,11 @@
     ],
     "debit finance collections": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8231,7 +8145,7 @@
     ],
     "decagon ai": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -8247,11 +8161,11 @@
     ],
     "decathlon": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8357,7 +8271,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8375,7 +8289,7 @@
     ],
     "dechra pharmaceuticals holdings": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8417,11 +8331,11 @@
     ],
     "decimal point analytics": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8443,7 +8357,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8479,11 +8393,11 @@
     ],
     "deckers europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8565,7 +8479,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8587,7 +8501,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8729,18 +8643,18 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "deen trust international": [
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "deenex intl": [
@@ -8811,11 +8725,11 @@
     ],
     "deep dock bv": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8887,11 +8801,11 @@
     ],
     "deep sea rig": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8927,7 +8841,7 @@
     ],
     "deepalert": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -8961,7 +8875,7 @@
     ],
     "deepfin research": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -8995,11 +8909,11 @@
     ],
     "deepl": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9029,7 +8943,7 @@
     ],
     "deepocean subsea": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -9045,11 +8959,11 @@
     ],
     "deepresponse": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9085,7 +8999,7 @@
     ],
     "deeside dragons ice hockey club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -9113,23 +9027,13 @@
             "rating": 1
         }
     ],
-    "def-": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "defacto retail": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9147,31 +9051,31 @@
     ],
     "defected records": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 3,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 1,
+            "rating": 1
         }
     ],
     "defence academy of the united kingdom": [
         {
-            "type": 12,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "defence security solutions company": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 4,
             "rating": 1
         }
     ],
@@ -9261,7 +9165,17 @@
     ],
     "defor": [
         {
-            "type": 8,
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "def-": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9301,6 +9215,12 @@
             "rating": 1
         }
     ],
+    "de-heritage international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "deheza": [
         {
             "type": 1,
@@ -9320,6 +9240,12 @@
         }
     ],
     "deia bidco": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "de-ientes": [
         {
             "type": 1,
             "rating": 1
@@ -9345,11 +9271,11 @@
     ],
     "deimos space": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9377,12 +9303,6 @@
             "rating": 1
         }
     ],
-    "dek-co": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dekahvil logistics": [
         {
             "type": 1,
@@ -9396,6 +9316,12 @@
         }
     ],
     "dekbed": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dek-co": [
         {
             "type": 1,
             "rating": 1
@@ -9419,9 +9345,15 @@
             "rating": 1
         }
     ],
+    "de-koning leisure": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dekra management": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -9471,7 +9403,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9489,7 +9421,7 @@
     ],
     "delaney polo team": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -9511,7 +9443,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9523,11 +9455,11 @@
     ],
     "delaware north companies": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9561,7 +9493,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9585,8 +9517,8 @@
     ],
     "delfina foundation": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "delfinus": [
@@ -9622,7 +9554,7 @@
     "delhi brothers": [
         {
             "type": 1,
-            "rating": 4
+            "rating": 3
         }
     ],
     "delhi emperor": [
@@ -9709,6 +9641,12 @@
             "rating": 1
         }
     ],
+    "delian alliance industries": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "delicasil": [
         {
             "type": 1,
@@ -9771,9 +9709,15 @@
     ],
     "delifrance": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "de-light care and support": [
         {
             "type": 1,
             "rating": 1
@@ -9883,7 +9827,7 @@
     ],
     "delinian": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -9947,11 +9891,11 @@
     ],
     "deliverect": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10017,11 +9961,11 @@
     ],
     "dell corporation": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10051,11 +9995,11 @@
     ],
     "dellner": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10097,11 +10041,11 @@
     ],
     "deloitte": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10119,11 +10063,11 @@
     ],
     "delphic hse solutions": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10139,7 +10083,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10151,11 +10095,11 @@
     ],
     "delpro wind": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10207,7 +10151,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10267,7 +10211,7 @@
     ],
     "delta electronics": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -10329,7 +10273,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10341,11 +10285,11 @@
     ],
     "delta mobrey": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10409,12 +10353,6 @@
             "rating": 1
         }
     ],
-    "delta-t devices": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "deltabase communications": [
         {
             "type": 1,
@@ -10439,11 +10377,17 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "deltashor": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "delta-t devices": [
         {
             "type": 1,
             "rating": 1
@@ -10463,11 +10407,11 @@
     ],
     "deltatre": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10489,17 +10433,17 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "deltek gb": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10535,7 +10479,7 @@
     ],
     "deltroit asset management": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -10557,20 +10501,20 @@
     ],
     "deluxe 142": [
         {
-            "type": 7,
-            "rating": 3
+            "type": 1,
+            "rating": 1
         },
         {
-            "type": 8,
+            "type": 3,
+            "rating": 2
+        },
+        {
+            "type": 2,
             "rating": 1
         },
         {
             "type": 6,
-            "rating": 3
-        },
-        {
-            "type": 1,
-            "rating": 1
+            "rating": 2
         }
     ],
     "deluxe achievers": [
@@ -10605,13 +10549,13 @@
     ],
     "deluxe manna": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "deluxe media europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -10691,17 +10635,17 @@
             "rating": 1
         }
     ],
-    "demand-genius": [
+    "demandbase": [
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
-    "demandbase": [
-        {
-            "type": 8,
-            "rating": 1
-        },
+    "demand-genius": [
         {
             "type": 1,
             "rating": 1
@@ -10709,7 +10653,7 @@
     ],
     "demandscience": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -10729,7 +10673,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10855,12 +10799,12 @@
     ],
     "demonstration of holy ghost and power ministry": [
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         }
     ],
     "demontfort medical centre": [
@@ -10925,13 +10869,13 @@
     ],
     "denby cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
     "denby dale cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -10961,11 +10905,11 @@
     ],
     "dencorp": [
         {
-            "type": 11,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -11017,17 +10961,17 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "denham capital management": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11057,12 +11001,12 @@
     ],
     "denios": [
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "denis ferranti meters": [
@@ -11077,12 +11021,6 @@
             "rating": 1
         }
     ],
-    "denis s kebab centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "denisa telecom": [
         {
             "type": 1,
@@ -11090,6 +11028,12 @@
         }
     ],
     "denise care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "denis s kebab centre": [
         {
             "type": 1,
             "rating": 1
@@ -11182,15 +11126,15 @@
     "dennistoun baptist church scio": [
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "denny enterprises int l": [
@@ -11205,7 +11149,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11247,50 +11191,50 @@
     ],
     "denso automotive": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "denso manufacturing": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "denso marston": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "denstone college": [
         {
-            "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "dent centre plus": [
@@ -11619,7 +11563,7 @@
     ],
     "denton st lawrence cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -11631,7 +11575,7 @@
     ],
     "denton west cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -11641,7 +11585,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11657,12 +11601,12 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "dentoworld": [
@@ -11691,7 +11635,7 @@
     ],
     "dentsu soken": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -11701,11 +11645,11 @@
     ],
     "dentsu sports europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11715,17 +11659,17 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "dentsu: london": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11735,7 +11679,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11811,11 +11755,11 @@
             "rating": 1
         },
         {
-            "type": 12,
-            "rating": 3
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11839,12 +11783,12 @@
     ],
     "department for energy and net zero": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "department for science innovation and technology": [
@@ -11921,8 +11865,8 @@
     ],
     "deplidge international": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "deploy ecommerce": [
@@ -11949,13 +11893,13 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "deposco": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -11977,11 +11921,11 @@
     ],
     "deprom lv": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12011,11 +11955,11 @@
     ],
     "deputy emea": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12034,11 +11978,11 @@
     "dera baba gobind dass": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "dera care": [
@@ -12091,17 +12035,17 @@
     ],
     "derby congregational cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
     "derby county the rams": [
         {
-            "type": 1,
+            "type": 9,
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12173,7 +12117,7 @@
     ],
     "derby trailblazers basketball club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -12215,7 +12159,7 @@
     ],
     "derbyshire county cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -12257,8 +12201,8 @@
     ],
     "deri promotions": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "derisk360": [
@@ -12359,7 +12303,7 @@
     ],
     "derriaghy cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -12371,7 +12315,7 @@
     ],
     "derry city football club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -12497,11 +12441,11 @@
     ],
     "descartes agency": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12639,12 +12583,12 @@
     ],
     "desi production": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "desi sabzi": [
@@ -12775,11 +12719,11 @@
     ],
     "design arc": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12789,7 +12733,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12963,11 +12907,11 @@
     ],
     "designer m & e": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13009,11 +12953,11 @@
     ],
     "designit denmark a/s london branch": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13061,7 +13005,7 @@
     ],
     "desimone consulting engineering": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -13365,12 +13309,12 @@
     ],
     "destiny africa community": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "destiny business solutions": [
@@ -13387,7 +13331,7 @@
     ],
     "destiny church tees valley": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13435,12 +13379,12 @@
     ],
     "destiny international christian assembly": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 5,
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         }
     ],
     "destiny kids nursery": [
@@ -13451,11 +13395,11 @@
     ],
     "destiny ministries": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13467,11 +13411,11 @@
     ],
     "deswik europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13561,11 +13505,11 @@
     ],
     "deugro united kingdom": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13577,8 +13521,8 @@
     ],
     "deus ex machina productions": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "deutsch doner kebab": [
@@ -13601,11 +13545,11 @@
     ],
     "deutsche leasing": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13615,45 +13559,45 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "deutsche post global mail": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "dhl cross-border solutions": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "deutsche telekom": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -13663,26 +13607,26 @@
     ],
     "deutsche windtechnik": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "deutsche windtechnik offshore": [
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "deux-elles": [
@@ -13763,12 +13707,6 @@
             "rating": 1
         }
     ],
-    "deva s convenience store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "devaglade": [
         {
             "type": 1,
@@ -13799,6 +13737,12 @@
             "rating": 1
         }
     ],
+    "deva s convenience store": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "devasya": [
         {
             "type": 1,
@@ -13807,11 +13751,11 @@
     ],
     "devbox technologies": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13822,18 +13766,6 @@
         }
     ],
     "devcon": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "develop-it software": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "develop-x": [
         {
             "type": 1,
             "rating": 1
@@ -13863,14 +13795,20 @@
             "rating": 1
         }
     ],
-    "development aid from people to people": [
-        {
-            "type": 4,
-            "rating": 3
-        },
+    "develop-it software": [
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "development aid from people to people": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "development bank of wales": [
@@ -13897,7 +13835,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13909,9 +13847,15 @@
     ],
     "development pathways": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "develop-x": [
         {
             "type": 1,
             "rating": 1
@@ -13949,8 +13893,8 @@
     ],
     "deveron projects": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "devgun enterprises": [
@@ -13985,11 +13929,11 @@
     ],
     "devi technologies": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 4,
             "rating": 1
         }
     ],
@@ -14007,7 +13951,7 @@
     ],
     "devils entertainment": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -14113,8 +14057,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "devon healthcare solutions": [
@@ -14155,11 +14099,11 @@
     ],
     "devonport royal dockyard": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14223,7 +14167,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14397,11 +14341,11 @@
     ],
     "dexcom operating": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14425,11 +14369,11 @@
     ],
     "dext software": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14481,7 +14425,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14547,22 +14491,36 @@
     ],
     "dfds seaways": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "dfh mk motors": [
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "d-fine": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "dfittings": [
@@ -14679,12 +14637,6 @@
             "rating": 1
         }
     ],
-    "dg- global management & technology": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dga architects": [
         {
             "type": 1,
@@ -14705,7 +14657,7 @@
     ],
     "dgb europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -14797,6 +14749,12 @@
             "rating": 1
         }
     ],
+    "dg- global management & technology": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dh & ak restaurant": [
         {
             "type": 1,
@@ -14829,11 +14787,11 @@
     ],
     "dh liberty": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14862,12 +14820,6 @@
         }
     ],
     "dh telecom fiber optic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dh-pr": [
         {
             "type": 1,
             "rating": 1
@@ -14971,20 +14923,20 @@
     ],
     "dhamma centre colchester": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 5,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "dhamma compassionate housing": [
@@ -14996,43 +14948,43 @@
     "dhamma nikethanaya international community centre for education meditation psychotherapy and counselling": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "dhammakaya international society of the united kingdom": [
-        {
-            "type": 4,
-            "rating": 3
-        },
-        {
-            "type": 5,
-            "rating": 3
-        },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],
     "dhammakaya north united kingdom": [
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "dhammatek": [
@@ -15071,7 +15023,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15135,13 +15087,13 @@
             "rating": 1
         }
     ],
-    "dharma s bombay biryani": [
+    "dharmanand mortha": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "dharmanand mortha": [
+    "dharma s bombay biryani": [
         {
             "type": 1,
             "rating": 1
@@ -15239,8 +15191,8 @@
     ],
     "dhef": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "dhenda international": [
@@ -15327,13 +15279,13 @@
             "rating": 1
         }
     ],
-    "dhillon brothers": [
+    "dhillon brothers ta domino s pizza": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "dhillon brothers ta domino s pizza": [
+    "dhillon brothers": [
         {
             "type": 1,
             "rating": 1
@@ -15405,7 +15357,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15415,7 +15367,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15437,46 +15389,46 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "dhl global forwarding": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "dhl international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "dhl": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "dhmsc it": [
@@ -15517,15 +15469,21 @@
     ],
     "dhoot transmission": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "dhothar shoes": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "dhothar shoes": [
+    "dh-pr": [
         {
             "type": 1,
             "rating": 1
@@ -15621,12 +15579,6 @@
             "rating": 1
         }
     ],
-    "dia-stron": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "diabetes consults": [
         {
             "type": 1,
@@ -15641,16 +15593,16 @@
     ],
     "diadem ministries international -diadem church": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "diadems day nursery": [
@@ -15661,16 +15613,16 @@
     ],
     "diageo": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "diagnal": [
@@ -15753,12 +15705,12 @@
     ],
     "dial global": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 3,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 1,
+            "rating": 1
         }
     ],
     "dial halal": [
@@ -15799,11 +15751,11 @@
     ],
     "dialect": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15813,7 +15765,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15855,7 +15807,7 @@
     ],
     "dialpad": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -15865,11 +15817,11 @@
     ],
     "diam": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15899,7 +15851,7 @@
     ],
     "diameter capital partners": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -15951,7 +15903,7 @@
     ],
     "diamond box": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -16033,7 +15985,7 @@
     ],
     "diamond export industries": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -16135,12 +16087,12 @@
     ],
     "diamond light source": [
         {
-            "type": 12,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "diamond meds": [
@@ -16199,11 +16151,11 @@
     ],
     "diamond resorts europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -16225,12 +16177,6 @@
             "rating": 1
         }
     ],
-    "diamond-cube": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "diamond786": [
         {
             "type": 1,
@@ -16238,6 +16184,12 @@
         }
     ],
     "diamondair international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "diamond-cube": [
         {
             "type": 1,
             "rating": 1
@@ -16317,11 +16269,11 @@
     ],
     "diasorin italia s p a branch": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -16337,13 +16289,19 @@
             "rating": 1
         }
     ],
+    "dia-stron": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "diaverum": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -16443,12 +16401,6 @@
             "rating": 1
         }
     ],
-    "dida s fashion clothing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "didac schools": [
         {
             "type": 1,
@@ -16467,9 +16419,15 @@
             "rating": 1
         }
     ],
+    "dida s fashion clothing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "didcot cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -16499,11 +16457,11 @@
     ],
     "didi mobility": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -16533,11 +16491,11 @@
     ],
     "diebold nixdorf": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -16691,12 +16649,6 @@
             "rating": 1
         }
     ],
-    "digi-touch": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "digi4u": [
         {
             "type": 1,
@@ -16723,11 +16675,11 @@
     ],
     "digicert": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -16835,7 +16787,7 @@
     ],
     "digitaiken tech corporation": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -16885,14 +16837,14 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "digital arts studios": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "digital back office": [
@@ -16951,11 +16903,11 @@
     ],
     "digital completion": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -17091,8 +17043,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "digital infrastructure": [
@@ -17181,21 +17133,21 @@
     ],
     "digital medical supply": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "digital mobile innovations": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -17267,11 +17219,11 @@
     ],
     "digital realty": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -17287,7 +17239,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -17347,11 +17299,11 @@
     ],
     "digital surgery": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -17369,7 +17321,7 @@
     ],
     "digital transformation capital partners": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -17385,11 +17337,11 @@
     ],
     "digital uncut": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17413,15 +17365,9 @@
     ],
     "digital workforce": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "digital-i": [
         {
             "type": 1,
             "rating": 1
@@ -17447,21 +17393,21 @@
     ],
     "digitalapicraft": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "digitalbridge advisors 1": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -17472,6 +17418,12 @@
         }
     ],
     "digitalgb": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "digital-i": [
         {
             "type": 1,
             "rating": 1
@@ -17497,7 +17449,7 @@
     ],
     "digitally inspired": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -17513,7 +17465,7 @@
     ],
     "digitalocean droplet": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -17539,7 +17491,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -17569,9 +17521,15 @@
     ],
     "digitisingmart europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "digi-touch": [
         {
             "type": 1,
             "rating": 1
@@ -17775,7 +17733,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -17839,12 +17797,6 @@
             "rating": 1
         }
     ],
-    "dilli s restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dilli24": [
         {
             "type": 1,
@@ -17852,6 +17804,12 @@
         }
     ],
     "dilli restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dilli s restaurant": [
         {
             "type": 1,
             "rating": 1
@@ -17973,11 +17931,11 @@
     ],
     "dimensional fund advisors": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -18079,11 +18037,11 @@
     ],
     "dincer logistics": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18191,11 +18149,11 @@
     ],
     "dining innovation": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -18261,11 +18219,11 @@
     ],
     "dinosaur merchant bank": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -18295,31 +18253,31 @@
     ],
     "diocese of arundel and brighton": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
     "diocese of brentwood": [
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         }
     ],
     "diocese of chelmsford": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18331,107 +18289,113 @@
     ],
     "diocese of derby diocesan board of finance": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
     "diocese of down & connor": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "diocese of east anglia": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
     "diocese of hallam": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "diocese of hereford": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
     "diocese of hexham and newcastle": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "diocese of ireland scotland north east england and affiliated regions": [
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         }
     ],
     "diocese of leeds": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "diocese of leicester": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
     "diocese of middlesbrough trustee": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "diocese of monmouth board of finance": [
         {
-            "type": 3,
+            "type": 5,
+            "rating": 1
+        }
+    ],
+    "diocese of norwich education company": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18441,21 +18405,15 @@
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
-            "rating": 1
-        }
-    ],
-    "diocese of norwich education company": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -18468,16 +18426,16 @@
     "diocese of sheffield diocesan board of finance": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "diocese of wrexham": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18531,18 +18489,18 @@
     ],
     "diona": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "diorama arts centre": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "diors beauty company": [
@@ -18565,7 +18523,7 @@
     ],
     "diot siaci global markets": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -18807,7 +18765,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -18831,7 +18789,7 @@
     ],
     "direct link worldwide": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -18841,7 +18799,7 @@
     ],
     "direct maintenance aircraft": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -18873,12 +18831,12 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "direct physio": [
@@ -19001,7 +18959,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19025,7 +18983,7 @@
     ],
     "directflight": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -19035,17 +18993,17 @@
     ],
     "directit": [
         {
-            "type": 2,
-            "rating": 2
+            "type": 7,
+            "rating": 4
         }
     ],
-    "director": [
+    "director at bluebird care leicester hinckley bosworth and blaby": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "director at bluebird care leicester hinckley bosworth and blaby": [
+    "director": [
         {
             "type": 1,
             "rating": 1
@@ -19101,7 +19059,7 @@
     ],
     "dirty films": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19143,8 +19101,8 @@
     ],
     "disable training & accommodation": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "disappearing dining club": [
@@ -19185,7 +19143,7 @@
     ],
     "discount house electronic 15077847": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -19233,11 +19191,11 @@
     ],
     "discover financial": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19279,25 +19237,25 @@
     ],
     "discovery communications europe": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
+            "rating": 2
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
     "discovery education europe": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19363,12 +19321,12 @@
     ],
     "dishion oxford": [
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "dishley news": [
@@ -19427,11 +19385,11 @@
     ],
     "disperse io": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19449,11 +19407,11 @@
     ],
     "displaylink": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19489,7 +19447,7 @@
     ],
     "diss cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -19517,7 +19475,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19577,12 +19535,12 @@
     ],
     "distortion creative": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "distrelec": [
@@ -19591,7 +19549,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19801,8 +19759,8 @@
     ],
     "diverse youth ni": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -19815,7 +19773,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19875,8 +19833,8 @@
     ],
     "divine assembly ministries": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "divine care": [
@@ -19899,7 +19857,7 @@
     ],
     "divine christian church": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19911,7 +19869,7 @@
     ],
     "divine covenant ministries": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19923,7 +19881,7 @@
     ],
     "divine elevation chapel": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19936,11 +19894,11 @@
     "divine exchange christian centre": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "divine global": [
@@ -19952,11 +19910,11 @@
     "divine grace baptist church": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "divine grocery": [
@@ -20057,13 +20015,13 @@
     ],
     "divine restoration mission": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
     "divine revelation rccg liverpool": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20093,16 +20051,16 @@
     ],
     "divine television foundation": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 3,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 3
         }
     ],
     "divine textiles": [
@@ -20221,11 +20179,11 @@
     ],
     "dixa": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -20297,7 +20255,7 @@
     ],
     "dixon racing": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -20463,12 +20421,6 @@
             "rating": 1
         }
     ],
-    "dj s health mantra": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dj devon": [
         {
             "type": 1,
@@ -20554,6 +20506,12 @@
         }
     ],
     "djr food and beverage": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dj s health mantra": [
         {
             "type": 1,
             "rating": 1
@@ -20735,11 +20693,11 @@
     ],
     "dkms foundation": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20817,16 +20775,16 @@
     ],
     "dla piper": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "dlab": [
@@ -20836,6 +20794,12 @@
         }
     ],
     "dlala studios": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dlc nw": [
         {
             "type": 1,
             "rating": 1
@@ -20871,13 +20835,23 @@
             "rating": 1
         }
     ],
-    "dllni": [
+    "d-link europe": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dllni": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20917,8 +20891,14 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
+        }
+    ],
+    "d lux salon": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "dm & fm jones calcourt farms": [
@@ -20953,7 +20933,7 @@
     ],
     "dm equine and accountancy": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -20965,7 +20945,7 @@
     ],
     "dm gold": [
         {
-            "type": 6,
+            "type": 3,
             "rating": 5
         }
     ],
@@ -20977,12 +20957,12 @@
     ],
     "dm studios": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "dm vehicles": [
@@ -21029,8 +21009,8 @@
     ],
     "dmatics it solutions 14833334": [
         {
-            "type": 2,
-            "rating": 2
+            "type": 7,
+            "rating": 4
         }
     ],
     "dmb 777": [
@@ -21111,13 +21091,13 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "dmg mori": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -21145,7 +21125,7 @@
     ],
     "dmi ventures": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -21174,6 +21154,12 @@
         }
     ],
     "dml marketing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "d modish fingerfoods and bakes": [
         {
             "type": 1,
             "rating": 1
@@ -21301,17 +21287,17 @@
     ],
     "dn automotive vms": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "dn capital": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21341,11 +21327,11 @@
     ],
     "dn media global as": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21369,11 +21355,11 @@
     ],
     "dna payments": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21383,13 +21369,13 @@
             "rating": 1
         }
     ],
-    "dna worldwide": [
+    "dna worldwide holdings": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "dna worldwide holdings": [
+    "dna worldwide": [
         {
             "type": 1,
             "rating": 1
@@ -21415,31 +21401,31 @@
     ],
     "dnata catering": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "dnb bank asa london branch": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "dnb carnegie investment bank ab branch": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21583,11 +21569,11 @@
     ],
     "dnv": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21605,11 +21591,11 @@
     ],
     "do and co event and airline catering": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21625,8 +21611,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "doaba construction": [
@@ -21655,21 +21641,21 @@
     ],
     "dobedo represents": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "doble powertest": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21711,17 +21697,17 @@
     ],
     "docebo": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
     "doceree": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -21771,7 +21757,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21837,8 +21823,8 @@
     ],
     "doctors of the world": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "doctors seepaul singh": [
@@ -21865,7 +21851,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21971,8 +21957,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "doga int": [
@@ -22025,7 +22011,7 @@
     ],
     "dogma": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -22083,7 +22069,7 @@
     ],
     "dohler": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -22105,7 +22091,7 @@
     ],
     "dojima sake brewery & co": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -22145,7 +22131,7 @@
     ],
     "dolarapp": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -22155,7 +22141,7 @@
     ],
     "dolby europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -22165,7 +22151,7 @@
     ],
     "dolce & gabbana": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -22193,12 +22179,12 @@
     ],
     "dollar academy": [
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "dollhouse fashions": [
@@ -22468,20 +22454,20 @@
     "dominican missionary sisters of the sacred heart of jesus cio no 1168379": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "dominican sisters of st joseph": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22491,7 +22477,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -22515,8 +22501,8 @@
     ],
     "dominion prophetic outreach ministries": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "dominion stores": [
@@ -22533,21 +22519,21 @@
     ],
     "domino data lab": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "domino printing sciences": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -22557,8 +22543,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "dominus aldgate hotel": [
@@ -22623,11 +22609,11 @@
     ],
     "domo europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -22639,11 +22625,11 @@
     ],
     "domo tactical communications dtc": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -22661,7 +22647,7 @@
     ],
     "don & low": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -22706,12 +22692,6 @@
         }
     ],
     "don valley engineering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "don s rocket news": [
         {
             "type": 1,
             "rating": 1
@@ -22827,25 +22807,25 @@
     ],
     "doncaster rugby football club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
     "doncaster rugby league club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
     "doncaster town cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
     "doncaster townfields squash club cic": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -22857,16 +22837,16 @@
     ],
     "doncasters": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "dondon dining": [
@@ -22883,7 +22863,7 @@
     ],
     "donemana cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -22943,7 +22923,7 @@
     ],
     "dong hwa ind": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -22983,16 +22963,16 @@
             "rating": 1
         }
     ],
+    "donmar warehouse projects": [
+        {
+            "type": 3,
+            "rating": 2
+        }
+    ],
     "donmar warehouse": [
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "donmar warehouse projects": [
-        {
-            "type": 6,
-            "rating": 3
         }
     ],
     "donna nicol physiotherapy & associates": [
@@ -23007,13 +22987,13 @@
             "rating": 1
         }
     ],
-    "donna s commercial trading": [
+    "donnamu": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "donnamu": [
+    "donna s commercial trading": [
         {
             "type": 1,
             "rating": 1
@@ -23027,11 +23007,11 @@
     ],
     "donnelley financial solutions": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23067,7 +23047,7 @@
     ],
     "donoso polo": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -23090,6 +23070,12 @@
         }
     ],
     "dons care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "don s rocket news": [
         {
             "type": 1,
             "rating": 1
@@ -23175,41 +23161,41 @@
     ],
     "doosan bobcat emea": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
     "doosan digital innovation europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "doosan power systems s a branch": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "doosan water": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23221,11 +23207,11 @@
     ],
     "doppelmayr cable car": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23255,7 +23241,7 @@
     ],
     "dorchester community church": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23297,11 +23283,11 @@
     ],
     "dorco u k": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23319,7 +23305,7 @@
     ],
     "dorfner anzaplan": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -23329,7 +23315,7 @@
     ],
     "dorgan sports horses": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -23365,11 +23351,11 @@
     ],
     "doris engineering": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23381,7 +23367,7 @@
     ],
     "dorking cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -23405,11 +23391,11 @@
     ],
     "dormakaba": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23445,17 +23431,17 @@
     ],
     "dornbracht": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "dornier": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -23489,7 +23475,7 @@
     ],
     "dorridge cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -23543,26 +23529,26 @@
     ],
     "dorset islamic cultural association": [
         {
-            "type": 5,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "dorset mind": [
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "dorset noodle company": [
@@ -23573,8 +23559,8 @@
     ],
     "dorset opera": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "dorset security": [
@@ -23687,21 +23673,21 @@
     ],
     "doshi london": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "doshi accountants": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23815,11 +23801,11 @@
     ],
     "dotdigital emea": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23835,7 +23821,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23883,11 +23869,11 @@
     ],
     "dotsquares": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23971,16 +23957,16 @@
     ],
     "double negative": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "double one hospitality": [
@@ -23991,7 +23977,7 @@
     ],
     "double r racing": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         },
         {
@@ -24073,11 +24059,11 @@
     ],
     "doubleverify": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24255,8 +24241,8 @@
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "dover district council": [
@@ -24273,11 +24259,11 @@
     ],
     "dover fueling solutions": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24295,7 +24281,7 @@
     ],
     "dover holdings": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -24341,7 +24327,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24407,21 +24393,21 @@
     ],
     "dow chemical company": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "dow jones international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24451,7 +24437,7 @@
     ],
     "dowlais headquarters": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -24491,8 +24477,8 @@
     ],
     "down syndrome international": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "downbay": [
@@ -24515,7 +24501,7 @@
     ],
     "downend cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -24527,7 +24513,7 @@
     ],
     "downes equine": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -24551,8 +24537,8 @@
     ],
     "downham baptist church": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "downham petroleum company": [
@@ -24563,17 +24549,17 @@
     ],
     "downham stow cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
     "downhole products": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24622,11 +24608,11 @@
     "downside school": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "downside supermarket": [
@@ -24653,7 +24639,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24693,7 +24679,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24775,12 +24761,6 @@
             "rating": 1
         }
     ],
-    "dp s local": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dp9": [
         {
             "type": 1,
@@ -24829,8 +24809,8 @@
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "dpk contractors": [
@@ -24919,11 +24899,11 @@
     ],
     "dps games": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24934,6 +24914,12 @@
         }
     ],
     "dps": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dp s local": [
         {
             "type": 1,
             "rating": 1
@@ -25029,13 +25015,13 @@
             "rating": 1
         }
     ],
-    "dr al-kaisy & dr islam practice": [
+    "dr alia faki": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "dr alia faki": [
+    "dr al-kaisy & dr islam practice": [
         {
             "type": 1,
             "rating": 1
@@ -25049,17 +25035,17 @@
     ],
     "dr ambedkar memorial committee of great britian": [
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         }
     ],
     "dr amin badr el din": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -25185,7 +25171,7 @@
     ],
     "dr cv": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         },
         {
@@ -25651,11 +25637,11 @@
     ],
     "dr reddys laboratories": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -25863,12 +25849,6 @@
             "rating": 1
         }
     ],
-    "dr-ime": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dr fee practice": [
         {
             "type": 1,
@@ -25877,7 +25857,7 @@
     ],
     "dr frigz": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -25895,12 +25875,12 @@
     ],
     "dr oetker": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "dr print": [
@@ -25915,7 +25895,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -25939,7 +25919,7 @@
     ],
     "dra projects europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -25973,16 +25953,16 @@
     ],
     "dragados sa branch": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 7,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "dragan k": [
@@ -26071,27 +26051,15 @@
     ],
     "dragon school trust": [
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "dragon super store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dragon s delicacy restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dragon s egg": [
         {
             "type": 1,
             "rating": 1
@@ -26152,6 +26120,18 @@
         }
     ],
     "dragonpass international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dragon s delicacy restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dragon s egg": [
         {
             "type": 1,
             "rating": 1
@@ -26261,11 +26241,11 @@
     ],
     "drax power": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -26475,7 +26455,7 @@
     ],
     "dream games publishing": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -26741,23 +26721,23 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
-        }
-    ],
-    "dreams-ai-cambridge": [
-        {
-            "type": 1,
-            "rating": 1
+            "type": 3,
+            "rating": 2
         }
     ],
     "dreamsai milton keynes": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
+            "type": 10,
+            "rating": 2
+        }
+    ],
+    "dreams-ai-cambridge": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26799,24 +26779,24 @@
     ],
     "dreamtel hotel": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "dreamthinkspeak": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "dreamy daisies": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "dreamz desserts ayl": [
@@ -26827,11 +26807,11 @@
     ],
     "dreamz tech solutions pvt": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -26861,11 +26841,11 @@
     ],
     "dremio": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26919,7 +26899,7 @@
     ],
     "drewitt polo": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -26929,7 +26909,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -26965,7 +26945,7 @@
     ],
     "driffield town recreation and cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -26978,16 +26958,6 @@
     "driftwood dreams": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "dril-quip europe": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
             "rating": 1
         }
     ],
@@ -27005,7 +26975,7 @@
     ],
     "drillco europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -27015,15 +26985,31 @@
     ],
     "drilling information": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "dril-quip europe": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "drimbawn": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "drimbawn": [
+    "dr-ime": [
         {
             "type": 1,
             "rating": 1
@@ -27097,11 +27083,11 @@
     ],
     "driscolls genetics": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -27177,10 +27163,16 @@
             "rating": 1
         }
     ],
+    "driver transmissions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "driver61": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "driverhelpline": [
@@ -27279,7 +27271,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -27333,15 +27325,15 @@
     ],
     "dronedeploy": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
+            "type": 7,
             "rating": 1
         },
         {
             "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27359,8 +27351,8 @@
     ],
     "drool productions": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "drop fix": [
@@ -27371,8 +27363,8 @@
     ],
     "drop inn ministries": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "drop shot cars": [
@@ -27389,11 +27381,11 @@
     ],
     "dropbox online": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -27423,7 +27415,7 @@
     ],
     "droylsden cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -27435,7 +27427,7 @@
     ],
     "drp international": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -27559,7 +27551,7 @@
     ],
     "druck": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -27639,8 +27631,8 @@
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "drumey farm": [
@@ -27693,7 +27685,7 @@
     ],
     "drumpellier cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -27721,7 +27713,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -27853,11 +27845,11 @@
     ],
     "ds smith business": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -27911,7 +27903,7 @@
     ],
     "dscout": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -27938,6 +27930,12 @@
         }
     ],
     "dsigns devon": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "d silva": [
         {
             "type": 1,
             "rating": 1
@@ -28009,6 +28007,12 @@
             "rating": 1
         }
     ],
+    "d-sky": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dsl bars": [
         {
             "type": 1,
@@ -28065,11 +28069,11 @@
     ],
     "dsm nutritional products": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -28085,12 +28089,6 @@
             "rating": 1
         }
     ],
-    "dsp": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dsp food & wine": [
         {
             "type": 1,
@@ -28099,7 +28097,7 @@
     ],
     "dsp international": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -28115,9 +28113,15 @@
     ],
     "dspace": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "dsp": [
         {
             "type": 1,
             "rating": 1
@@ -28155,11 +28159,11 @@
     ],
     "dsrc": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -28177,7 +28181,7 @@
     ],
     "dss international": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -28197,7 +28201,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -28261,13 +28265,13 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "dsv united kingdom": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -28325,7 +28329,7 @@
     ],
     "dt industrial": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -28363,7 +28367,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -28405,9 +28409,15 @@
     ],
     "dtek investments": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "d-tek": [
         {
             "type": 1,
             "rating": 1
@@ -28438,6 +28448,12 @@
         }
     ],
     "dtn europe": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "d-triumph care": [
         {
             "type": 1,
             "rating": 1
@@ -28481,11 +28497,11 @@
     ],
     "du pont": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -28549,12 +28565,6 @@
             "rating": 1
         }
     ],
-    "dua s grill": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "duadata": [
         {
             "type": 1,
@@ -28579,12 +28589,6 @@
             "rating": 1
         }
     ],
-    "dual-stream": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dualit": [
         {
             "type": 1,
@@ -28592,6 +28596,12 @@
         }
     ],
     "duality quantum photonics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dual-stream": [
         {
             "type": 1,
             "rating": 1
@@ -28621,6 +28631,12 @@
             "rating": 1
         }
     ],
+    "dua s grill": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dub building": [
         {
             "type": 1,
@@ -28635,19 +28651,19 @@
     ],
     "dubai equestrian club representative office": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 9,
+            "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -28671,8 +28687,8 @@
     ],
     "dublin auto spare parts trading 15489767": [
         {
-            "type": 2,
-            "rating": 2
+            "type": 7,
+            "rating": 4
         }
     ],
     "dublin halal meats": [
@@ -28695,11 +28711,11 @@
     ],
     "ducati": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -28723,11 +28739,11 @@
     ],
     "duck creek technologies": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -28739,8 +28755,8 @@
     ],
     "duck soup films": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "duckrabbit": [
@@ -28775,11 +28791,11 @@
     ],
     "dude hub": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28921,17 +28937,17 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "duffel technology": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -28943,7 +28959,7 @@
     ],
     "duffield cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -29003,11 +29019,11 @@
     ],
     "duke corporate education": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -29079,7 +29095,7 @@
     ],
     "dukinfield cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -29113,13 +29129,13 @@
             "rating": 1
         }
     ],
-    "dulce s cakes & patisserie": [
+    "dulcedo patisserie": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "dulcedo patisserie": [
+    "dulce s cakes & patisserie": [
         {
             "type": 1,
             "rating": 1
@@ -29161,7 +29177,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -29179,12 +29195,12 @@
     ],
     "dulwich picture gallery": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "dulwich prep & senior": [
@@ -29201,7 +29217,7 @@
     ],
     "dulwich sports club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -29225,7 +29241,7 @@
     ],
     "dumbleton cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -29285,11 +29301,11 @@
     ],
     "dun & bradstreet": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -29325,17 +29341,17 @@
     ],
     "dunbar road design": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
     "dunbia": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -29435,18 +29451,18 @@
             "rating": 1
         },
         {
-            "type": 9,
-            "rating": 3
+            "type": 14,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "dundee contemporary arts": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "dundee court dental centre": [
@@ -29461,8 +29477,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "dundonald house nursing home": [
@@ -29509,7 +29525,7 @@
     ],
     "dunfermline athletic football club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         },
         {
@@ -29531,14 +29547,8 @@
     ],
     "dunfield house": [
         {
-            "type": 5,
-            "rating": 3
-        }
-    ],
-    "dunford wood nh": [
-        {
-            "type": 1,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "dunham swan": [
@@ -29561,7 +29571,7 @@
     ],
     "dunhills pontefract": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -29605,7 +29615,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -29681,13 +29691,13 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "dunnington cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -29771,7 +29781,7 @@
     ],
     "dunstall cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -29831,8 +29841,8 @@
     ],
     "duo model mgmt": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "duo operations": [
@@ -29895,7 +29905,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -29997,7 +30007,7 @@
     ],
     "duress": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -30027,7 +30037,7 @@
     ],
     "durham city cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -30039,11 +30049,11 @@
     ],
     "durham cricket cic": [
         {
-            "type": 11,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -30056,14 +30066,14 @@
     "durham diocesan board of finance": [
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 1,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30075,7 +30085,7 @@
     ],
     "durham korean church": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30105,7 +30115,7 @@
     ],
     "durham women football club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -30141,11 +30151,11 @@
     ],
     "durr": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -30223,11 +30233,11 @@
     ],
     "dustolex": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -30369,7 +30379,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -30421,6 +30431,12 @@
             "rating": 1
         }
     ],
+    "d-way": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dwc architecture": [
         {
             "type": 1,
@@ -30441,17 +30457,17 @@
     ],
     "dwcc": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "dwd property and planning": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -30485,7 +30501,7 @@
     ],
     "dwf": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -30609,11 +30625,11 @@
     ],
     "dyaco": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30641,13 +30657,13 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "dye & durham": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -30733,12 +30749,6 @@
             "rating": 1
         }
     ],
-    "dyn-metal": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dynabite": [
         {
             "type": 1,
@@ -30763,13 +30773,13 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "dynamatix": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -30923,6 +30933,12 @@
             "rating": 1
         }
     ],
+    "dynamic office seating": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dynamic people": [
         {
             "type": 1,
@@ -31021,8 +31037,8 @@
     ],
     "dynamic wrestling": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "dynamic x plus": [
@@ -31081,11 +31097,11 @@
     ],
     "dynamo analytics": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -31109,11 +31125,11 @@
     ],
     "dynamo healthcare training": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31165,7 +31181,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -31205,17 +31221,23 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "dynic": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "dynisma": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dyn-metal": [
         {
             "type": 1,
             "rating": 1
@@ -31227,7 +31249,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -31239,11 +31261,11 @@
     ],
     "dynpro": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -31265,24 +31287,24 @@
             "rating": 1
         }
     ],
-    "dyson": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 7,
-            "rating": 3
-        },
+    "dyson it": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "dyson it": [
+    "dyson": [
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "dystematic": [
@@ -31293,11 +31315,11 @@
     ],
     "dywidag": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -31307,7 +31329,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -31703,7 +31725,7 @@
     ],
     "david haye": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -31947,7 +31969,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -31958,12 +31980,6 @@
         }
     ],
     "dosa park": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "doncaster road general store - premier": [
         {
             "type": 1,
             "rating": 1
@@ -32059,7 +32075,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -32089,16 +32105,16 @@
     ],
     "dp world southampton": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "doubletree by hilton london - west end": [
@@ -32108,6 +32124,12 @@
         }
     ],
     "doi intanon thai restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "doncaster road general store - premier": [
         {
             "type": 1,
             "rating": 1

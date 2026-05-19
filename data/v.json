@@ -1,28 +1,4 @@
 {
-    "v-count": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "venkatesh ankam": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "viceroy cars": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "vicky 1": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "victorious tattoo glasgow": [
         {
             "type": 1,
@@ -71,12 +47,12 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "victoria news": [
@@ -171,11 +147,11 @@
     ],
     "voltaire design": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -623,13 +599,13 @@
             "rating": 1
         }
     ],
-    "v & u enterprise": [
+    "v & u enterprise t/a family shopper": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "v & u enterprise t/a family shopper": [
+    "v & u enterprise": [
         {
             "type": 1,
             "rating": 1
@@ -983,7 +959,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1029,60 +1005,6 @@
             "rating": 1
         }
     ],
-    "v-care homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "v-design cad": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "v-lab": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "v-nova": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "v-real": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "v-square technologies": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "v-tac": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "v-tax accountants and business consultants": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "v-tech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "v & a automotive": [
         {
             "type": 1,
@@ -1121,11 +1043,11 @@
     ],
     "v ships": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1383,11 +1305,11 @@
     ],
     "vaillant": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1399,7 +1321,7 @@
     ],
     "vaisala": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -1410,11 +1332,11 @@
     "vaishnav sangh of": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "vaishnav stores": [
@@ -1461,7 +1383,7 @@
     ],
     "vakifbank representative office": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -1478,18 +1400,6 @@
         }
     ],
     "val kar": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "val s news agents & off licence": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "val s thai": [
         {
             "type": 1,
             "rating": 1
@@ -1515,15 +1425,15 @@
     ],
     "valar resources": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
+            "type": 7,
             "rating": 1
         },
         {
             "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1545,37 +1455,37 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "vald operations": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
     "vale base metals": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
     "vale europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1605,21 +1515,21 @@
     ],
     "vale insurance intermediary europe gmbh": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
     "vale insurance partners europe b v": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1787,11 +1697,11 @@
     ],
     "valentino england": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1821,11 +1731,11 @@
     ],
     "valeo": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1853,7 +1763,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -1889,8 +1799,8 @@
     ],
     "valid productions": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "validation network": [
@@ -1985,8 +1895,8 @@
     ],
     "valley church": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "valley dental practice": [
@@ -2003,7 +1913,7 @@
     ],
     "valley end cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -2111,11 +2021,11 @@
     ],
     "vallourec oil & gas": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2133,17 +2043,17 @@
     ],
     "valmet": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "valmiera glass": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2159,7 +2069,7 @@
     ],
     "valnet": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2185,7 +2095,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2233,7 +2143,7 @@
     ],
     "valori asset management": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2285,7 +2195,19 @@
             "rating": 1
         }
     ],
+    "val s news agents & off licence": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vals place": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "val s thai": [
         {
             "type": 1,
             "rating": 1
@@ -2311,7 +2233,7 @@
     ],
     "valterra platinum marketing": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2393,11 +2315,11 @@
     ],
     "value retail": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2427,7 +2349,7 @@
     ],
     "valuelabs": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2449,7 +2371,7 @@
     ],
     "valuemomentum": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2561,11 +2483,11 @@
     ],
     "vamstar": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2577,7 +2499,7 @@
     ],
     "van den herik": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2587,11 +2509,11 @@
     ],
     "van doorne b v": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2625,8 +2547,8 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 6,
+            "rating": 2
         }
     ],
     "van leeuwen": [
@@ -2643,20 +2565,20 @@
     ],
     "van oord": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 13,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "van parys care": [
@@ -2685,8 +2607,8 @@
     ],
     "vanara": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "vanbrugh physiotherapy": [
@@ -2695,13 +2617,13 @@
             "rating": 1
         }
     ],
-    "vanda s kitchen": [
+    "vandana technologies pvt": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "vandana technologies pvt": [
+    "vanda s kitchen": [
         {
             "type": 1,
             "rating": 1
@@ -2715,7 +2637,7 @@
     ],
     "vandemooretele europe nv branch": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2735,12 +2657,12 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "vanderpump & sykes": [
@@ -2811,31 +2733,31 @@
     ],
     "vanguard healthcare solutions": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "vanguard investments": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "vanguard logistics": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2871,7 +2793,7 @@
     ],
     "vaniam global": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -2895,8 +2817,8 @@
     ],
     "vanishing point theatre company": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "vanithasan subramaniam": [
@@ -2913,7 +2835,7 @@
     ],
     "vanity": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -2989,7 +2911,7 @@
     ],
     "vanta technology": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -3005,11 +2927,11 @@
     ],
     "vantage data centers": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3027,11 +2949,11 @@
     ],
     "vantage infrastructure": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3067,11 +2989,11 @@
     ],
     "vantage power": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3083,11 +3005,11 @@
     ],
     "vantage re": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3169,12 +3091,6 @@
             "rating": 1
         }
     ],
-    "vape n out": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vape and gadgets": [
         {
             "type": 1,
@@ -3212,6 +3128,12 @@
         }
     ],
     "vape mart": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vape n out": [
         {
             "type": 1,
             "rating": 1
@@ -3370,11 +3292,11 @@
     "varapunya buddhist society varapunya meditation centre": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "varatharajan sambasivam": [
@@ -3403,11 +3325,11 @@
     ],
     "varde partners europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3437,7 +3359,7 @@
     ],
     "vargronn service co": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -3451,17 +3373,17 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "varian stable": [
         {
-            "type": 11,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -3473,11 +3395,11 @@
     ],
     "varicent opco": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3535,6 +3457,12 @@
             "rating": 1
         }
     ],
+    "various": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "varkan foods": [
         {
             "type": 1,
@@ -3579,11 +3507,11 @@
     ],
     "varonis": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3757,11 +3685,11 @@
     ],
     "vascutek": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3905,21 +3833,21 @@
     ],
     "vattenfall wind power": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "vauban technologies": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -3935,11 +3863,11 @@
     ],
     "vault platform": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -3975,16 +3903,16 @@
     ],
     "vauxhall motors": [
         {
-            "type": 13,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "vauxhall street pharmacy": [
@@ -4019,11 +3947,11 @@
     ],
     "vaynermedia": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4107,7 +4035,7 @@
     ],
     "vbt software": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -4134,6 +4062,12 @@
         }
     ],
     "vca technology": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "v-care homes": [
         {
             "type": 1,
             "rating": 1
@@ -4193,13 +4127,19 @@
             "rating": 1
         }
     ],
+    "v-count": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vcp advisors": [
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4235,7 +4175,7 @@
     ],
     "vda": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -4244,6 +4184,12 @@
         }
     ],
     "vdc trading": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "v-design cad": [
         {
             "type": 1,
             "rating": 1
@@ -4275,8 +4221,8 @@
     ],
     "vdl steelweld": [
         {
-            "type": 13,
-            "rating": 3
+            "type": 12,
+            "rating": 2
         }
     ],
     "vdp fashion": [
@@ -4291,23 +4237,29 @@
             "rating": 1
         }
     ],
+    "vdx": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ve3 global": [
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "vea telecoms": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4331,7 +4283,7 @@
     ],
     "vecom sillavan metal treatment": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -4369,21 +4321,21 @@
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 8,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         }
     ],
     "vector aerospace": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4461,11 +4413,11 @@
     ],
     "vectra": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4489,11 +4441,11 @@
     ],
     "vectura": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4557,7 +4509,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4579,7 +4531,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4625,7 +4577,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4703,21 +4655,21 @@
     ],
     "veetee rice": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "veeva systems": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4789,11 +4741,11 @@
     ],
     "vega industries": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4871,7 +4823,7 @@
     ],
     "vegware": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -4923,11 +4875,11 @@
     ],
     "veiksme tech": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 4,
             "rating": 1
         }
     ],
@@ -5004,12 +4956,6 @@
         }
     ],
     "vel surgery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "vel s express": [
         {
             "type": 1,
             "rating": 1
@@ -5107,7 +5053,7 @@
     ],
     "velo payments": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5125,11 +5071,11 @@
     ],
     "velocity global international": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5181,6 +5127,12 @@
             "rating": 1
         }
     ],
+    "vel s express": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "velstar": [
         {
             "type": 1,
@@ -5195,11 +5147,11 @@
     ],
     "velux company": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5251,7 +5203,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5311,7 +5263,7 @@
     ],
     "vendavo": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -5406,14 +5358,20 @@
     "venkatakrushna vrundavana": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "venkatasai solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "venkatesh ankam": [
         {
             "type": 1,
             "rating": 1
@@ -5485,12 +5443,6 @@
             "rating": 1
         }
     ],
-    "vent-tech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "venta global": [
         {
             "type": 1,
@@ -5511,11 +5463,11 @@
     ],
     "venterra": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5527,7 +5479,7 @@
     ],
     "vention solutions": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -5541,7 +5493,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5553,7 +5505,7 @@
     ],
     "ventnor cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -5565,11 +5517,11 @@
     ],
     "vento energy support": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5580,6 +5532,12 @@
         }
     ],
     "ventseslav yankov": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vent-tech": [
         {
             "type": 1,
             "rating": 1
@@ -5663,13 +5621,13 @@
             "rating": 1
         }
     ],
-    "venture-people": [
+    "ventureflows": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "ventureflows": [
+    "venture-people": [
         {
             "type": 1,
             "rating": 1
@@ -5725,8 +5683,8 @@
     ],
     "ventusventures holding": [
         {
-            "type": 2,
-            "rating": 2
+            "type": 7,
+            "rating": 4
         }
     ],
     "venue @ the clock house": [
@@ -5771,7 +5729,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5849,11 +5807,11 @@
     ],
     "veolia es": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5865,7 +5823,7 @@
     ],
     "veolia water technologies & solutions partnership": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -5875,11 +5833,11 @@
     ],
     "veon digital": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5903,11 +5861,11 @@
     ],
     "vera global solutions": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5955,11 +5913,11 @@
     ],
     "veracode": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -5977,7 +5935,7 @@
     ],
     "verallia": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -5987,7 +5945,7 @@
     ],
     "veramed": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -5995,7 +5953,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 4,
             "rating": 1
         }
     ],
@@ -6017,17 +5975,17 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "verasonics": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6057,11 +6015,11 @@
     ],
     "verbum dei community": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6077,7 +6035,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6101,7 +6059,7 @@
     ],
     "verdantix": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6161,7 +6119,7 @@
     ],
     "veremark": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -6201,11 +6159,11 @@
     ],
     "veridium": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6239,7 +6197,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6273,7 +6231,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6291,7 +6249,7 @@
     ],
     "veripos": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -6301,11 +6259,11 @@
     ],
     "verisae": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6321,17 +6279,17 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "veristat international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6341,13 +6299,13 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "verita global": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -6393,7 +6351,7 @@
     ],
     "veritech": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         },
         {
@@ -6403,11 +6361,11 @@
     ],
     "verition advisors": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6423,7 +6381,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6441,21 +6399,21 @@
     ],
     "verizon": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "verkada": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6495,7 +6453,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6513,11 +6471,11 @@
     ],
     "vernacare international": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6547,7 +6505,7 @@
     ],
     "vernon carus cricket club": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -6589,7 +6547,7 @@
     ],
     "versace": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -6599,11 +6557,11 @@
     ],
     "versalis": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6633,11 +6591,11 @@
     ],
     "version 1 solutions": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -6673,11 +6631,11 @@
     ],
     "versuni": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6753,7 +6711,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 4,
             "rating": 1
         }
     ],
@@ -6783,11 +6741,11 @@
     ],
     "vertex pharmaceuticals europe": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6798,12 +6756,6 @@
         }
     ],
     "vertex": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "vertex-": [
         {
             "type": 1,
             "rating": 1
@@ -6821,7 +6773,7 @@
             "rating": 1
         }
     ],
-    "vertic": [
+    "vertex-": [
         {
             "type": 1,
             "rating": 1
@@ -6835,16 +6787,16 @@
     ],
     "vertical aerospace": [
         {
-            "type": 13,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "vertical dot": [
@@ -6879,11 +6831,17 @@
     ],
     "vertice technology": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vertic": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6907,21 +6865,21 @@
     ],
     "vertiv company": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "verto education": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6999,11 +6957,11 @@
     ],
     "verve the live agency": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7069,11 +7027,11 @@
     ],
     "veson nautical": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7133,26 +7091,26 @@
     ],
     "vestas offshore wind": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
     "vestas technology": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "vestd": [
@@ -7169,11 +7127,11 @@
     ],
     "vestel holland b v branch office": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7191,7 +7149,7 @@
     ],
     "vestiaire collective": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -7225,11 +7183,11 @@
     ],
     "vesuvius": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7367,11 +7325,11 @@
     ],
     "vevo": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7443,11 +7401,11 @@
     ],
     "vfs financial": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7531,7 +7489,7 @@
     ],
     "vgp developments": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -7557,13 +7515,13 @@
             "rating": 1
         }
     ],
-    "vh-bsc uxbridge": [
+    "vhan consulting": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "vhan consulting": [
+    "vh-bsc uxbridge": [
         {
             "type": 1,
             "rating": 1
@@ -7594,12 +7552,6 @@
         }
     ],
     "vi healthy living": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "vi-spring": [
         {
             "type": 1,
             "rating": 1
@@ -7643,11 +7595,11 @@
     ],
     "via transportation": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7659,17 +7611,17 @@
     ],
     "viabizzuno": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "viacon united kingdom": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7693,7 +7645,7 @@
     ],
     "vialto partners": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -7701,8 +7653,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "viamaster international": [
@@ -7747,7 +7699,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7759,11 +7711,11 @@
     ],
     "viasat": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7775,36 +7727,22 @@
     ],
     "viavi solutions": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "viavix media": [
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "vibe": [
-        {
-            "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
-            "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 3
         }
     ],
     "vibe centre": [
@@ -7839,11 +7777,11 @@
     ],
     "viber": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7857,6 +7795,20 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "vibe": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "vibha technology": [
@@ -7939,11 +7891,11 @@
     ],
     "vica power": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7991,15 +7943,15 @@
     ],
     "vice": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
+            "rating": 2
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8009,11 +7961,17 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "viceroy bollington restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "viceroy cars": [
         {
             "type": 1,
             "rating": 1
@@ -8055,6 +8013,12 @@
             "rating": 1
         }
     ],
+    "vicky 1": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vicman": [
         {
             "type": 1,
@@ -8081,11 +8045,11 @@
     ],
     "victaulic europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8097,13 +8061,13 @@
     ],
     "victim support ni": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "victor buyck steel construction": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -8123,7 +8087,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8141,16 +8105,16 @@
     ],
     "victoria and albert museum": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 3,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "victoria and mapperley practice": [
@@ -8297,7 +8261,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8351,8 +8315,8 @@
     ],
     "victoria rowsell artist management": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "victoria solicitors": [
@@ -8403,18 +8367,6 @@
             "rating": 1
         }
     ],
-    "victoria s kitchen": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "victoria s smile": [
-        {
-            "type": 4,
-            "rating": 3
-        }
-    ],
     "victorian news": [
         {
             "type": 1,
@@ -8431,6 +8383,18 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "victoria s kitchen": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "victoria s smile": [
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "victorimax": [
@@ -8477,11 +8441,11 @@
     ],
     "victory advisors": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8499,36 +8463,36 @@
     ],
     "victory church of christ": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
         }
     ],
     "victory family centre glasgow": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "victory family centre london": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "victory graphics": [
@@ -8563,16 +8527,16 @@
     ],
     "victory hill church": [
         {
-            "type": 4,
-            "rating": 3
-        },
-        {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "victory hill exhibitions": [
@@ -8583,7 +8547,7 @@
     ],
     "victory international church the overcomers": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8595,20 +8559,20 @@
     ],
     "victory outreach": [
         {
-            "type": 4,
-            "rating": 3
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
-        },
-        {
-            "type": 3,
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "victory socialcare enterprise": [
@@ -8703,11 +8667,11 @@
     ],
     "videojet technologies": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8803,11 +8767,11 @@
     ],
     "viessmann": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8861,7 +8825,7 @@
     ],
     "vietnam airlines": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8919,7 +8883,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8965,7 +8929,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -8987,7 +8951,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9071,8 +9035,8 @@
     ],
     "vigo gallery": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "vigo lane": [
@@ -9117,18 +9081,6 @@
             "rating": 1
         }
     ],
-    "vijay s chawalla t/as vijay s chawalla": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "vijay s virasat": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vijayaa": [
         {
             "type": 1,
@@ -9136,6 +9088,18 @@
         }
     ],
     "vijayabaskar sathiyaraja": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vijay s chawalla t/as vijay s chawalla": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vijay s virasat": [
         {
             "type": 1,
             "rating": 1
@@ -9185,11 +9149,11 @@
     ],
     "viking global investors europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9229,7 +9193,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9253,8 +9217,8 @@
     ],
     "vilee media": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "vilfredo capital": [
@@ -9265,7 +9229,7 @@
     ],
     "vilja solutions": [
         {
-            "type": 2,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -9307,11 +9271,11 @@
     ],
     "villa plus": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9365,7 +9329,7 @@
     ],
     "village church belfast": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9521,17 +9485,11 @@
     ],
     "villeroy & boch": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "vim care": [
-        {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9561,11 +9519,11 @@
     ],
     "vimeo": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9625,8 +9583,8 @@
     ],
     "vincent dance theatre": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "vincent hannon + associates": [
@@ -9683,27 +9641,27 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "vinci construction grands projets branch": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "vinci construction management": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9745,16 +9703,16 @@
     ],
     "vine church": [
         {
-            "type": 3,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         }
     ],
     "vine home care": [
@@ -9814,11 +9772,11 @@
     "vinelife church manchester": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "vinescapes": [
@@ -9835,21 +9793,21 @@
     ],
     "vineyard 61 church": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 3,
-            "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 3
         }
     ],
     "vineyard churches and ireland": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9879,7 +9837,7 @@
     ],
     "vinfast": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -9983,7 +9941,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10115,11 +10073,11 @@
     ],
     "vinyl space": [
         {
-            "type": 11,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 9,
             "rating": 1
         }
     ],
@@ -10191,7 +10149,7 @@
     ],
     "vion food": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -10243,7 +10201,7 @@
     ],
     "vip payments": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10331,7 +10289,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10391,21 +10349,21 @@
     ],
     "virgin active": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "virgin atlantic airways": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10417,21 +10375,21 @@
     ],
     "virgin management": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "virgin media": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10539,11 +10497,11 @@
     ],
     "virmati energy": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10555,11 +10513,11 @@
     ],
     "virocell holdings": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10599,7 +10557,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10665,11 +10623,11 @@
     ],
     "virtual reality kingdom technologies pvt": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10681,7 +10639,7 @@
     ],
     "virtual recall": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -10827,7 +10785,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -10905,11 +10863,11 @@
     ],
     "visa europe": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11017,11 +10975,11 @@
     ],
     "vishay": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11058,17 +11016,17 @@
     "vishwa hindu kendra": [
         {
             "type": 5,
-            "rating": 3
+            "rating": 1
         },
         {
-            "type": 3,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         }
     ],
     "vishwa hindu parishad": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         }
     ],
     "vishwamukha": [
@@ -11085,7 +11043,7 @@
     ],
     "visiba": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11101,7 +11059,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11191,13 +11149,13 @@
     ],
     "vision design ready 4 racing vision team": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 1
         }
     ],
     "vision direct europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -11207,11 +11165,11 @@
     ],
     "vision express": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11241,12 +11199,12 @@
     ],
     "vision it solutions private": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 7,
-            "rating": 3
+            "type": 6,
+            "rating": 2
         }
     ],
     "vision lans properties": [
@@ -11293,11 +11251,11 @@
     ],
     "vision ridge partners": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11309,11 +11267,11 @@
     ],
     "vision rt": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11367,11 +11325,11 @@
     ],
     "vision33": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11407,12 +11365,12 @@
     ],
     "visionary marketing": [
         {
-            "type": 6,
-            "rating": 3
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 2
         }
     ],
     "visioncare research": [
@@ -11429,11 +11387,11 @@
     ],
     "visionet emea": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11499,12 +11457,12 @@
     ],
     "visitdenmark": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 12,
-            "rating": 3
+            "type": 1,
+            "rating": 1
         }
     ],
     "visitech international": [
@@ -11585,6 +11543,12 @@
             "rating": 1
         }
     ],
+    "vi-spring": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "visr dynamics": [
         {
             "type": 1,
@@ -11647,11 +11611,11 @@
     ],
     "vista international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11693,11 +11657,11 @@
     ],
     "vistage international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11709,11 +11673,11 @@
     ],
     "vistajet international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11731,21 +11695,21 @@
     ],
     "visteon engineering": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "vistex": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11757,21 +11721,21 @@
     ],
     "vistra ie bristol": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "vistra": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11789,14 +11753,14 @@
     ],
     "visual artists": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "visual arts in rural communities": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "visual bliss media": [
@@ -11819,7 +11783,7 @@
     ],
     "visual data media": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -11853,7 +11817,7 @@
     ],
     "visual&culture": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11883,21 +11847,21 @@
     ],
     "visun technologies": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "viswa lab": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11927,8 +11891,8 @@
     ],
     "vita and eagles events": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "vita architecture - registered address": [
@@ -11963,11 +11927,11 @@
     ],
     "vitaflo international": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12009,7 +11973,7 @@
     ],
     "vital europe": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12121,7 +12085,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12193,8 +12157,8 @@
     ],
     "vitalview health": [
         {
-            "type": 2,
-            "rating": 2
+            "type": 7,
+            "rating": 4
         }
     ],
     "vitaplus": [
@@ -12211,11 +12175,11 @@
     ],
     "vitec": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12267,19 +12231,13 @@
             "rating": 1
         }
     ],
-    "vito s osteria": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vitol": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12295,13 +12253,19 @@
             "rating": 1
         }
     ],
+    "vito s osteria": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vitra u k": [
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12341,7 +12305,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12383,8 +12347,8 @@
     ],
     "viva la visa": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "viva marine": [
@@ -12399,8 +12363,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "viva wallet com": [
@@ -12427,7 +12391,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 4,
             "rating": 1
         }
     ],
@@ -12451,17 +12415,17 @@
     ],
     "vivaldi partners": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "vivamayr london": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -12477,18 +12441,18 @@
     ],
     "vivasure medical": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "vivat music foundation": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "vivaticket ticketing": [
@@ -12541,7 +12505,7 @@
     ],
     "vivekarama dhamma fellowship": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12601,7 +12565,7 @@
     ],
     "vivid imaginations": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -12659,7 +12623,7 @@
     ],
     "vivo energy": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -12681,11 +12645,11 @@
     ],
     "vivos technology trading as phastar": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12701,7 +12665,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12749,17 +12713,17 @@
     ],
     "vizlib": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "vizniti solutions": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -12775,11 +12739,11 @@
     ],
     "vizrt": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12923,11 +12887,11 @@
     ],
     "vke contractors": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 4,
             "rating": 1
         }
     ],
@@ -13003,6 +12967,12 @@
             "rating": 1
         }
     ],
+    "v-lab": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vlads emporium": [
         {
             "type": 1,
@@ -13023,7 +12993,7 @@
     ],
     "vlg film": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -13039,7 +13009,7 @@
     ],
     "vlpg venture": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -13048,6 +13018,16 @@
         }
     ],
     "vls it consulting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vlt o&s": [
+        {
+            "type": 2,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -13083,8 +13063,8 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "vm international legal": [
@@ -13125,11 +13105,11 @@
     ],
     "vma midlands": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13165,7 +13145,7 @@
     ],
     "vmed o2": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -13203,11 +13183,11 @@
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13243,11 +13223,11 @@
     ],
     "vmware": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13317,6 +13297,12 @@
             "rating": 1
         }
     ],
+    "v-nova": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vnr windows": [
         {
             "type": 1,
@@ -13361,11 +13347,11 @@
     ],
     "vocera communications": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13383,17 +13369,17 @@
     ],
     "vodafone iot": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
     "vodafone shared": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -13409,7 +13395,7 @@
     ],
     "voestalpine signaling": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13445,7 +13431,7 @@
     ],
     "voi technology": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -13479,11 +13465,11 @@
     ],
     "voice of revival ministries international": [
         {
-            "type": 5,
-            "rating": 3
+            "type": 10,
+            "rating": 2
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13493,14 +13479,14 @@
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 3
+            "type": 8,
+            "rating": 2
         }
     ],
     "voice squad": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "voice technologies": [
@@ -13529,11 +13515,11 @@
     ],
     "voicetec sys": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13545,8 +13531,8 @@
     ],
     "void art centre": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "voima": [
@@ -13579,7 +13565,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13603,7 +13589,7 @@
     ],
     "volac milk replacers": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -13637,11 +13623,11 @@
     ],
     "volante global": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13651,7 +13637,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13711,11 +13697,11 @@
     ],
     "volition diagnostics": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13731,7 +13717,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13747,27 +13733,27 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
     "volkswagen financial": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "volkswagen united kingdom": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13791,11 +13777,11 @@
     ],
     "volofin capital management": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13847,7 +13833,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13907,7 +13893,7 @@
     ],
     "voltimum & ireland": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -14043,35 +14029,35 @@
     ],
     "volvo car": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "volvo construction equipment haulers": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "volvo": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14089,11 +14075,11 @@
     ],
     "vonage business": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14117,11 +14103,11 @@
     ],
     "vontobel asset management s a": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14137,7 +14123,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14257,8 +14243,8 @@
     ],
     "vortex jazz club": [
         {
-            "type": 6,
-            "rating": 3
+            "type": 3,
+            "rating": 2
         }
     ],
     "vortexa": [
@@ -14287,29 +14273,29 @@
     ],
     "vorwerk": [
         {
-            "type": 8,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 7,
-            "rating": 3
-        }
-    ],
-    "vorys": [
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
             "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
+        }
+    ],
+    "vorys": [
+        {
+            "type": 7,
+            "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14355,7 +14341,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 7,
             "rating": 1
         },
         {
@@ -14371,11 +14357,11 @@
     ],
     "vox supply partners": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14453,11 +14439,11 @@
     ],
     "vp & white": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14485,13 +14471,13 @@
             "rating": 1
         }
     ],
-    "vp-av": [
+    "vpac packaging leicester": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "vpac packaging leicester": [
+    "vp-av": [
         {
             "type": 1,
             "rating": 1
@@ -14581,7 +14567,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14681,6 +14667,12 @@
             "rating": 1
         }
     ],
+    "v-real": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vremit": [
         {
             "type": 1,
@@ -14689,11 +14681,11 @@
     ],
     "vri composites": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14919,7 +14911,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14941,9 +14933,15 @@
             "rating": 1
         }
     ],
+    "v-square technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vsquared ventures": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -15023,13 +15021,31 @@
             "rating": 1
         }
     ],
+    "v-tac": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vtac solutions": [
         {
             "type": 1,
             "rating": 1
         }
     ],
+    "v-tax accountants and business consultants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vtb global": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "v-tech": [
         {
             "type": 1,
             "rating": 1
@@ -15047,7 +15063,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15117,7 +15133,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15145,7 +15161,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15163,16 +15179,16 @@
     ],
     "vulcan refractories": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
-        },
-        {
-            "type": 13,
-            "rating": 3
         },
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "vulcantec": [
@@ -15201,11 +15217,11 @@
     ],
     "vuori clothing": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15331,7 +15347,7 @@
     ],
     "vwr international": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -15341,11 +15357,11 @@
     ],
     "vws": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15357,16 +15373,16 @@
     ],
     "vws westgarth": [
         {
-            "type": 7,
-            "rating": 3
-        },
-        {
-            "type": 8,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "vx capital": [
@@ -15377,17 +15393,17 @@
     ],
     "vx fiber": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
     "vy capital": [
         {
-            "type": 8,
+            "type": 2,
             "rating": 1
         },
         {
@@ -15457,11 +15473,11 @@
     ],
     "vysus": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15471,25 +15487,25 @@
             "rating": 1
         }
     ],
-    "vyv-": [
-        {
-            "type": 8,
-            "rating": 1
-        }
-    ],
     "vyvd": [
         {
             "type": 1,
             "rating": 1
         }
     ],
+    "vyv-": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "vz hybrid compute": [
         {
-            "type": 8,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
