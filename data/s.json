@@ -12473,6 +12473,12 @@
             "rating": 1
         }
     ],
+    "sane capital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "san-ei gen f f i u k": [
         {
             "type": 1,
@@ -19588,12 +19594,6 @@
         }
     ],
     "scymaris": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sd commercial": [
         {
             "type": 1,
             "rating": 1
@@ -47459,6 +47459,12 @@
             "rating": 1
         }
     ],
+    "smqa": [
+        {
+            "type": 1,
+            "rating": 3
+        }
+    ],
     "smr automotive mirrors": [
         {
             "type": 1,
@@ -62736,6 +62742,16 @@
         }
     ],
     "ss19 traders": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ssa & company consulting": [
+        {
+            "type": 2,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -85936,6 +85952,12 @@
         }
     ],
     "synergistik": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "synergize consulting": [
         {
             "type": 1,
             "rating": 1

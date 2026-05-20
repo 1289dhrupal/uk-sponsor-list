@@ -3361,6 +3361,12 @@
             "rating": 1
         }
     ],
+    "eaststone": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "eastview healthcare": [
         {
             "type": 1,
@@ -7570,6 +7576,10 @@
     "edmond de rothschild reim": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -31502,6 +31512,12 @@
         }
     ],
     "express medical personnel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "express medicals p l c": [
         {
             "type": 1,
             "rating": 1
