@@ -131,13 +131,73 @@
             "rating": 1
         }
     ],
-    "x ai london": [
+    "x-aces consultancy": [
         {
-            "type": 2,
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "x-act it": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "x-edit trading as editshare": [
+        {
+            "type": 5,
             "rating": 1
         },
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "x-flow ii": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "x-pharm": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "x-press container line": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "x-r touring": [
+        {
+            "type": 4,
+            "rating": 2
+        }
+    ],
+    "x-rite": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "x ai london": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -159,7 +219,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -195,21 +255,9 @@
     ],
     "xaar technology": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
-    "x-aces consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "x-act it": [
         {
             "type": 1,
             "rating": 1
@@ -217,22 +265,22 @@
     ],
     "xactly": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "xad technologies": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "xaira": [
@@ -261,11 +309,11 @@
     ],
     "xanadu consultancy": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -355,7 +403,7 @@
     ],
     "xbp europe": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -379,7 +427,7 @@
     ],
     "xcap ecosystem": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -389,11 +437,11 @@
     ],
     "xcd hr": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -405,11 +453,11 @@
     ],
     "xceedance": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -455,12 +503,12 @@
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         }
     ],
     "xcelerator dental": [
@@ -573,7 +621,7 @@
     ],
     "xdirectn": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -597,27 +645,17 @@
     ],
     "xebia": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "xebraa tech": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "x-edit trading as editshare": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],
@@ -755,11 +793,11 @@
     ],
     "xeptionflow": [
         {
-            "type": 7,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -781,7 +819,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -793,11 +831,11 @@
     ],
     "xerox": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -808,12 +846,6 @@
         }
     ],
     "xeven solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "x-flow ii": [
         {
             "type": 1,
             "rating": 1
@@ -881,11 +913,11 @@
     ],
     "xiaomi technology": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1003,7 +1035,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1031,7 +1063,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1127,11 +1159,11 @@
     ],
     "xml": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1141,13 +1173,13 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "xn global systems": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -1169,11 +1201,11 @@
     ],
     "xodus": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1209,17 +1241,17 @@
     ],
     "xoriant": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "xorlogics": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -1253,7 +1285,7 @@
     ],
     "xpate": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -1333,12 +1365,6 @@
             "rating": 1
         }
     ],
-    "x-pharm": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "xplora technologies": [
         {
             "type": 1,
@@ -1371,27 +1397,17 @@
     ],
     "xpo supply chain": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "xpress all": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "x-press container line": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],
@@ -1485,12 +1501,6 @@
             "rating": 1
         }
     ],
-    "x-r touring": [
-        {
-            "type": 3,
-            "rating": 2
-        }
-    ],
     "xray glazing": [
         {
             "type": 1,
@@ -1506,16 +1516,6 @@
     "xriba": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "x-rite": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],
@@ -1617,12 +1617,12 @@
     ],
     "xtend global": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "xtensible logix": [
@@ -1771,11 +1771,11 @@
     ],
     "xurrent software": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1811,21 +1811,21 @@
     ],
     "xy capital europe": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "xy sense": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1843,11 +1843,11 @@
     ],
     "xylem water": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],

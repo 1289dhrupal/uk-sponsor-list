@@ -1,4 +1,10 @@
 {
+    "qa takeaway": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "quadrant local - premier store": [
         {
             "type": 1,
@@ -193,11 +199,11 @@
     ],
     "q squared solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -279,6 +285,60 @@
             "rating": 1
         }
     ],
+    "q-bot": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "q-ctrl": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "q-energy sustainable investments": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "q-energy sustainable": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "q-flo": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "q-free bristol": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "q-mass": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "q-online": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "q-style": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "q a electrical products": [
         {
             "type": 1,
@@ -317,7 +377,7 @@
     ],
     "q4 london": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -349,12 +409,6 @@
             "rating": 1
         }
     ],
-    "qa takeaway": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "qa test professionals": [
         {
             "type": 1,
@@ -362,6 +416,12 @@
         }
     ],
     "qa trade": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "qa-": [
         {
             "type": 1,
             "rating": 1
@@ -387,7 +447,7 @@
     ],
     "qad europe": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -403,11 +463,11 @@
     ],
     "qadria trust": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -461,21 +521,21 @@
     ],
     "qantas airways": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "qantas cabin crew": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -533,7 +593,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -543,17 +603,17 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "qatar national bank q p s c london branch": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -563,21 +623,15 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "qatro": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
-    "qa-": [
         {
             "type": 1,
             "rating": 1
@@ -633,11 +687,11 @@
     ],
     "qbe management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -648,12 +702,6 @@
         }
     ],
     "qbic hunter": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "q-bot": [
         {
             "type": 1,
             "rating": 1
@@ -733,17 +781,11 @@
     ],
     "qcom": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "q-ctrl": [
-        {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -825,7 +867,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -859,18 +901,6 @@
             "rating": 1
         }
     ],
-    "q-energy sustainable investments": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "q-energy sustainable": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "qepos solution": [
         {
             "type": 1,
@@ -879,7 +909,7 @@
     ],
     "qera marketing": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -905,18 +935,6 @@
             "rating": 1
         }
     ],
-    "q-flo": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "q-free bristol": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "qfsu": [
         {
             "type": 1,
@@ -929,7 +947,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1019,11 +1037,11 @@
     ],
     "qiagen": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1047,11 +1065,11 @@
     ],
     "qic european investment": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1079,34 +1097,34 @@
             "rating": 1
         }
     ],
+    "qin s health wellness": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "qinetiq": [
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         }
     ],
     "qing liang buddhist association": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
-        }
-    ],
-    "qin s health wellness": [
-        {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "qio technologies": [
@@ -1117,11 +1135,11 @@
     ],
     "qioptiq photonics": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1175,11 +1193,11 @@
     ],
     "qliktech": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1220,12 +1238,6 @@
         }
     ],
     "qmads": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "q-mass": [
         {
             "type": 1,
             "rating": 1
@@ -1305,11 +1317,11 @@
     ],
     "qodea": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1321,7 +1333,7 @@
     ],
     "qogita": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -1330,12 +1342,6 @@
         }
     ],
     "qomply": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "q-online": [
         {
             "type": 1,
             "rating": 1
@@ -1361,11 +1367,11 @@
     ],
     "qorvo": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1389,11 +1395,11 @@
     ],
     "qpc": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1471,11 +1477,11 @@
     ],
     "qs quacquarelli symonds": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1493,11 +1499,11 @@
     ],
     "qsi": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1509,12 +1515,12 @@
     ],
     "qsm fashion": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 4,
+            "rating": 2
         },
         {
-            "type": 3,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "qsm tech": [
@@ -1541,12 +1547,6 @@
             "rating": 1
         }
     ],
-    "q-style": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "qts": [
         {
             "type": 1,
@@ -1555,7 +1555,7 @@
     ],
     "qu junktions": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -1597,11 +1597,11 @@
     ],
     "quadient": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1625,12 +1625,12 @@
     ],
     "quadram institute bioscience": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 12,
+            "rating": 2
         },
         {
-            "type": 11,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "quadrangle research": [
@@ -1699,7 +1699,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1727,7 +1727,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1769,7 +1769,7 @@
     ],
     "quaker service": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -1799,11 +1799,11 @@
     ],
     "qualcomm technologies international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1867,7 +1867,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2309,7 +2309,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2319,13 +2319,13 @@
             "rating": 1
         }
     ],
-    "quality pet care t/a the vet": [
+    "quality pet care": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "quality pet care": [
+    "quality pet care t/a the vet": [
         {
             "type": 1,
             "rating": 1
@@ -2435,17 +2435,17 @@
     ],
     "quant network": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "quanta": [
         {
-            "type": 7,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -2487,17 +2487,17 @@
     ],
     "quantcast": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "quantco holding": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -2549,11 +2549,11 @@
     ],
     "quanticate interntional": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2581,23 +2581,23 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 12,
             "rating": 2
         }
     ],
     "quantiphi": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "quantitative brokers": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -2611,13 +2611,13 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "quantium": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -2699,7 +2699,7 @@
     ],
     "quantum consumer solutions pvt": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -2803,7 +2803,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 12,
             "rating": 2
         }
     ],
@@ -2845,11 +2845,11 @@
     ],
     "quantum management": [
         {
-            "type": 4,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -2963,11 +2963,11 @@
     ],
     "quarto publishing": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3045,7 +3045,7 @@
     ],
     "quatt cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -3087,7 +3087,7 @@
     ],
     "quay garage and car sales": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -3169,7 +3169,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3259,12 +3259,12 @@
     ],
     "queen mary university of london": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 12,
+            "rating": 2
         },
         {
-            "type": 11,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "queen of clubs lifestyle luxury": [
@@ -3299,19 +3299,13 @@
     ],
     "queen victoria seamens rest": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
-        }
-    ],
-    "queenbee nursery": [
+        },
         {
             "type": 1,
             "rating": 1
@@ -3325,27 +3319,49 @@
     ],
     "queen s college taunton": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
-    "queens college": [
+    "queen s crescent community association": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "queen s gate school trust": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "queen s lane consultants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "queen s university belfast": [
+        {
+            "type": 9,
+            "rating": 2
+        },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 12,
             "rating": 2
         }
     ],
-    "queens cosmetics": [
+    "queenbee nursery": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "queen s crescent community association": [
+    "queens cosmetics": [
         {
             "type": 1,
             "rating": 1
@@ -3369,12 +3385,6 @@
             "rating": 1
         }
     ],
-    "queen s gate school trust": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "queens head inn": [
         {
             "type": 1,
@@ -3382,12 +3392,6 @@
         }
     ],
     "queens hospitality": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "queen s lane consultants": [
         {
             "type": 1,
             "rating": 1
@@ -3423,17 +3427,11 @@
             "rating": 1
         },
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
     "queens road surgery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "queens school": [
         {
             "type": 1,
             "rating": 1
@@ -3451,18 +3449,20 @@
             "rating": 1
         }
     ],
-    "queen s university belfast": [
+    "queens college": [
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 12,
             "rating": 2
-        },
+        }
+    ],
+    "queens school": [
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "queensberry nursery": [
@@ -3581,7 +3581,7 @@
     ],
     "quera computing": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -3669,11 +3669,11 @@
     ],
     "quest global engineering": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3781,13 +3781,13 @@
     ],
     "quianto capital": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
     "quianto polo": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -3841,11 +3841,11 @@
     ],
     "quick commerce": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3857,7 +3857,7 @@
     ],
     "quick london branch": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3905,7 +3905,7 @@
     ],
     "quick international couriers": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -3915,11 +3915,11 @@
     ],
     "quick link consultancy": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3997,11 +3997,11 @@
     ],
     "quick release automotive": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4181,11 +4181,11 @@
     ],
     "quidie": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4203,7 +4203,7 @@
     ],
     "quiet waters christian retreat house": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -4257,21 +4257,21 @@
     ],
     "quilter business": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "quilvest capital partners": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4317,7 +4317,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4341,11 +4341,11 @@
     ],
     "quinnox": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4411,11 +4411,11 @@
     ],
     "quintessentially": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4433,7 +4433,7 @@
     ],
     "quinyx": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -4449,7 +4449,7 @@
     ],
     "quiq": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -4483,11 +4483,11 @@
     ],
     "quizlet": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4497,7 +4497,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4533,17 +4533,17 @@
     ],
     "qumu": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "qumulo": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -4565,11 +4565,11 @@
     ],
     "quod financial": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4641,7 +4641,7 @@
     ],
     "quorum cyber security": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -4763,7 +4763,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4781,7 +4781,7 @@
     ],
     "qwilt": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -4837,7 +4837,7 @@
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],

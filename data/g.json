@@ -1,4 +1,34 @@
 {
+    "gurkha swindon": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "global facility management mcr": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "glow beauty emporium": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gott and robinson": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gujjar alliance": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "german doner kebab": [
         {
             "type": 1,
@@ -323,12 +353,6 @@
             "rating": 1
         }
     ],
-    "gurkha swindon": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "greywalk": [
         {
             "type": 1,
@@ -415,11 +439,11 @@
     ],
     "g & j lumley": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -731,11 +755,11 @@
     ],
     "g modiano": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -799,15 +823,15 @@
             "rating": 1
         }
     ],
-    "g sait": [
+    "g s-hydro": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
-    "g s-hydro": [
+    "g sait": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -873,7 +897,7 @@
     ],
     "g wooldridge": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -919,6 +943,12 @@
             "rating": 1
         }
     ],
+    "g&h": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "g&h chambers & sons": [
         {
             "type": 1,
@@ -938,12 +968,6 @@
         }
     ],
     "g&h steel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "g&h": [
         {
             "type": 1,
             "rating": 1
@@ -1015,6 +1039,70 @@
             "rating": 1
         }
     ],
+    "g s fresh": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "g s golden chippy & pizzeria": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "g-core": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "g-events": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "g-seventeen": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "g-smatt europe media": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "g-tec distribution": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "g-tech motor-works": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "g-tekt europe manufacturing": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
+    "g-unit pubco": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "g and j curtis": [
         {
             "type": 1,
@@ -1045,7 +1133,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1189,11 +1277,11 @@
     ],
     "g10x pvt": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1227,7 +1315,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1293,11 +1381,11 @@
     ],
     "g2v recruitment": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1333,7 +1421,7 @@
     ],
     "g3 worldwide mail": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1369,11 +1457,11 @@
     ],
     "g4s corporate": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1385,11 +1473,11 @@
     ],
     "g4s regional management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1497,11 +1585,11 @@
     ],
     "ga retail s r l": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1531,11 +1619,11 @@
     ],
     "gaat international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1619,7 +1707,13 @@
     ],
     "gabriel insulation": [
         {
-            "type": 9,
+            "type": 10,
+            "rating": 1
+        }
+    ],
+    "gabriel s angels": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1630,12 +1724,6 @@
         }
     ],
     "gabrielle shaw communications": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gabriel s angels": [
         {
             "type": 1,
             "rating": 1
@@ -1655,11 +1743,11 @@
     ],
     "gac logistics": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1911,21 +1999,21 @@
     ],
     "gaea real estate company": [
         {
-            "type": 7,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         }
     ],
     "gaeltec utilities": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1997,11 +2085,11 @@
     ],
     "gagosian gallery of london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2012,6 +2100,12 @@
         }
     ],
     "gahl": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gai-tronics": [
         {
             "type": 1,
             "rating": 1
@@ -2043,11 +2137,11 @@
     ],
     "gaia house trust": [
         {
-            "type": 10,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 8,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -2063,13 +2157,13 @@
             "rating": 1
         }
     ],
-    "gaillard banifatemi shelbaya": [
+    "gail s": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "gail s": [
+    "gaillard banifatemi shelbaya": [
         {
             "type": 1,
             "rating": 1
@@ -2095,7 +2189,7 @@
     ],
     "gain theory": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -2139,7 +2233,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2155,7 +2249,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2172,12 +2266,6 @@
         }
     ],
     "gaist solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gai-tronics": [
         {
             "type": 1,
             "rating": 1
@@ -2215,7 +2303,7 @@
     ],
     "gala cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -2233,17 +2321,17 @@
     ],
     "galanz": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "galapagos biotech": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2277,7 +2365,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2355,11 +2443,11 @@
     ],
     "galaxy digital": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2467,7 +2555,7 @@
     ],
     "galaxy superstars": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -2515,11 +2603,11 @@
     ],
     "galderma": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2607,13 +2695,13 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "gallagher benefit management company": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -2629,7 +2717,7 @@
     ],
     "gallaher": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -2663,7 +2751,7 @@
     ],
     "gallery 1957 london": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2675,7 +2763,7 @@
     ],
     "gallery rosenfeld": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         },
         {
@@ -2811,21 +2899,21 @@
     ],
     "gam u k": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "gama aviation": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2843,11 +2931,11 @@
     ],
     "gama london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2889,22 +2977,22 @@
     ],
     "gamco asset management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "game and wildlife conservation trust": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "game changer performance centre": [
@@ -2939,11 +3027,11 @@
     ],
     "gameanalytics": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2973,11 +3061,11 @@
     ],
     "games workshop": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3025,11 +3113,11 @@
     ],
     "gaming technology solutions trading as gts": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3083,17 +3171,17 @@
     ],
     "gan": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "gan integrity solutions": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -3259,8 +3347,8 @@
     ],
     "ganghong international": [
         {
-            "type": 7,
-            "rating": 4
+            "type": 3,
+            "rating": 3
         }
     ],
     "gangotri": [
@@ -3289,7 +3377,7 @@
     ],
     "gansam london office": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3301,11 +3389,11 @@
     ],
     "gantrade europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3335,7 +3423,7 @@
     ],
     "gap europe": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -3405,11 +3493,11 @@
     ],
     "garavi gujarat publications": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3421,7 +3509,7 @@
     ],
     "garboldisham cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -3445,17 +3533,17 @@
     ],
     "gard": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "gardasoft vision": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3503,7 +3591,7 @@
     ],
     "garden of grace church of god": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -3581,11 +3669,11 @@
     ],
     "gardiner & theobald": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3601,12 +3689,12 @@
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         }
     ],
     "gardner aerospace operations": [
@@ -3747,7 +3835,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3799,7 +3887,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3841,25 +3929,25 @@
     ],
     "garrigues": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
-        },
-        {
-            "type": 6,
-            "rating": 2
         },
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "garrison technology": [
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         },
         {
-            "type": 4,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3889,7 +3977,7 @@
     ],
     "garsington opera": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         },
         {
@@ -3905,7 +3993,7 @@
     ],
     "garstang cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -3941,11 +4029,11 @@
     ],
     "gartner": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3969,11 +4057,11 @@
     ],
     "garware hi-tech films international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3991,13 +4079,13 @@
     ],
     "gary beestone": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
     "gba": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         },
         {
@@ -4091,7 +4179,7 @@
     ],
     "gassco as": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4175,16 +4263,16 @@
     ],
     "gate church international scio": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 10,
-            "rating": 2
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "gate gourmet london": [
@@ -4193,7 +4281,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4223,11 +4311,11 @@
     ],
     "gatehouse bank": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4239,11 +4327,11 @@
     ],
     "gatemore capital management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4271,21 +4359,21 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "gates of praise international christian centre": [
         {
-            "type": 10,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 8,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4309,21 +4397,21 @@
     ],
     "gateshead hebrew congregation": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "gateshead international ministries": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 8,
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 9,
             "rating": 2
         }
     ],
@@ -4351,25 +4439,25 @@
             "rating": 1
         }
     ],
+    "gateway church": [
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 9,
+            "rating": 2
+        }
+    ],
     "gateway church swindon": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
     "gateway church caerphilly": [
         {
-            "type": 8,
-            "rating": 2
-        }
-    ],
-    "gateway church": [
-        {
-            "type": 10,
-            "rating": 2
-        },
-        {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -4381,11 +4469,11 @@
     ],
     "gateway digital": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4401,7 +4489,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4431,22 +4519,22 @@
     ],
     "gateway ministries": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "gateway chapel": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "gateway multi academy trust": [
@@ -4481,7 +4569,7 @@
     ],
     "gateway salvation church": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -4493,11 +4581,11 @@
     ],
     "gather campaigns": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4515,7 +4603,7 @@
     ],
     "gattaca": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -4543,20 +4631,20 @@
     ],
     "gatwick bangladeshi islamic and community association": [
         {
-            "type": 5,
+            "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 10,
-            "rating": 2
         }
     ],
     "gatwick bb": [
@@ -4591,7 +4679,7 @@
     ],
     "gaudiya mission": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -4603,11 +4691,17 @@
     ],
     "gaur govinda trust": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "gaur": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gaur s indian food": [
         {
             "type": 1,
             "rating": 1
@@ -4627,21 +4721,15 @@
     ],
     "gauri": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "gauri shanker": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gaur s indian food": [
         {
             "type": 1,
             "rating": 1
@@ -4691,11 +4779,11 @@
     ],
     "gavs technologies europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4705,7 +4793,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4855,11 +4943,11 @@
     ],
     "gazprom u k": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4913,7 +5001,7 @@
     ],
     "gb carnival cic": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -5015,11 +5103,11 @@
     ],
     "gb ingredients": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5133,12 +5221,12 @@
     ],
     "gb srs brundavan": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "gb styles": [
@@ -5249,7 +5337,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5267,7 +5355,7 @@
     ],
     "gbm securities": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -5305,13 +5393,13 @@
             "rating": 1
         }
     ],
-    "gbr83r pilot": [
+    "gbr-rail": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "gbr-rail": [
+    "gbr83r pilot": [
         {
             "type": 1,
             "rating": 1
@@ -5355,11 +5443,11 @@
     ],
     "gbt travel": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5407,11 +5495,11 @@
     ],
     "gcb cocoa": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5475,23 +5563,17 @@
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
-        }
-    ],
-    "g-core": [
-        {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "gcp applied technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5515,11 +5597,11 @@
     ],
     "gcs compliance europe unlimited company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5627,7 +5709,7 @@
     ],
     "gdi norfolk": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -5715,11 +5797,11 @@
     ],
     "gds publishing": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5731,16 +5813,16 @@
     ],
     "ge aviation systems": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 6,
+            "type": 8,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         }
     ],
     "ge import and trade ltda": [
@@ -5751,7 +5833,7 @@
     ],
     "ge medical systems": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -5765,16 +5847,22 @@
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         },
         {
-            "type": 2,
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 5,
             "rating": 1
-        },
+        }
+    ],
+    "ge-solution": [
         {
-            "type": 6,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "ge66": [
@@ -5785,16 +5873,16 @@
     ],
     "gea refrigeration": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 6,
-            "rating": 2
         }
     ],
     "géant association": [
@@ -5815,7 +5903,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5857,11 +5945,11 @@
     ],
     "geberit sales": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5891,7 +5979,7 @@
     ],
     "gecko theatre": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -5909,7 +5997,7 @@
     ],
     "gedling & sherwood cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -5921,7 +6009,7 @@
     ],
     "gedling colliery cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -5957,11 +6045,11 @@
     ],
     "geely design": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5979,7 +6067,7 @@
     ],
     "gefyra waterproofing": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -5995,12 +6083,12 @@
     ],
     "geg capital investments": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 13,
+            "rating": 2
         },
         {
-            "type": 12,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "gegend": [
@@ -6039,7 +6127,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6069,7 +6157,7 @@
     ],
     "gelion": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -6151,7 +6239,7 @@
     ],
     "gem la viva jewellery": [
         {
-            "type": 7,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -6163,11 +6251,11 @@
     ],
     "gemba finance": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6189,17 +6277,17 @@
             "rating": 1
         },
         {
-            "type": 12,
+            "type": 13,
             "rating": 2
         }
     ],
     "gemfields": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6259,11 +6347,11 @@
     ],
     "gemini payments": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6299,21 +6387,21 @@
     ],
     "gemological institute of america london gia england": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "gia london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6383,6 +6471,12 @@
             "rating": 1
         }
     ],
+    "gen-c": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gen impact": [
         {
             "type": 1,
@@ -6413,12 +6507,6 @@
             "rating": 1
         }
     ],
-    "gen-c": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gencare": [
         {
             "type": 1,
@@ -6439,7 +6527,7 @@
     ],
     "genda europe": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -6461,11 +6549,11 @@
     ],
     "gendros baptist church": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -6495,11 +6583,11 @@
     ],
     "genel energy": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6515,7 +6603,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6525,7 +6613,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6535,7 +6623,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6547,15 +6635,15 @@
     ],
     "general conference of seventh-day adventists trans-european division": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6567,21 +6655,21 @@
     ],
     "general dynamics united kingdom": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "general fusion": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6605,7 +6693,7 @@
     ],
     "general intuition": [
         {
-            "type": 7,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -6623,21 +6711,21 @@
     ],
     "general mills": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "general nuclear international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6653,7 +6741,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6683,12 +6771,12 @@
     ],
     "general synod of the scottish episcopal church": [
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         }
     ],
     "general traders and products": [
@@ -6717,7 +6805,7 @@
     ],
     "generali real estate s p a": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -6745,7 +6833,7 @@
     ],
     "generate holdings": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -6783,7 +6871,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6831,7 +6919,7 @@
     ],
     "generator hostels": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -6851,7 +6939,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6887,11 +6975,11 @@
     ],
     "genertec": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6921,7 +7009,7 @@
     ],
     "genesis analytics": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -6931,11 +7019,11 @@
     ],
     "genesis cancer care": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6959,7 +7047,7 @@
     ],
     "genesis energy and power": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -7005,33 +7093,33 @@
     ],
     "genesis media": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 4,
+            "rating": 2
         },
         {
-            "type": 3,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "genesis model management": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
     "genesis motor": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "genesis oil & gas consultants": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -7041,11 +7129,11 @@
     ],
     "genesis oil and gas consultants": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7087,11 +7175,11 @@
     ],
     "genesys telecommunications laboratories - europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7101,7 +7189,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7179,17 +7267,17 @@
     ],
     "genisys arct": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
     "genisys software": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7219,11 +7307,11 @@
     ],
     "genius sports": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7277,21 +7365,21 @@
     ],
     "genomadix": [
         {
-            "type": 7,
-            "rating": 4
+            "type": 3,
+            "rating": 3
         }
     ],
     "genome research": [
+        {
+            "type": 9,
+            "rating": 2
+        },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 8,
+            "type": 12,
             "rating": 2
         }
     ],
@@ -7325,7 +7413,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7353,7 +7441,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7371,11 +7459,11 @@
     ],
     "gensler europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7441,11 +7529,11 @@
     ],
     "genting casinos": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7461,13 +7549,13 @@
             "rating": 1
         }
     ],
-    "gentle dental practices": [
+    "gentle dental practice": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "gentle dental practice": [
+    "gentle dental practices": [
         {
             "type": 1,
             "rating": 1
@@ -7517,11 +7605,11 @@
     ],
     "gentrack": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7545,11 +7633,11 @@
     ],
     "genus": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7699,11 +7787,11 @@
     ],
     "geolog": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7727,7 +7815,7 @@
     ],
     "geometry global": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -7839,12 +7927,12 @@
     ],
     "george heriot s trust": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "george hythe house": [
@@ -7879,7 +7967,7 @@
     ],
     "george meyrick": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -7895,7 +7983,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7931,7 +8019,7 @@
     ],
     "george sexton associates": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -7981,7 +8069,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -8009,13 +8097,13 @@
             "rating": 1
         }
     ],
-    "georges hospitality": [
+    "george s industrial": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "george s industrial": [
+    "georges hospitality": [
         {
             "type": 1,
             "rating": 1
@@ -8033,7 +8121,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8081,17 +8169,17 @@
     ],
     "geoseacore": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "geosec ground engineering": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -8111,7 +8199,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8123,21 +8211,21 @@
     ],
     "geosyntec consultants": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "geotab": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8173,7 +8261,7 @@
     ],
     "geoxyz": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -8195,7 +8283,7 @@
     ],
     "gerald arthur rolph foundation for historic and eduction": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -8207,11 +8295,11 @@
     ],
     "gerald": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8223,11 +8311,11 @@
     ],
     "gerard daniels": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8249,13 +8337,13 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "german academic exchange service": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -8311,29 +8399,29 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "german school association": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "german seafarers mission in the united kingdom": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "german ymca": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -8381,11 +8469,11 @@
     ],
     "gerson lehrman": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8413,25 +8501,19 @@
             "rating": 1
         }
     ],
-    "ge-solution": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gessi": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "gestalt enterprises": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8441,7 +8523,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8495,12 +8577,12 @@
     ],
     "get golfing head office": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "get ideal": [
@@ -8613,11 +8695,11 @@
     ],
     "getinge": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8627,7 +8709,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8651,11 +8733,11 @@
     ],
     "getronics": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8679,11 +8761,11 @@
     ],
     "getty images": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8694,12 +8776,6 @@
         }
     ],
     "gev wind power": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "g-events": [
         {
             "type": 1,
             "rating": 1
@@ -8741,12 +8817,12 @@
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         }
     ],
     "gf builders": [
@@ -8757,7 +8833,7 @@
     ],
     "gf engineering": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -8771,7 +8847,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8783,11 +8859,11 @@
     ],
     "gf machining solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8799,16 +8875,16 @@
     ],
     "gfa world": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 5,
+            "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "gfc media": [
@@ -8825,21 +8901,21 @@
     ],
     "gfk retail and technology": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "gfk": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8899,11 +8975,11 @@
     ],
     "gfs global": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8915,11 +8991,11 @@
     ],
     "gft financial": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8997,7 +9073,7 @@
     ],
     "ggm gastro": [
         {
-            "type": 7,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -9129,33 +9205,33 @@
     ],
     "ghana cocoa marketing company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "ghana forestry commission": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "ghana high commission": [
         {
-            "type": 14,
+            "type": 6,
             "rating": 2
         }
     ],
     "ghana international bank": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9215,7 +9291,7 @@
     ],
     "ghausia chistia islamic trust academy": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9359,7 +9435,7 @@
     ],
     "gho capital partners advisory": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -9369,11 +9445,11 @@
     ],
     "gho capital partners": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9433,7 +9509,7 @@
     ],
     "ghousia islamic community centre": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -9461,7 +9537,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9503,7 +9579,7 @@
     ],
     "ghurki trust teaching hospital": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -9533,11 +9609,11 @@
     ],
     "gi recruitment": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9549,7 +9625,7 @@
     ],
     "gi partners holdings": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -9739,11 +9815,11 @@
     ],
     "gibson dunn & crutcher": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9753,13 +9829,13 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "gic capital investments private - london office": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -9769,7 +9845,7 @@
     ],
     "gic of india branch": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9779,23 +9855,23 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "gide loyrette nouel": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "gidea park & romford cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -9819,7 +9895,7 @@
     ],
     "giesecke+devrient currency technology gb": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -9829,21 +9905,21 @@
     ],
     "giesecke+devrient mobile security gb": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "gieves": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9891,7 +9967,7 @@
     ],
     "gift support network": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -9937,13 +10013,13 @@
             "rating": 1
         }
     ],
-    "giftype tech": [
+    "gifty s childcare": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "gifty s childcare": [
+    "giftype tech": [
         {
             "type": 1,
             "rating": 1
@@ -9961,11 +10037,11 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 6,
+            "type": 8,
             "rating": 2
         }
     ],
@@ -10025,16 +10101,16 @@
     ],
     "giggleswick school": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
             "type": 9,
-            "rating": 1
+            "rating": 2
         },
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "gigigo": [
@@ -10057,11 +10133,11 @@
     ],
     "gihe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10071,7 +10147,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10095,11 +10171,11 @@
     ],
     "gilbarco veeder-root": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10177,11 +10253,11 @@
     ],
     "gilead sciences europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10199,7 +10275,7 @@
     ],
     "giles cooper entertainment": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -10229,15 +10305,15 @@
     ],
     "gilfillan memorial church": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 8,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 10,
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 9,
             "rating": 2
         }
     ],
@@ -10397,6 +10473,18 @@
             "rating": 1
         }
     ],
+    "gill s store": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gill s transport heathrow": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gillani developments": [
         {
             "type": 1,
@@ -10441,7 +10529,7 @@
     ],
     "gillingham football club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -10470,18 +10558,6 @@
         }
     ],
     "gills meat market": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gill s store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gill s transport heathrow": [
         {
             "type": 1,
             "rating": 1
@@ -10669,11 +10745,11 @@
     ],
     "gingko tree investment": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10745,11 +10821,11 @@
     ],
     "giovanni rana": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10773,7 +10849,7 @@
     ],
     "giraf logistics": [
         {
-            "type": 7,
+            "type": 3,
             "rating": 1
         },
         {
@@ -10849,15 +10925,15 @@
     ],
     "girl effect": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10869,12 +10945,12 @@
     ],
     "girlguiding": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "girling & company software": [
@@ -10909,12 +10985,12 @@
     ],
     "girls education co": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "girls learning trust": [
@@ -10931,12 +11007,22 @@
     ],
     "girton college": [
         {
+            "type": 12,
+            "rating": 2
+        },
+        {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "gis-mic": [
+        {
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 11,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "gise organisation": [
@@ -10954,16 +11040,6 @@
     "gism": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "gis-mic": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],
@@ -10987,7 +11063,7 @@
     ],
     "gist impact": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -11009,11 +11085,11 @@
     ],
     "github software": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11037,25 +11113,25 @@
     ],
     "givaudan": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 6,
-            "rating": 2
         }
     ],
     "give back beauty": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11103,11 +11179,11 @@
     ],
     "givex corporation": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11159,6 +11235,12 @@
             "rating": 1
         }
     ],
+    "gj s food and wine": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gjc sutton": [
         {
             "type": 1,
@@ -11190,12 +11272,6 @@
         }
     ],
     "gjns": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gj s food and wine": [
         {
             "type": 1,
             "rating": 1
@@ -11303,6 +11379,12 @@
             "rating": 1
         }
     ],
+    "gk s hair and beauty": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gk107": [
         {
             "type": 1,
@@ -11311,7 +11393,7 @@
     ],
     "gkabel": [
         {
-            "type": 7,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -11359,7 +11441,21 @@
     ],
     "gkn aerospace service - cowes": [
         {
-            "type": 2,
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gkn aerospace": [
+        {
+            "type": 5,
             "rating": 1
         },
         {
@@ -11367,46 +11463,32 @@
             "rating": 1
         },
         {
-            "type": 6,
+            "type": 8,
             "rating": 2
         }
     ],
     "gkn aerospace - engineering and technology": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "gkn aerospace - filton": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 6,
+            "type": 8,
             "rating": 2
-        }
-    ],
-    "gkn aerospace": [
+        },
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 6,
-            "rating": 2
         }
     ],
     "gkr foodstore": [
@@ -11422,12 +11504,6 @@
         }
     ],
     "gkr scaffolding": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gk s hair and beauty": [
         {
             "type": 1,
             "rating": 1
@@ -11459,11 +11535,11 @@
     ],
     "gl & m": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11589,13 +11665,13 @@
     ],
     "glamorgan cricket": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
     "glamorgan muslim community association": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11659,17 +11735,17 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "glanbia cheese": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11729,7 +11805,7 @@
     ],
     "glasgow academical sports club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -11739,7 +11815,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 12,
             "rating": 2
         }
     ],
@@ -11757,7 +11833,7 @@
     ],
     "glasgow city football club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         },
         {
@@ -11797,7 +11873,7 @@
     ],
     "glasgow mena cultural and welfare trust": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         },
         {
@@ -11825,13 +11901,13 @@
     ],
     "glasgow school of art students association": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
     "glasgow sculpture studios": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -11861,7 +11937,7 @@
     ],
     "glasgow tigers speedway": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -11897,7 +11973,7 @@
     ],
     "glasgow women s library": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -11963,7 +12039,7 @@
     ],
     "glass civil engineering": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -11977,7 +12053,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11989,7 +12065,7 @@
     ],
     "glassdoor global": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -12161,16 +12237,16 @@
     ],
     "gleeds": [
         {
-            "type": 2,
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 6,
-            "rating": 2
         }
     ],
     "gleet productions": [
@@ -12181,7 +12257,7 @@
     ],
     "gleiss lutz": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -12233,11 +12309,11 @@
     ],
     "glen grant": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12399,17 +12475,17 @@
     ],
     "glencore energy": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "glencore industrial assets": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -12423,7 +12499,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12441,7 +12517,7 @@
     ],
     "glendale church": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -12465,7 +12541,7 @@
     ],
     "glendermott cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -12615,11 +12691,11 @@
     ],
     "glenmark pharmaceuticals europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12649,7 +12725,7 @@
     ],
     "glenn sherriff": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -12691,11 +12767,11 @@
     ],
     "glenrothes baptist church": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -12797,7 +12873,7 @@
     ],
     "glenwood church": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -12827,7 +12903,7 @@
     ],
     "glhr holdings": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -12915,11 +12991,11 @@
     ],
     "glmx europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12937,7 +13013,7 @@
     ],
     "glo currency": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -12947,11 +13023,17 @@
     ],
     "glo europe": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "glo investments": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "glo-networks": [
         {
             "type": 1,
             "rating": 1
@@ -13049,12 +13131,12 @@
     ],
     "global aid trust": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "global airline": [
@@ -13065,11 +13147,11 @@
     ],
     "global airport concierge": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13081,11 +13163,11 @@
     ],
     "global alliance for improved nutrition": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13139,7 +13221,7 @@
     ],
     "global banking school": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -13167,11 +13249,11 @@
     ],
     "global brain europe": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13213,7 +13295,7 @@
     ],
     "global capital partners london": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13439,17 +13521,17 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "global energy london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13479,11 +13561,11 @@
     ],
     "global eprocure": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13525,15 +13607,9 @@
     ],
     "global experience specialists ges": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
-    "global facility management mcr": [
         {
             "type": 1,
             "rating": 1
@@ -13545,7 +13621,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -13555,12 +13631,12 @@
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         }
     ],
     "global fashion manchester": [
@@ -13575,13 +13651,13 @@
             "rating": 1
         }
     ],
-    "global financial innovations": [
+    "global financial": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "global financial": [
+    "global financial innovations": [
         {
             "type": 1,
             "rating": 1
@@ -13673,7 +13749,7 @@
     ],
     "global futures and options": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -13683,11 +13759,11 @@
     ],
     "global gate capital partners": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13759,21 +13835,21 @@
     ],
     "global harvest church london": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "global harvest ministries": [
         {
-            "type": 10,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 8,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -13803,11 +13879,11 @@
     ],
     "global health strategies": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13873,7 +13949,7 @@
     ],
     "global imaging": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -13883,15 +13959,15 @@
     ],
     "global impact giving ministries": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -13901,7 +13977,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13941,7 +14017,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13969,7 +14045,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -13981,7 +14057,7 @@
     ],
     "global learning europe": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -14019,13 +14095,13 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "global license distribution": [
         {
-            "type": 7,
+            "type": 3,
             "rating": 1
         },
         {
@@ -14071,7 +14147,7 @@
     ],
     "global loan agency": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -14081,7 +14157,7 @@
     ],
     "global luxury london": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14097,13 +14173,13 @@
             "rating": 1
         }
     ],
-    "global maritime engineering": [
+    "global maritime": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "global maritime": [
+    "global maritime engineering": [
         {
             "type": 1,
             "rating": 1
@@ -14139,7 +14215,7 @@
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -14163,11 +14239,11 @@
     ],
     "global metcorp": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14251,7 +14327,7 @@
     ],
     "global outreach ministries": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -14263,11 +14339,11 @@
     ],
     "global pacific": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14285,21 +14361,21 @@
     ],
     "global parametrics": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "global partners": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14317,11 +14393,11 @@
     ],
     "global payments": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14331,17 +14407,17 @@
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
     "global peo": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14377,11 +14453,11 @@
     ],
     "global prophetic alliance": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -14399,11 +14475,11 @@
     ],
     "global publishing solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14415,7 +14491,7 @@
     ],
     "global rahmah foundation": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         },
         {
@@ -14467,11 +14543,11 @@
     ],
     "global relay": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14481,7 +14557,7 @@
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -14535,12 +14611,12 @@
     ],
     "global schools forum": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "global scientific business solutions": [
@@ -14561,17 +14637,17 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "global shop solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14607,12 +14683,12 @@
     ],
     "global stone colchester": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         }
     ],
     "global students lettings": [
@@ -14635,11 +14711,11 @@
     ],
     "global substation solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14691,7 +14767,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14761,7 +14837,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14773,11 +14849,11 @@
     ],
     "global tunnelling experts": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14831,11 +14907,11 @@
     ],
     "global wind service": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14935,7 +15011,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14953,11 +15029,11 @@
     ],
     "globallogic": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14999,11 +15075,11 @@
     ],
     "globant": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15015,11 +15091,11 @@
     ],
     "globe air motors & high pressure equipment": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15101,13 +15177,19 @@
             "rating": 1
         }
     ],
+    "globe-trotter": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "globeinvestuk": [
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15119,11 +15201,11 @@
     ],
     "globeleq africa": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15171,15 +15253,9 @@
     ],
     "globetek engineering": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "globe-trotter": [
         {
             "type": 1,
             "rating": 1
@@ -15233,17 +15309,17 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "globoforce": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15297,7 +15373,7 @@
     ],
     "glodwick cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -15320,12 +15396,6 @@
         }
     ],
     "glomira aesthetics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "glo-networks": [
         {
             "type": 1,
             "rating": 1
@@ -15363,7 +15433,7 @@
     ],
     "glorious entertainment cic": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -15375,12 +15445,12 @@
     ],
     "glorious king s ministries": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "glorious": [
@@ -15421,11 +15491,11 @@
     ],
     "glory global solutions international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15435,43 +15505,43 @@
             "rating": 1
         }
     ],
+    "glory house": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "glory house care": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "glory house": [
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "glory international christian centre": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "glory life church": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "glory of god mountain of life ministry": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "glory technology development": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -15499,7 +15569,7 @@
     ],
     "glossop cricket & bowling club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -15509,7 +15579,7 @@
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -15533,7 +15603,7 @@
     ],
     "gloucester circket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -15557,7 +15627,7 @@
     ],
     "gloucester rugby": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -15597,7 +15667,7 @@
             "rating": 1
         },
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -15643,15 +15713,9 @@
             "rating": 1
         }
     ],
-    "glow beauty emporium": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "glow church": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -15681,17 +15745,17 @@
     ],
     "glow music": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
-    "glowcroft": [
+    "glow-gold healthcare": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "glow-gold healthcare": [
+    "glowcroft": [
         {
             "type": 1,
             "rating": 1
@@ -15795,12 +15859,12 @@
     ],
     "glyndebourne productions": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 4,
+            "rating": 2
         },
         {
-            "type": 3,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "glyndwr enterprises ta the hand hotel": [
@@ -15817,12 +15881,12 @@
     ],
     "glynis henderson productions": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 4,
+            "rating": 2
         },
         {
-            "type": 3,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "glynn and co accountants": [
@@ -15911,11 +15975,11 @@
     ],
     "gm speciality vehicles": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16035,12 +16099,12 @@
     ],
     "gmg films": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 4,
+            "rating": 2
         },
         {
-            "type": 3,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "gmjj": [
@@ -16067,17 +16131,17 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "gmo": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16147,12 +16211,12 @@
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         }
     ],
     "gmy tea": [
@@ -16175,12 +16239,12 @@
     ],
     "gn audio": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -16189,12 +16253,12 @@
     ],
     "gn hearing": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -16263,12 +16327,12 @@
     ],
     "gnbl": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 13,
+            "rating": 2
         },
         {
-            "type": 12,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "gnc express": [
@@ -16303,7 +16367,7 @@
     ],
     "gnd united kabaddi club erith and belvedere": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -16333,7 +16397,7 @@
     ],
     "gng kabaddi club smethwick b ham": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -16405,7 +16469,7 @@
     ],
     "gnt": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -16457,11 +16521,11 @@
     ],
     "go city": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16471,7 +16535,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16483,7 +16547,7 @@
     ],
     "go dharmic welfare": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         },
         {
@@ -16691,11 +16755,11 @@
     ],
     "go travelling": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16705,7 +16769,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16721,13 +16785,37 @@
             "rating": 1
         }
     ],
-    "go10": [
+    "go-blue": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "go-cool indian pure vegetarian food": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "go-diy london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "go-to outsourcing": [
         {
             "type": 1,
             "rating": 1
         }
     ],
     "go1": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "go10": [
         {
             "type": 1,
             "rating": 1
@@ -16747,11 +16835,11 @@
     ],
     "goaco": [
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         },
         {
-            "type": 4,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16805,7 +16893,7 @@
     ],
     "goatacre cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -16835,7 +16923,7 @@
     ],
     "gobind marg": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -16857,19 +16945,13 @@
             "rating": 1
         }
     ],
-    "go-blue": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gobrands holdings": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16885,7 +16967,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16903,21 +16985,15 @@
     ],
     "gochurch global": [
         {
-            "type": 10,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 8,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
-            "rating": 1
-        }
-    ],
-    "go-cool indian pure vegetarian food": [
-        {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -16935,22 +17011,64 @@
     ],
     "god city london": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "god is faithful baptist church": [
         {
-            "type": 5,
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "god s amazing love assembly": [
+        {
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "god s kingdom society church": [
+        {
+            "type": 11,
             "rating": 2
+        },
+        {
+            "type": 9,
+            "rating": 2
+        }
+    ],
+    "god s reconciliation garden ministry": [
+        {
+            "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "god s vineyard ministries": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "god s vision church": [
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "godal property": [
@@ -16985,12 +17103,12 @@
     ],
     "goddard littlefair": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 4,
+            "rating": 2
         },
         {
-            "type": 3,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "goddard veterinary": [
@@ -17001,25 +17119,25 @@
     ],
     "godel technologies europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "godesic": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 4,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -17031,11 +17149,11 @@
     ],
     "godfirst church cheltenham": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -17077,15 +17195,9 @@
     ],
     "godiva": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
-    "go-diy london": [
         {
             "type": 1,
             "rating": 1
@@ -17103,55 +17215,13 @@
             "rating": 1
         },
         {
-            "type": 9,
-            "rating": 1
-        }
-    ],
-    "god s amazing love assembly": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "god s kingdom society church": [
-        {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 10,
-            "rating": 2
+            "rating": 1
         }
     ],
     "gods own meals": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "god s reconciliation garden ministry": [
-        {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
-    "god s vineyard ministries": [
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
-    "god s vision church": [
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -17193,15 +17263,15 @@
     ],
     "goethe-institut london": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -17333,11 +17403,11 @@
     ],
     "gohenry": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17445,11 +17515,11 @@
     ],
     "golar management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17473,7 +17543,7 @@
     ],
     "golcar cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -17575,7 +17645,7 @@
     ],
     "gold hill baptist church": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -17663,6 +17733,18 @@
             "rating": 1
         }
     ],
+    "gold s garages": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gold-i": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "goldacre ventures": [
         {
             "type": 1,
@@ -17677,12 +17759,12 @@
     ],
     "goldbeck construction": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -17691,7 +17773,7 @@
     ],
     "goldbeck solar": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -17767,16 +17849,16 @@
     ],
     "goldcrest post production facilities": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "goldcross travel & cargo": [
@@ -17793,7 +17875,7 @@
     ],
     "golden angel foundation scio": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -17955,11 +18037,11 @@
     ],
     "golden empire development": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17989,7 +18071,7 @@
     ],
     "golden fern piercing": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -18061,7 +18143,7 @@
     ],
     "golden goose db": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -18083,7 +18165,7 @@
     ],
     "golden hill cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -18101,11 +18183,11 @@
     ],
     "golden home care solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18177,7 +18259,7 @@
     ],
     "golden park": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -18343,7 +18425,7 @@
     ],
     "golden virsa": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -18365,7 +18447,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18461,11 +18543,11 @@
     ],
     "goldensource corporation": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18477,11 +18559,11 @@
     ],
     "goldentree asset management service co": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18493,11 +18575,11 @@
     ],
     "golder associates": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18561,12 +18643,6 @@
             "rating": 1
         }
     ],
-    "gold-i": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "goldie contractors": [
         {
             "type": 1,
@@ -18605,8 +18681,8 @@
     ],
     "goldley commercial & trading co": [
         {
-            "type": 7,
-            "rating": 4
+            "type": 3,
+            "rating": 3
         }
     ],
     "goldline fuel hutton": [
@@ -18641,31 +18717,31 @@
     ],
     "goldman sachs svc": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "goldman sachs international": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 6,
-            "rating": 2
         }
     ],
     "goldmans management": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -18688,12 +18764,6 @@
         }
     ],
     "goldpasta": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gold s garages": [
         {
             "type": 1,
             "rating": 1
@@ -18725,7 +18795,7 @@
     ],
     "goldsmiths university of london": [
         {
-            "type": 11,
+            "type": 12,
             "rating": 2
         },
         {
@@ -18831,17 +18901,17 @@
     ],
     "goleudy community church criccieth": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "golf genius": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18955,7 +19025,7 @@
     ],
     "gomersal cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -18967,12 +19037,12 @@
     ],
     "gomez-acebo & pombo abogados sl": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         }
     ],
     "gommyr power networks": [
@@ -19029,17 +19099,17 @@
             "rating": 1
         }
     ],
-    "gong cha global": [
+    "gong cha": [
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
-    "gong cha": [
+    "gong cha global": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -19075,7 +19145,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 12,
             "rating": 2
         }
     ],
@@ -19111,12 +19181,12 @@
     ],
     "good chance theatre": [
         {
-            "type": 3,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "good chaos": [
@@ -19247,15 +19317,21 @@
     ],
     "good methods": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
+    "good morning saigon": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "good morning saigon": [
+    "good news": [
         {
             "type": 1,
             "rating": 1
@@ -19269,15 +19345,15 @@
     ],
     "good news family care homes": [
         {
-            "type": 10,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 8,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19288,12 +19364,6 @@
         }
     ],
     "good news nwk": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "good news": [
         {
             "type": 1,
             "rating": 1
@@ -19371,6 +19441,12 @@
             "rating": 1
         }
     ],
+    "good-loop": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "goodacre": [
         {
             "type": 1,
@@ -19433,7 +19509,7 @@
     ],
     "goodfellow cambridge": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -19519,12 +19595,6 @@
             "rating": 1
         }
     ],
-    "good-loop": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "goodluck care": [
         {
             "type": 1,
@@ -19551,11 +19621,11 @@
     ],
     "goodman masson": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19573,11 +19643,11 @@
     ],
     "goodman": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19599,7 +19669,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19617,16 +19687,16 @@
     ],
     "goodnews christian centre": [
         {
-            "type": 5,
+            "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 2,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 10,
-            "rating": 2
         }
     ],
     "goodnews private": [
@@ -19655,11 +19725,11 @@
     ],
     "goodrich controls holding": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19689,7 +19759,7 @@
     ],
     "goodseed church": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -19773,27 +19843,27 @@
     ],
     "goodwin": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "goodwin procter": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "goodwin table tennis club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -19817,21 +19887,21 @@
     ],
     "goodyear tyres": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "google": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 8
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 8
         }
     ],
@@ -19843,7 +19913,7 @@
     ],
     "goole town cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -20029,7 +20099,7 @@
     ],
     "gorgeous enterprises": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -20053,13 +20123,13 @@
     ],
     "gorilla circus": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
     "gorilla glue europe": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20287,21 +20357,21 @@
     ],
     "gospel baptist mission": [
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         }
     ],
     "gospel fellowship association": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -20313,7 +20383,7 @@
     ],
     "gospel light community church": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -20401,19 +20471,13 @@
             "rating": 1
         }
     ],
-    "go-to outsourcing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "goto technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20424,12 +20488,6 @@
         }
     ],
     "gotobeat": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gott and robinson": [
         {
             "type": 1,
             "rating": 1
@@ -20515,7 +20573,7 @@
     ],
     "govanhill baths community trust": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -20533,11 +20591,11 @@
     ],
     "governance house for consulting training and development": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20573,11 +20631,11 @@
     ],
     "gowan crop protection": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20595,11 +20653,11 @@
     ],
     "gowling wlg": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20617,11 +20675,11 @@
     ],
     "gowrie laxmico": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20657,7 +20715,7 @@
     ],
     "gozney": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -20667,12 +20725,12 @@
     ],
     "gp acoustics": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -20687,7 +20745,7 @@
     ],
     "gp bullhound corporate finance": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -20703,7 +20761,7 @@
     ],
     "gp fund solutions": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21075,11 +21133,11 @@
     ],
     "grace and compassion benedictines cio": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -21091,16 +21149,16 @@
     ],
     "grace and mercy": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 10,
-            "rating": 2
         }
     ],
     "grace care 24/7": [
@@ -21129,61 +21187,61 @@
     ],
     "grace church brockley": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "grace church cambridge": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
     "grace church dulwich": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
     "grace church greenwich": [
         {
-            "type": 8,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 5,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         }
     ],
     "grace church leatherhead": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "grace church nottingham": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "grace community church ireland": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "grace community church porthcawl": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21195,12 +21253,12 @@
     ],
     "grace evangelistic ministries europe": [
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         }
     ],
     "grace eyre foundation": [
@@ -21211,7 +21269,7 @@
     ],
     "grace family assemblies of god taunton": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -21223,23 +21281,23 @@
     ],
     "grace fellowship manchester": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "grace foods": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "grace fountain church": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21263,16 +21321,16 @@
     ],
     "grace international foundation liverpool": [
         {
-            "type": 5,
+            "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 2,
             "rating": 1
-        },
-        {
-            "type": 10,
-            "rating": 2
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "grace investments": [
@@ -21307,12 +21365,12 @@
     ],
     "grace of mercy prayer mountain": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "grace recycling mcr": [
@@ -21341,16 +21399,16 @@
     ],
     "grace to grace international centre": [
         {
-            "type": 5,
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 2,
             "rating": 1
-        },
-        {
-            "type": 10,
-            "rating": 2
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "grace transport": [
@@ -21409,7 +21467,7 @@
     ],
     "gracefully yours": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -21427,7 +21485,7 @@
     ],
     "graceland ministries international": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -21439,16 +21497,16 @@
     ],
     "gracelife london": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 5,
+            "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "graceshope": [
@@ -21573,11 +21631,11 @@
     ],
     "graduate management global connection": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21605,7 +21663,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21627,7 +21685,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21637,7 +21695,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21685,11 +21743,11 @@
     ],
     "graham capital": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21731,17 +21789,11 @@
     ],
     "graham smith - musician": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
     "graham tiso": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grahame pharmacy": [
         {
             "type": 1,
             "rating": 1
@@ -21753,13 +21805,19 @@
             "rating": 1
         }
     ],
+    "grahame pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "grail bio": [
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21795,11 +21853,11 @@
     ],
     "graincorp europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21817,11 +21875,11 @@
     ],
     "grainger global online business": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21869,11 +21927,17 @@
     ],
     "gram games": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gram-": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21933,11 +21997,11 @@
     ],
     "grampian hospitals art trust": [
         {
-            "type": 8,
+            "type": 4,
             "rating": 2
         },
         {
-            "type": 3,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -21955,13 +22019,7 @@
     ],
     "grampound road cricket club": [
         {
-            "type": 9,
-            "rating": 1
-        }
-    ],
-    "gram-": [
-        {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -22177,8 +22235,8 @@
     ],
     "grand pharma": [
         {
-            "type": 7,
-            "rating": 4
+            "type": 3,
+            "rating": 3
         }
     ],
     "grand pier": [
@@ -22189,7 +22247,7 @@
     ],
     "grand plaza kensington": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -22217,8 +22275,8 @@
     ],
     "grand space interiors": [
         {
-            "type": 7,
-            "rating": 4
+            "type": 3,
+            "rating": 3
         }
     ],
     "grand spice club": [
@@ -22271,7 +22329,7 @@
     ],
     "grand view container trading": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -22285,13 +22343,13 @@
             "rating": 1
         }
     ],
-    "grandads tastee patties": [
+    "grand-attic": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "grand-attic": [
+    "grandads tastee patties": [
         {
             "type": 1,
             "rating": 1
@@ -22377,11 +22435,11 @@
     ],
     "grange fencing": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22405,7 +22463,7 @@
     ],
     "grange park opera": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -22547,7 +22605,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22607,11 +22665,11 @@
     ],
     "grant thornton": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22671,7 +22729,7 @@
     ],
     "grantham cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -22749,7 +22807,7 @@
     ],
     "granville oil & chemicals": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -22813,11 +22871,11 @@
     ],
     "graphcore": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22845,7 +22903,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22995,13 +23053,13 @@
     ],
     "gravesend and dartford muslim association": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "gravesend cricket lawn tennis and bowlingclub 1960": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -23061,7 +23119,7 @@
     ],
     "gravitee topco": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -23119,16 +23177,16 @@
     ],
     "gravity media": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 3,
-            "rating": 2
         }
     ],
     "gravity sketch": [
@@ -23185,6 +23243,12 @@
             "rating": 1
         }
     ],
+    "gray s subsidiary": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "grayareas - kingsmount": [
         {
             "type": 1,
@@ -23234,12 +23298,6 @@
         }
     ],
     "grays of cambridge international": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gray s subsidiary": [
         {
             "type": 1,
             "rating": 1
@@ -23361,7 +23419,7 @@
     ],
     "great ayton cricket & football club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -23373,17 +23431,17 @@
     ],
     "great bowery": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 4,
+            "rating": 2
         },
         {
-            "type": 3,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "great brickhill cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -23413,7 +23471,7 @@
     ],
     "great britain wheelchair rugby": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -23485,7 +23543,7 @@
     ],
     "great dixter charitable trust": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         },
         {
@@ -23495,11 +23553,11 @@
     ],
     "great eagle hotels": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23559,7 +23617,7 @@
     ],
     "great guns": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         },
         {
@@ -23569,7 +23627,7 @@
     ],
     "great harwood cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -23581,7 +23639,7 @@
     ],
     "great hill partners": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -23609,7 +23667,7 @@
     ],
     "great leap forward": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -23633,7 +23691,7 @@
     ],
     "great light church": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23651,7 +23709,7 @@
     ],
     "great minds bright futures": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -23711,13 +23769,13 @@
     ],
     "great oaks polo": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
     "great ocean dharma refuge reg charity": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -23777,13 +23835,13 @@
     ],
     "great show productions": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
     "great sogni": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -23799,7 +23857,7 @@
     ],
     "great trippetts polo club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -23877,21 +23935,21 @@
     ],
     "greater europe mission": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 10,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 8,
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 11,
             "rating": 2
         }
     ],
     "greater evangelism world crusade": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -23951,7 +24009,7 @@
     ],
     "greater manchester arts centre trading as home": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -23963,7 +24021,7 @@
     ],
     "greater manchester community basketball": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -24017,11 +24075,11 @@
     ],
     "grecon": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24057,23 +24115,23 @@
     ],
     "greek orthodox archdiocese of thyateira and great britain": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "greek orthodox cathedral of the dormition of theotokos and saint andrew": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "greek orthodox church of st nicholas southampton": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -24211,7 +24269,7 @@
     ],
     "green ball polo": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -24295,8 +24353,8 @@
     ],
     "green code technologies": [
         {
-            "type": 7,
-            "rating": 4
+            "type": 3,
+            "rating": 3
         }
     ],
     "green collar resources": [
@@ -24373,11 +24431,11 @@
     ],
     "green dome mosque": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -24473,7 +24531,7 @@
     ],
     "green flag films": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -24515,7 +24573,7 @@
     ],
     "green gates polo team": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -24531,7 +24589,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24549,11 +24607,11 @@
     ],
     "green giraffe ggeb": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24661,12 +24719,12 @@
     ],
     "green lane masjid & community centre": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "green lane medical centre": [
@@ -24767,7 +24825,7 @@
     ],
     "green mountain dc": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -24939,11 +24997,11 @@
     ],
     "green spring": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24961,7 +25019,7 @@
     ],
     "green steps society": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -24979,11 +25037,11 @@
     ],
     "green street advisors": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24995,11 +25053,11 @@
     ],
     "green team christmas trees": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -25089,7 +25147,19 @@
     ],
     "green yard properties development": [
         {
-            "type": 7,
+            "type": 3,
+            "rating": 1
+        }
+    ],
+    "green s bracknell": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "green-bangla": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25141,12 +25211,6 @@
             "rating": 1
         }
     ],
-    "green-bangla": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "greenbank holidays": [
         {
             "type": 1,
@@ -25173,11 +25237,11 @@
     ],
     "greenberg traurig": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25243,7 +25307,7 @@
     ],
     "greencroft farms": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -25291,7 +25355,7 @@
     ],
     "greene light stage": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -25333,7 +25397,7 @@
     ],
     "greenfield cricket & social club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -25453,11 +25517,11 @@
     ],
     "greenhill & co international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25523,11 +25587,11 @@
     ],
     "greenland united kingdom investment": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25627,7 +25691,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 12,
             "rating": 2
         }
     ],
@@ -25663,7 +25727,7 @@
     ],
     "greenmount cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -25675,7 +25739,7 @@
     ],
     "greenock cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -25687,7 +25751,7 @@
     ],
     "greenock morton football club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -25705,11 +25769,11 @@
     ],
     "greenpeace": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25761,15 +25825,9 @@
             "rating": 1
         }
     ],
-    "green s bracknell": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "greens combustion": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -25805,7 +25863,7 @@
     ],
     "greenscale data centres": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -25875,11 +25933,11 @@
     ],
     "greensolver": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25927,7 +25985,7 @@
     ],
     "greensville trust": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -25999,7 +26057,7 @@
     ],
     "greenvolt energias renovaveis holdco": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -26063,14 +26121,14 @@
     ],
     "greenwich film studios": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
     "greenwich food ingredients": [
         {
-            "type": 7,
-            "rating": 4
+            "type": 3,
+            "rating": 3
         }
     ],
     "greenwich foundation for the old royal naval college": [
@@ -26081,11 +26139,11 @@
     ],
     "greenwich hindu temple mandir": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -26103,12 +26161,12 @@
     ],
     "greenwich+docklands festivals": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 4,
+            "rating": 2
         },
         {
-            "type": 3,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "greenwichgadgets": [
@@ -26281,11 +26339,11 @@
     ],
     "gregory park holding": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26351,7 +26409,7 @@
     ],
     "grenergy renewables": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -26377,13 +26435,13 @@
             "rating": 1
         }
     ],
-    "gresham northhill / northhill care home subsidiary": [
+    "gresham northhill": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "gresham northhill": [
+    "gresham northhill / northhill care home subsidiary": [
         {
             "type": 1,
             "rating": 1
@@ -26469,11 +26527,11 @@
     ],
     "grey communications": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26532,6 +26590,12 @@
         }
     ],
     "grey technology gtech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "grey s residential homes": [
         {
             "type": 1,
             "rating": 1
@@ -26633,12 +26697,6 @@
             "rating": 1
         }
     ],
-    "grey s residential homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "greyspark partners": [
         {
             "type": 1,
@@ -26647,11 +26705,11 @@
     ],
     "greystar europe holdings": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26723,11 +26781,11 @@
     ],
     "greywell ventures": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 9,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26739,21 +26797,21 @@
     ],
     "grf": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "grid dynamics": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26873,11 +26931,11 @@
     ],
     "grifols": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26965,6 +27023,12 @@
             "rating": 1
         }
     ],
+    "grill ish romford": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "grillaz preston": [
         {
             "type": 1,
@@ -27002,12 +27066,6 @@
         }
     ],
     "grillerzz": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grill ish romford": [
         {
             "type": 1,
             "rating": 1
@@ -27057,7 +27115,7 @@
     ],
     "grimsby town cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -27069,11 +27127,11 @@
     ],
     "grimshaw": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27121,11 +27179,11 @@
     ],
     "grindstone capital": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27147,6 +27205,12 @@
             "rating": 1
         }
     ],
+    "grip-": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gripable": [
         {
             "type": 1,
@@ -27161,21 +27225,15 @@
     ],
     "gripping theatre productions": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 4,
+            "rating": 2
         },
         {
-            "type": 3,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "gripple": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grip-": [
         {
             "type": 1,
             "rating": 1
@@ -27189,7 +27247,7 @@
     ],
     "grissan renewable energy": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -27205,13 +27263,13 @@
     ],
     "grit performance": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
     "grizedale arts": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -27259,21 +27317,21 @@
     ],
     "gro capital international": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "grob machine tools": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27303,16 +27361,16 @@
     ],
     "grocery delivery e-": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 6,
-            "rating": 2
         }
     ],
     "grocery hut & bazzar": [
@@ -27353,11 +27411,11 @@
     ],
     "grohe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27453,11 +27511,11 @@
     ],
     "grosvenor estate management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27515,7 +27573,7 @@
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -27605,15 +27663,15 @@
     ],
     "groupe seb": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 6,
+            "type": 8,
             "rating": 2
         }
     ],
@@ -27625,11 +27683,11 @@
     ],
     "groupm": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27713,7 +27771,7 @@
     ],
     "grove information systems": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27729,13 +27787,13 @@
             "rating": 1
         }
     ],
-    "grove park express": [
+    "grove park": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "grove park": [
+    "grove park express": [
         {
             "type": 1,
             "rating": 1
@@ -27873,6 +27931,12 @@
             "rating": 1
         }
     ],
+    "growing hope": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "growing hope brockley": [
         {
             "type": 1,
@@ -27886,12 +27950,6 @@
         }
     ],
     "growing hope king s cross": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "growing hope": [
         {
             "type": 1,
             "rating": 1
@@ -27911,7 +27969,7 @@
     ],
     "growing2gether": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -28025,7 +28083,7 @@
     ],
     "growthpoint technology partners": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28155,7 +28213,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28167,7 +28225,7 @@
     ],
     "grunenthal": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -28183,7 +28241,7 @@
     ],
     "grupo antolin": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -28203,7 +28261,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28213,17 +28271,17 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "gruppo cadoro": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28307,17 +28365,17 @@
     ],
     "gs caltex singapore pte": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "gs capital partners": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28341,11 +28399,11 @@
     ],
     "gs engineering & construction london": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28356,18 +28414,6 @@
         }
     ],
     "gs food": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "g s fresh": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "g s golden chippy & pizzeria": [
         {
             "type": 1,
             "rating": 1
@@ -28399,7 +28445,7 @@
     ],
     "gs real estate development company london": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28453,11 +28499,11 @@
     ],
     "gs yuasa battery europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28473,17 +28519,17 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
     "gsa investment management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28541,12 +28587,6 @@
             "rating": 1
         }
     ],
-    "g-seventeen": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gsf car parts": [
         {
             "type": 1,
@@ -28583,7 +28623,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28601,7 +28641,7 @@
     ],
     "gsk stockmann": [
         {
-            "type": 7,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -28629,7 +28669,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28652,12 +28692,6 @@
         }
     ],
     "gsm workshop plus": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "g-smatt europe media": [
         {
             "type": 1,
             "rating": 1
@@ -28789,7 +28823,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28849,7 +28883,13 @@
     ],
     "gt witchingham cricket club": [
         {
-            "type": 9,
+            "type": 10,
+            "rating": 1
+        }
+    ],
+    "gt-bestone": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28877,12 +28917,6 @@
             "rating": 1
         }
     ],
-    "gt-bestone": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gtc business": [
         {
             "type": 1,
@@ -28898,28 +28932,6 @@
     "gtc real estate investment": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "g-tec distribution": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "g-tech motor-works": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "g-tekt europe manufacturing": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],
@@ -28943,7 +28955,7 @@
     ],
     "gti recruiting solutions": [
         {
-            "type": 11,
+            "type": 12,
             "rating": 2
         }
     ],
@@ -29021,7 +29033,7 @@
     ],
     "gts securities europe": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -29091,11 +29103,11 @@
     ],
     "guaranty trust bank": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29153,13 +29165,13 @@
             "rating": 1
         }
     ],
-    "guardian angel carers mid sussex": [
+    "guardian angel carers": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "guardian angel carers": [
+    "guardian angel carers mid sussex": [
         {
             "type": 1,
             "rating": 1
@@ -29197,18 +29209,18 @@
     ],
     "guardian industries u k": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "guardian jet": [
         {
-            "type": 7,
-            "rating": 4
+            "type": 3,
+            "rating": 3
         }
     ],
     "guardian live-in care": [
@@ -29225,21 +29237,21 @@
     ],
     "guardian news and media": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "guardian north west": [
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         },
         {
-            "type": 4,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29317,7 +29329,7 @@
     ],
     "guards polo club holdings": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -29327,7 +29339,7 @@
             "rating": 1
         },
         {
-            "type": 4,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -29357,11 +29369,11 @@
     ],
     "guenther bakeries": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29373,7 +29385,7 @@
     ],
     "guest medical": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29395,7 +29407,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29413,21 +29425,21 @@
     ],
     "guggenheim investment advisors europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "guggenheim securities international": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29445,21 +29457,21 @@
     ],
     "guhring": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 6,
+            "type": 8,
             "rating": 2
         }
     ],
     "guidance automation": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29501,11 +29513,11 @@
     ],
     "guidehouse europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29517,31 +29529,31 @@
     ],
     "guidepoint global": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "guidepost solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "guidewire software": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29559,7 +29571,7 @@
     ],
     "guild esports": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -29589,7 +29601,7 @@
     ],
     "guildford cricket club": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -29691,7 +29703,7 @@
     ],
     "gujarat hindu society": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -29721,13 +29733,7 @@
     ],
     "gujerati sunni muslim society": [
         {
-            "type": 5,
-            "rating": 1
-        }
-    ],
-    "gujjar alliance": [
-        {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -29749,13 +29755,13 @@
             "rating": 1
         }
     ],
-    "gujjula consulting": [
+    "gujju-": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "gujju-": [
+    "gujjula consulting": [
         {
             "type": 1,
             "rating": 1
@@ -29805,7 +29811,7 @@
     ],
     "gulf bahrain company": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -29821,11 +29827,11 @@
     ],
     "gulf international bank": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29855,17 +29861,17 @@
     ],
     "gulf talent": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "gulfstream aerospace": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -29903,7 +29909,7 @@
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -29915,11 +29921,11 @@
     ],
     "gulmay": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29979,20 +29985,20 @@
     ],
     "gulzare madina islamic welfare trust": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 8,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "gumgum": [
@@ -30019,7 +30025,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30053,12 +30059,6 @@
             "rating": 1
         }
     ],
-    "g-unit pubco": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gunjon education int": [
         {
             "type": 1,
@@ -30066,6 +30066,12 @@
         }
     ],
     "gunjon private": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gunn-kardec": [
         {
             "type": 1,
             "rating": 1
@@ -30101,12 +30107,6 @@
             "rating": 1
         }
     ],
-    "gunn-kardec": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gunpowder hospitality": [
         {
             "type": 1,
@@ -30131,7 +30131,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30155,7 +30155,7 @@
     ],
     "guotai junan securities": [
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         },
         {
@@ -30225,188 +30225,188 @@
     ],
     "gurdwara amrit parchar dharmik diwan bradford": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "gurdwara amrit parchar dharmik diwan birmingham": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "gurdwara baba buddha sahib ji": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "gurdwara baba vadbhag singh ji": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "gurdwara dasmesh darbar": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "gurdwara dukh nirwaran sahib": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "gurdwara guru granth sahib": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "gurdwara guru hargobind sahib": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "gurdwara guru nanak dev ji": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "gurdwara guru teg bahadur sikh temple": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "gurdwara leamington and warwick": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "gurdwara nanaksar": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "gurdwara sachkhand isher darbar society": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "gurdwara sahib woolwich": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "gurdwara shaheed baba deep singh ji": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "gurdwara sikh sangat london east": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "gurdwara singh sabha": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "gurdwara siri guru gobind singh ji": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "gurdwara siri guru singh sabha": [
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
             "type": 1,
@@ -30415,26 +30415,26 @@
     ],
     "gurdwara sri guru harkrishan sahib ji": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "gurdwara sri guru singh sabha slough": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 1,
@@ -30443,17 +30443,17 @@
     ],
     "gurdwara sri guru singh sabha derby": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "gurdwara tegh bahadur sahib": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -30469,22 +30469,22 @@
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         }
     ],
     "gurjar hindu union": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "gurkha 19 restaurant": [
@@ -30601,13 +30601,13 @@
             "rating": 1
         }
     ],
-    "gurkha express eastwood": [
+    "gurkha express": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "gurkha express": [
+    "gurkha express eastwood": [
         {
             "type": 1,
             "rating": 1
@@ -30747,11 +30747,11 @@
     ],
     "gurmat gyan roohani mission": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -30775,11 +30775,11 @@
     ],
     "gurr johns": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30813,16 +30813,16 @@
             "rating": 1
         }
     ],
-    "guru arjan dev gurdwara kabaddi club derby": [
-        {
-            "type": 9,
-            "rating": 1
-        }
-    ],
     "guru arjan dev gurdwara": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
+        }
+    ],
+    "guru arjan dev gurdwara kabaddi club derby": [
+        {
+            "type": 10,
+            "rating": 1
         }
     ],
     "guru datta": [
@@ -30845,22 +30845,22 @@
     ],
     "guru gobind singh gurdwara": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "guru gobind singh sikh temple": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "guru graphics": [
@@ -30901,7 +30901,7 @@
     ],
     "guru maneyo granth gurdwara": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -30913,173 +30913,173 @@
     ],
     "guru nanak cultural and recreational centre": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "guru nanak durbar sikh temple": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "guru nanak gurdwara": [
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
     "guru nanak gurdwara sikh temple": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "guru nanak gurdwara and sikh cultural centre": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "guru nanak gurdwara bedford": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "guru nanak gurdwara irvine": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "guru nanak gurdwara kabaddi club gravesend": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
     "guru nanak gurdwara of hull": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "guru nanak gurdwara south birmingham": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
-        }
-    ],
-    "guru nanak gurdwara": [
-        {
-            "type": 10,
-            "rating": 2
-        },
-        {
-            "type": 5,
-            "rating": 1
         }
     ],
     "guru nanak gurudwara sikh temple": [
         {
-            "type": 10,
-            "rating": 2
-        }
-    ],
-    "guru nanak nishkam sewak jatha leeds": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "guru nanak nishkam sewak jatha": [
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
-            "type": 5,
+            "type": 11,
+            "rating": 2
+        }
+    ],
+    "guru nanak nishkam sewak jatha leeds": [
+        {
+            "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "guru nanak parkash gurdwara": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "guru nanak satsang sabha karamsar": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "guru nanak satsang sikh temple": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "guru nanak sikh organisation": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
     "guru nanak sikh temple scunthorpe": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "guru nanak sikhtemple": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
     "guru nanak singh sabha gurdwara sikh temple": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -31121,25 +31121,21 @@
     ],
     "guru teg bahadur sikh temple": [
         {
-            "type": 10,
-            "rating": 2
-        },
-        {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 5,
+            "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "guru tegh bahadur gurdwara": [
         {
             "type": 10,
-            "rating": 2
-        },
-        {
-            "type": 9,
             "rating": 1
         },
         {
@@ -31147,8 +31143,12 @@
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "guru travel": [
@@ -31159,20 +31159,20 @@
     ],
     "gurudwara sri guru harkrishan sahib": [
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 10,
-            "rating": 2
-        },
-        {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 5,
+            "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "guruji convenience store": [
@@ -31307,7 +31307,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -31337,7 +31337,7 @@
     ],
     "guy & co": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -31371,12 +31371,6 @@
             "rating": 1
         }
     ],
-    "guyatt house care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "guy s and st thomas foundation": [
         {
             "type": 1,
@@ -31384,6 +31378,12 @@
         }
     ],
     "guy s and st thomas nhs foundation trust": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "guyatt house care": [
         {
             "type": 1,
             "rating": 1
@@ -31403,11 +31403,11 @@
     ],
     "gv management company": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -31515,12 +31515,12 @@
     ],
     "gwb entertainment": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 4,
+            "rating": 2
         },
         {
-            "type": 3,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "gwd international": [
@@ -31633,25 +31633,25 @@
     ],
     "gympass": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
     "gymshark": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 7,
+            "rating": 1
+        },
+        {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 4,
             "rating": 1
         }
     ],
@@ -31679,13 +31679,13 @@
             "rating": 1
         }
     ],
-    "gyroscope therapeutics": [
+    "gyros": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "gyros": [
+    "gyroscope therapeutics": [
         {
             "type": 1,
             "rating": 1
@@ -31693,11 +31693,11 @@
     ],
     "gyrus medical": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -31709,11 +31709,11 @@
     ],
     "gyxis corporation": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31797,7 +31797,7 @@
     ],
     "glasgow central mosque": [
         {
-            "type": 5,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -32031,11 +32031,11 @@
     ],
     "groupon": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -32153,7 +32153,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -32164,6 +32164,12 @@
         }
     ],
     "govan dental care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "grillet": [
         {
             "type": 1,
             "rating": 1
@@ -32229,7 +32235,7 @@
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -32241,7 +32247,7 @@
     ],
     "giffords circus": [
         {
-            "type": 3,
+            "type": 4,
             "rating": 2
         }
     ],
@@ -32277,7 +32283,7 @@
     ],
     "guildford flames": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -32318,12 +32324,6 @@
         }
     ],
     "grand sapphire": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grillet": [
         {
             "type": 1,
             "rating": 1
@@ -32443,7 +32443,7 @@
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -32467,7 +32467,7 @@
     ],
     "guan yin citta dharma door buddhist charity foundation": [
         {
-            "type": 8,
+            "type": 9,
             "rating": 2
         }
     ],
