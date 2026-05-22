@@ -3485,6 +3485,12 @@
             "rating": 1
         }
     ],
+    "pak supermarket oldbury": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pak turk foods": [
         {
             "type": 1,
@@ -3762,6 +3768,10 @@
     "palan foundation": [
         {
             "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 4,
             "rating": 2
         },
         {

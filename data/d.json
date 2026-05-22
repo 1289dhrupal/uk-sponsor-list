@@ -10531,18 +10531,6 @@
             "rating": 1
         }
     ],
-    "delton traders": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "delton foods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "deltroit asset management": [
         {
             "type": 5,
@@ -13414,12 +13402,6 @@
         }
     ],
     "destiny haven childcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "destiny health care recruitment and traning": [
         {
             "type": 1,
             "rating": 1
@@ -22406,6 +22388,10 @@
     "domestic & general": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

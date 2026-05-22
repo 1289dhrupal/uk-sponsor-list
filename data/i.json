@@ -2093,19 +2093,13 @@
             "rating": 1
         }
     ],
-    "iccmotors": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "icds constructors": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

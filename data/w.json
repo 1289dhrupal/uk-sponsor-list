@@ -6873,6 +6873,16 @@
             "rating": 1
         }
     ],
+    "wednesday 1867": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 1
+        }
+    ],
     "wedo digital technologies": [
         {
             "type": 1,
@@ -7522,12 +7532,6 @@
         }
     ],
     "wellbeing united kingdom": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "wellbeing assured healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -16355,6 +16359,12 @@
             "rating": 1
         }
     ],
+    "wings trading": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "wings travel management t/a wings global travel": [
         {
             "type": 1,
@@ -16363,11 +16373,11 @@
     ],
     "winit": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

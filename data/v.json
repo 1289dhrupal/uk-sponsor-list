@@ -245,12 +245,6 @@
             "rating": 1
         }
     ],
-    "viceroy restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vina wines": [
         {
             "type": 1,
@@ -2767,6 +2761,12 @@
             "rating": 1
         }
     ],
+    "vanguard building compliance": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vanguard dental holdings": [
         {
             "type": 1,
@@ -3518,6 +3518,12 @@
         }
     ],
     "various": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "varistha": [
         {
             "type": 1,
             "rating": 1

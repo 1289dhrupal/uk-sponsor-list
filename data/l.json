@@ -9661,6 +9661,10 @@
     ],
     "legrand electric": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -11967,12 +11971,6 @@
             "rating": 1
         }
     ],
-    "lexen associates": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lexham insurance consultants": [
         {
             "type": 1,
@@ -13240,6 +13238,12 @@
         }
     ],
     "life energy and climate": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "life enhancement and fitness": [
         {
             "type": 1,
             "rating": 1
@@ -17092,6 +17096,12 @@
         }
     ],
     "little einsteins zone ta the play station": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "little elms daycare nursery lee": [
         {
             "type": 1,
             "rating": 1

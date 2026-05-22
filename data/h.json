@@ -12005,6 +12005,12 @@
             "rating": 1
         }
     ],
+    "hbl intl": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hbp advisers": [
         {
             "type": 1,
@@ -13669,12 +13675,6 @@
             "rating": 1
         }
     ],
-    "heart of hope care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "heart of mercia": [
         {
             "type": 1,
@@ -13683,11 +13683,11 @@
     ],
     "heart of midlothian": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13838,6 +13838,12 @@
         }
     ],
     "heartwell care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "heartwood collection holdings": [
         {
             "type": 1,
             "rating": 1
@@ -15951,12 +15957,6 @@
             "rating": 1
         }
     ],
-    "henley care management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "henley festival": [
         {
             "type": 4,
@@ -17417,6 +17417,12 @@
             "rating": 1
         }
     ],
+    "hexacorp": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hexaform construction": [
         {
             "type": 1,
@@ -18360,6 +18366,12 @@
         }
     ],
     "hibbah s accountancy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hibdigital": [
         {
             "type": 1,
             "rating": 1
@@ -23292,6 +23304,12 @@
         }
     ],
     "hodnet village store and post office": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hoe bridge school": [
         {
             "type": 1,
             "rating": 1
