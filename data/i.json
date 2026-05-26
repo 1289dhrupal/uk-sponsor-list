@@ -1677,6 +1677,12 @@
             "rating": 1
         }
     ],
+    "ibox healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ibr property": [
         {
             "type": 1,
@@ -4504,12 +4510,6 @@
         }
     ],
     "ihateironing com": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ihg": [
         {
             "type": 1,
             "rating": 1
@@ -9567,6 +9567,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "individual artist management": [
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "individual restaurants irc": [
@@ -21048,6 +21054,12 @@
         }
     ],
     "isembard": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "isenburg aero engines": [
         {
             "type": 1,
             "rating": 1

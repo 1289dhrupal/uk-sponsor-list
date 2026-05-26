@@ -4031,6 +4031,10 @@
     ],
     "palliser capital": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -6940,6 +6944,12 @@
         }
     ],
     "park veterinary hospital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "park view academy of sport": [
         {
             "type": 1,
             "rating": 1
@@ -14709,6 +14719,12 @@
             "rating": 1
         }
     ],
+    "permitlink": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "permoid industries": [
         {
             "type": 1,
@@ -18915,6 +18931,12 @@
             "rating": 1
         }
     ],
+    "physio on the green": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "physio plus eastbourne": [
         {
             "type": 1,
@@ -20790,6 +20812,12 @@
         }
     ],
     "pinner high school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pinnick lewis": [
         {
             "type": 1,
             "rating": 1
@@ -31060,6 +31088,12 @@
         }
     ],
     "premier halal butcher nuneaton": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "premier health products": [
         {
             "type": 1,
             "rating": 1

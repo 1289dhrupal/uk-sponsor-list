@@ -8677,6 +8677,12 @@
             "rating": 1
         }
     ],
+    "urgent care 24/7": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "urgent dental care": [
         {
             "type": 1,
@@ -9294,6 +9300,12 @@
         }
     ],
     "utility meters warehouse": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "utility rov": [
         {
             "type": 1,
             "rating": 1

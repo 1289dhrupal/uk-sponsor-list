@@ -3121,6 +3121,12 @@
             "rating": 1
         }
     ],
+    "rachco": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rachel allen interiors": [
         {
             "type": 1,
@@ -11765,12 +11771,6 @@
             "rating": 2
         }
     ],
-    "recruitachef": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "recruiter insider": [
         {
             "type": 1,
@@ -12308,12 +12308,6 @@
         }
     ],
     "red industries stoke": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "red interactive": [
         {
             "type": 1,
             "rating": 1
@@ -19491,13 +19485,19 @@
             "rating": 1
         }
     ],
+    "reward finance": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "reward gateway": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20191,17 +20191,25 @@
     ],
     "rhema gospel church": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "rhema miracle centre aog": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
@@ -27360,6 +27368,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rock revelations london": [
         {
             "type": 1,
             "rating": 1

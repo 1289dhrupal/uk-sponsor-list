@@ -6771,12 +6771,12 @@
     ],
     "general synod of the scottish episcopal church": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "general traders and products": [
@@ -11298,12 +11298,6 @@
         }
     ],
     "gk cuisine": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gk design and build": [
         {
             "type": 1,
             "rating": 1
@@ -24789,6 +24783,12 @@
             "rating": 1
         }
     ],
+    "green lokma": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "green metro cars reading": [
         {
             "type": 1,
@@ -28470,6 +28470,12 @@
         }
     ],
     "gs transport": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gs ventures sb": [
         {
             "type": 1,
             "rating": 1

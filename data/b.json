@@ -2107,6 +2107,12 @@
             "rating": 1
         }
     ],
+    "bac corrosion control": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bac education consultancy": [
         {
             "type": 1,
@@ -7675,6 +7681,12 @@
             "rating": 2
         }
     ],
+    "barry grill": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "barry morrison timber harvesting": [
         {
             "type": 1,
@@ -11781,6 +11793,12 @@
             "rating": 1
         }
     ],
+    "beautiful voice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "beautiful world training academy": [
         {
             "type": 1,
@@ -12200,6 +12218,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "beck optronic solutions": [
         {
             "type": 1,
             "rating": 1
@@ -33937,6 +33961,12 @@
             "rating": 1
         }
     ],
+    "bowe iq": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bowen craggs & co": [
         {
             "type": 1,
@@ -35321,11 +35351,11 @@
     ],
     "brahma kumaris world spiritual university": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
@@ -43421,6 +43451,12 @@
             "rating": 1
         }
     ],
+    "brunswick health centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "brunswick house cafe": [
         {
             "type": 1,
@@ -48386,6 +48422,12 @@
         }
     ],
     "bx technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bx1": [
         {
             "type": 1,
             "rating": 1

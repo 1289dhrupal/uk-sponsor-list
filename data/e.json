@@ -15159,6 +15159,10 @@
         {
             "type": 6,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "embassy of the republic of haiti": [
@@ -15474,6 +15478,12 @@
         }
     ],
     "emerald operating partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "emerald power": [
         {
             "type": 1,
             "rating": 1
@@ -27285,6 +27295,12 @@
             "rating": 1
         }
     ],
+    "evara e bikes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "evara interior design": [
         {
             "type": 1,
@@ -27742,6 +27758,12 @@
         }
     ],
     "everest hair & beauty": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "everest house surgery": [
         {
             "type": 1,
             "rating": 1

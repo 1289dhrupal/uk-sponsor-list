@@ -14659,6 +14659,12 @@
             "rating": 1
         }
     ],
+    "heckler & koch": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hecny forwarding": [
         {
             "type": 1,
@@ -19847,16 +19853,6 @@
             "rating": 1
         }
     ],
-    "hill & knowlton": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "hill & smith holdings": [
         {
             "type": 5,
@@ -23953,6 +23949,12 @@
             "rating": 1
         }
     ],
+    "holloway head": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "holloway house dental surgery": [
         {
             "type": 1,
@@ -25879,12 +25881,6 @@
             "rating": 1
         }
     ],
-    "homlyheart": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "homsub": [
         {
             "type": 1,
@@ -25899,15 +25895,15 @@
     ],
     "honda motor europe": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 10,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28394,6 +28390,12 @@
         }
     ],
     "house of habesha": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "house of hackney": [
         {
             "type": 1,
             "rating": 1
@@ -30919,11 +30921,11 @@
     ],
     "hull kingston rovers rlfc": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31696,6 +31698,12 @@
         }
     ],
     "huns global service": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hunsbury": [
         {
             "type": 1,
             "rating": 1
@@ -33984,6 +33992,12 @@
         }
     ],
     "hackney pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hyperfinity": [
         {
             "type": 1,
             "rating": 1
