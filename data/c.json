@@ -20305,12 +20305,6 @@
             "rating": 1
         }
     ],
-    "change gap": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "change grow live": [
         {
             "type": 1,
@@ -21160,6 +21154,12 @@
         }
     ],
     "charles gray london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "charles guthrie &co legal": [
         {
             "type": 1,
             "rating": 1
@@ -37541,14 +37541,20 @@
             "rating": 1
         }
     ],
-    "co-mission initiative trust": [
+    "co-labs global": [
         {
-            "type": 11,
-            "rating": 2
-        },
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "co-mission initiative trust": [
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "co-operation ireland": [
@@ -44669,6 +44675,12 @@
             "rating": 1
         }
     ],
+    "conscia": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "conscious catering": [
         {
             "type": 1,
@@ -50320,12 +50332,6 @@
         }
     ],
     "coure security": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "courexpress": [
         {
             "type": 1,
             "rating": 1

@@ -7067,6 +7067,12 @@
             "rating": 1
         }
     ],
+    "weightron bilanciai": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "weil gotshal & manges london": [
         {
             "type": 5,
@@ -19207,6 +19213,12 @@
             "rating": 1
         }
     ],
+    "woodbridge hill surgery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "woodbridge practice": [
         {
             "type": 1,
@@ -22597,12 +22609,12 @@
             "rating": 1
         },
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "wuxi apptec": [

@@ -5335,12 +5335,6 @@
             "rating": 1
         }
     ],
-    "hand on heart care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hand picked hotels": [
         {
             "type": 1,
@@ -7470,12 +7464,6 @@
         }
     ],
     "harini superstore": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "harino care": [
         {
             "type": 1,
             "rating": 1
@@ -10195,12 +10183,6 @@
             "rating": 1
         }
     ],
-    "hatszz prestige care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hatt service station": [
         {
             "type": 1,
@@ -10552,12 +10534,6 @@
         }
     ],
     "haven rose residential care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "haven solutionz": [
         {
             "type": 1,
             "rating": 1
@@ -16357,12 +16333,6 @@
             "rating": 1
         }
     ],
-    "herbion": [
-        {
-            "type": 3,
-            "rating": 1
-        }
-    ],
     "herbosch-kiere marine contractors": [
         {
             "type": 5,
@@ -20975,21 +20945,23 @@
             "rating": 1
         }
     ],
-    "hindu swayamsevak sangh": [
-        {
-            "type": 9,
-            "rating": 2
-        },
+    "hindu society": [
         {
             "type": 2,
             "rating": 1
         }
     ],
-    "hindu tamil cultural association enfield": [
+    "hindu swayamsevak sangh": [
         {
             "type": 2,
             "rating": 1
         },
+        {
+            "type": 9,
+            "rating": 2
+        }
+    ],
+    "hindu tamil cultural association enfield": [
         {
             "type": 1,
             "rating": 1
@@ -20997,6 +20969,10 @@
         {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "hindu temple & cultural trust centre": [
@@ -22038,7 +22014,7 @@
     "hjk general trading": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "hjkb": [
@@ -22688,6 +22664,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "hme logistics": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

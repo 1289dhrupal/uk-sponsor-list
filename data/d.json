@@ -2023,12 +2023,6 @@
             "rating": 1
         }
     ],
-    "daily comfort healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "daily crave 92": [
         {
             "type": 1,
@@ -3142,6 +3136,16 @@
     "danbeck": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "danbury mission church": [
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -18085,6 +18089,12 @@
             "rating": 1
         }
     ],
+    "dine & go": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dine in table": [
         {
             "type": 1,
@@ -27221,6 +27231,12 @@
             "rating": 1
         }
     ],
+    "drives and automation": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "driveshaft parts": [
         {
             "type": 1,
@@ -27560,6 +27576,12 @@
         }
     ],
     "drs sathiyamoorthy & co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "drs transport": [
         {
             "type": 1,
             "rating": 1

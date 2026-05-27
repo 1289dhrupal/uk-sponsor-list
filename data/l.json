@@ -5903,6 +5903,12 @@
             "rating": 2
         }
     ],
+    "lateral naval architects": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lateralize": [
         {
             "type": 4,
@@ -10568,6 +10574,12 @@
     "lent polo partnership": [
         {
             "type": 10,
+            "rating": 1
+        }
+    ],
+    "lentitek": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16231,7 +16243,7 @@
             "rating": 1
         }
     ],
-    "linx designbuild": [
+    "linx construction": [
         {
             "type": 1,
             "rating": 1

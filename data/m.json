@@ -6879,12 +6879,6 @@
             "rating": 1
         }
     ],
-    "magnify tech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "magnisol": [
         {
             "type": 1,
@@ -9249,12 +9243,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "malaysian rubber council london": [
-        {
-            "type": 3,
-            "rating": 3
         }
     ],
     "malbank school and sixth form college": [
@@ -32349,12 +32337,6 @@
             "rating": 1
         }
     ],
-    "midland care support & enablement": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "midland cars hub": [
         {
             "type": 1,
@@ -37495,11 +37477,11 @@
     ],
     "mitsubishi chemical": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -43142,6 +43124,12 @@
         }
     ],
     "montclares international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "monte global asset management": [
         {
             "type": 1,
             "rating": 1
@@ -51835,11 +51823,11 @@
     ],
     "mtr corporation crossrail": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

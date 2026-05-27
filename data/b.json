@@ -10539,12 +10539,6 @@
             "rating": 1
         }
     ],
-    "bdg architecture + design": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bdi security solutions": [
         {
             "type": 1,
@@ -14437,13 +14431,19 @@
             "rating": 1
         }
     ],
+    "belmar care homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "belmond": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22025,6 +22025,12 @@
             "rating": 1
         }
     ],
+    "biodiversify": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bioethanol-fireplace": [
         {
             "type": 1,
@@ -23648,6 +23654,12 @@
         }
     ],
     "bishopton medical practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bishopton veterinary bvgc": [
         {
             "type": 1,
             "rating": 1
@@ -30501,6 +30513,10 @@
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "body20": [
@@ -36772,6 +36788,10 @@
     "breen equestrian": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 10,
             "rating": 1
         }
     ],
@@ -47560,6 +47580,12 @@
         }
     ],
     "busy bea cleaning": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "busy bee builders merchants": [
         {
             "type": 1,
             "rating": 1

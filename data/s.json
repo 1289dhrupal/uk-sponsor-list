@@ -4649,6 +4649,12 @@
             "rating": 1
         }
     ],
+    "s m b r a": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "s m e": [
         {
             "type": 1,
@@ -20365,11 +20371,11 @@
     ],
     "seadrill management": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22256,16 +22262,6 @@
     "sega international": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "segantii capital management": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -50685,6 +50681,12 @@
             "rating": 1
         }
     ],
+    "solidex gypsum": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "solidify": [
         {
             "type": 1,
@@ -50699,11 +50701,11 @@
     ],
     "solifi": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -67947,6 +67949,12 @@
             "rating": 1
         }
     ],
+    "star pacific": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "star plus estate agents and property management": [
         {
             "type": 1,
@@ -81878,6 +81886,12 @@
         }
     ],
     "sushi ryu": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sushi shine restaurant": [
         {
             "type": 1,
             "rating": 1

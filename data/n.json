@@ -1925,6 +1925,14 @@
     ],
     "nagashima ohno & tsunematsu": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 3,
             "rating": 1
         }
@@ -2510,6 +2518,12 @@
         },
         {
             "type": 2,
+            "rating": 1
+        }
+    ],
+    "namdiv": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13016,12 +13030,6 @@
         }
     ],
     "neworbit space": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "newotion it solutions": [
         {
             "type": 1,
             "rating": 1
@@ -26212,16 +26220,6 @@
         }
     ],
     "nusaybah jannat hull": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "nuseed europe": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
