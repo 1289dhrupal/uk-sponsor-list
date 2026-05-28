@@ -13489,21 +13489,21 @@
     ],
     "global education management systems": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "global energy london": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17130,6 +17130,12 @@
         }
     ],
     "godfrey barnes care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "godfrey barnes care sl": [
         {
             "type": 1,
             "rating": 1
@@ -24478,12 +24484,6 @@
         }
     ],
     "green facades se": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "green facades": [
         {
             "type": 1,
             "rating": 1

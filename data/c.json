@@ -14581,12 +14581,6 @@
             "rating": 1
         }
     ],
-    "cavanaghkelly": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cavandish supermarket": [
         {
             "type": 1,
@@ -32635,12 +32629,6 @@
             "rating": 1
         }
     ],
-    "clarendon court nursing home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "clarendon glazing": [
         {
             "type": 1,
@@ -38505,6 +38493,12 @@
             "rating": 1
         }
     ],
+    "codelessai": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "codeplexus": [
         {
             "type": 1,
@@ -41463,16 +41457,6 @@
             "rating": 1
         }
     ],
-    "commscope": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "commtech solutions": [
         {
             "type": 1,
@@ -43165,11 +43149,11 @@
     ],
     "comviva technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -61220,6 +61204,12 @@
         }
     ],
     "china village restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "crown plaza reading": [
         {
             "type": 1,
             "rating": 1

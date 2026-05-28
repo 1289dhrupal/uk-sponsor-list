@@ -869,17 +869,23 @@
             "rating": 1
         }
     ],
+    "f t care homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "f/ce london lab": [
+        {
+            "type": 3,
+            "rating": 1
+        },
         {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 3,
             "rating": 1
         }
     ],
@@ -6489,12 +6495,6 @@
             "rating": 1
         }
     ],
-    "featurespace": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "featuristic breathe deep": [
         {
             "type": 4,
@@ -7826,12 +7826,6 @@
         }
     ],
     "fexco merchant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fexco property": [
         {
             "type": 1,
             "rating": 1
