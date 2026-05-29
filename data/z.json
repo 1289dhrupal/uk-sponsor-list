@@ -3381,6 +3381,16 @@
             "rating": 1
         }
     ],
+    "zerolatency": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "zerolight": [
         {
             "type": 1,

@@ -10085,6 +10085,12 @@
             "rating": 1
         }
     ],
+    "man power connections": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "man truck & bus": [
         {
             "type": 1,
@@ -28836,12 +28842,6 @@
         }
     ],
     "metasonixx": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "metasphere": [
         {
             "type": 1,
             "rating": 1
@@ -56637,12 +56637,6 @@
             "rating": 1
         }
     ],
-    "modern citizens": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "myddleton stores": [
         {
             "type": 1,
@@ -56878,12 +56872,6 @@
         }
     ],
     "mr browns": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "mowgli": [
         {
             "type": 1,
             "rating": 1

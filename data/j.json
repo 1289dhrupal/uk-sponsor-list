@@ -303,6 +303,12 @@
             "rating": 1
         }
     ],
+    "j & a traders": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "j & b international trading": [
         {
             "type": 1,
@@ -15219,11 +15225,11 @@
     ],
     "judilica": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

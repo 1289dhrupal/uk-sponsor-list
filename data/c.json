@@ -32337,6 +32337,12 @@
             "rating": 1
         }
     ],
+    "clairo": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "clan contracting": [
         {
             "type": 1,
@@ -39433,6 +39439,12 @@
             "rating": 1
         }
     ],
+    "colchester islamic cultural association": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "colchester road residential home": [
         {
             "type": 1,
@@ -41088,6 +41100,16 @@
     "commerce pulse": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "commerce software": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -61750,6 +61772,12 @@
         }
     ],
     "corza cafe bar restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "continental skin clinic": [
         {
             "type": 1,
             "rating": 1

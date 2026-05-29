@@ -20897,16 +20897,6 @@
             "rating": 1
         }
     ],
-    "bigcommerce": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bigdale": [
         {
             "type": 1,
@@ -28934,6 +28924,10 @@
     "blueprint talent": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -49710,6 +49704,12 @@
     "bluebird care east suffolk and great yarmouth": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "big box padel club": [
+        {
+            "type": 10,
             "rating": 1
         }
     ],
