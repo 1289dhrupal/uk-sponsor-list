@@ -35,12 +35,6 @@
             "rating": 1
         }
     ],
-    "vq chelsea": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vodafone": [
         {
             "type": 1,
@@ -2536,6 +2530,12 @@
         }
     ],
     "vamos media": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vamsi": [
         {
             "type": 1,
             "rating": 1

@@ -1169,6 +1169,12 @@
             "rating": 1
         }
     ],
+    "ia repairs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ia restaurants": [
         {
             "type": 1,
@@ -3398,6 +3404,12 @@
         }
     ],
     "ideology deals": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ideotech": [
         {
             "type": 1,
             "rating": 1

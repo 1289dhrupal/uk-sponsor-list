@@ -5101,6 +5101,12 @@
             "rating": 1
         }
     ],
+    "dataactions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dataart technologies": [
         {
             "type": 1,
@@ -20739,11 +20745,11 @@
     ],
     "dkms foundation": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

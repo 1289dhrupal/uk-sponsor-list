@@ -4315,12 +4315,6 @@
             "rating": 1
         }
     ],
-    "hambro perks": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hambrook care": [
         {
             "type": 1,
@@ -8690,6 +8684,12 @@
         }
     ],
     "harrow independent college": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "harrow kitchen": [
         {
             "type": 1,
             "rating": 1
@@ -13151,12 +13151,6 @@
             "rating": 1
         }
     ],
-    "healthcare professionals 24/7": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "healthcare republic": [
         {
             "type": 1,
@@ -16582,18 +16576,6 @@
         }
     ],
     "heritage global foods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "heritage healthcare berkshire": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "heritage healthcare windsor": [
         {
             "type": 1,
             "rating": 1
@@ -25353,12 +25335,6 @@
             "rating": 1
         }
     ],
-    "homecare professionals essex": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "homecare solutions for you": [
         {
             "type": 1,
@@ -33514,7 +33490,7 @@
     "hypes sb": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "hypetap": [
@@ -33818,12 +33794,6 @@
         }
     ],
     "hendford nursing home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hash & harry s": [
         {
             "type": 1,
             "rating": 1

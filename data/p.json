@@ -3257,6 +3257,12 @@
             "rating": 1
         }
     ],
+    "pain clinics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pain cure physio": [
         {
             "type": 1,
@@ -11864,6 +11870,12 @@
         }
     ],
     "peel l&p management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "peel ports investments": [
         {
             "type": 1,
             "rating": 1
@@ -25275,11 +25287,11 @@
     ],
     "pns": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

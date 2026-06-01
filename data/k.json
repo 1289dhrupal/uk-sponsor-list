@@ -81,6 +81,12 @@
             "rating": 1
         }
     ],
+    "kahani restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kaya": [
         {
             "type": 1,
@@ -2571,12 +2577,6 @@
             "rating": 1
         }
     ],
-    "kahani restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kahlon construction": [
         {
             "type": 1,
@@ -2766,6 +2766,12 @@
         }
     ],
     "kaiser retailers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kaiser tax and accountancy": [
         {
             "type": 1,
             "rating": 1
@@ -11323,6 +11329,12 @@
         {
             "type": 11,
             "rating": 2
+        }
+    ],
+    "khalsa design & build": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "khalsa retail": [
@@ -22042,6 +22054,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ksm bees": [
         {
             "type": 1,
             "rating": 1

@@ -6813,6 +6813,12 @@
             "rating": 1
         }
     ],
+    "safety fabrications": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "safety is priority": [
         {
             "type": 1,
@@ -13450,6 +13456,12 @@
         }
     ],
     "sanu sander": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sparsh": [
         {
             "type": 1,
             "rating": 1
@@ -48153,6 +48165,12 @@
             "rating": 1
         }
     ],
+    "sneaton castle estate": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "snebtaf tech solution": [
         {
             "type": 4,
@@ -65617,12 +65635,12 @@
     ],
     "st peters school": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "st philips caledonia care": [
@@ -71183,6 +71201,12 @@
             "rating": 1
         }
     ],
+    "stickybeak": [
+        {
+            "type": 3,
+            "rating": 3
+        }
+    ],
     "stics": [
         {
             "type": 1,
@@ -75008,6 +75032,12 @@
         }
     ],
     "studholme medical centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "studi+o": [
         {
             "type": 1,
             "rating": 1

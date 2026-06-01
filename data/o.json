@@ -7110,16 +7110,16 @@
     "omusubi": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "omv petrom branch office": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13230,6 +13230,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "orkney crab": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

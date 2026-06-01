@@ -9903,6 +9903,12 @@
             "rating": 1
         }
     ],
+    "rcp service centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rcs domiciliary agency": [
         {
             "type": 1,
@@ -17927,12 +17933,6 @@
             "rating": 1
         }
     ],
-    "resonant studios": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "resonate": [
         {
             "type": 1,
@@ -17940,6 +17940,12 @@
         }
     ],
     "resonate interiors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "resonates slm": [
         {
             "type": 1,
             "rating": 1

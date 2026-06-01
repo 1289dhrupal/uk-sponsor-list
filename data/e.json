@@ -8903,6 +8903,12 @@
             "rating": 1
         }
     ],
+    "effective consumable solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "effective energy": [
         {
             "type": 1,
@@ -12717,6 +12723,12 @@
             "rating": 1
         }
     ],
+    "elit london": [
+        {
+            "type": 3,
+            "rating": 3
+        }
+    ],
     "elite 1 builders": [
         {
             "type": 1,
@@ -15541,6 +15553,12 @@
             "rating": 1
         }
     ],
+    "emerald x international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "emeralds holdings": [
         {
             "type": 1,
@@ -16095,6 +16113,10 @@
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "emmanuel church droitwich": [
@@ -16105,16 +16127,16 @@
     ],
     "emmanuel church wimbledon": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "emmanuel city church": [
@@ -21599,11 +21621,11 @@
     ],
     "equal experts": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

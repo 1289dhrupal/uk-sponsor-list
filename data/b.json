@@ -14431,19 +14431,13 @@
             "rating": 1
         }
     ],
-    "belmar care homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "belmond": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14562,6 +14556,12 @@
         }
     ],
     "belmont residential care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "belmont residential care": [
         {
             "type": 1,
             "rating": 1
@@ -21043,12 +21043,6 @@
             "rating": 1
         }
     ],
-    "bigtree recruitment": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bigtxn": [
         {
             "type": 1,
@@ -22476,6 +22470,12 @@
         }
     ],
     "bira care homes ta avenue road nursing home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "birbeck medical": [
         {
             "type": 1,
             "rating": 1
@@ -31605,12 +31605,6 @@
             "rating": 1
         }
     ],
-    "bonanza sleep": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bonbon pottery battersea": [
         {
             "type": 1,
@@ -39764,6 +39758,16 @@
         }
     ],
     "bristol city football club": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 1
+        }
+    ],
+    "bristol city women football club": [
         {
             "type": 1,
             "rating": 1
@@ -48932,6 +48936,12 @@
         }
     ],
     "bengal cottage": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "butterfly house": [
         {
             "type": 1,
             "rating": 1
