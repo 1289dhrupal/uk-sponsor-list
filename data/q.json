@@ -1843,12 +1843,6 @@
             "rating": 1
         }
     ],
-    "qualita healthcare & recruitment": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "qualitascare": [
         {
             "type": 1,
@@ -2506,6 +2500,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "quantcore technologies": [
         {
             "type": 1,
             "rating": 1

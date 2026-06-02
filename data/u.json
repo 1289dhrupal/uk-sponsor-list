@@ -801,6 +801,12 @@
             "rating": 1
         }
     ],
+    "ubq ecosystem": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ubreakifixx": [
         {
             "type": 1,
@@ -1114,6 +1120,12 @@
         }
     ],
     "udeliver": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "udex architecture": [
         {
             "type": 1,
             "rating": 1
@@ -1538,12 +1550,6 @@
         }
     ],
     "ukay khoa manufacturing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ukc bodywork repair": [
         {
             "type": 1,
             "rating": 1

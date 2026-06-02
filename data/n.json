@@ -7517,6 +7517,16 @@
             "rating": 1
         }
     ],
+    "neo next+ energy e&p": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "neo next+ energy resources": [
         {
             "type": 1,
@@ -25171,12 +25181,6 @@
             "rating": 1
         }
     ],
-    "nt care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "nt glazing": [
         {
             "type": 1,
@@ -27386,6 +27390,12 @@
         }
     ],
     "no 1 fleet street": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "number 11 by the warren collection": [
         {
             "type": 1,
             "rating": 1

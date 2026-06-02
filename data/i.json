@@ -6221,12 +6221,12 @@
     ],
     "img media": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,

@@ -23923,6 +23923,12 @@
             "rating": 1
         }
     ],
+    "play on kids": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "play polo": [
         {
             "type": 10,
@@ -37059,16 +37065,6 @@
             "rating": 1
         }
     ],
-    "prohoc": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "proimmune": [
         {
             "type": 1,
@@ -37340,6 +37336,12 @@
         }
     ],
     "projex support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "projukti team": [
         {
             "type": 1,
             "rating": 1
@@ -42658,12 +42660,6 @@
         }
     ],
     "python kitchen": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "python security": [
         {
             "type": 1,
             "rating": 1

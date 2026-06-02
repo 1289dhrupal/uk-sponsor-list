@@ -2179,12 +2179,6 @@
             "rating": 1
         }
     ],
-    "fairlawn residential home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fairlawns care home": [
         {
             "type": 1,
@@ -3504,6 +3498,12 @@
         }
     ],
     "families outside": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "family action": [
         {
             "type": 1,
             "rating": 1

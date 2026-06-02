@@ -5335,6 +5335,12 @@
             "rating": 1
         }
     ],
+    "handa heating": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "handel consultancy": [
         {
             "type": 1,
@@ -16629,6 +16635,12 @@
             "rating": 1
         }
     ],
+    "heritage trust network": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "heritage vets": [
         {
             "type": 1,
@@ -22144,6 +22156,12 @@
     "hk-care consulting": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "hk9 security": [
+        {
+            "type": 7,
             "rating": 1
         }
     ],
@@ -28824,12 +28842,6 @@
         }
     ],
     "howco": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "howden care": [
         {
             "type": 1,
             "rating": 1

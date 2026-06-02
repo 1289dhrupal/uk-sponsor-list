@@ -17419,6 +17419,12 @@
             "rating": 1
         }
     ],
+    "central event hire": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "central fleet solutions": [
         {
             "type": 1,
@@ -19876,6 +19882,12 @@
         }
     ],
     "chamberlain europe": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "chamberlaine cleaning": [
         {
             "type": 1,
             "rating": 1
@@ -30085,23 +30097,19 @@
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
         }
     ],
     "circet": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -36492,6 +36500,12 @@
         }
     ],
     "clover support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "clovercare scotland": [
         {
             "type": 1,
             "rating": 1
@@ -48263,19 +48277,13 @@
             "rating": 1
         }
     ],
-    "cornerstone professional care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cornerstone research": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
