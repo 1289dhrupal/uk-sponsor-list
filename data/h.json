@@ -12677,12 +12677,6 @@
             "rating": 1
         }
     ],
-    "headstart nursery school": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "headstart residential care": [
         {
             "type": 1,
@@ -22395,33 +22389,39 @@
             "rating": 1
         }
     ],
+    "hlhp birmingham": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hlhp oriental food": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "happy lamb hot pot restaurant": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "hlmad": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27479,14 +27479,20 @@
             "rating": 1
         }
     ],
-    "hospice in the weald": [
+    "hospice at home west cumbria": [
         {
             "type": 9,
             "rating": 2
-        },
+        }
+    ],
+    "hospice in the weald": [
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "hospital direct marketing": [

@@ -10037,12 +10037,6 @@
             "rating": 1
         }
     ],
-    "new dawn health and social care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "new dawn innovations": [
         {
             "type": 1,
@@ -10056,6 +10050,12 @@
         }
     ],
     "new dawn risk": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "new dawn": [
         {
             "type": 1,
             "rating": 1
@@ -19319,6 +19319,12 @@
             "rating": 1
         }
     ],
+    "nola studio": [
+        {
+            "type": 4,
+            "rating": 2
+        }
+    ],
     "nolan business solutions": [
         {
             "type": 1,
@@ -22430,6 +22436,12 @@
         }
     ],
     "northstar research partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "northstar retail": [
         {
             "type": 1,
             "rating": 1

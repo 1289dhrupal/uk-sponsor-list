@@ -4809,6 +4809,12 @@
             "rating": 1
         }
     ],
+    "ec drummond agriculture": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ec english cambridge": [
         {
             "type": 1,
@@ -5879,12 +5885,6 @@
             "rating": 1
         }
     ],
-    "ecogreen glazing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ecohardwood": [
         {
             "type": 1,
@@ -6325,11 +6325,11 @@
     ],
     "ecover": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6642,6 +6642,12 @@
         }
     ],
     "eden adaptions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "eden brook home care": [
         {
             "type": 1,
             "rating": 1
@@ -14601,18 +14607,6 @@
             "rating": 1
         }
     ],
-    "elvet london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "elvet steakhouse london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "elvi global": [
         {
             "type": 1,
@@ -16299,12 +16293,6 @@
             "rating": 1
         }
     ],
-    "empathy care24": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "empathybroker": [
         {
             "type": 1,
@@ -16317,12 +16305,12 @@
     ],
     "empawa africa": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "empee silk fabrics": [

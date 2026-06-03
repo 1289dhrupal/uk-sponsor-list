@@ -4723,12 +4723,6 @@
             "rating": 1
         }
     ],
-    "ijb healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ijo interiors": [
         {
             "type": 1,
@@ -17596,6 +17590,12 @@
         }
     ],
     "internmatch": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "internorm windows": [
         {
             "type": 1,
             "rating": 1

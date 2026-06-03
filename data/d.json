@@ -11303,6 +11303,12 @@
             "rating": 1
         }
     ],
+    "dent41": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "denta care cheshire": [
         {
             "type": 1,
@@ -29569,13 +29575,19 @@
             "rating": 1
         }
     ],
+    "dunelm retails": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dunfermline athletic football club": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -32404,6 +32416,12 @@
         }
     ],
     "delite post office north watford post office": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dynarisk": [
         {
             "type": 1,
             "rating": 1

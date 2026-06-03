@@ -5875,12 +5875,6 @@
             "rating": 1
         }
     ],
-    "we care physiotherapy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "we care": [
         {
             "type": 1,
@@ -8804,6 +8798,12 @@
         }
     ],
     "wessex partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wessex pet care": [
         {
             "type": 1,
             "rating": 1
@@ -12672,12 +12672,6 @@
         }
     ],
     "white summit capital advisors": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "white swan healthcare": [
         {
             "type": 1,
             "rating": 1
