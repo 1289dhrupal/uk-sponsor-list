@@ -25,12 +25,12 @@
     ],
     "enterprise singapore board": [
         {
-            "type": 6,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "executive nexus": [
@@ -441,16 +441,6 @@
             "rating": 1
         }
     ],
-    "e d & f man holdings": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "e direct link": [
         {
             "type": 1,
@@ -777,11 +767,11 @@
     ],
     "e- event platform": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1013,11 +1003,11 @@
     ],
     "e & j gallo winery": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1047,11 +1037,11 @@
     ],
     "e ca economics gmbh": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1075,11 +1065,11 @@
     ],
     "e l f beauty": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1097,16 +1087,16 @@
     ],
     "e on": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 8,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "e s a engineering": [
@@ -1327,11 +1317,11 @@
     ],
     "e9ine": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1601,11 +1591,11 @@
     ],
     "eagleburgmann industries lp": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1641,11 +1631,11 @@
     ],
     "eai systems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1657,11 +1647,11 @@
     ],
     "eak management": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1745,21 +1735,21 @@
     ],
     "ealing trailfinders professional rugby management": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
     "eam equestrian": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
@@ -1829,11 +1819,11 @@
     ],
     "eappsys": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1881,11 +1871,11 @@
     ],
     "earlesfield community church": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -1901,12 +1891,12 @@
     ],
     "earlham institute": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "earls court food": [
@@ -2135,11 +2125,11 @@
     ],
     "earthood": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2319,12 +2309,12 @@
     ],
     "east anglian schools trust": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "east anglian site engineering": [
@@ -2441,11 +2431,11 @@
     ],
     "east coast management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2733,12 +2723,12 @@
     ],
     "east midlands buddhist association": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "east midlands care agency service": [
@@ -2755,11 +2745,11 @@
     ],
     "east midlands christian fellowships": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -3069,15 +3059,15 @@
     ],
     "east-london buddhist cultural - centre": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 9,
             "rating": 2
         }
     ],
@@ -3101,12 +3091,12 @@
     ],
     "eastbourne college": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "eastbourne grange": [
@@ -3177,11 +3167,11 @@
     ],
     "eastdil secured": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3361,11 +3351,11 @@
     ],
     "eastern pacific shipping": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3991,11 +3981,11 @@
     ],
     "easyjet airline company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4037,11 +4027,11 @@
     ],
     "easyship fs": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4053,11 +4043,11 @@
     ],
     "easytransfer": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4313,16 +4303,16 @@
     ],
     "eaton": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "eatos real estate": [
@@ -4339,15 +4329,15 @@
     ],
     "eatron technologies": [
         {
+            "type": 7,
+            "rating": 1
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 7,
             "rating": 1
         }
     ],
@@ -4371,11 +4361,11 @@
     ],
     "eaubrink farm gmbh": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4435,11 +4425,11 @@
     ],
     "eba interiors": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4451,11 +4441,11 @@
     ],
     "ebay": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4591,11 +4581,11 @@
     ],
     "ebiquity": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4653,12 +4643,12 @@
     ],
     "ebony ambassadors cic": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "ebony healthcare": [
@@ -4783,11 +4773,11 @@
     ],
     "ebz systec": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4971,11 +4961,11 @@
     ],
     "ecclesiastical parish of st peter s-in-the-forest walthamstow": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -5129,11 +5119,11 @@
     ],
     "echo geo": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5223,11 +5213,11 @@
     ],
     "echosec systems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5299,11 +5289,11 @@
     ],
     "eclerx": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5387,11 +5377,11 @@
     ],
     "ecms express": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5751,11 +5741,11 @@
     ],
     "eco-worthy clean energy": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5917,11 +5907,11 @@
     ],
     "ecolab": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6003,11 +5993,11 @@
     ],
     "ecom agrotrade": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6109,11 +6099,11 @@
     ],
     "econic": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6161,11 +6151,11 @@
     ],
     "economic modelling": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6223,11 +6213,11 @@
     ],
     "ecoportal": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6239,11 +6229,11 @@
     ],
     "ecorenew holdings": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6325,11 +6315,11 @@
     ],
     "ecover": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6459,11 +6449,11 @@
     ],
     "ed dunlop racing": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6573,11 +6563,11 @@
     ],
     "edda crewing": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6642,12 +6632,6 @@
         }
     ],
     "eden adaptions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "eden brook home care": [
         {
             "type": 1,
             "rating": 1
@@ -6757,16 +6741,16 @@
     ],
     "eden geothermal": [
         {
+            "type": 13,
+            "rating": 2
+        },
+        {
             "type": 6,
             "rating": 2
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 13,
-            "rating": 2
         }
     ],
     "eden operations": [
@@ -6806,6 +6790,12 @@
         }
     ],
     "eden luxe one": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "eden management": [
         {
             "type": 1,
             "rating": 1
@@ -7011,11 +7001,11 @@
     ],
     "edgar dunn & company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7155,11 +7145,11 @@
     ],
     "edge testing solutions": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7271,11 +7261,11 @@
     ],
     "edgewing systems": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7441,12 +7431,12 @@
     ],
     "edinburgh chinese christian church": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "edinburgh city mission scio": [
@@ -7499,12 +7489,12 @@
     ],
     "edinburgh hindu mandir & cultural centre": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "edinburgh homecare": [
@@ -7527,16 +7517,16 @@
     ],
     "edinburgh international book festival": [
         {
-            "type": 9,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 4,
             "rating": 2
         },
         {
-            "type": 1,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         }
     ],
     "edinburgh international festival society": [
@@ -7581,12 +7571,12 @@
     ],
     "edinburgh napier university": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "edinburgh nicolson street visionplus": [
@@ -7821,11 +7811,11 @@
     ],
     "edmond de rothschild reim": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7873,11 +7863,11 @@
     ],
     "edmund optics": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7961,11 +7951,11 @@
     ],
     "edpx": [
         {
-            "type": 4,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 4,
             "rating": 2
         },
         {
@@ -8171,11 +8161,11 @@
     ],
     "education international cooperation consulting": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8463,12 +8453,12 @@
     ],
     "edwards": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -8597,16 +8587,16 @@
     ],
     "eeh ventures": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "eelam trading": [
@@ -8879,11 +8869,11 @@
     ],
     "efeso consulting": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8941,12 +8931,12 @@
     ],
     "effective ventures foundation": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "effencel": [
@@ -9011,16 +9001,16 @@
     ],
     "effingham schools trust": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 4,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "effisus": [
@@ -9043,11 +9033,11 @@
     ],
     "efg private bank": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9337,7 +9327,7 @@
     ],
     "egger": [
         {
-            "type": 6,
+            "type": 13,
             "rating": 2
         },
         {
@@ -9345,12 +9335,12 @@
             "rating": 1
         },
         {
-            "type": 13,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "eggesford country hotel": [
@@ -9517,11 +9507,11 @@
     ],
     "egnyte": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9539,11 +9529,11 @@
     ],
     "egon zehnder": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9573,11 +9563,11 @@
     ],
     "egress software technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9607,11 +9597,11 @@
     ],
     "egton medical information systems": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9701,12 +9691,12 @@
     ],
     "ehlermann rindfleisch gadow mbb": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "ehoad global": [
@@ -9741,11 +9731,11 @@
     ],
     "ehrmann cornish dairy": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9787,11 +9777,11 @@
     ],
     "eicher motors": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9845,25 +9835,25 @@
     ],
     "eiffage genie civil": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
             "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "eig global energy europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9903,11 +9893,11 @@
     ],
     "eight advisory": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9943,11 +9933,11 @@
     ],
     "eight roads": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10011,11 +10001,11 @@
     ],
     "eigra": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10091,11 +10081,11 @@
     ],
     "einride technologies": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10111,11 +10101,11 @@
     ],
     "eip management gmbh": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10149,11 +10139,11 @@
     ],
     "eisneramper": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10409,11 +10399,11 @@
     ],
     "ekimetrics": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10437,11 +10427,11 @@
     ],
     "ekklesia hull": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -10513,11 +10503,11 @@
     ],
     "eku energy": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10665,7 +10655,7 @@
     ],
     "el-bethel mission": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
@@ -10673,12 +10663,12 @@
             "rating": 1
         },
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "el-frico": [
@@ -10755,7 +10745,7 @@
     ],
     "elam ministries": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -10763,12 +10753,12 @@
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
-            "type": 9,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "elan arch international": [
@@ -10779,11 +10769,11 @@
     ],
     "elan capital management london": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10909,11 +10899,11 @@
     ],
     "elasticsearch": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10961,11 +10951,11 @@
     ],
     "elbit systems": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11193,12 +11183,12 @@
     ],
     "eleanor films": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         },
         {
             "type": 1,
@@ -11333,11 +11323,11 @@
     ],
     "electradx": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11529,11 +11519,11 @@
     ],
     "electro-service r b s r l branch": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11593,11 +11583,11 @@
     ],
     "electronic arts": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11627,11 +11617,11 @@
     ],
     "electropages media": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11911,11 +11901,11 @@
     ],
     "element alpha": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11967,11 +11957,11 @@
     ],
     "element six": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12031,11 +12021,11 @@
     ],
     "elementis": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12047,11 +12037,11 @@
     ],
     "elements green development": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12075,21 +12065,21 @@
     ],
     "elementum energy": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "elementz": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12243,11 +12233,11 @@
     ],
     "elevate education united kingdom pty": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12359,11 +12349,11 @@
     ],
     "elevondata labs private": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12427,11 +12417,11 @@
     ],
     "elgin energy holdings": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12497,11 +12487,11 @@
     ],
     "eli lilly and company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12553,12 +12543,12 @@
     ],
     "elidyr communities trust": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "eliezer supported living": [
@@ -12579,11 +12569,11 @@
     ],
     "eligarf technologies": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12601,8 +12591,8 @@
     ],
     "elim foursquare gospel alliance": [
         {
-            "type": 9,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 11,
@@ -12613,8 +12603,8 @@
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         }
     ],
     "elim foursquare gospel alliance nursing homes": [
@@ -12625,12 +12615,12 @@
     ],
     "elim tamil ministries": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 1,
@@ -12703,11 +12693,11 @@
     ],
     "elis": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13209,12 +13199,12 @@
     ],
     "elite model management london": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "elite motorsport": [
@@ -13457,6 +13447,12 @@
             "rating": 1
         }
     ],
+    "elixa experts": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "elixarome": [
         {
             "type": 1,
@@ -13489,12 +13485,12 @@
     ],
     "elixirr international": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -13611,11 +13607,11 @@
     ],
     "elk capital markets": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13639,12 +13635,12 @@
     ],
     "ella kanthan trust": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "ella s kitchen brands": [
@@ -13755,11 +13751,11 @@
     ],
     "ellington management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13825,12 +13821,12 @@
     ],
     "elliott scott hr recruitment": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -13845,11 +13841,11 @@
     ],
     "elliott turbomachinery": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13939,11 +13935,11 @@
     ],
     "ellison institute of technology oxford": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13979,11 +13975,11 @@
     ],
     "ellucian global": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14227,11 +14223,11 @@
     ],
     "elms marketing": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14303,11 +14299,11 @@
     ],
     "elmya energy": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14575,11 +14571,11 @@
     ],
     "elutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14833,11 +14829,11 @@
     ],
     "ema europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14921,11 +14917,11 @@
     ],
     "emarsys": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15003,16 +14999,16 @@
     ],
     "embassy of denmark in the united kingdom": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 12,
+            "rating": 2
         },
         {
             "type": 6,
             "rating": 2
         },
         {
-            "type": 12,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "embassy of ecuador": [
@@ -15057,22 +15053,22 @@
     ],
     "embassy of lebanon": [
         {
-            "type": 6,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "embassy of mexico": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 6,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "embassy of mongolia": [
@@ -15157,11 +15153,11 @@
     ],
     "embassy of the kingdom of the netherlands": [
         {
-            "type": 12,
+            "type": 6,
             "rating": 2
         },
         {
-            "type": 6,
+            "type": 12,
             "rating": 2
         }
     ],
@@ -15185,12 +15181,12 @@
     ],
     "embassy of the republic of guinea": [
         {
-            "type": 6,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "embassy of the republic of haiti": [
@@ -15225,12 +15221,12 @@
     ],
     "embassy of the state of kuwait": [
         {
-            "type": 6,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         }
     ],
     "embassy of the state of qatar": [
@@ -15245,12 +15241,12 @@
     ],
     "embassy of the united arab emirates": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 6,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "embassy of tunisia": [
@@ -15363,12 +15359,12 @@
     ],
     "emby products": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "emc trailers": [
@@ -15431,11 +15427,11 @@
     ],
     "emelda and fredrica": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15633,11 +15629,11 @@
     ],
     "emerging markets advisory": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15695,11 +15691,11 @@
     ],
     "emerson climate technologies": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15757,11 +15753,11 @@
     ],
     "emicapital europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15899,11 +15895,11 @@
     ],
     "emirates": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16071,12 +16067,12 @@
     ],
     "emmanuel assemblies of god": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "emmanuel baptist church": [
@@ -16103,26 +16099,26 @@
     ],
     "emmanuel celebration centre": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "emmanuel church": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "emmanuel church droitwich": [
@@ -16133,16 +16129,16 @@
     ],
     "emmanuel church wimbledon": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "emmanuel city church": [
@@ -16181,15 +16177,15 @@
     ],
     "emmi": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -16295,22 +16291,22 @@
     ],
     "empathybroker": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "empawa africa": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "empee silk fabrics": [
@@ -16519,6 +16515,10 @@
     ],
     "empire of god father son and the holy spirit ministries": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 11,
             "rating": 2
         },
@@ -16529,10 +16529,6 @@
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "empire physiotherapy": [
@@ -16603,11 +16599,11 @@
     ],
     "employment hero": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16631,19 +16627,15 @@
     ],
     "empower": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "empower global": [
-        {
-            "type": 11,
-            "rating": 2
-        },
         {
             "type": 9,
             "rating": 2
@@ -16651,6 +16643,10 @@
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "empower learning academy trust": [
@@ -16703,12 +16699,12 @@
     ],
     "empowering deaf society": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "empowering therapy": [
@@ -17025,11 +17021,11 @@
     ],
     "enable international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17059,12 +17055,12 @@
     ],
     "enable scotland": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "enable support": [
@@ -17177,11 +17173,11 @@
     ],
     "enate": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17211,22 +17207,22 @@
     ],
     "enbridge holdings": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "enbw generation": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -17235,11 +17231,11 @@
     ],
     "enbw": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17293,11 +17289,11 @@
     ],
     "encirc": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17327,11 +17323,11 @@
     ],
     "encompass corporation": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17441,11 +17437,11 @@
     ],
     "endava": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17639,11 +17635,11 @@
     ],
     "endress+hauser": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17701,11 +17697,11 @@
     ],
     "enel x": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17717,11 +17713,11 @@
     ],
     "eneos europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17739,11 +17735,11 @@
     ],
     "enercon wind energy": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17761,11 +17757,11 @@
     ],
     "energean": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17873,11 +17869,11 @@
     ],
     "energizer": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17953,11 +17949,11 @@
     ],
     "energy exemplar europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17987,11 +17983,11 @@
     ],
     "energy intelligence": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18193,11 +18189,11 @@
     ],
     "energywins hi-tech materials": [
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -18209,11 +18205,11 @@
     ],
     "enermech": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18273,11 +18269,11 @@
     ],
     "enertis": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18399,11 +18395,11 @@
     ],
     "enfusion systems": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18433,11 +18429,11 @@
     ],
     "engage process": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18479,11 +18475,11 @@
     ],
     "engelhart ctp": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18693,11 +18689,11 @@
     ],
     "england hockey": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -18751,22 +18747,22 @@
     ],
     "english national ballet": [
         {
-            "type": 4,
+            "type": 1,
             "rating": 6
         },
         {
-            "type": 1,
+            "type": 4,
             "rating": 7
         }
     ],
     "english national ballet school": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "english national opera": [
@@ -18803,12 +18799,12 @@
     ],
     "english stage company": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "english table tennis association": [
@@ -18819,12 +18815,12 @@
     ],
     "english touring opera": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "english touring theatre": [
@@ -18919,11 +18915,11 @@
     ],
     "eni ccus holding": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18941,11 +18937,11 @@
     ],
     "eni global energy markets s p a - establishment": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18977,11 +18973,11 @@
     ],
     "eni": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19011,11 +19007,11 @@
     ],
     "enigma software solutions": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19097,11 +19093,11 @@
     ],
     "enka construction": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19167,11 +19163,11 @@
     ],
     "enlighten software": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19259,11 +19255,11 @@
     ],
     "ennismore international management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19519,11 +19515,11 @@
     ],
     "ensco": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19563,12 +19559,12 @@
     ],
     "ensilica": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -19839,11 +19835,11 @@
     ],
     "enterprise system solutions": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19985,11 +19981,11 @@
     ],
     "entrepose contracting branch": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20001,15 +19997,15 @@
     ],
     "entrepreneur first operations": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -20027,11 +20023,11 @@
     ],
     "entrepreneurs first operations": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20061,11 +20057,11 @@
     ],
     "entrust europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20093,11 +20089,11 @@
     ],
     "entrust security": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20179,11 +20175,11 @@
     ],
     "envea": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20235,11 +20231,11 @@
     ],
     "envigo rms": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20353,11 +20349,11 @@
     ],
     "environmental defense fund": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20481,11 +20477,11 @@
     ],
     "envisics": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20503,11 +20499,11 @@
     ],
     "envision energy coe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20543,11 +20539,11 @@
     ],
     "envoy emea": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20621,12 +20617,12 @@
     ],
     "eon productions": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "eopp": [
@@ -20661,11 +20657,11 @@
     ],
     "eos electro optical systems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20849,11 +20845,11 @@
     ],
     "epfr": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20911,11 +20907,11 @@
     ],
     "epi-use": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20931,11 +20927,11 @@
     ],
     "epic bristol": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20993,12 +20989,12 @@
     ],
     "epic private equity": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -21049,11 +21045,11 @@
     ],
     "epicor software": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21071,11 +21067,11 @@
     ],
     "epicurean dairy": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21153,11 +21149,11 @@
     ],
     "epiq systems": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21169,11 +21165,11 @@
     ],
     "epiroc & ireland": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21267,11 +21263,11 @@
     ],
     "epoch capital": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21347,11 +21343,11 @@
     ],
     "eppix esolution": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21435,11 +21431,11 @@
     ],
     "epsilon international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21507,11 +21503,11 @@
     ],
     "epson europe bv": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21529,11 +21525,11 @@
     ],
     "eptura international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21579,11 +21575,11 @@
     ],
     "eqt partners": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21599,21 +21595,21 @@
     ],
     "equa multi academy trust": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "equal experts": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21767,11 +21763,11 @@
     ],
     "equilend europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21819,36 +21815,36 @@
     ],
     "equiniti": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "equinix": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "equinor": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
             "type": 5,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "equinox automation & controls": [
@@ -21887,11 +21883,11 @@
     ],
     "equip outdoor technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21927,12 +21923,12 @@
     ],
     "equippers church": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "equippers church swindon": [
@@ -21955,11 +21951,11 @@
     ],
     "equisoft": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21983,11 +21979,11 @@
     ],
     "equitack": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22065,11 +22061,11 @@
     ],
     "equus software": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22199,11 +22195,11 @@
     ],
     "erbe medical": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22327,11 +22323,11 @@
     ],
     "erg air pollution control": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22359,11 +22355,11 @@
     ],
     "ergea and ireland": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22399,11 +22395,11 @@
     ],
     "ergonia associates": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22475,11 +22471,11 @@
     ],
     "ericsson": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22585,16 +22581,16 @@
     ],
     "ernst & young": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "eros home care": [
@@ -22743,12 +22739,12 @@
     ],
     "es global": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "es it solutions": [
@@ -22771,11 +22767,11 @@
     ],
     "es-ko": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22877,11 +22873,11 @@
     ],
     "escape freaks": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22985,22 +22981,22 @@
     ],
     "esdevium games": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "esea contemporary": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "esearchvision": [
@@ -23047,11 +23043,11 @@
     ],
     "esferize": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23073,11 +23069,11 @@
     ],
     "esg global energy": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23101,11 +23097,11 @@
     ],
     "esha?atul islam": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23177,11 +23173,11 @@
     ],
     "esi": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23267,11 +23263,11 @@
     ],
     "esm global": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23377,11 +23373,11 @@
     ],
     "esp global": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23435,11 +23431,11 @@
     ],
     "espex batteries": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23603,11 +23599,11 @@
     ],
     "esri global": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23661,11 +23657,11 @@
     ],
     "essar energy": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23789,12 +23785,12 @@
     ],
     "essendi hotels 1": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -23951,12 +23947,12 @@
     ],
     "essentra": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -24037,12 +24033,12 @@
     ],
     "essex county council": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "essex county cricket club": [
@@ -24161,11 +24157,11 @@
     ],
     "essilor": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24177,11 +24173,11 @@
     ],
     "essity": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24193,7 +24189,7 @@
     ],
     "esso petroleum company": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
@@ -24201,7 +24197,7 @@
             "rating": 2
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24355,11 +24351,11 @@
     ],
     "estee lauder cosmetics": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24473,11 +24469,11 @@
     ],
     "estrid studios": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24495,11 +24491,11 @@
     ],
     "esubstance": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24517,11 +24513,11 @@
     ],
     "esv international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24627,11 +24623,11 @@
     ],
     "etas": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24739,11 +24735,11 @@
     ],
     "eternal lives opco": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24755,11 +24751,11 @@
     ],
     "eternis fine chemicals": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -25051,12 +25047,12 @@
     ],
     "ethosenergy gbr": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -25081,11 +25077,11 @@
     ],
     "eti hitit": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -25115,11 +25111,11 @@
     ],
     "etisalat europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25189,11 +25185,11 @@
     ],
     "etoro": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25233,11 +25229,11 @@
     ],
     "ets international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -25249,11 +25245,11 @@
     ],
     "etsy": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25289,11 +25285,11 @@
     ],
     "eu matic a division of multimatic": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -25347,11 +25343,11 @@
     ],
     "eui": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25391,11 +25387,11 @@
     ],
     "eunetworks fiber": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25437,16 +25433,16 @@
     ],
     "eurac poole": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "euraqua": [
@@ -25457,11 +25453,11 @@
     ],
     "eurasia": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -25805,12 +25801,12 @@
     ],
     "euro relief": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "euro sheet metal": [
@@ -25923,11 +25919,11 @@
     ],
     "euroapi": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26057,11 +26053,11 @@
     ],
     "euroeyes london knightsbridge": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -26109,11 +26105,11 @@
     ],
     "eurofins food testing": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -26125,11 +26121,11 @@
     ],
     "eurofins nsc": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -26259,11 +26255,11 @@
     ],
     "euromonitor international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26275,11 +26271,11 @@
     ],
     "euronet payment": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -26291,11 +26287,11 @@
     ],
     "euronext london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26339,11 +26335,11 @@
     ],
     "europa crown": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26379,12 +26375,12 @@
     ],
     "europa school": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "europa security": [
@@ -26419,11 +26415,11 @@
     ],
     "europastry": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -26509,11 +26505,11 @@
     ],
     "european active projects": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -26681,11 +26677,11 @@
     ],
     "european outreach trust": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -26865,21 +26861,21 @@
     ],
     "eurostampa": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "eurostar international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -26915,11 +26911,11 @@
     ],
     "eurotech": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -26975,12 +26971,12 @@
     ],
     "eurowood entertainment": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "euroworld": [
@@ -27003,19 +26999,15 @@
     ],
     "eusa pharma": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "euston church": [
-        {
-            "type": 11,
-            "rating": 2
-        },
         {
             "type": 9,
             "rating": 2
@@ -27023,15 +27015,19 @@
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "eusu logistics branch": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27109,11 +27105,11 @@
     ],
     "ev private equity": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27235,12 +27231,12 @@
     ],
     "evangelical church winning all ecwa chapel of investment": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "evangelical lutheran church of england": [
@@ -27319,11 +27315,11 @@
     ],
     "evari": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27497,11 +27493,11 @@
     ],
     "eventbrite": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27591,11 +27587,11 @@
     ],
     "everbridge europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27707,11 +27703,11 @@
     ],
     "everest advisors": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27829,12 +27825,12 @@
     ],
     "everest production": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "everest recruitment and": [
@@ -27851,11 +27847,11 @@
     ],
     "everest retailers": [
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         },
         {
-            "type": 7,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28051,11 +28047,11 @@
     ],
     "evergreen investment advisors": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28195,11 +28191,11 @@
     ],
     "everllence": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28271,11 +28267,11 @@
     ],
     "eversana": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28293,12 +28289,12 @@
     ],
     "eversheds sutherland international": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -28343,19 +28339,15 @@
     ],
     "everton football club company": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
     "everton football club women": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 10,
             "rating": 1
@@ -28363,6 +28355,10 @@
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "evertz": [
@@ -28427,15 +28423,15 @@
     ],
     "every nation london": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 9,
             "rating": 2
         }
     ],
@@ -28603,11 +28599,11 @@
     ],
     "everymatrix technology": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28739,11 +28735,11 @@
     ],
     "evidera": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28935,11 +28931,11 @@
     ],
     "evolution logistics": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28963,12 +28959,12 @@
     ],
     "evolution productions": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "evolution systems": [
@@ -29099,11 +29095,11 @@
     ],
     "evolvient capital": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29121,11 +29117,11 @@
     ],
     "evonik holdings": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29137,11 +29133,11 @@
     ],
     "evoqua water technologies": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29223,21 +29219,21 @@
     ],
     "evron foods": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "easibake foods": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29321,11 +29317,11 @@
     ],
     "ewi capital": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29337,11 +29333,11 @@
     ],
     "ewm-": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29383,11 +29379,11 @@
     ],
     "exabeam": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29455,11 +29451,11 @@
     ],
     "exactpro systems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29525,11 +29521,11 @@
     ],
     "exasol": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29631,12 +29627,12 @@
     ],
     "excel lec": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "excel leisure": [
@@ -29719,11 +29715,11 @@
     ],
     "excelerate energy europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29831,11 +29827,11 @@
     ],
     "excellence logging": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29985,11 +29981,11 @@
     ],
     "exception pcb solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30061,11 +30057,11 @@
     ],
     "exclaimer": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30113,11 +30109,11 @@
     ],
     "exclusive networks": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30281,21 +30277,21 @@
     ],
     "exedy clutch europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "exegy": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30337,11 +30333,11 @@
     ],
     "exeltis": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30383,11 +30379,11 @@
     ],
     "exergy solutions": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30465,11 +30461,11 @@
     ],
     "exeter rugby club": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30481,11 +30477,11 @@
     ],
     "exeter trampoline centre": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -30503,11 +30499,11 @@
     ],
     "exfo europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30589,11 +30585,11 @@
     ],
     "exinity": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30605,11 +30601,11 @@
     ],
     "exl service": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30679,11 +30675,11 @@
     ],
     "exodigo": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30695,16 +30691,16 @@
     ],
     "exodus trust": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "exoduspoint capital management": [
@@ -30737,11 +30733,11 @@
     ],
     "exor investments": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30759,11 +30755,11 @@
     ],
     "exotec logistics": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30835,11 +30831,11 @@
     ],
     "expand research": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30893,11 +30889,11 @@
     ],
     "expedia com": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30915,11 +30911,11 @@
     ],
     "expeditors international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31215,21 +31211,21 @@
     ],
     "expleo solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "expleo": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31337,11 +31333,11 @@
     ],
     "exponentia ai": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -31659,12 +31655,12 @@
     ],
     "expro north sea": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -31691,11 +31687,11 @@
     ],
     "exquitech": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31771,11 +31767,11 @@
     ],
     "exterro": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -31865,11 +31861,11 @@
     ],
     "extreme networks technology": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -31933,11 +31929,11 @@
     ],
     "exus &i": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -32135,25 +32131,25 @@
     ],
     "eyos": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "eyre hotels": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -32265,11 +32261,11 @@
     ],
     "ezoic": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -32969,22 +32965,22 @@
     ],
     "establishment of pentair public company": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "events": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "exotic foods": [

@@ -15,8 +15,8 @@
         "13": "Global Business Mobility: Service Supplier",
         "14": "Seasonal Worker",
         "15": "Global Business Mobility: Secondment Worker",
-        "16": "Intra Company Transfers (ICT)",
-        "17": "Intra-company Routes"
+        "16": "Intra-company Routes",
+        "17": "Intra Company Transfers (ICT)"
     },
     "ratings": {
         "1": "Worker (A rating)",
@@ -24,8 +24,8 @@
         "3": "Worker (UK Expansion Worker: Provisional )",
         "4": "Worker (B rating)",
         "5": "Temporary Worker (B rating)",
-        "6": "Temporary Worker (A (SME+))",
-        "7": "Worker (A (SME+))",
+        "6": "Worker (A (SME+))",
+        "7": "Temporary Worker (A (SME+))",
         "8": "Worker (A (Premium))",
         "9": "Temporary Worker (A (Premium))"
     }

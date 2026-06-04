@@ -569,21 +569,21 @@
     ],
     "uart studio": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "uav tactical systems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -681,11 +681,11 @@
     ],
     "uberbinder": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -755,11 +755,11 @@
     ],
     "ubiquiti distribution": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -895,11 +895,11 @@
     ],
     "ucb s a and ucb celltech": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -959,12 +959,12 @@
     ],
     "uckg helpcentre": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "ucl business": [
@@ -1105,11 +1105,11 @@
     ],
     "uddingston cricket and sports club": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -1201,6 +1201,12 @@
             "rating": 1
         }
     ],
+    "ufa distro": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ufa marketplace": [
         {
             "type": 1,
@@ -1279,16 +1285,16 @@
     ],
     "uganda croydon catholic community uccc": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
             "type": 11,
             "rating": 2
         },
         {
-            "type": 9,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "uge dent": [
@@ -1357,11 +1363,11 @@
     ],
     "uhlmann u k": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1493,11 +1499,11 @@
     ],
     "uncountable": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1605,11 +1611,11 @@
     ],
     "ukfh": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1621,11 +1627,11 @@
     ],
     "ukforex": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1767,12 +1773,12 @@
     ],
     "uktv media": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "ukunity83": [
@@ -1823,11 +1829,11 @@
     ],
     "ul vs": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1869,12 +1875,12 @@
     ],
     "ulfat s venues": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "uli- the urban land institute": [
@@ -1951,12 +1957,12 @@
     ],
     "ulster orchestra society": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "ulster rugby": [
@@ -2093,11 +2099,11 @@
     ],
     "ultimate products": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2157,11 +2163,11 @@
     ],
     "ultra electronics holdings": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2517,11 +2523,11 @@
     ],
     "umeda arts theatre": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2633,26 +2639,26 @@
     ],
     "umm ul qura foundation cio": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "ummah appeal": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "ummah care & support": [
@@ -2693,12 +2699,12 @@
     ],
     "umoya trust": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "umrah & hajj specialist": [
@@ -2971,12 +2977,12 @@
     ],
     "underbelly": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "undercliffe cricket club": [
@@ -3035,11 +3041,11 @@
     ],
     "underwater construction corporation": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3117,12 +3123,12 @@
     ],
     "uneek events": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "uneek forwarding": [
@@ -3499,11 +3505,11 @@
     ],
     "unifrax": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3533,12 +3539,12 @@
     ],
     "unigram media": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "unihive education": [
@@ -3561,12 +3567,12 @@
     ],
     "unilever": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -3653,11 +3659,11 @@
     ],
     "union bancaire privee": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3705,11 +3711,11 @@
     ],
     "union foundation": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -3789,12 +3795,12 @@
     ],
     "union visual effects": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "unione trading europe": [
@@ -3805,11 +3811,11 @@
     ],
     "unionpay international co branch": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3843,26 +3849,26 @@
     ],
     "unipec company": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "uniper": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "uniphar commercial": [
@@ -3885,16 +3891,16 @@
     ],
     "unipres": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
             "type": 5,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "unipro": [
@@ -4453,16 +4459,16 @@
     ],
     "unisys": [
         {
+            "type": 13,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
             "type": 5,
             "rating": 1
-        },
-        {
-            "type": 13,
-            "rating": 2
         }
     ],
     "unit 9": [
@@ -4597,11 +4603,11 @@
     ],
     "united airlines": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4625,11 +4631,11 @@
     ],
     "united bank for africa": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4713,12 +4719,12 @@
     ],
     "united christian broadcasters": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         }
     ],
     "united church schools trust": [
@@ -4915,11 +4921,11 @@
     ],
     "united insurance brokers": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4937,12 +4943,12 @@
     ],
     "united jewish israel appeal": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "united kars": [
@@ -4959,7 +4965,7 @@
     ],
     "united kingdom atomic energy authority": [
         {
-            "type": 12,
+            "type": 6,
             "rating": 2
         },
         {
@@ -4967,7 +4973,7 @@
             "rating": 1
         },
         {
-            "type": 6,
+            "type": 12,
             "rating": 2
         }
     ],
@@ -4991,12 +4997,12 @@
     ],
     "united kingdom mennonite ministries": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "united kingdom national nuclear laboratory": [
@@ -5101,11 +5107,11 @@
     ],
     "united mining": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5135,11 +5141,11 @@
     ],
     "united overseas bank": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5177,12 +5183,12 @@
     ],
     "united reformed church": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "united registrar of systems": [
@@ -5227,11 +5233,11 @@
     ],
     "united shield international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5267,43 +5273,43 @@
     ],
     "united synagogue": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
             "type": 2,
             "rating": 1
         },
         {
-            "type": 11,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "united talent agency operations": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 4,
             "rating": 2
         },
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
     "united talent agency": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
         },
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5333,11 +5339,11 @@
     ],
     "united tyre company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5407,11 +5413,11 @@
     ],
     "unitedlex": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5561,11 +5567,11 @@
     ],
     "unity software": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5893,11 +5899,11 @@
     ],
     "universal music operations": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
@@ -5943,12 +5949,12 @@
     ],
     "universal prayer ministry": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "universal productions": [
@@ -6055,15 +6061,15 @@
     ],
     "universities and colleges christian fellowship": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],
@@ -6099,12 +6105,12 @@
     ],
     "university college london": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university college london hospitals nhs foundation trust": [
@@ -6221,30 +6227,30 @@
     ],
     "university of aberdeen": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of bath": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 12,
-            "rating": 2
+            "type": 10,
+            "rating": 1
         },
         {
             "type": 4,
             "rating": 2
         },
         {
-            "type": 1,
-            "rating": 1
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of bedfordshire": [
@@ -6255,12 +6261,12 @@
     ],
     "university of birmingham": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of bolton": [
@@ -6271,16 +6277,16 @@
     ],
     "university of bradford": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 4,
+            "rating": 2
         },
         {
             "type": 12,
             "rating": 2
         },
         {
-            "type": 4,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "university of brighton": [
@@ -6301,12 +6307,12 @@
     ],
     "university of bristol": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 12,
@@ -6321,11 +6327,11 @@
     ],
     "university of california trust": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6337,32 +6343,32 @@
     ],
     "university of chester": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of chicago booth school of business": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "university of chichester": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of chichester multi academy trust": [
@@ -6373,15 +6379,19 @@
     ],
     "university of cumbria": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of derby": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 4,
             "rating": 2
@@ -6393,33 +6403,29 @@
         {
             "type": 10,
             "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "university of dundee": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of durham": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 12,
             "rating": 2
         },
         {
             "type": 10,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -6435,56 +6441,64 @@
     ],
     "university of east london": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 12,
             "rating": 2
         },
         {
             "type": 10,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
     "university of edinburgh": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
-        },
-        {
-            "type": 10,
-            "rating": 1
         },
         {
             "type": 9,
             "rating": 2
-        }
-    ],
-    "university of essex": [
+        },
         {
-            "type": 12,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 10,
             "rating": 1
-        },
+        }
+    ],
+    "university of essex": [
         {
             "type": 4,
             "rating": 2
         },
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
+        },
+        {
+            "type": 10,
             "rating": 1
         }
     ],
     "university of exeter": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 4,
             "rating": 2
         },
@@ -6495,14 +6509,6 @@
         {
             "type": 10,
             "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "university of glasgow": [
@@ -6517,12 +6523,12 @@
     ],
     "university of gloucestershire": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "university of greenwich": [
@@ -6563,16 +6569,16 @@
     ],
     "university of hull": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 4,
             "rating": 2
         },
         {
             "type": 12,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "university of kent": [
@@ -6587,12 +6593,12 @@
     ],
     "university of lancashire": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of leeds human resources": [
@@ -6601,11 +6607,11 @@
             "rating": 1
         },
         {
-            "type": 6,
+            "type": 4,
             "rating": 2
         },
         {
-            "type": 4,
+            "type": 6,
             "rating": 2
         },
         {
@@ -6615,12 +6621,12 @@
     ],
     "university of leicester": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "university of lincoln": [
@@ -6635,22 +6641,22 @@
     ],
     "university of liverpool": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of london": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of northampton enterprises": [
@@ -6667,15 +6673,19 @@
     ],
     "university of notre dame": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "university of nottingham": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 4,
             "rating": 2
@@ -6686,10 +6696,6 @@
         },
         {
             "type": 10,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -6711,25 +6717,29 @@
     ],
     "university of plymouth": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "university of portsmouth": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "university of reading": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 12,
             "rating": 2
@@ -6737,68 +6747,64 @@
         {
             "type": 5,
             "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "university of south wales": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 4,
             "rating": 2
         },
         {
             "type": 12,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "university of southampton": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 12,
             "rating": 2
         },
         {
             "type": 4,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "university of st andrews": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of st mark & st john": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "university of staffordshire": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "university of stirling": [
@@ -6813,15 +6819,15 @@
     ],
     "university of strathclyde": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 12,
             "rating": 2
         },
         {
             "type": 10,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -6845,26 +6851,26 @@
     ],
     "university of sunderland": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 4,
             "rating": 2
         },
         {
             "type": 12,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "university of surrey": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of sussex": [
@@ -6885,25 +6891,25 @@
     ],
     "university of teesside": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of the arts london": [
-        {
-            "type": 12,
-            "rating": 2
-        },
         {
             "type": 1,
             "rating": 1
         },
         {
             "type": 4,
+            "rating": 2
+        },
+        {
+            "type": 12,
             "rating": 2
         }
     ],
@@ -6929,22 +6935,22 @@
     ],
     "university of the west of scotland": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of ulster": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of wales": [
@@ -6959,12 +6965,12 @@
     ],
     "university of wales trinity saint david - lampeter campus": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "university of wales trinity st david": [
@@ -6975,12 +6981,12 @@
     ],
     "university of warwick": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 12,
@@ -6989,12 +6995,12 @@
     ],
     "university of westminster": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "university of wolverhampton": [
@@ -7013,12 +7019,12 @@
     ],
     "university of york": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         },
         {
             "type": 4,
@@ -7111,12 +7117,12 @@
     ],
     "unlimint eu": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -7195,11 +7201,11 @@
     ],
     "unosquare": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7341,22 +7347,22 @@
     ],
     "untold studios": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "unum": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -7427,11 +7433,11 @@
     ],
     "uoma beauty": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7521,11 +7527,11 @@
     ],
     "upb as": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7615,11 +7621,11 @@
     ],
     "upl europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7697,11 +7703,11 @@
     ],
     "upm kymmene": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7773,12 +7779,12 @@
     ],
     "upper killay congregational church": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "upper norwood practice": [
@@ -7971,11 +7977,11 @@
     ],
     "uptake strategies": [
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         },
         {
-            "type": 7,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7993,11 +7999,11 @@
     ],
     "uptime professional": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8105,11 +8111,11 @@
     ],
     "upvest securities": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8279,12 +8285,12 @@
     ],
     "urban circle newport": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "urban concept design & build": [
@@ -8539,11 +8545,11 @@
     ],
     "urban science international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8627,16 +8633,16 @@
     ],
     "urbaser": [
         {
-            "type": 8,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 5,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         }
     ],
     "urbiana": [
@@ -8715,11 +8721,11 @@
     ],
     "uria menendez abogados s l p": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8851,12 +8857,12 @@
     ],
     "us- educational commission us- fulbright commission": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "usa builders": [
@@ -8867,11 +8873,11 @@
     ],
     "usaa international sarl london branch": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8949,11 +8955,11 @@
     ],
     "usha martin": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8971,11 +8977,11 @@
     ],
     "usm u schaerer sons": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9071,11 +9077,11 @@
     ],
     "usn": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9135,11 +9141,11 @@
     ],
     "ust global private": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9185,11 +9191,11 @@
     ],
     "ustwo": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9601,11 +9607,11 @@
     ],
     "uzbekistan airways": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9629,12 +9635,12 @@
     ],
     "upper soothill islamic centre": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 2,

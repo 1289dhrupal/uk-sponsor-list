@@ -251,11 +251,11 @@
     ],
     "la caisse": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -351,11 +351,11 @@
     ],
     "lightcast": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -595,11 +595,11 @@
     ],
     "legora": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -909,11 +909,11 @@
     ],
     "l&c consulting international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -937,11 +937,11 @@
     ],
     "l&g - asset management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1047,15 +1047,15 @@
     ],
     "l abri fellowship": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 9,
             "rating": 2
         }
     ],
@@ -1067,12 +1067,12 @@
     ],
     "l arche": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "l arche belfast": [
@@ -1141,11 +1141,11 @@
     ],
     "l oreal": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1243,11 +1243,11 @@
     ],
     "l e k consulting": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1317,11 +1317,11 @@
     ],
     "l3harris mapps": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1573,11 +1573,11 @@
     ],
     "la fosse associates": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1643,11 +1643,11 @@
     ],
     "la mancha": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2037,11 +2037,11 @@
     ],
     "labaton keller sucharow": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2341,11 +2341,11 @@
     ],
     "lacoste": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2411,11 +2411,11 @@
     ],
     "ladbrokes betting & gaming": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2451,11 +2451,11 @@
     ],
     "ladera technology": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2485,11 +2485,11 @@
     ],
     "ladies european golf venture": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2615,11 +2615,11 @@
     ],
     "lafayette re management": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2667,12 +2667,12 @@
     ],
     "lagan s foundation": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "lagardere travel retail": [
@@ -2851,12 +2851,12 @@
     ],
     "laika films": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         },
         {
             "type": 1,
@@ -2889,11 +2889,11 @@
     ],
     "laing o rourke": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3295,16 +3295,16 @@
     ],
     "lakshmi narayana trust": [
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 11,
-            "rating": 2
         }
     ],
     "lakshmi sai info": [
@@ -3471,11 +3471,11 @@
     ],
     "lalive london": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3607,11 +3607,11 @@
     ],
     "lambda therapeutic": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3683,12 +3683,12 @@
     ],
     "lambrook school": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "lambton clothing company": [
@@ -3891,11 +3891,11 @@
     ],
     "lancashire insurance": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3991,12 +3991,12 @@
     ],
     "lancaster muslim welfare society": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "lancaster specsavers hearcare": [
@@ -4007,12 +4007,12 @@
     ],
     "lancaster university": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "lance lane medical centre": [
@@ -4041,11 +4041,11 @@
     ],
     "lancesoft": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4093,16 +4093,16 @@
     ],
     "land of joy": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "land restaurant": [
@@ -4215,11 +4215,11 @@
     ],
     "landell-mills": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4231,11 +4231,11 @@
     ],
     "landesbank baden-wurttemberg": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4259,11 +4259,11 @@
     ],
     "landis + gyr": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4401,11 +4401,11 @@
     ],
     "landmark worldwide": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4459,11 +4459,11 @@
     ],
     "lands end europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4801,11 +4801,11 @@
     ],
     "langosteria london": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4937,12 +4937,12 @@
     ],
     "lanier theological education foundation": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -5017,12 +5017,12 @@
     ],
     "lansdel t/a-maria productions": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "lansdown cricket club": [
@@ -5183,11 +5183,11 @@
     ],
     "lanxess solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5347,11 +5347,11 @@
     ],
     "larchfield": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5459,11 +5459,11 @@
     ],
     "larking gowen": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5583,11 +5583,11 @@
     ],
     "lasalle investment management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5669,11 +5669,11 @@
     ],
     "laser digital": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5895,11 +5895,11 @@
     ],
     "latentview analytics": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6007,12 +6007,12 @@
     ],
     "latimer ward conservative institute": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "latin american house": [
@@ -6035,8 +6035,8 @@
     ],
     "latin link": [
         {
-            "type": 11,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 9,
@@ -6047,8 +6047,8 @@
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         }
     ],
     "latino leisure south": [
@@ -6137,11 +6137,11 @@
     ],
     "lattice technologies": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6213,11 +6213,11 @@
     ],
     "launchchange operations": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6315,12 +6315,12 @@
     ],
     "laura holmes production": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "laura produce": [
@@ -6451,11 +6451,11 @@
     ],
     "lavazza professional": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7153,11 +7153,11 @@
     ],
     "lazard asset management": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7211,11 +7211,11 @@
     ],
     "lba europe": [
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -7287,11 +7287,11 @@
     ],
     "lcc community trust": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -7325,11 +7325,11 @@
     ],
     "lch partners": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7341,11 +7341,11 @@
     ],
     "lcl sports": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -7363,11 +7363,11 @@
     ],
     "lcm corporate": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7433,12 +7433,12 @@
     ],
     "lcuk artists": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "lcuk brent cross": [
@@ -7485,11 +7485,11 @@
     ],
     "ldf operations t/a white oak": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7603,11 +7603,11 @@
     ],
     "le cordon bleu": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7883,11 +7883,11 @@
     ],
     "leadenham polo club": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7899,11 +7899,11 @@
     ],
     "leader electronics of europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7945,11 +7945,11 @@
     ],
     "leaders quest": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8127,16 +8127,16 @@
     ],
     "league of british muslims": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "leagues commercial co": [
@@ -8265,11 +8265,11 @@
     ],
     "leap29 holdings": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8317,11 +8317,11 @@
     ],
     "lear corporation": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8475,11 +8475,11 @@
     ],
     "learningmate solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8521,11 +8521,11 @@
     ],
     "leaseplan": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8691,11 +8691,11 @@
     ],
     "lecico": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8725,11 +8725,11 @@
     ],
     "lectra": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8937,16 +8937,16 @@
     ],
     "leeds beckett university": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 12,
             "rating": 2
         },
         {
             "type": 4,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "leeds bradford airport": [
@@ -8957,12 +8957,12 @@
     ],
     "leeds buddhist vihara trust": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "leeds building society": [
@@ -8997,11 +8997,11 @@
     ],
     "leeds cricket football and athletic company": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -9019,16 +9019,16 @@
     ],
     "leeds diocesan board of finance": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "leeds hospitals charity": [
@@ -9087,12 +9087,12 @@
     ],
     "leeds theatre trust": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "leeds trinity university": [
@@ -9107,11 +9107,11 @@
     ],
     "leeds united football club": [
         {
-            "type": 10,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 10,
             "rating": 1
         },
         {
@@ -9293,12 +9293,12 @@
     ],
     "legacy centre of excellence": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "legacy fight promotions": [
@@ -9363,11 +9363,11 @@
     ],
     "legal & general resources": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9663,11 +9663,11 @@
     ],
     "lego company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9747,11 +9747,11 @@
     ],
     "leica biosystems newcastle": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9763,11 +9763,11 @@
     ],
     "leica geosystems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9881,11 +9881,11 @@
     ],
     "leicester football club": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9945,12 +9945,12 @@
     ],
     "leicester theatre trust": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "leicester visionplus": [
@@ -9973,11 +9973,11 @@
     ],
     "leicestershire county cricket club": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9995,11 +9995,11 @@
     ],
     "leidos innovations global": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10015,11 +10015,11 @@
     ],
     "leif hoegh": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10169,12 +10169,12 @@
     ],
     "leisure employment": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "leisurelabs": [
@@ -10185,12 +10185,12 @@
     ],
     "leith baptist church": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 11,
@@ -10235,11 +10235,11 @@
     ],
     "lek securities": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10285,11 +10285,11 @@
     ],
     "leman international transport": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10343,11 +10343,11 @@
     ],
     "lemonade lemonica": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10371,11 +10371,11 @@
     ],
     "lemongrass consulting": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10477,11 +10477,11 @@
     ],
     "lendlease europe holdings": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10503,12 +10503,12 @@
     ],
     "leni s model management": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "lenience": [
@@ -10613,11 +10613,11 @@
     ],
     "lenzing fibers grimsby": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10629,11 +10629,11 @@
     ],
     "leo burnett": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10663,11 +10663,11 @@
     ],
     "leo laboratories": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10781,11 +10781,11 @@
     ],
     "leon paul equipment company": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10835,11 +10835,11 @@
     ],
     "leonardo belgium sa": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10851,15 +10851,15 @@
     ],
     "leonardo": [
         {
+            "type": 15,
+            "rating": 1
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 15,
             "rating": 1
         }
     ],
@@ -10903,11 +10903,11 @@
     ],
     "leonteq securities europe gmbh": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11091,11 +11091,11 @@
     ],
     "les mills fitness": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11679,11 +11679,11 @@
     ],
     "levidian nanosystems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11701,11 +11701,11 @@
     ],
     "levis strauss u k": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11717,11 +11717,11 @@
     ],
     "leviton manufacturing": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11779,11 +11779,11 @@
     ],
     "lewes 2000 fc": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11857,25 +11857,25 @@
     ],
     "lewis silkin": [
         {
+            "type": 4,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "lewis trust": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12187,11 +12187,11 @@
     ],
     "leyland trucks": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12275,11 +12275,11 @@
     ],
     "lf europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12333,11 +12333,11 @@
     ],
     "lg electronics u k": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12443,11 +12443,11 @@
     ],
     "lgnd online": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12557,11 +12557,11 @@
     ],
     "lhoist": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12583,11 +12583,11 @@
     ],
     "lia aerospace": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12695,11 +12695,11 @@
     ],
     "libby perszyk kathman": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12717,12 +12717,12 @@
     ],
     "liberal judaism ulps": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "liberatii": [
@@ -12829,7 +12829,7 @@
     ],
     "liberty church": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
@@ -12837,7 +12837,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -12873,11 +12873,11 @@
     ],
     "liberty global europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12895,11 +12895,11 @@
     ],
     "liberty industrial": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12945,25 +12945,25 @@
     ],
     "liberty retail": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "liberty specialty markets": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -13011,11 +13011,11 @@
     ],
     "liberum capital": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13075,12 +13075,12 @@
     ],
     "lichfield diocesan board of finance": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "lichfield grove surgery": [
@@ -13121,11 +13121,11 @@
     ],
     "lidl great britain": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13137,11 +13137,11 @@
     ],
     "lids holdings": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13157,11 +13157,11 @@
     ],
     "liebherr-great britain": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13233,11 +13233,11 @@
     ],
     "life changing international chapel": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -13373,7 +13373,7 @@
     ],
     "life transformation ministries": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -13381,7 +13381,7 @@
             "rating": 1
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -13403,11 +13403,11 @@
     ],
     "lifealike t/a onefinestay": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13467,26 +13467,26 @@
     ],
     "lifegate church": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "lifegrace ministries international": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 11,
@@ -13543,11 +13543,11 @@
     ],
     "lifeline network": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -13643,15 +13643,15 @@
     ],
     "lifespring ministries": [
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 9,
-            "rating": 2
-        },
-        {
-            "type": 11,
             "rating": 2
         }
     ],
@@ -13739,11 +13739,11 @@
     ],
     "lifestyles": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13845,11 +13845,11 @@
     ],
     "liftoff mobile": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13921,12 +13921,12 @@
     ],
     "light n light": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "light research": [
@@ -14027,12 +14027,12 @@
     ],
     "lightfield london": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "lightfoot advisors": [
@@ -14113,11 +14113,11 @@
     ],
     "lighthouse one": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14225,11 +14225,11 @@
     ],
     "lightricks": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14325,11 +14325,11 @@
     ],
     "ligs": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14359,11 +14359,11 @@
     ],
     "likewize": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14625,11 +14625,11 @@
     ],
     "limagrain": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14701,11 +14701,11 @@
     ],
     "lime microsystems": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14723,11 +14723,11 @@
     ],
     "lime technology": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14769,11 +14769,11 @@
     ],
     "lime wood": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15057,22 +15057,22 @@
     ],
     "lincoln city football club company": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
     "lincoln college": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -15109,11 +15109,11 @@
     ],
     "lincoln international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15275,11 +15275,11 @@
     ],
     "lindamood-bell learning processes": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15303,11 +15303,11 @@
     ],
     "linde material handling": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15391,12 +15391,12 @@
     ],
     "linden staub": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "linden tree nursery schools": [
@@ -15449,11 +15449,11 @@
     ],
     "lindner prater": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15471,7 +15471,7 @@
     ],
     "lindt & sprungli": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
@@ -15479,7 +15479,7 @@
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15527,11 +15527,11 @@
     ],
     "lineage admin": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15561,11 +15561,11 @@
     ],
     "linedata": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15637,11 +15637,11 @@
     ],
     "lingaro britain": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15707,11 +15707,11 @@
     ],
     "lingotto investment management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15763,11 +15763,11 @@
     ],
     "link coco substrates 14877758": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15905,11 +15905,11 @@
     ],
     "link theory": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15921,11 +15921,11 @@
     ],
     "link up mitaka": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15979,11 +15979,11 @@
     ],
     "linkedin technology": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16129,7 +16129,7 @@
     ],
     "linnaeus bidco": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
@@ -16137,7 +16137,7 @@
             "rating": 2
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16209,11 +16209,11 @@
     ],
     "lintec europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16267,11 +16267,11 @@
     ],
     "linwave technology": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16289,22 +16289,22 @@
     ],
     "linx printing technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "lio london": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "lion academy trust": [
@@ -16337,11 +16337,11 @@
     ],
     "lion finance": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16435,11 +16435,11 @@
     ],
     "lions gate international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16473,11 +16473,11 @@
     ],
     "liontree international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16493,11 +16493,11 @@
     ],
     "lionvolt": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16575,11 +16575,11 @@
     ],
     "liquidity capital": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16601,11 +16601,11 @@
     ],
     "liquidnet europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16743,11 +16743,11 @@
     ],
     "liscr": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16771,15 +16771,15 @@
     ],
     "liskeard baptist church charity": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 9,
             "rating": 2
         }
     ],
@@ -16803,11 +16803,11 @@
     ],
     "lisson gallery london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17561,15 +17561,15 @@
     ],
     "little sisters of the poor": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],
@@ -17869,11 +17869,11 @@
     ],
     "liugong machinery": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17941,11 +17941,11 @@
     ],
     "live electrical distribution": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17987,16 +17987,16 @@
     ],
     "live nation music": [
         {
+            "type": 4,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "live nation": [
@@ -18129,11 +18129,11 @@
     ],
     "liveramp": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18215,12 +18215,12 @@
     ],
     "liverpool diocesan board of finance": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "liverpool enterprises": [
@@ -18231,20 +18231,20 @@
     ],
     "liverpool ganesh trust": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "liverpool heart & chest hospital nhs trust": [
@@ -18255,12 +18255,12 @@
     ],
     "liverpool hope university": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "liverpool john moores university": [
@@ -18345,11 +18345,11 @@
     ],
     "liverpool women s fc": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18473,11 +18473,11 @@
     ],
     "living church of god": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18489,12 +18489,12 @@
     ],
     "living faith foursquare gospel church": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "living hope social care": [
@@ -18523,15 +18523,15 @@
     ],
     "living light christian church": [
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 9,
-            "rating": 2
-        },
-        {
-            "type": 11,
             "rating": 2
         }
     ],
@@ -18603,12 +18603,12 @@
     ],
     "living wisdom word ministry": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "living wisdom word ministry milton keynes": [
@@ -18659,11 +18659,11 @@
     ],
     "livingston international europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18819,12 +18819,12 @@
     ],
     "liz linkleters events": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "lizard landscape design": [
@@ -18841,11 +18841,11 @@
     ],
     "lizmontagens installation": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19121,11 +19121,11 @@
     ],
     "llanelli scarlets": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -19275,11 +19275,11 @@
     ],
     "lloyd s of london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19549,11 +19549,11 @@
     ],
     "lmtd emea": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20013,12 +20013,12 @@
     ],
     "loch arthur camphill community": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "loch duart": [
@@ -20243,11 +20243,11 @@
     ],
     "lockheed martin": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20283,16 +20283,16 @@
     ],
     "locksmith animation": [
         {
+            "type": 4,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "locksmith in london": [
@@ -20459,11 +20459,11 @@
     ],
     "lodge service international": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20563,12 +20563,12 @@
     ],
     "loganair": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 13,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "loganathan suventhiren": [
@@ -20615,11 +20615,11 @@
     ],
     "logica": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20637,11 +20637,11 @@
     ],
     "logicalis": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20669,21 +20669,21 @@
     ],
     "logicgate": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "logicinfo consulting": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20701,11 +20701,11 @@
     ],
     "logicmonitor": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20717,11 +20717,11 @@
     ],
     "logicor europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20793,11 +20793,11 @@
     ],
     "logisnext": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20821,11 +20821,11 @@
     ],
     "logistics connect bv": [
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -20901,11 +20901,11 @@
     ],
     "logpoint": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20979,11 +20979,11 @@
     ],
     "lola vfx us": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21043,11 +21043,11 @@
     ],
     "lomar shipping": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21087,11 +21087,11 @@
     ],
     "lombardo constructions": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21109,11 +21109,11 @@
     ],
     "lomondo": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21303,12 +21303,12 @@
     ],
     "london academy of music and dramatic art": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "london accident claims": [
@@ -21571,12 +21571,12 @@
     ],
     "london borough of harrow": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "london borough of havering": [
@@ -21611,12 +21611,12 @@
     ],
     "london borough of lewisham": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "london borough of merton": [
@@ -21711,12 +21711,12 @@
     ],
     "london buddhist vihara": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "london building procurement": [
@@ -21821,12 +21821,12 @@
     ],
     "london chinese baptist church": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "london christian school": [
@@ -21849,12 +21849,12 @@
     ],
     "london city ballet": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "london city bond": [
@@ -21883,16 +21883,16 @@
     ],
     "london city mission": [
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 11,
-            "rating": 2
         }
     ],
     "london city shopfitter": [
@@ -21943,12 +21943,12 @@
     ],
     "london college of business studies": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "london college of management and technology london": [
@@ -22025,12 +22025,12 @@
     ],
     "london contemporary dance the place": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "london credit": [
@@ -22101,8 +22101,8 @@
     ],
     "london diocesan fund": [
         {
-            "type": 9,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 2,
@@ -22113,8 +22113,8 @@
             "rating": 2
         },
         {
-            "type": 1,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         }
     ],
     "london dog grooming": [
@@ -22215,11 +22215,11 @@
     ],
     "london ev company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22369,12 +22369,12 @@
     ],
     "london full gospel central church": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 11,
@@ -22413,11 +22413,11 @@
     ],
     "london gateway port": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22447,12 +22447,12 @@
     ],
     "london glitch": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "london global business school": [
@@ -22469,11 +22469,11 @@
     ],
     "london good news church": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22611,12 +22611,12 @@
     ],
     "london institute of vedic education": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "london intensive": [
@@ -22633,32 +22633,32 @@
     ],
     "london international christian church": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "london international exhibition centre": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "london international festival of theatre": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "london international investments": [
@@ -22699,12 +22699,12 @@
     ],
     "london islamic culture and recreation society": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "london it training": [
@@ -22715,12 +22715,12 @@
     ],
     "london jesus vision church": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "london kensington hotel": [
@@ -22863,11 +22863,11 @@
     ],
     "london mavericks netball": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -22895,12 +22895,12 @@
     ],
     "london media house": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "london medical associates": [
@@ -22953,12 +22953,12 @@
     ],
     "london metropolitan university": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "london mirror consultancy": [
@@ -23101,12 +23101,12 @@
     ],
     "london philharmonic orchestra": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "london pilsner": [
@@ -23153,12 +23153,12 @@
     ],
     "london presbyterian church": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "london prime construction and builders": [
@@ -23313,15 +23313,15 @@
     ],
     "london riverside church": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 9,
             "rating": 2
         }
     ],
@@ -23357,11 +23357,11 @@
     ],
     "london rugby league": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -23413,12 +23413,12 @@
     ],
     "london school of hygiene & tropical medicine": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "london school of learning hub": [
@@ -23493,12 +23493,12 @@
     ],
     "london shogyoji trust": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "london shopfitters": [
@@ -23509,25 +23509,25 @@
     ],
     "london sikh centre": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "london sivan kovil trust": [
+        {
+            "type": 2,
+            "rating": 1
+        },
         {
             "type": 11,
             "rating": 2
         },
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],
@@ -23555,16 +23555,16 @@
     ],
     "london south bank university": [
         {
+            "type": 12,
+            "rating": 2
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 12,
-            "rating": 2
         }
     ],
     "london south dry cleaners": [
@@ -23617,11 +23617,11 @@
     ],
     "london spirit the hundred": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -23677,16 +23677,16 @@
     ],
     "london stock exchange": [
         {
+            "type": 6,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 6,
-            "rating": 2
         }
     ],
     "london stone conservation": [
@@ -23757,12 +23757,12 @@
     ],
     "london symphony orchestra": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "london tamil media": [
@@ -23803,25 +23803,25 @@
     ],
     "london theatre company productions": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "london tigers": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 9,
             "rating": 2
         },
         {
             "type": 10,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24151,11 +24151,11 @@
     ],
     "lone star europe acquisitions": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24423,12 +24423,12 @@
     ],
     "longleat enterprises": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "longleat": [
@@ -24469,12 +24469,12 @@
     ],
     "longridge towers school": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "longroyde primary school": [
@@ -24627,11 +24627,11 @@
     ],
     "lonza biologics": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24667,11 +24667,11 @@
     ],
     "lookout": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24695,11 +24695,11 @@
     ],
     "loomis sayles investments": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24717,11 +24717,11 @@
     ],
     "loong cheong food": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -25005,12 +25005,12 @@
     ],
     "loretto school": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "lorfords": [
@@ -25205,11 +25205,11 @@
     ],
     "lothbury investment managment": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25339,11 +25339,11 @@
     ],
     "lotus cars": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -25533,11 +25533,11 @@
     ],
     "louder productions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25601,20 +25601,20 @@
     ],
     "loughborough university": [
         {
-            "type": 12,
+            "type": 4,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         },
         {
             "type": 10,
             "rating": 1
         },
         {
-            "type": 4,
+            "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "loughbrickland reformed presbyterian church": [
@@ -25677,6 +25677,12 @@
             "rating": 1
         }
     ],
+    "louichee": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "louie sandwich bar of nazeing": [
         {
             "type": 1,
@@ -25715,11 +25721,11 @@
     ],
     "louis vuitton": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25921,12 +25927,12 @@
     ],
     "love hate social club": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "love home britain": [
@@ -26349,11 +26355,11 @@
     ],
     "lowcodeminds": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -26659,12 +26665,12 @@
     ],
     "loyens & loeff": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -26851,11 +26857,11 @@
     ],
     "lqm petroleum": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26951,11 +26957,11 @@
     ],
     "lrqa": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27003,7 +27009,7 @@
     ],
     "ls cable & system": [
         {
-            "type": 15,
+            "type": 1,
             "rating": 1
         },
         {
@@ -27011,7 +27017,7 @@
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 15,
             "rating": 1
         }
     ],
@@ -27143,11 +27149,11 @@
     ],
     "lsh auto": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27265,11 +27271,11 @@
     ],
     "lta": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27305,11 +27311,11 @@
     ],
     "lti technology solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27465,11 +27471,11 @@
     ],
     "lucanet": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27897,11 +27903,11 @@
     ],
     "lucozade ribena suntory t/as suntory beverage & food great britain and ireland": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27947,11 +27953,11 @@
     ],
     "lucy cavendish college": [
         {
-            "type": 12,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 12,
             "rating": 2
         },
         {
@@ -28037,12 +28043,12 @@
     ],
     "lufthansa german airlines & lufthansa cargo": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         },
         {
             "type": 1,
@@ -28125,11 +28131,11 @@
     ],
     "luli festival": [
         {
-            "type": 4,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 4,
             "rating": 2
         },
         {
@@ -28163,11 +28169,11 @@
     ],
     "lululemon athletica": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28263,11 +28269,11 @@
     ],
     "lumera itm": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28333,11 +28339,11 @@
     ],
     "lumina video": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28373,11 +28379,11 @@
     ],
     "luminate": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28593,11 +28599,11 @@
     ],
     "lunalogic": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28663,11 +28669,11 @@
     ],
     "lundbeck": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28815,11 +28821,11 @@
     ],
     "lush": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28855,12 +28861,12 @@
     ],
     "lusion": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "luson surgery": [
@@ -28895,11 +28901,11 @@
     ],
     "luther systems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29033,11 +29039,11 @@
     ],
     "luton town football club 2020": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -29167,12 +29173,12 @@
     ],
     "lux artists": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "lux barbershop": [
@@ -29225,11 +29231,11 @@
     ],
     "lux populi": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29385,11 +29391,11 @@
     ],
     "luxoft financial": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29401,11 +29407,11 @@
     ],
     "luxottica north europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29659,11 +29665,11 @@
     ],
     "lv shipping": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29693,11 +29699,11 @@
     ],
     "lvmh fg": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29817,11 +29823,11 @@
     ],
     "lx pantos u k": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29881,11 +29887,11 @@
     ],
     "lyco": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30161,11 +30167,11 @@
     ],
     "lynq": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30225,11 +30231,11 @@
     ],
     "lyondellbasell industries nv": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30305,12 +30311,12 @@
     ],
     "lyric theatre hammersmith": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "lyricfind": [
@@ -30339,11 +30345,11 @@
     ],
     "lyst": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30427,11 +30433,11 @@
     ],
     "lloyd s list intelligence": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30605,12 +30611,12 @@
     ],
     "lal haveli banquting hall": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "lancewise chemist": [
@@ -30735,11 +30741,11 @@
     ],
     "let s do this": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30959,6 +30965,12 @@
             "rating": 1
         }
     ],
+    "led lights": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "legal and immigration": [
         {
             "type": 1,
@@ -30985,11 +30997,11 @@
     ],
     "living conditions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

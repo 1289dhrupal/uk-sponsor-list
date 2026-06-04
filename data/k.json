@@ -37,11 +37,11 @@
     ],
     "k line energy shipping": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -58,12 +58,6 @@
         }
     ],
     "kinsbury super store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kings transportation": [
         {
             "type": 1,
             "rating": 1
@@ -1007,11 +1001,11 @@
     ],
     "k line europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1539,11 +1533,11 @@
     ],
     "k-movie entertainment": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1561,11 +1555,11 @@
     ],
     "k a javid & co": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1607,11 +1601,11 @@
     ],
     "k mikimoto & co": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1785,11 +1779,11 @@
     ],
     "k2 consultancy": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1845,11 +1839,11 @@
     ],
     "k2 intelligence": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1871,11 +1865,11 @@
     ],
     "k2 partnering solutions holding co": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1959,11 +1953,11 @@
     ],
     "k3 business technology": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1975,11 +1969,11 @@
     ],
     "k4 security": [
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         },
         {
-            "type": 7,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2367,12 +2361,12 @@
     ],
     "kadampa meditation centre london": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "kadampa meditation centre plym": [
@@ -2651,11 +2645,11 @@
     ],
     "kaihua tas cumberland hotel": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2751,11 +2745,11 @@
     ],
     "kaiser associates international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2969,6 +2963,12 @@
             "rating": 1
         }
     ],
+    "kal wine source": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kal-med consulting cic": [
         {
             "type": 1,
@@ -3001,12 +3001,12 @@
     ],
     "kalakuta sunrise": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "kalan meat and chicken": [
@@ -3161,11 +3161,11 @@
     ],
     "kallidus": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3201,11 +3201,11 @@
     ],
     "kalmar": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3319,11 +3319,11 @@
     ],
     "kaltura europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3335,21 +3335,21 @@
     ],
     "kaluza": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "kalvista pharmaceuticals": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3625,11 +3625,11 @@
     ],
     "kammac": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3795,11 +3795,11 @@
     ],
     "kanadevia inova": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3949,21 +3949,21 @@
     ],
     "kandji": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "kandou bus": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4119,12 +4119,12 @@
     ],
     "kannegiesser": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "kannika & co": [
@@ -4147,11 +4147,11 @@
     ],
     "kanpai london food & beverage management co": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4223,11 +4223,11 @@
     ],
     "kantar public": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4269,11 +4269,11 @@
     ],
     "kao": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4339,11 +4339,11 @@
     ],
     "kapital media london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4549,11 +4549,11 @@
     ],
     "karaca porcelain": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4625,11 +4625,11 @@
     ],
     "karakaya bentonit trading": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4701,11 +4701,11 @@
     ],
     "karbone": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4801,11 +4801,11 @@
     ],
     "karibu global events": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4841,20 +4841,20 @@
     ],
     "karimia institute": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
             "type": 2,
             "rating": 1
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "karims pharmacy": [
@@ -5531,12 +5531,12 @@
     ],
     "kashmir development foundation": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "kashmir dining t/a the kashmir": [
@@ -5691,11 +5691,11 @@
     ],
     "kason europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5933,11 +5933,11 @@
     ],
     "kataman": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6003,12 +6003,12 @@
     ],
     "kate moross": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "kate moss agency": [
@@ -6305,11 +6305,11 @@
     ],
     "kaviari": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6387,11 +6387,11 @@
     ],
     "kawai": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6573,12 +6573,12 @@
     ],
     "kayd somali arts and culture": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "kaydeesayfa": [
@@ -6679,11 +6679,11 @@
     ],
     "kaz minerals": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6741,11 +6741,11 @@
     ],
     "kazmortransflot": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6865,11 +6865,11 @@
     ],
     "kbc bank nv": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6887,25 +6887,25 @@
     ],
     "kbc process technology": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
             "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "kbc technologies": [
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -7091,11 +7091,11 @@
     ],
     "kca deutag drilling": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7161,11 +7161,11 @@
     ],
     "kci medical": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7763,12 +7763,12 @@
     ],
     "keele university - human resources": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "keelinge house surgery": [
@@ -7821,11 +7821,11 @@
     ],
     "keensight capital": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7951,11 +7951,11 @@
     ],
     "kegstar": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8143,26 +8143,26 @@
     ],
     "kellogg brown & root": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
     "kellogg brown and root solutions": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -8171,11 +8171,11 @@
     ],
     "kelloggs holding company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8187,11 +8187,11 @@
     ],
     "kellton tech": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8463,11 +8463,11 @@
     ],
     "kemin": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8791,11 +8791,11 @@
     ],
     "kennedy wilson": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8961,11 +8961,11 @@
     ],
     "kenshoo": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9107,11 +9107,11 @@
     ],
     "kensington press": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9255,25 +9255,25 @@
     ],
     "kent county cricket club": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
     "kent energies": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -9381,15 +9381,15 @@
     ],
     "kent sri lankan buddhist cultural centre": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 9,
             "rating": 2
         }
     ],
@@ -9479,11 +9479,11 @@
     ],
     "kentucky fried chicken great britain": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9501,7 +9501,7 @@
     ],
     "kenvue emea": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
@@ -9509,7 +9509,7 @@
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9527,12 +9527,12 @@
     ],
     "kenwood": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -9625,15 +9625,15 @@
     ],
     "kepler cheuvreux": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -9649,11 +9649,11 @@
     ],
     "kepler interactive": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9701,11 +9701,11 @@
     ],
     "kerakoll u k": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9795,11 +9795,11 @@
     ],
     "keren bartov advanced skin care london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9829,11 +9829,11 @@
     ],
     "kering": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9903,11 +9903,11 @@
     ],
     "kerridge commercial systems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9919,16 +9919,16 @@
     ],
     "kerry ingredients": [
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         }
     ],
     "kerry logistics": [
@@ -9985,11 +9985,11 @@
     ],
     "kervan gida": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10013,12 +10013,12 @@
     ],
     "kerygma180": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "kerzner international marketing": [
@@ -10183,11 +10183,11 @@
     ],
     "keter": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10283,12 +10283,12 @@
     ],
     "ketumati buddhist vihara": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "keva": [
@@ -10561,11 +10561,11 @@
     ],
     "keyence": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10601,11 +10601,11 @@
     ],
     "keyloop": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10693,11 +10693,11 @@
     ],
     "keyrus": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10885,12 +10885,12 @@
     ],
     "keywords studios": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "keyworth indian restaurant": [
@@ -10991,11 +10991,11 @@
     ],
     "kfw ipex-bank gmbh london branch": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11067,11 +11067,11 @@
     ],
     "kgal consulting engineers": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11101,11 +11101,11 @@
     ],
     "kghl research": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11325,15 +11325,15 @@
     ],
     "khalsa centre": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 9,
             "rating": 2
         }
     ],
@@ -11819,11 +11819,11 @@
     ],
     "kheiron medical technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11865,12 +11865,12 @@
     ],
     "khidmah academy": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 11,
@@ -11979,16 +11979,16 @@
     ],
     "khoja shia ithna-asheri muslim community of birmingham": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "khokhar mcadam": [
@@ -12065,11 +12065,11 @@
     ],
     "khs": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12267,11 +12267,11 @@
     ],
     "kia motors": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12535,12 +12535,12 @@
     ],
     "kids operating room": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "kidz kabin pembroke studios": [
@@ -12865,11 +12865,11 @@
     ],
     "kiln technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12999,11 +12999,11 @@
     ],
     "kimberly clark europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13029,21 +13029,21 @@
     ],
     "kimble applications": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "kantata": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13175,11 +13175,11 @@
     ],
     "kin&co enterprises": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13203,11 +13203,11 @@
     ],
     "kinaxis": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13321,11 +13321,11 @@
     ],
     "kindeva drug delivery": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13361,11 +13361,11 @@
     ],
     "kindred london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13407,11 +13407,11 @@
     ],
     "kinectrics": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13453,11 +13453,11 @@
     ],
     "kinetic technologies europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13527,11 +13527,11 @@
     ],
     "king & spalding international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13543,12 +13543,12 @@
     ],
     "king alfred school": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "king charles court": [
@@ -13661,11 +13661,11 @@
     ],
     "king street europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13689,16 +13689,16 @@
     ],
     "king s arms trust bedford": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "king s church chessington": [
@@ -13713,15 +13713,15 @@
     ],
     "king s church international": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],
@@ -13733,12 +13733,12 @@
     ],
     "king s college": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "king s college hospital charity": [
@@ -13749,12 +13749,12 @@
     ],
     "king s college london": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "king s college london business": [
@@ -13765,12 +13765,12 @@
     ],
     "king s college school": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "king s cross academy trust": [
@@ -13781,12 +13781,12 @@
     ],
     "king s cross church": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "king s cross korean church": [
@@ -13795,15 +13795,15 @@
             "rating": 1
         },
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 9,
-            "rating": 2
-        },
-        {
-            "type": 11,
             "rating": 2
         }
     ],
@@ -13827,12 +13827,12 @@
     ],
     "king s revival church intl ministries": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "king s school bruton": [
@@ -13899,16 +13899,16 @@
     ],
     "kingdom empowerment ministries international fellowship": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "kingdom energy": [
@@ -13919,12 +13919,12 @@
     ],
     "kingdom faith ministries international": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "kingdom fellowship": [
@@ -13947,16 +13947,16 @@
     ],
     "kingdom heritage christian fellowship": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
             "type": 11,
             "rating": 2
         },
         {
-            "type": 9,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "kingdom hotel investments": [
@@ -13983,19 +13983,19 @@
     ],
     "kingdom mandate centre": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
         },
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14007,12 +14007,12 @@
     ],
     "kingdom palace outreach": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "kingdom power ministries international kpmi": [
@@ -14053,11 +14053,11 @@
     ],
     "kingdomcity united kingdom": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -14099,11 +14099,11 @@
     ],
     "kingfisher": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14323,12 +14323,12 @@
     ],
     "kings place music foundation": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "kings residential care homes": [
@@ -14541,12 +14541,12 @@
     ],
     "kingsley hall church and community centre": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "kingsley healthcare": [
@@ -14805,12 +14805,12 @@
     ],
     "kingston university": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "kingston upon thames association for the blind": [
@@ -14869,16 +14869,16 @@
     ],
     "kingsway international christian centre": [
         {
+            "type": 4,
+            "rating": 2
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "kingsway international": [
@@ -14991,12 +14991,12 @@
     ],
     "kingswood school": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "kingswood village convenience store": [
@@ -15121,11 +15121,11 @@
     ],
     "kinokuniya publications service of london co": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15155,11 +15155,11 @@
     ],
     "kinseed": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15213,11 +15213,11 @@
     ],
     "kintetsu world express": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15363,11 +15363,11 @@
     ],
     "kirby engineering": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15539,11 +15539,11 @@
     ],
     "kirkland & ellis international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15573,12 +15573,12 @@
     ],
     "kirklees metropolitan council": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "kirkley": [
@@ -15865,11 +15865,11 @@
     ],
     "kitagawa europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15947,11 +15947,11 @@
     ],
     "kitchen range foods": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16029,11 +16029,11 @@
     ],
     "kitri": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16069,11 +16069,11 @@
     ],
     "kivnon": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16523,12 +16523,12 @@
     ],
     "kl communications": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "kl convenience store": [
@@ -16557,11 +16557,11 @@
     ],
     "kla corporation": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16597,11 +16597,11 @@
     ],
     "klarna bank ab branch": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16671,21 +16671,21 @@
     ],
     "klay capital": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
     "kldiscovery": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16751,11 +16751,11 @@
     ],
     "klesch and company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16795,11 +16795,11 @@
     ],
     "klick health private": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16865,16 +16865,16 @@
     ],
     "klm engineering": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "kln barbecue and local": [
@@ -16885,11 +16885,11 @@
     ],
     "kln freight": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16901,11 +16901,11 @@
     ],
     "klockner pentaplast": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16927,11 +16927,11 @@
     ],
     "klp management": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17347,12 +17347,12 @@
     ],
     "knauf gmbh": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -17381,11 +17381,11 @@
     ],
     "knav": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17409,11 +17409,11 @@
     ],
     "knds defence": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17491,11 +17491,11 @@
     ],
     "knight frank": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17525,11 +17525,11 @@
     ],
     "knight piesold": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17721,11 +17721,11 @@
     ],
     "knightsbridge schools international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17809,11 +17809,11 @@
     ],
     "knoll international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17837,26 +17837,26 @@
     ],
     "knorr-bremse rail systems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "knorr-bremse systems for commercial vehicles": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
             "type": 5,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "knot pretzels": [
@@ -18015,11 +18015,11 @@
     ],
     "knownorigin labs": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18113,12 +18113,12 @@
     ],
     "knucklehead": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "knwz": [
@@ -18201,11 +18201,11 @@
     ],
     "kobayashi healthcare europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18217,11 +18217,11 @@
     ],
     "kobelco eco-solutions co": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18273,11 +18273,11 @@
     ],
     "kobre & kim": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18289,11 +18289,11 @@
     ],
     "koch engineered solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18343,12 +18343,12 @@
     ],
     "kochhouse signatures": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "kochin": [
@@ -18371,11 +18371,11 @@
     ],
     "kodak": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18393,12 +18393,12 @@
     ],
     "kode media": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "kode solutions": [
@@ -18465,11 +18465,11 @@
     ],
     "kofax northern ireland": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18591,16 +18591,16 @@
     ],
     "kohler mira": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "kohlico brands": [
@@ -18611,11 +18611,11 @@
     ],
     "kohn pedersen fox associates international pa": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18649,11 +18649,11 @@
     ],
     "kohyo": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18689,16 +18689,16 @@
     ],
     "koinonia": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
             "type": 11,
             "rating": 2
         },
         {
-            "type": 9,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "koinonia john the baptist ireland": [
@@ -18787,11 +18787,11 @@
     ],
     "koko networks": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18971,11 +18971,11 @@
     ],
     "kolak snack foods": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19155,11 +19155,11 @@
     ],
     "komi app": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19255,11 +19255,11 @@
     ],
     "konami digital entertainment b v": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19327,11 +19327,11 @@
     ],
     "konfloor": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19343,11 +19343,11 @@
     ],
     "kongsberg actuation systems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19369,16 +19369,16 @@
     ],
     "konica minolta business solutions": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "konica minolta marketing": [
@@ -19429,11 +19429,11 @@
     ],
     "konrad-adenauer-stiftung": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19475,11 +19475,11 @@
     ],
     "kontiki capital management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19497,11 +19497,11 @@
     ],
     "konverge technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19525,12 +19525,12 @@
     ],
     "konzertdirektion hans ulrich schmid": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "kooee food & beverage": [
@@ -19695,21 +19695,21 @@
     ],
     "kore ai": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "korea aerospace industries office": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -19719,11 +19719,11 @@
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19741,11 +19741,11 @@
     ],
     "korea housing finance corporation london branch": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 3,
             "rating": 1
         },
         {
@@ -19765,11 +19765,11 @@
     ],
     "korea investment corporation london office": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19781,25 +19781,25 @@
     ],
     "korea national pension service": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "korea tourism organization": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 6,
             "rating": 2
         },
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19819,11 +19819,11 @@
     ],
     "korea venture investment corporation europe office": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 3,
             "rating": 1
         },
         {
@@ -19867,11 +19867,11 @@
     ],
     "korean reinsurance company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19901,11 +19901,11 @@
     ],
     "korloy": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19917,11 +19917,11 @@
     ],
     "korn ferry": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20029,11 +20029,11 @@
     ],
     "kose corporation branch": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20339,12 +20339,12 @@
     ],
     "kp london": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "kp hill service station": [
@@ -20391,11 +20391,11 @@
     ],
     "kp snacks": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20497,11 +20497,11 @@
     ],
     "kpit technologies": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20525,11 +20525,11 @@
     ],
     "kpler": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20567,21 +20567,21 @@
     ],
     "kpmg ireland": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "kpmg": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20631,11 +20631,11 @@
     ],
     "kpp ventures": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20819,11 +20819,11 @@
     ],
     "kraken technologies": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20877,11 +20877,11 @@
     ],
     "kratos analytical": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21445,11 +21445,11 @@
     ],
     "krka": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21509,11 +21509,11 @@
     ],
     "kroll advisory": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21529,11 +21529,11 @@
     ],
     "kroll bond rating agency": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21551,11 +21551,11 @@
     ],
     "krones": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21573,11 +21573,11 @@
     ],
     "kronos systems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22009,11 +22009,11 @@
     ],
     "ksimc of leeds": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -22023,12 +22023,12 @@
     ],
     "ksimc of london": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "ksit solutions": [
@@ -22075,11 +22075,11 @@
     ],
     "ksl capital partners international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22501,11 +22501,11 @@
     ],
     "kubach & sambrook metals": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22535,11 +22535,11 @@
     ],
     "kubota": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22551,11 +22551,11 @@
     ],
     "kubota water and environment europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22595,11 +22595,11 @@
     ],
     "kudok": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22641,16 +22641,16 @@
     ],
     "kuehne + nagel": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
             "type": 5,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "kuflink": [
@@ -22953,11 +22953,11 @@
     ],
     "kumar organic products": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23011,11 +23011,11 @@
     ],
     "kumho tyre": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23251,11 +23251,11 @@
     ],
     "kury": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23273,12 +23273,12 @@
     ],
     "kushi media": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "kushram": [
@@ -23337,11 +23337,11 @@
     ],
     "kuwait airways company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23363,11 +23363,11 @@
     ],
     "kuwait petroleum corporation": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23401,11 +23401,11 @@
     ],
     "kvadrat": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23669,11 +23669,11 @@
     ],
     "kwm europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23685,12 +23685,12 @@
     ],
     "kws": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -23805,11 +23805,11 @@
     ],
     "kymco": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23839,11 +23839,11 @@
     ],
     "kyndryl": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23865,11 +23865,11 @@
     ],
     "kyobo life london office": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23951,11 +23951,11 @@
     ],
     "kyriba": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23979,21 +23979,21 @@
     ],
     "kyu investment": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "kyuden international": [
         {
-            "type": 5,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],

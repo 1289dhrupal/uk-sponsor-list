@@ -325,11 +325,11 @@
     ],
     "rl datix": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -509,11 +509,11 @@
     ],
     "rmc management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1053,11 +1053,11 @@
     ],
     "revvity": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1745,11 +1745,11 @@
     ],
     "r m beckett": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2093,16 +2093,16 @@
     ],
     "r twining & co": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "r v food & wines": [
@@ -2275,11 +2275,11 @@
     ],
     "r&f properties qs co": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2507,11 +2507,11 @@
     ],
     "r h educational and welfare trust": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -2551,11 +2551,11 @@
     ],
     "r l polk": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2573,11 +2573,11 @@
     ],
     "r m williams": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2993,16 +2993,16 @@
     ],
     "rabb di awaaz ministries international": [
         {
-            "type": 9,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 11,
             "rating": 2
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         }
     ],
     "rabbani stores": [
@@ -3013,12 +3013,12 @@
     ],
     "rabbaniah islamic cultural centre": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "rabbie s trail burners": [
@@ -3217,11 +3217,11 @@
     ],
     "rackspace": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3303,11 +3303,11 @@
     ],
     "radamis floating hotels": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3391,11 +3391,11 @@
     ],
     "radentia technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3437,12 +3437,12 @@
     ],
     "radha krishna temple shyama ashram": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         },
         {
             "type": 2,
@@ -3511,11 +3511,11 @@
     ],
     "radial commerce": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3623,25 +3623,25 @@
     ],
     "radical media": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 4,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "radicon transmission": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3759,11 +3759,11 @@
     ],
     "radisys": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3941,11 +3941,11 @@
     ],
     "radwell international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4053,21 +4053,21 @@
     ],
     "rag traders london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "rag & bone": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4407,12 +4407,12 @@
     ],
     "rai brothers productions": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "rai saab": [
@@ -4453,11 +4453,11 @@
     ],
     "raiffeisen bank international ag": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4847,11 +4847,11 @@
     ],
     "raine advisors": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4893,11 +4893,11 @@
     ],
     "rainhill cricket club": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -4987,11 +4987,11 @@
     ],
     "raisin platforms": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5865,11 +5865,11 @@
     ],
     "rakuten insight": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6139,12 +6139,12 @@
     ],
     "rambert": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "ramblewells": [
@@ -6259,22 +6259,22 @@
     ],
     "ramgarhia association guru nanak sikh temple": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         }
     ],
     "ramgarhia board leicester and leicestershire": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "ramgarhia board northampton": [
@@ -6309,22 +6309,22 @@
     ],
     "ramgarhia sabha milton keynes": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "ramgarhia sabha sikh temple": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "ramgarhia sikh association": [
@@ -6339,12 +6339,12 @@
     ],
     "ramgarhia sikh association gurdwara sahib sikh temple": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 1,
@@ -6353,26 +6353,26 @@
     ],
     "ramgarhia sikh gurdwara": [
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 9,
             "rating": 2
-        },
-        {
-            "type": 11,
-            "rating": 2
         }
     ],
     "ramgarhia sikh temple": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "ramgharia sabha": [
@@ -6449,11 +6449,11 @@
     ],
     "ramp business": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6847,12 +6847,12 @@
     ],
     "random house": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -6879,15 +6879,15 @@
     ],
     "randox laboratories": [
         {
+            "type": 10,
+            "rating": 1
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 10,
             "rating": 1
         }
     ],
@@ -7209,11 +7209,11 @@
     ],
     "ranosys technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7591,11 +7591,11 @@
     ],
     "rapiscan systems": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7637,11 +7637,11 @@
     ],
     "raptor marketing": [
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         },
         {
-            "type": 7,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7981,11 +7981,11 @@
     ],
     "rategain technologies": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8099,11 +8099,11 @@
     ],
     "rational": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8223,7 +8223,7 @@
     ],
     "rave technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
@@ -8231,7 +8231,7 @@
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8291,11 +8291,11 @@
     ],
     "ravensburger": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8553,11 +8553,11 @@
     ],
     "rawlinson & hunter": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8743,12 +8743,12 @@
     ],
     "rayfield allied": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "rayfos": [
@@ -8835,11 +8835,11 @@
     ],
     "raymond james financial international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8939,11 +8939,11 @@
     ],
     "rayspec": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8967,11 +8967,11 @@
     ],
     "raytheon systems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9251,11 +9251,11 @@
     ],
     "rbb economics": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9457,12 +9457,12 @@
     ],
     "rccg - jubilee church manchester": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 2,
@@ -9483,26 +9483,26 @@
     ],
     "rccg breakthrough church": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
     "rccg city of david": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "rccg city of grace peterborough": [
@@ -9523,16 +9523,16 @@
     ],
     "rccg croydon tabernacle": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "rccg desire of nations leicester": [
@@ -9567,12 +9567,12 @@
     ],
     "rccg great grace assembly": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "rccg his glory tabernacle": [
@@ -9589,12 +9589,12 @@
     ],
     "rccg house of joy for all nations": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "rccg house of mercy aylesbury": [
@@ -9609,11 +9609,11 @@
     ],
     "rccg jesus house aberdeen": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9651,6 +9651,10 @@
     ],
     "rccg living faith assembly": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
@@ -9661,27 +9665,19 @@
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "rccg living faith south shields": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "rccg oldbury on the rock": [
-        {
-            "type": 2,
-            "rating": 1
-        },
         {
             "type": 11,
             "rating": 2
@@ -9689,6 +9685,10 @@
         {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 1,
@@ -9719,12 +9719,12 @@
     ],
     "rccg power of jehovah": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "rccg praise embassy slough": [
@@ -9735,12 +9735,12 @@
     ],
     "rccg restoration chapel": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "rccg saints in light assembly": [
@@ -9751,16 +9751,16 @@
     ],
     "rccg solid rock parish derby": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "rccg stillwaters": [
@@ -9801,12 +9801,12 @@
     ],
     "rccg immanuel sanctuary": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "rccg-livingword liberation centre holy ghost zone": [
@@ -9859,11 +9859,11 @@
     ],
     "rci bank": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9901,11 +9901,11 @@
     ],
     "rcl investments": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10221,11 +10221,11 @@
     ],
     "re-tribe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10255,12 +10255,12 @@
     ],
     "re:hope next generation bible church": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "re:ignite church": [
@@ -10415,11 +10415,11 @@
     ],
     "reach subsea": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10437,11 +10437,11 @@
     ],
     "reachdesk": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10577,11 +10577,11 @@
     ],
     "reading family church": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -10625,16 +10625,16 @@
     ],
     "reading islamic centre": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "reading kebab corner ta kebab corner": [
@@ -10675,12 +10675,12 @@
     ],
     "reading school": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "reading shoulder unit": [
@@ -11033,12 +11033,12 @@
     ],
     "real time visualisation": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "real trading": [
@@ -11109,11 +11109,11 @@
     ],
     "realfoundations": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11137,12 +11137,12 @@
     ],
     "reality church london": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "reality holdings": [
@@ -11311,11 +11311,11 @@
     ],
     "reapit": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11469,15 +11469,15 @@
     ],
     "rebuilding christian foundation church cio": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 9,
             "rating": 2
         }
     ],
@@ -11565,12 +11565,12 @@
     ],
     "reckitt benckiser": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -11621,22 +11621,22 @@
     ],
     "recollective": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "recom farmhouse holdings": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "recom solutions": [
@@ -11671,11 +11671,11 @@
     ],
     "record": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11787,12 +11787,12 @@
     ],
     "recruit worldwide t/a zebra multimedia": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "recruiter insider": [
@@ -11875,11 +11875,11 @@
     ],
     "recurly": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11891,11 +11891,11 @@
     ],
     "recursion london": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11913,11 +11913,11 @@
     ],
     "recycle for future": [
         {
-            "type": 7,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -12041,12 +12041,12 @@
     ],
     "red balloon foundation": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "red band chemical": [
@@ -12057,11 +12057,11 @@
     ],
     "red bee media": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12103,15 +12103,15 @@
     ],
     "red bull racing": [
         {
+            "type": 10,
+            "rating": 1
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 10,
             "rating": 1
         }
     ],
@@ -12589,11 +12589,11 @@
     ],
     "red rock renewables": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12683,11 +12683,11 @@
     ],
     "red sands": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12801,11 +12801,11 @@
     ],
     "red ventures": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12931,11 +12931,11 @@
     ],
     "redburn europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12959,11 +12959,11 @@
     ],
     "redcar baptist church": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -13005,11 +13005,11 @@
     ],
     "redcloud technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13051,11 +13051,11 @@
     ],
     "reddie design": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13083,12 +13083,12 @@
     ],
     "redditch mosque trust": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "redditch smile care": [
@@ -13183,11 +13183,11 @@
     ],
     "redeemed christian church of god glory of god parish": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13205,12 +13205,12 @@
     ],
     "redeemed christian church of god": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "redeemed christian church of god rccg central office": [
@@ -13219,16 +13219,16 @@
             "rating": 2
         },
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
             "type": 9,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "redeemed christian church of god rccg christ church city of mercy": [
@@ -13251,12 +13251,12 @@
     ],
     "redeemed christian church of god - rccg my fathers house salford": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "redeemed christian church of god city of david stevenage": [
@@ -13265,22 +13265,22 @@
             "rating": 1
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         }
     ],
     "redeemed christian church of god emmanuel christian centre": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "redeemed christian church of god salvation theatre": [
@@ -13291,16 +13291,16 @@
     ],
     "redeemed christian church of god victory assembly": [
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 11,
-            "rating": 2
         }
     ],
     "redeemed christian church of god covenant restoration assembly": [
@@ -13311,16 +13311,16 @@
     ],
     "redeemer church chester-le-street": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "redeemer church london": [
@@ -13331,12 +13331,12 @@
     ],
     "redeemer croydon trust": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 2,
@@ -13405,11 +13405,11 @@
     ],
     "redflex traffic systems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13445,11 +13445,11 @@
     ],
     "redgert comms": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13479,7 +13479,7 @@
     ],
     "redhill islamic centre trust": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
@@ -13487,7 +13487,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -13541,11 +13541,11 @@
     ],
     "redis emea": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13557,11 +13557,11 @@
     ],
     "redk crm solutions": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13663,11 +13663,11 @@
     ],
     "redpanda data emea": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13695,11 +13695,11 @@
     ],
     "redridge diligence": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13957,11 +13957,11 @@
     ],
     "reed smith": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14057,11 +14057,11 @@
     ],
     "reel": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14197,11 +14197,11 @@
     ],
     "refeyn": [
         {
-            "type": 7,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -14295,11 +14295,11 @@
     ],
     "refract software": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14613,11 +14613,11 @@
     ],
     "regedge": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14743,11 +14743,11 @@
     ],
     "regeneron": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15489,11 +15489,11 @@
     ],
     "reiss": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15523,11 +15523,11 @@
     ],
     "reka ai": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15545,11 +15545,11 @@
     ],
     "rekki": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15579,12 +15579,12 @@
     ],
     "relaks radio": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "relate care solutions": [
@@ -15601,19 +15601,15 @@
     ],
     "relation therapeutics": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "relational mission": [
-        {
-            "type": 2,
-            "rating": 1
-        },
         {
             "type": 9,
             "rating": 2
@@ -15621,6 +15617,10 @@
         {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "relational research": [
@@ -15891,11 +15891,11 @@
     ],
     "reliance global energy": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16013,11 +16013,11 @@
     ],
     "reliaquest": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16071,12 +16071,12 @@
     ],
     "religious of mary immaculate": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "religious of st andrew": [
@@ -16091,16 +16091,16 @@
     ],
     "religious of the assumption": [
         {
-            "type": 9,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 11,
             "rating": 2
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         }
     ],
     "reliqua europe": [
@@ -16367,11 +16367,11 @@
     ],
     "remitly u k": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16443,11 +16443,11 @@
     ],
     "remote technology": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16483,12 +16483,12 @@
     ],
     "remy cointreau distribution": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -16607,11 +16607,11 @@
     ],
     "renaissance strategic advisors": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16629,11 +16629,11 @@
     ],
     "renaissancere syndicate management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16721,12 +16721,12 @@
     ],
     "rendcomb college": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "rendel": [
@@ -16819,11 +16819,11 @@
     ],
     "renesas design": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16839,11 +16839,11 @@
     ],
     "renesco": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16987,11 +16987,11 @@
     ],
     "renishaw": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17295,11 +17295,11 @@
     ],
     "repligen": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17315,11 +17315,11 @@
     ],
     "reply": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17343,12 +17343,12 @@
     ],
     "reprieve": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "reprocell europe": [
@@ -17373,11 +17373,11 @@
     ],
     "repsol resources": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17393,12 +17393,12 @@
     ],
     "repton prep": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "repton school": [
@@ -17427,11 +17427,11 @@
     ],
     "reputation ri": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17509,11 +17509,11 @@
     ],
     "res": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17543,11 +17543,11 @@
     ],
     "research affiliates global advisors europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17577,11 +17577,11 @@
     ],
     "research objective consulting industrial": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17593,11 +17593,11 @@
     ],
     "research triangle institute": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17633,11 +17633,11 @@
     ],
     "reservoir": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17803,11 +17803,11 @@
     ],
     "resmed": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17853,11 +17853,11 @@
     ],
     "resolute management": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18031,11 +18031,11 @@
     ],
     "resources connection": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18311,12 +18311,12 @@
     ],
     "restless development": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -18331,11 +18331,11 @@
     ],
     "restoration chapel international": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -18345,12 +18345,12 @@
     ],
     "restoration ministries": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "restoration revival fellowship luton": [
@@ -18361,16 +18361,16 @@
     ],
     "restoration world revival church": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
             "type": 11,
             "rating": 2
         },
         {
-            "type": 9,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "restorative justice for all international institute cic": [
@@ -18387,16 +18387,16 @@
     ],
     "restore community church": [
         {
-            "type": 9,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 11,
             "rating": 2
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         }
     ],
     "restore dental": [
@@ -18527,12 +18527,12 @@
     ],
     "resurrect bio": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "resurrection power and living bread ministries birmingham": [
@@ -18589,11 +18589,11 @@
     ],
     "retail finance intelligence": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18703,11 +18703,11 @@
     ],
     "retailnext bvi": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18755,11 +18755,11 @@
     ],
     "retarus": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18953,11 +18953,11 @@
     ],
     "reuters news & media": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18975,16 +18975,16 @@
     ],
     "rev marcus hobson": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
             "type": 11,
             "rating": 2
         },
         {
-            "type": 9,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "reva beauty": [
@@ -19013,11 +19013,11 @@
     ],
     "revaia": [
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -19029,11 +19029,11 @@
     ],
     "revantage global": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19081,12 +19081,12 @@
     ],
     "revealing the heartbeat of god": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "revelation 22 care": [
@@ -19131,11 +19131,11 @@
     ],
     "revenue management solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19147,11 +19147,11 @@
     ],
     "reverb b v": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19209,12 +19209,12 @@
     ],
     "revitalise": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "revitalise alpha": [
@@ -19243,12 +19243,12 @@
     ],
     "revival fires": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 1,
@@ -19263,12 +19263,12 @@
     ],
     "revival house": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "revival products trading": [
@@ -19357,11 +19357,11 @@
     ],
     "revlon international corporation": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19391,7 +19391,7 @@
     ],
     "revolut": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
@@ -19399,7 +19399,7 @@
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19523,11 +19523,11 @@
     ],
     "reward gateway": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19545,12 +19545,12 @@
     ],
     "rewind memories": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "rewinds & j windsor & sons engineers": [
@@ -19689,12 +19689,12 @@
     ],
     "reynolds porter chamberlain": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -19721,11 +19721,11 @@
     ],
     "rezayat europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19869,11 +19869,11 @@
     ],
     "rfm investments": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19951,11 +19951,11 @@
     ],
     "rga": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20003,11 +20003,11 @@
     ],
     "rgis inventory specialists": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20155,11 +20155,11 @@
     ],
     "rhea space activity": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20199,11 +20199,11 @@
     ],
     "rheinmetall technical publications rtp": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20221,30 +20221,30 @@
     ],
     "rhema gospel church": [
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 11,
-            "rating": 2
         }
     ],
     "rhema miracle centre aog": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "rhema & ireland": [
@@ -20253,12 +20253,12 @@
             "rating": 2
         },
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "rhenus high tech": [
@@ -20269,12 +20269,12 @@
     ],
     "rhenus home delivery": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -20283,16 +20283,16 @@
     ],
     "rhenus logistics": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "rhenus warehousing solutions": [
@@ -20421,11 +20421,11 @@
     ],
     "rhobus": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20449,15 +20449,15 @@
     ],
     "rhomberg sersa": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -20481,11 +20481,11 @@
     ],
     "rhone": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20773,11 +20773,11 @@
     ],
     "ricardo performance products": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20787,12 +20787,12 @@
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "ricardo transport": [
@@ -20867,11 +20867,11 @@
     ],
     "rich products": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21057,11 +21057,11 @@
     ],
     "richemont international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21079,15 +21079,15 @@
     ],
     "richill park baptist church": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 9,
             "rating": 2
         }
     ],
@@ -21355,11 +21355,11 @@
     ],
     "richstone properties construction": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21447,11 +21447,11 @@
     ],
     "ricoh printing solutions europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21463,11 +21463,11 @@
     ],
     "ricoh products": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21515,11 +21515,11 @@
     ],
     "ride therapeutics": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21771,11 +21771,11 @@
     ],
     "riedel communications": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21811,12 +21811,12 @@
     ],
     "rifco arts": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "riff raff films": [
@@ -21863,21 +21863,21 @@
     ],
     "rigby & peller": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "rigetti": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22183,11 +22183,11 @@
     ],
     "right to play international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22277,21 +22277,21 @@
     ],
     "rightship": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "rightsline software": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22443,11 +22443,11 @@
     ],
     "rimes technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22519,11 +22519,11 @@
     ],
     "rina tech": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22547,11 +22547,11 @@
     ],
     "ring london advertising": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22569,11 +22569,11 @@
     ],
     "ringcentral": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22823,11 +22823,11 @@
     ],
     "riot games": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22927,11 +22927,11 @@
     ],
     "rippling": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23093,11 +23093,11 @@
     ],
     "rishabh info pvt": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23407,11 +23407,11 @@
     ],
     "riskpoynt": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23541,11 +23541,11 @@
     ],
     "rite track scotland": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23763,12 +23763,12 @@
     ],
     "river church banff": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "river church ipswich": [
@@ -23807,11 +23807,11 @@
     ],
     "river hill ministries": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -23847,12 +23847,12 @@
     ],
     "river of life church": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "river of life city church": [
@@ -23861,12 +23861,12 @@
             "rating": 2
         },
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "river reading": [
@@ -23943,11 +23943,11 @@
     ],
     "riverbed technology": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24155,12 +24155,12 @@
     ],
     "riverside christian centre": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "riverside church": [
@@ -24193,11 +24193,11 @@
     ],
     "riverside europe partners": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24365,12 +24365,12 @@
     ],
     "riverview events management": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "riverview kitchen 56": [
@@ -24387,11 +24387,11 @@
     ],
     "rivi partners": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24527,11 +24527,11 @@
     ],
     "riyad bank london branch": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24621,11 +24621,11 @@
     ],
     "rizing": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24845,11 +24845,11 @@
     ],
     "rji capital": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25365,11 +25365,11 @@
     ],
     "rm auctions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25831,11 +25831,11 @@
     ],
     "rn laboratories": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26411,11 +26411,11 @@
     ],
     "robert bosch": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26469,12 +26469,12 @@
     ],
     "robert gilder & company": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "robert gordon s college": [
@@ -26639,12 +26639,12 @@
     ],
     "robert wun": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "robert s fine jewellery": [
@@ -26847,11 +26847,11 @@
     ],
     "robinhood u k": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26887,12 +26887,12 @@
     ],
     "robinson college": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "robinson crusoe fife": [
@@ -26939,11 +26939,11 @@
     ],
     "robit gb": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -26997,11 +26997,11 @@
     ],
     "robosys automation": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27089,11 +27089,11 @@
     ],
     "roc nation": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27117,11 +27117,11 @@
     ],
     "rocco forte & family hotel management": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27211,11 +27211,11 @@
     ],
     "roche diagnostics": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27381,12 +27381,12 @@
     ],
     "rock on music": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "rock paper reality": [
@@ -27401,11 +27401,11 @@
     ],
     "rock rail holdings": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27441,21 +27441,21 @@
     ],
     "rock adventure centres": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         }
     ],
     "rock-it cargo": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27549,12 +27549,12 @@
     ],
     "rocket music management": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -27611,11 +27611,11 @@
     ],
     "rocketmill": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27723,11 +27723,11 @@
     ],
     "rockline industries": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27751,11 +27751,11 @@
     ],
     "rockstar games": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27767,11 +27767,11 @@
     ],
     "rocksteady studios": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27795,11 +27795,11 @@
     ],
     "rockwell automation": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27817,21 +27817,21 @@
     ],
     "rockwood specialties": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "rockwool": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28057,22 +28057,22 @@
     ],
     "roehampton club": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
     "roehampton university": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "roel": [
@@ -28083,11 +28083,11 @@
     ],
     "roeslein & associates": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28105,11 +28105,11 @@
     ],
     "roger bullivant": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28241,12 +28241,12 @@
     ],
     "rohlig": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -28385,12 +28385,12 @@
     ],
     "rokpa trust": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "rokstone": [
@@ -28407,11 +28407,11 @@
     ],
     "roku": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28441,11 +28441,11 @@
     ],
     "roland berger": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28527,11 +28527,11 @@
     ],
     "roller networks": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28585,16 +28585,16 @@
     ],
     "rolls-royce": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "rolls-royce smr": [
@@ -28617,11 +28617,11 @@
     ],
     "rolta": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28657,12 +28657,12 @@
     ],
     "roman catholic archdiocese of southwark": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "roman catholic diocese and parishes of clogher": [
@@ -28677,16 +28677,16 @@
     ],
     "roman catholic diocese of aberdeen": [
         {
-            "type": 11,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 2,
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         }
     ],
     "roman catholic diocese of argyll and the isles": [
@@ -28711,29 +28711,33 @@
     ],
     "roman catholic diocese of galloway": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "roman catholic diocese of motherwell": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "roman catholic diocese of salford": [
+        {
+            "type": 2,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -28741,10 +28745,6 @@
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "roman catholic carthusian order of monks": [
@@ -28827,11 +28827,11 @@
     ],
     "romax technology": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28921,11 +28921,11 @@
     ],
     "romi machines": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29037,11 +29037,11 @@
     ],
     "rongxin power": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29161,11 +29161,11 @@
     ],
     "roofoods": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -29453,15 +29453,19 @@
     ],
     "roots systems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "roots: globalscope edinburgh": [
+        {
+            "type": 9,
+            "rating": 2
+        },
         {
             "type": 11,
             "rating": 2
@@ -29469,10 +29473,6 @@
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "rootshell security": [
@@ -29519,11 +29519,11 @@
     ],
     "ropes & gray international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29667,12 +29667,12 @@
     ],
     "rose bruford college": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "rose care": [
@@ -30165,11 +30165,11 @@
     ],
     "rosetti marino": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30271,11 +30271,11 @@
     ],
     "roshana global": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30419,11 +30419,11 @@
     ],
     "ross video": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30631,16 +30631,16 @@
     ],
     "rothamsted research": [
         {
-            "type": 12,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 9,
             "rating": 2
         },
         {
-            "type": 1,
-            "rating": 1
+            "type": 12,
+            "rating": 2
         }
     ],
     "rothay garden hotel": [
@@ -30735,11 +30735,11 @@
     ],
     "rothschild & co wealth management": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30995,16 +30995,16 @@
     ],
     "roundhouse trust": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 4,
             "rating": 2
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "roundshaw local store": [
@@ -31069,11 +31069,11 @@
     ],
     "rouse international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31159,11 +31159,11 @@
     ],
     "rovi europe a tivo company": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -31485,12 +31485,12 @@
     ],
     "royal academy of dance": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -31515,11 +31515,11 @@
     ],
     "royal academy of music": [
         {
-            "type": 4,
+            "type": 12,
             "rating": 2
         },
         {
-            "type": 12,
+            "type": 4,
             "rating": 2
         },
         {
@@ -31563,11 +31563,11 @@
     ],
     "royal bank of canada": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31597,16 +31597,16 @@
     ],
     "royal botanic gardens kew": [
         {
-            "type": 9,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 12,
             "rating": 2
         },
         {
-            "type": 1,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         }
     ],
     "royal british legion industries": [
@@ -31629,22 +31629,22 @@
     ],
     "royal college of art": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "royal college of music": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "royal college of nursing": [
@@ -31677,15 +31677,15 @@
     ],
     "royal connections": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -31737,11 +31737,11 @@
     ],
     "royal enfield": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31771,12 +31771,12 @@
     ],
     "royal grammar school guildford": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "royal grammar school high wycombe": [
@@ -31809,12 +31809,12 @@
     ],
     "royal holloway and bedford new college": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 12,
@@ -31863,11 +31863,11 @@
     ],
     "royal jordanian airlines": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31879,12 +31879,12 @@
     ],
     "royal liverpool philharmonic society": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "royal lyceum theatre company": [
@@ -31895,11 +31895,11 @@
     ],
     "royal mail": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -31911,16 +31911,16 @@
     ],
     "royal museums greenwich": [
         {
+            "type": 4,
+            "rating": 2
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "royal national orthopaedic hospital nhs trust": [
@@ -31931,12 +31931,12 @@
     ],
     "royal northern college of music": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "royal norwegian embassy": [
@@ -31971,11 +31971,11 @@
     ],
     "royal pharmaceutical society": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -31985,15 +31985,19 @@
             "rating": 1
         },
         {
-            "type": 4,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 4,
             "rating": 2
         }
     ],
     "royal priesthood pentecostal church": [
+        {
+            "type": 2,
+            "rating": 1
+        },
         {
             "type": 9,
             "rating": 2
@@ -32004,10 +32008,6 @@
         },
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],
@@ -32043,32 +32043,32 @@
     ],
     "royal scottish national orchestra society": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "royal shakespeare company": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "royal society for the protection of birds": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "royal society of edinburgh": [
@@ -32103,12 +32103,12 @@
     ],
     "royal thai embassy": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 6,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "royal thames yacht club": [
@@ -32525,7 +32525,7 @@
     ],
     "rpc containers": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
@@ -32533,7 +32533,7 @@
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -32677,11 +32677,11 @@
     ],
     "rr donnelley directory": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -32915,11 +32915,11 @@
     ],
     "rs data tech": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -33109,11 +33109,11 @@
     ],
     "rsa insurance": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -33255,11 +33255,11 @@
     ],
     "rshp architects": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -33295,11 +33295,11 @@
     ],
     "rsk": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -33369,11 +33369,11 @@
     ],
     "rsm international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -33653,11 +33653,11 @@
     ],
     "rtb house": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -33731,12 +33731,12 @@
     ],
     "rtl support": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "rtm corporation": [
@@ -33825,11 +33825,11 @@
     ],
     "rtw global investments": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -33979,11 +33979,11 @@
     ],
     "rubie s masquerade company": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -34007,11 +34007,11 @@
     ],
     "rubikas": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -34029,11 +34029,11 @@
     ],
     "rubix international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -34131,11 +34131,11 @@
     ],
     "ruby road": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -34217,11 +34217,11 @@
     ],
     "ruder finn": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -34341,11 +34341,11 @@
     ],
     "rugby football union": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -34489,11 +34489,11 @@
     ],
     "ruisheng holdings": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -34703,11 +34703,11 @@
     ],
     "runibex technology": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -34767,12 +34767,12 @@
     ],
     "runnymede christian fellowship": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "runtech": [
@@ -34783,11 +34783,11 @@
     ],
     "runtime collective": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -34997,12 +34997,12 @@
     ],
     "ruskin mill land trust": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "ruskin mill trust": [
@@ -35071,11 +35071,11 @@
     ],
     "russell investments systems": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -35099,11 +35099,11 @@
     ],
     "russell reynolds associates": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -35151,26 +35151,26 @@
     ],
     "russian orthodox church": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "russian orthodox church abroad london": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "rustem guardian solicitors": [
@@ -35274,12 +35274,6 @@
         }
     ],
     "rutland county council": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "rutland cutlery works": [
         {
             "type": 1,
             "rating": 1
@@ -35519,11 +35513,11 @@
     ],
     "rwdi anemos": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -35533,11 +35527,11 @@
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -35557,16 +35551,16 @@
     ],
     "rwe supply & trading gmbh": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "rwg repair & overhauls": [
@@ -35601,12 +35595,12 @@
     ],
     "rws global": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "rws translations": [
@@ -35687,21 +35681,21 @@
     ],
     "ryan specialty international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "ryan tax": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -35749,12 +35743,12 @@
     ],
     "ryde school with upper chine": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "ryde visionplus": [
@@ -35969,11 +35963,11 @@
     ],
     "ryobi aluminium casting": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -35997,11 +35991,11 @@
     ],
     "rystad energy": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -36109,11 +36103,11 @@
     ],
     "ramada solihull": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -36401,12 +36395,12 @@
     ],
     "research and innovation": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "rose enterprise": [
@@ -36435,11 +36429,11 @@
     ],
     "rishi s indian aroma": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

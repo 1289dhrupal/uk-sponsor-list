@@ -265,11 +265,11 @@
     ],
     "welltower": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1029,11 +1029,11 @@
     ],
     "w l gore & associates": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1069,12 +1069,12 @@
     ],
     "w model management": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "w n zee supplies": [
@@ -1085,11 +1085,11 @@
     ],
     "w r berkley london staff": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1179,12 +1179,12 @@
     ],
     "w-ink studio": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "w corbett & co galvanizing": [
@@ -1415,11 +1415,11 @@
     ],
     "wabtec": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1461,11 +1461,11 @@
     ],
     "wacoal emea": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1553,11 +1553,11 @@
     ],
     "waggener edstrom worldwide": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1585,11 +1585,11 @@
     ],
     "wah kwong maritime company": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -1707,11 +1707,17 @@
     ],
     "wakam": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wakanow com": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2075,11 +2081,11 @@
     ],
     "walkers europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2091,11 +2097,11 @@
     ],
     "walkers snackfoods": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2107,11 +2113,11 @@
     ],
     "walkme": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2217,11 +2223,11 @@
     ],
     "wallbrook advisory": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2249,11 +2255,11 @@
     ],
     "walleye capital": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2277,16 +2283,16 @@
     ],
     "wallington christian centre": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "wallington corner news": [
@@ -2315,16 +2321,16 @@
     ],
     "walls of salvation brentwood tamil church": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 9,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "wallstreetdocs": [
@@ -2889,11 +2895,11 @@
     ],
     "wanner international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2935,11 +2941,11 @@
     ],
     "want2bthere": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2999,12 +3005,12 @@
     ],
     "war child": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         },
         {
             "type": 1,
@@ -3025,11 +3031,11 @@
     ],
     "warburg pincus international llc": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3259,12 +3265,12 @@
     ],
     "warm hut": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "warm life": [
@@ -3371,16 +3377,16 @@
     ],
     "warner bros television production": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 4,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "warner bros entertainment": [
@@ -3395,12 +3401,12 @@
     ],
     "warner bros productions": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "warner bros studios leavesden": [
@@ -3423,16 +3429,16 @@
     ],
     "warner music": [
         {
+            "type": 4,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "warners solicitors": [
@@ -3455,12 +3461,12 @@
     ],
     "warp records": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "warr & co": [
@@ -3651,11 +3657,11 @@
     ],
     "wartsila defence solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3677,11 +3683,11 @@
     ],
     "wartsila": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3921,21 +3927,21 @@
     ],
     "wasps": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
     "wasserman emea": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3999,12 +4005,12 @@
     ],
     "wat arun norfolk": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 11,
@@ -4013,19 +4019,15 @@
     ],
     "wat buddharam london": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "wat buddharam leeds": [
-        {
-            "type": 11,
-            "rating": 2
-        },
         {
             "type": 9,
             "rating": 2
@@ -4033,6 +4035,10 @@
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "wat matchimaram": [
@@ -4043,11 +4049,11 @@
     ],
     "wat mongkhonwararam": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -4057,16 +4063,16 @@
     ],
     "wat pa buddharam": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "wat pa tesarangsee": [
@@ -4087,15 +4093,15 @@
     ],
     "wat sri intra atula": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 9,
             "rating": 2
         }
     ],
@@ -4111,16 +4117,16 @@
     ],
     "wat thai southend": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "watan builders": [
@@ -4203,11 +4209,11 @@
     ],
     "watchfinder co": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4331,11 +4337,11 @@
     ],
     "waterfall asset management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4577,11 +4583,11 @@
     ],
     "watershed technology": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4623,15 +4629,15 @@
     ],
     "watersprings christian centre": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 9,
             "rating": 2
         }
     ],
@@ -4673,11 +4679,11 @@
     ],
     "waterworks operating company": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4767,11 +4773,11 @@
     ],
     "watford velmurugan trust": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -4875,16 +4881,16 @@
     ],
     "watson-marlow": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "watsonian cricket club": [
@@ -5013,12 +5019,12 @@
     ],
     "wave trauma centre": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "wave": [
@@ -5111,11 +5117,11 @@
     ],
     "wavestone advisors": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5154,12 +5160,6 @@
         }
     ],
     "wawa fertility": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "wawcare support": [
         {
             "type": 1,
             "rating": 1
@@ -5221,11 +5221,11 @@
     ],
     "wayfair": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5341,11 +5341,11 @@
     ],
     "waystone compliance solutions": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5565,11 +5565,11 @@
     ],
     "wd-40 company": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5591,11 +5591,11 @@
     ],
     "wdi": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5743,12 +5743,12 @@
     ],
     "we are seventeen": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "we are snook": [
@@ -6227,21 +6227,21 @@
     ],
     "weare4c": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "weare8 media": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6313,12 +6313,12 @@
     ],
     "weatherford": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -6543,11 +6543,11 @@
     ],
     "webequator": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6611,11 +6611,11 @@
     ],
     "webmd": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6643,11 +6643,11 @@
     ],
     "webskitters": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6753,11 +6753,11 @@
     ],
     "wec international": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -6869,11 +6869,11 @@
     ],
     "wednesday 1867": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6927,15 +6927,15 @@
     ],
     "weefin esg": [
         {
+            "type": 3,
+            "rating": 1
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 3,
             "rating": 1
         }
     ],
@@ -6975,11 +6975,11 @@
     ],
     "weetabix": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7085,16 +7085,16 @@
     ],
     "weir": [
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         }
     ],
     "weisscomm partners": [
@@ -7121,11 +7121,11 @@
     ],
     "wekaio": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7155,11 +7155,11 @@
     ],
     "welbond armatures": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7517,11 +7517,11 @@
     ],
     "wella": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7641,11 +7641,11 @@
     ],
     "wellcom london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7771,21 +7771,21 @@
     ],
     "wellingborough district hindu association": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "wellingborough school": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -7881,11 +7881,11 @@
     ],
     "wellington management international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7975,12 +7975,12 @@
     ],
     "wells cathedral school": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "wells city practice": [
@@ -7991,21 +7991,21 @@
     ],
     "wells fargo bank n a": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "wells fargo securities international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8047,12 +8047,12 @@
     ],
     "wellspring church": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "wellspring everyday support": [
@@ -8081,12 +8081,12 @@
     ],
     "wellsprings community": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "welltec": [
@@ -8131,12 +8131,12 @@
     ],
     "wels church": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "welsh ambulance trust": [
@@ -8153,11 +8153,11 @@
     ],
     "welsh fire the hundred": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -8169,22 +8169,22 @@
     ],
     "welsh gymnastics": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
     "welsh national opera": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "welsh netball association": [
@@ -8313,12 +8313,12 @@
     ],
     "wembley christian fellowship": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "wembley high street dental practice": [
@@ -8459,11 +8459,11 @@
     ],
     "wendy s restaurants of u k": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8609,11 +8609,11 @@
     ],
     "wepoint": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8649,12 +8649,12 @@
     ],
     "werkfolio": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "wern vets": [
@@ -8731,11 +8731,11 @@
     ],
     "wesoar": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8771,12 +8771,12 @@
     ],
     "wessex grove": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "wessex institute of technology": [
@@ -8875,12 +8875,12 @@
     ],
     "west african development": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "west and hunter": [
@@ -8933,11 +8933,11 @@
     ],
     "west bromwich albion fc": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9027,11 +9027,11 @@
     ],
     "west dean college - the edward james foundation": [
         {
-            "type": 4,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 4,
             "rating": 2
         },
         {
@@ -9355,19 +9355,19 @@
     ],
     "west london islamic centre": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
         },
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9595,11 +9595,11 @@
     ],
     "west park portfolio": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10111,11 +10111,11 @@
     ],
     "westcon european operations": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10133,12 +10133,12 @@
     ],
     "westcountry schools trust": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "westcourt medical centre": [
@@ -10265,11 +10265,11 @@
     ],
     "western digital": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10419,11 +10419,11 @@
     ],
     "western union payment ireland": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10473,11 +10473,11 @@
     ],
     "westfalia fruit international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10489,6 +10489,10 @@
     ],
     "westfield europe": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 4,
             "rating": 2
         },
@@ -10498,10 +10502,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -10555,11 +10555,11 @@
     ],
     "westfield specialty managing agency": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10815,21 +10815,21 @@
     ],
     "westmid": [
         {
-            "type": 7,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         }
     ],
     "westmill foods": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10859,6 +10859,10 @@
     ],
     "westminster bangladeshi welfare trust": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
@@ -10868,10 +10872,6 @@
         },
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],
@@ -10953,12 +10953,12 @@
     ],
     "westminster roman catholic diocese trustee": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "westminster school": [
@@ -10969,12 +10969,12 @@
     ],
     "westminster synagogue": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         },
         {
             "type": 2,
@@ -11031,11 +11031,11 @@
     ],
     "weston importers": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11449,11 +11449,11 @@
     ],
     "wex europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11721,11 +11721,11 @@
     ],
     "whaleco": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11785,11 +11785,11 @@
     ],
     "whatfix": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11865,11 +11865,11 @@
     ],
     "wheelabrator": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11905,11 +11905,11 @@
     ],
     "wheely technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
@@ -11959,11 +11959,11 @@
     ],
     "whessoe engineering": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12011,11 +12011,11 @@
     ],
     "whim hospitality": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12081,12 +12081,12 @@
     ],
     "whisper films": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "whispers care solutions": [
@@ -12127,11 +12127,11 @@
     ],
     "whitbread": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12179,12 +12179,12 @@
     ],
     "white & case": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -12205,11 +12205,11 @@
     ],
     "white arkitekter": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12645,11 +12645,11 @@
     ],
     "white star capital united kingdom": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12739,12 +12739,12 @@
     ],
     "whitecliff management corporation": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -12899,12 +12899,12 @@
     ],
     "whitehaven trust": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "whitehawk cafe and food": [
@@ -13101,11 +13101,11 @@
     ],
     "whithorn estate": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13267,11 +13267,11 @@
     ],
     "whizz education": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13325,12 +13325,12 @@
     ],
     "whole ice": [
         {
-            "type": 13,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 13,
+            "rating": 2
         }
     ],
     "whole spices": [
@@ -13675,16 +13675,16 @@
     ],
     "wieden & kennedy": [
         {
-            "type": 4,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 5,
-            "rating": 1
+            "type": 4,
+            "rating": 2
         }
     ],
     "wieland metals birmingham": [
@@ -13849,11 +13849,11 @@
     ],
     "wikborg rein": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13877,11 +13877,11 @@
     ],
     "wilben trade": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13923,11 +13923,11 @@
     ],
     "wild brain family international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14071,12 +14071,12 @@
     ],
     "wildfowl & wetlands trust": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "wildhearts office": [
@@ -14177,16 +14177,16 @@
     ],
     "wilhelmina london": [
         {
+            "type": 4,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "wilhelmsen ships service": [
@@ -14479,12 +14479,12 @@
     ],
     "william grant & sons": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -14499,11 +14499,11 @@
     ],
     "william hare": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14533,11 +14533,11 @@
     ],
     "william hill": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14585,7 +14585,7 @@
     ],
     "william morris endeavor entertainment u k": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
@@ -14593,7 +14593,7 @@
             "rating": 2
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14681,11 +14681,11 @@
     ],
     "williams grand prix engineering": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14799,11 +14799,11 @@
     ],
     "willis re": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15285,12 +15285,12 @@
     ],
     "wilson james": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 13,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "wilson leitch": [
@@ -15325,11 +15325,11 @@
     ],
     "wilson sonsini goodrich & rosati": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15427,12 +15427,12 @@
     ],
     "wilton s music hall": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "wiltshire aircraft maintenance": [
@@ -15479,11 +15479,11 @@
     ],
     "wim technologies": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15501,11 +15501,11 @@
     ],
     "wimberly allison tong & goo": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15541,11 +15541,11 @@
     ],
     "wimbledon college": [
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15665,11 +15665,11 @@
     ],
     "winbro technologies": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15699,12 +15699,12 @@
     ],
     "winchester college": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "winchester house dental practice": [
@@ -15721,11 +15721,11 @@
     ],
     "winchester procurement": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15755,12 +15755,12 @@
     ],
     "wincraft music": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "wind 2": [
@@ -15873,12 +15873,12 @@
     ],
     "windlesham house school": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "windlesham": [
@@ -16199,11 +16199,11 @@
     ],
     "wine-searcher": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16239,21 +16239,21 @@
     ],
     "winfo solutions": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "wing aviation": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16385,11 +16385,11 @@
     ],
     "winit": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16513,7 +16513,7 @@
     ],
     "winner???¢????????s family chapel international": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -16521,7 +16521,7 @@
             "rating": 1
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -16539,11 +16539,11 @@
     ],
     "winningtemp": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16673,11 +16673,11 @@
     ],
     "winspire solutions": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16695,11 +16695,11 @@
     ],
     "winston & strawn london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16839,11 +16839,11 @@
     ],
     "winton capital management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16891,11 +16891,11 @@
     ],
     "wioss witron on site gmbh": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17157,11 +17157,11 @@
     ],
     "wisdomtree ireland": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17245,11 +17245,11 @@
     ],
     "wise music": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17399,11 +17399,11 @@
     ],
     "wisetech global": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17463,11 +17463,11 @@
     ],
     "wismettac harro foods": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17499,11 +17499,11 @@
     ],
     "wissen technology": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17623,16 +17623,16 @@
     ],
     "withers": [
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         }
     ],
     "witherslack": [
@@ -17743,11 +17743,11 @@
     ],
     "wittenstein high integrity systems": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17801,11 +17801,11 @@
     ],
     "wix com": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17939,11 +17939,11 @@
     ],
     "wjr developments": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18125,11 +18125,11 @@
     ],
     "wmgs europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18183,11 +18183,11 @@
     ],
     "wnc": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18245,11 +18245,11 @@
     ],
     "wobbleworks": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18279,11 +18279,11 @@
     ],
     "wockhardt": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18457,12 +18457,12 @@
     ],
     "woldingham school": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "wolds veterinary clinic": [
@@ -18521,11 +18521,11 @@
     ],
     "wolfe research": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18599,11 +18599,11 @@
     ],
     "wolfspeed europe gmbh": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18639,11 +18639,11 @@
     ],
     "wolters kluwer": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18817,11 +18817,11 @@
     ],
     "women s best": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18875,12 +18875,12 @@
     ],
     "wonder foundation": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "wonder glass": [
@@ -19099,16 +19099,16 @@
     ],
     "wood": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "wood lane stores": [
@@ -19381,11 +19381,11 @@
     ],
     "woodhall capital international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19625,11 +19625,11 @@
     ],
     "woodlands of churches": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -19867,11 +19867,11 @@
     ],
     "woodsford tradebridge": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19901,11 +19901,11 @@
     ],
     "woodside energy": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20165,11 +20165,11 @@
     ],
     "woori bank": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20289,12 +20289,12 @@
     ],
     "word of hope bible church": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 1,
@@ -20315,11 +20315,11 @@
     ],
     "word of life ministries": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -20329,12 +20329,12 @@
     ],
     "word of light international ministries": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "word of mouth dental care": [
@@ -20351,16 +20351,16 @@
     ],
     "word practitioners ministry": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
             "type": 9,
             "rating": 2
         },
         {
-            "type": 11,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "word360": [
@@ -20609,11 +20609,11 @@
     ],
     "workforce hcm": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20643,11 +20643,11 @@
     ],
     "workfox": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20701,11 +20701,11 @@
     ],
     "workiva": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20777,11 +20777,11 @@
     ],
     "workshare": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20857,11 +20857,11 @@
     ],
     "world association of nuclear operators": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20955,11 +20955,11 @@
     ],
     "world federation of advertisers-": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21011,11 +21011,11 @@
     ],
     "world fuel europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21027,16 +21027,16 @@
     ],
     "world harvest": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "world hepatitis alliance": [
@@ -21047,15 +21047,15 @@
     ],
     "world horizons": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 9,
             "rating": 2
         }
     ],
@@ -21131,12 +21131,12 @@
     ],
     "world mission agency-winners chapel international": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 1,
@@ -21157,11 +21157,11 @@
     ],
     "world nuclear transport": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21239,19 +21239,19 @@
     ],
     "world shirdi sai baba organisation": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
         },
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21309,16 +21309,16 @@
     ],
     "world vision international global centre": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "world vision": [
@@ -21363,12 +21363,12 @@
     ],
     "world wrestling entertainment international": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -21393,11 +21393,11 @@
     ],
     "worldline it": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21437,11 +21437,11 @@
     ],
     "worldpay": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21509,11 +21509,11 @@
     ],
     "worldwide clinical trials": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21543,11 +21543,11 @@
     ],
     "worldwide flight": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21589,15 +21589,15 @@
     ],
     "worldwide production agency": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 4,
             "rating": 2
         },
         {
             "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -21639,16 +21639,16 @@
     ],
     "worley europe": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
             "type": 8,
             "rating": 2
-        },
-        {
-            "type": 5,
-            "rating": 1
         }
     ],
     "worlingham pharmacy": [
@@ -21859,11 +21859,11 @@
     ],
     "wozair": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21899,11 +21899,11 @@
     ],
     "wpp 2005": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21919,11 +21919,11 @@
     ],
     "wpp media": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22017,12 +22017,12 @@
     ],
     "wrekin old hall trust": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "wren academy": [
@@ -22123,12 +22123,12 @@
     ],
     "wrexham university": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "wrexham ventures": [
@@ -22373,11 +22373,11 @@
     ],
     "wsc sports technologies": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22389,11 +22389,11 @@
     ],
     "wselp manco": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22411,11 +22411,11 @@
     ],
     "wso2": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22433,11 +22433,11 @@
     ],
     "wsp": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22591,11 +22591,11 @@
     ],
     "wunderkind technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22623,25 +22623,25 @@
     ],
     "wurth": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
             "type": 5,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "wuxi apptec": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22681,11 +22681,11 @@
     ],
     "ww gbr": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22715,11 +22715,11 @@
     ],
     "wwf-world wide fund for nature formerly world wildlife fund": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22743,11 +22743,11 @@
     ],
     "wwt emea": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22837,11 +22837,11 @@
     ],
     "wycombe high school": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -22863,11 +22863,11 @@
     ],
     "wycombe wanderers football club": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22969,11 +22969,11 @@
     ],
     "wynden stark": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

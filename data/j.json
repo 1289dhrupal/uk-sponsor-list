@@ -115,11 +115,11 @@
     ],
     "jollibee": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -365,11 +365,11 @@
     ],
     "j & e hall": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1079,11 +1079,11 @@
     ],
     "j o hambro capital management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1455,12 +1455,12 @@
     ],
     "j&c soul cic": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "j&d pierce contracts": [
@@ -1819,15 +1819,15 @@
     ],
     "j-praise international": [
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 9,
-            "rating": 2
-        },
-        {
-            "type": 11,
             "rating": 2
         }
     ],
@@ -1845,11 +1845,11 @@
     ],
     "j choo": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -1933,11 +1933,11 @@
     ],
     "j d power": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2021,11 +2021,11 @@
     ],
     "j league europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2085,11 +2085,11 @@
     ],
     "j s held": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2158,6 +2158,12 @@
         }
     ],
     "j24 resourcing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "j2d consulting": [
         {
             "type": 1,
             "rating": 1
@@ -2349,11 +2355,11 @@
     ],
     "jac recruitment": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -2537,11 +2543,11 @@
     ],
     "jack s creek": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2671,11 +2677,11 @@
     ],
     "jacobi emea": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2709,11 +2715,11 @@
     ],
     "jacobs holding": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2731,16 +2737,16 @@
     ],
     "jacobs": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "jacquard": [
@@ -2899,11 +2905,11 @@
     ],
     "jae europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3107,16 +3113,16 @@
     ],
     "jaguar land rover": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 15,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         },
         {
             "type": 5,
@@ -3227,12 +3233,12 @@
     ],
     "jai maa bhameshwari kali mandir": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "jai maa vaibhav laxmi": [
@@ -3321,8 +3327,8 @@
     ],
     "jain network": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
             "type": 2,
@@ -3333,8 +3339,8 @@
             "rating": 2
         },
         {
-            "type": 11,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "jain samaj europe": [
@@ -3349,12 +3355,12 @@
     ],
     "jain vishva bharati london": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "jainco": [
@@ -3389,12 +3395,12 @@
     ],
     "jaipur express fish & chips co": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "jaipur lounge": [
@@ -3441,11 +3447,11 @@
     ],
     "jaivel aerospace": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3523,11 +3529,11 @@
     ],
     "jakks pacific": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3629,8 +3635,8 @@
     ],
     "jalalia sunni jami masjid & islamic education centre": [
         {
-            "type": 9,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 11,
@@ -3641,8 +3647,8 @@
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         }
     ],
     "jalandhar sweet centre": [
@@ -3923,12 +3929,12 @@
     ],
     "james brown management": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "james burton developers": [
@@ -3969,12 +3975,12 @@
     ],
     "james curtis consulting": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "james development company": [
@@ -4131,11 +4137,11 @@
     ],
     "james mintz": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4327,11 +4333,11 @@
     ],
     "jamia al furqaan": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -4343,16 +4349,16 @@
     ],
     "jamia darus sunnah london": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "jamia hanfia ghosia mosque and princess street resource centre": [
@@ -4363,12 +4369,12 @@
     ],
     "jamia hanfia rezvia mosque": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "jamia islamia islamic & community centre trust": [
@@ -4379,16 +4385,16 @@
     ],
     "jamia islamia ghousia trust": [
         {
-            "type": 11,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 9,
             "rating": 2
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         }
     ],
     "jamia": [
@@ -4507,12 +4513,12 @@
     ],
     "jamieson management scotland": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 13,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "jamil & munir akhtar": [
@@ -4631,11 +4637,11 @@
     ],
     "jamyang buddhist centre": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -4783,11 +4789,11 @@
     ],
     "jane street europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4805,11 +4811,11 @@
     ],
     "jane s": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4863,12 +4869,12 @@
     ],
     "janith homes": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "janitorial essentials": [
@@ -4957,11 +4963,11 @@
     ],
     "janome": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5003,12 +5009,12 @@
     ],
     "janssen-cilag": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -5035,12 +5041,12 @@
     ],
     "january": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "janus conservation": [
@@ -5149,11 +5155,11 @@
     ],
     "japan airlines co": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5265,7 +5271,7 @@
     ],
     "japan national tourism organization": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
@@ -5273,7 +5279,7 @@
             "rating": 2
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5529,11 +5535,11 @@
     ],
     "jas forwarding": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5729,12 +5735,12 @@
     ],
     "jasmin vardimon company": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "jasmine business solutions": [
@@ -5895,11 +5901,11 @@
     ],
     "jasper ridge": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5929,12 +5935,12 @@
     ],
     "jass cateringh": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "jassal flavours": [
@@ -5981,11 +5987,11 @@
     ],
     "jatco": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -6015,11 +6021,11 @@
     ],
     "jato dynamics": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6055,11 +6061,11 @@
     ],
     "java investments management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6125,11 +6131,11 @@
     ],
     "javlin": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6147,11 +6153,11 @@
     ],
     "jawaby and investment": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6229,11 +6235,11 @@
     ],
     "jay jay private": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6663,11 +6669,11 @@
     ],
     "jb drax honore": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6739,11 +6745,11 @@
     ],
     "jbcconnect": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6821,11 +6827,11 @@
     ],
     "jbs global": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6927,16 +6933,16 @@
     ],
     "jcb international europe": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "jcb medway": [
@@ -7011,11 +7017,11 @@
     ],
     "jcr": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7141,11 +7147,11 @@
     ],
     "jd com international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7247,16 +7253,16 @@
     ],
     "jdr cable systems": [
         {
+            "type": 13,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 13,
-            "rating": 2
         }
     ],
     "jdr products": [
@@ -7517,12 +7523,12 @@
     ],
     "jeeyar educational trust": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "jeff jen care plus": [
@@ -7615,7 +7621,7 @@
     ],
     "jehovah evangelical team j e t c c c valley of berachah parish": [
         {
-            "type": 9,
+            "type": 4,
             "rating": 2
         },
         {
@@ -7623,12 +7629,12 @@
             "rating": 2
         },
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "jehovah jireh security": [
@@ -7663,11 +7669,11 @@
     ],
     "jeld-wen europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7691,11 +7697,11 @@
     ],
     "jellyfish": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7707,11 +7713,11 @@
     ],
     "jellysmack": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7753,11 +7759,11 @@
     ],
     "jemella": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7889,11 +7895,11 @@
     ],
     "jenner & block london": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7959,11 +7965,11 @@
     ],
     "jensen hughes": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7999,11 +8005,11 @@
     ],
     "jeol u k": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8021,21 +8027,21 @@
     ],
     "jera global markets pte london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "jera nex bp": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8093,11 +8099,11 @@
     ],
     "jeremy gardner associates": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8109,15 +8115,15 @@
     ],
     "jerich": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -8327,15 +8333,15 @@
     ],
     "jesuits in britain cio": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -8353,21 +8359,21 @@
     ],
     "jesus college": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "jesus deciples community church": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -8383,65 +8389,65 @@
     ],
     "jesus generation ministries": [
         {
+            "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "jesus house for all nations": [
+        {
             "type": 2,
             "rating": 1
         },
         {
             "type": 9,
             "rating": 2
-        }
-    ],
-    "jesus house for all nations": [
+        },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 9,
             "rating": 2
         }
     ],
     "jesus house torry aberdeen": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
         },
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
     "jesus power house ministries": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 11,
             "rating": 2
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         },
         {
-            "type": 2,
+            "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8463,12 +8469,12 @@
     ],
     "jesus women international prayer movement": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "jesus youth": [
@@ -8573,11 +8579,11 @@
     ],
     "jetcraft global": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8589,12 +8595,12 @@
     ],
     "jethavana buddhist vihara": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "jethro": [
@@ -8629,12 +8635,12 @@
     ],
     "jetro london japan external trade organization": [
         {
-            "type": 6,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         },
         {
             "type": 1,
@@ -8823,6 +8829,10 @@
     ],
     "jewish council of scotland": [
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 9,
             "rating": 2
         },
@@ -8833,10 +8843,6 @@
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 11,
-            "rating": 2
         }
     ],
     "jewish futures trust": [
@@ -8845,12 +8851,12 @@
             "rating": 2
         },
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "jewish music institute": [
@@ -9027,11 +9033,11 @@
     ],
     "jfc": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9067,11 +9073,11 @@
     ],
     "jfi healthcare": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9089,11 +9095,11 @@
     ],
     "jfrog": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9129,11 +9135,11 @@
     ],
     "jgc corporation": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9791,11 +9797,11 @@
     ],
     "jingdong retail": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10615,16 +10621,16 @@
     ],
     "jla": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 13,
             "rating": 2
         },
         {
             "type": 6,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "jla speakers": [
@@ -10663,11 +10669,11 @@
     ],
     "jlg legal": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10841,11 +10847,11 @@
     ],
     "jman": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11011,11 +11017,11 @@
     ],
     "jmi salons": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11157,12 +11163,12 @@
     ],
     "jms recordz worldwide productions house": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "jms trading": [
@@ -11425,11 +11431,11 @@
     ],
     "joba international london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11505,12 +11511,12 @@
     ],
     "joe and the juice": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -11597,16 +11603,16 @@
     ],
     "jogmec japan organization for metals and energy security": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 6,
+            "rating": 2
         },
         {
             "type": 5,
             "rating": 1
         },
         {
-            "type": 6,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "joh berenberg gossler & co kg london branch": [
@@ -11779,15 +11785,15 @@
     ],
     "john crane": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -11811,11 +11817,11 @@
     ],
     "john deere": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11863,11 +11869,11 @@
     ],
     "john g lake ministries & ie": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -11999,12 +12005,12 @@
     ],
     "john lobb": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "john logistics": [
@@ -12205,15 +12211,15 @@
     ],
     "john sisk & son": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -12335,15 +12341,15 @@
     ],
     "johnson & johnson medical": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -12485,11 +12491,11 @@
     ],
     "johnston racing": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12579,11 +12585,11 @@
     ],
     "join the dots research": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12733,11 +12739,11 @@
     ],
     "jollofe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12993,11 +12999,11 @@
     ],
     "jones lang lasalle": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13027,11 +13033,11 @@
     ],
     "jonestrading international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13251,11 +13257,11 @@
     ],
     "joseph gallagher": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13361,11 +13367,11 @@
     ],
     "josh & jake chinnaiyan": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13489,11 +13495,11 @@
     ],
     "jouffre": [
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -13539,11 +13545,11 @@
     ],
     "journey community church": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -13649,11 +13655,11 @@
     ],
     "joy global": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13683,11 +13689,11 @@
     ],
     "joyalukkas": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14027,7 +14033,7 @@
     ],
     "jpmorgan chase bank national association": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
@@ -14035,7 +14041,7 @@
             "rating": 2
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14080,6 +14086,12 @@
         }
     ],
     "jr accountants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jr alloy wheel repair": [
         {
             "type": 1,
             "rating": 1
@@ -14241,11 +14253,11 @@
     ],
     "jri europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14395,17 +14407,23 @@
     ],
     "js health vitamins": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "js holdings": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "js international trade": [
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14723,11 +14741,11 @@
     ],
     "jsp": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14901,16 +14919,16 @@
     ],
     "jtb europe": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "jtc": [
@@ -14931,16 +14949,16 @@
     ],
     "jtekt automotive england": [
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         }
     ],
     "jtfom": [
@@ -14963,11 +14981,11 @@
     ],
     "jtre london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15091,16 +15109,16 @@
     ],
     "jubilee church maidstone": [
         {
-            "type": 9,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 11,
             "rating": 2
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         }
     ],
     "jubilee court care home": [
@@ -15225,11 +15243,11 @@
     ],
     "judilica": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15361,11 +15379,11 @@
     ],
     "jukin media": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15467,12 +15485,12 @@
     ],
     "julius baer international": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -15493,11 +15511,11 @@
     ],
     "juls london": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15579,11 +15597,11 @@
     ],
     "jumo europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15613,11 +15631,11 @@
     ],
     "jump trading international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15665,11 +15683,11 @@
     ],
     "junction 6": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15735,11 +15753,11 @@
     ],
     "juneyao airlines co branch": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15757,11 +15775,11 @@
     ],
     "jungheinrich": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15877,11 +15895,11 @@
     ],
     "juniper networks": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15987,15 +16005,15 @@
     ],
     "jupitor corporation": [
         {
+            "type": 3,
+            "rating": 1
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 3,
             "rating": 1
         }
     ],
@@ -16097,11 +16115,11 @@
     ],
     "jusan technologies": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16265,12 +16283,12 @@
     ],
     "just help foundation": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "just homes surrey": [
@@ -16603,11 +16621,11 @@
     ],
     "juvenesence": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16759,11 +16777,11 @@
     ],
     "jwm law offices": [
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -16775,12 +16793,12 @@
     ],
     "jwtc": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "jww construction": [
