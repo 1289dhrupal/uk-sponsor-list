@@ -547,6 +547,12 @@
             "rating": 1
         }
     ],
+    "palmer & co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "putney dentists": [
         {
             "type": 1,
@@ -14506,6 +14512,16 @@
         }
     ],
     "peridot solar holdco": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "perigus energy": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -41121,12 +41137,6 @@
             "rating": 1
         }
     ],
-    "pure blinds & shutters": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "pure body": [
         {
             "type": 1,
@@ -43140,290 +43150,6 @@
         }
     ],
     "park road dental practice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "park farm post office": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "park dental care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "phone doctor": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "parley cross veterinary centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "provisions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "premier kvk mini market": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pizza 1889 cambridge": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "panda locks and doors trading": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pathway education": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pcea": [
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
-    "pepinos": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "phoenix healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "physiotherapy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "planet tools": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "plastics walsall": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "plumbing plastics and bathrooms": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ports": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "postings": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "power engineers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "power generators": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "power networks operations": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "power solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "poz": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "premier fuel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "private hire lancs": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "productions": [
-        {
-            "type": 4,
-            "rating": 2
-        }
-    ],
-    "professional guarding": [
-        {
-            "type": 7,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "properties management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "property accountants": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "property and investment weekly": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "parade supermarket": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "park food & wine - premier": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pasa restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pizzamore": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pho viet": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "premier convenience store trading address": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "premier- kendray convenience store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "premium super save convenience store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "priyo bazzar": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pompette": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "premier & post office": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "park avenue blackpool pier hotel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "platinum info techs": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "powered access": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pinehurst supermarket": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pound plus": [
         {
             "type": 1,
             "rating": 1

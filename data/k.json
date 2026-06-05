@@ -7135,6 +7135,12 @@
             "rating": 1
         }
     ],
+    "kcdent": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kch catering": [
         {
             "type": 1,
@@ -13734,6 +13740,10 @@
     "king s college": [
         {
             "type": 12,
+            "rating": 2
+        },
+        {
+            "type": 4,
             "rating": 2
         },
         {
@@ -24504,66 +24514,6 @@
     "kinross polo club": [
         {
             "type": 10,
-            "rating": 1
-        }
-    ],
-    "kitchen plaza": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kentish town post office": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kolapata retaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kaydees": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kings dry cleaners": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "krisp london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kings flavour": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kelstone court nursing home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "karahi wok": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kasey s chicken": [
-        {
-            "type": 1,
             "rating": 1
         }
     ]

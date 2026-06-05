@@ -2135,6 +2135,12 @@
             "rating": 1
         }
     ],
+    "gaia earth sciences": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gaia fertility": [
         {
             "type": 1,
@@ -11557,6 +11563,12 @@
             "rating": 1
         }
     ],
+    "glacies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "glacz international company": [
         {
             "type": 1,
@@ -14192,6 +14204,12 @@
         }
     ],
     "global memory": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "global merchandising": [
         {
             "type": 1,
             "rating": 1
@@ -17851,6 +17869,12 @@
             "rating": 1
         }
     ],
+    "goldcrest security cymru": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "goldcross travel & cargo": [
         {
             "type": 1,
@@ -18442,12 +18466,6 @@
         }
     ],
     "golden wolfe": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "golden years support service": [
         {
             "type": 1,
             "rating": 1
@@ -22881,6 +22899,12 @@
             "rating": 1
         }
     ],
+    "graphic design london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "graphic media company": [
         {
             "type": 1,
@@ -23136,6 +23160,12 @@
         }
     ],
     "gravity ceramic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gravity civil and structural engineering": [
         {
             "type": 1,
             "rating": 1
@@ -26841,6 +26871,12 @@
             "rating": 1
         }
     ],
+    "gridcore solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gridimp": [
         {
             "type": 1,
@@ -29685,6 +29721,18 @@
             "rating": 1
         }
     ],
+    "guisborough pharma": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "guisborough pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "guisborough specsavers": [
         {
             "type": 1,
@@ -32153,10 +32201,6 @@
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
         }
     ],
     "griller": [
@@ -32368,178 +32412,6 @@
         }
     ],
     "grill & chill": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "good humans": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gouqi": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "guardian angel carers spelthorne elmbridge and runnymede": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "garanti builders": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gas cooker": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gas safety and competence": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gas": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gas technologies": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "get trained": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "glass": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "glassforce": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "global commodities": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "good deals": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "government investments": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "graduate": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "guan yin citta dharma door buddhist charity foundation": [
-        {
-            "type": 9,
-            "rating": 2
-        }
-    ],
-    "gunite": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "green street stores": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "golborne pharmacy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "global-migrate": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gmd tyres": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gatley tandoori takeaway": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grill shack and tiki bar": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gibbs & gurnell": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "galaxy tuition": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gunaydin": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "great wall chinese restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grilliant bites": [
         {
             "type": 1,
             "rating": 1
