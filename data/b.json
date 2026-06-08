@@ -131,6 +131,12 @@
             "rating": 1
         }
     ],
+    "bluebird care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bites of india botanic": [
         {
             "type": 1,
@@ -204,12 +210,6 @@
         }
     ],
     "bluebird care st albans": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bluebird care": [
         {
             "type": 1,
             "rating": 1
@@ -2811,12 +2811,6 @@
             "rating": 1
         }
     ],
-    "bah projects": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bahamas maritime authority": [
         {
             "type": 1,
@@ -3710,12 +3704,6 @@
         }
     ],
     "balchem": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "balci foods": [
         {
             "type": 1,
             "rating": 1
@@ -4633,11 +4621,11 @@
     ],
     "bamford collection": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5066,6 +5054,12 @@
         }
     ],
     "banggear": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bangholm medical centre": [
         {
             "type": 1,
             "rating": 1
@@ -11277,6 +11271,12 @@
             "rating": 1
         }
     ],
+    "beam orthodontics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "beam primary school": [
         {
             "type": 1,
@@ -12390,6 +12390,12 @@
         }
     ],
     "bed world components": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bedale opco": [
         {
             "type": 1,
             "rating": 1
@@ -20442,6 +20448,12 @@
         }
     ],
     "biea british international education association": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "biea trading": [
         {
             "type": 1,
             "rating": 1
@@ -30929,6 +30941,16 @@
             "rating": 2
         }
     ],
+    "bold electrification": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bold innovate": [
         {
             "type": 1,
@@ -31744,12 +31766,6 @@
         }
     ],
     "bondcare regions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bondcare willington": [
         {
             "type": 1,
             "rating": 1
@@ -41215,6 +41231,12 @@
             "rating": 1
         }
     ],
+    "brityard": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "britzhealthcare": [
         {
             "type": 1,
@@ -46022,6 +46044,12 @@
         }
     ],
     "bungalow convenience store": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bunny hop by sam s": [
         {
             "type": 1,
             "rating": 1
@@ -50902,6 +50930,334 @@
         }
     ],
     "burbank food & wine": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bridge street stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bains supermarket": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "burger joint": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "burrito bull": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "better co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "blossom home care lincolnshire": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "b&g": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bakshi": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bandwidth": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
+    "battery industrialisation centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bazaar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "biobank": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "biocentre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "biogas holdings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "boiler company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bond": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "branch of enterprisejungle": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "branch of sewon chemical co": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 3,
+            "rating": 1
+        }
+    ],
+    "brands": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bright horizons": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "business affairs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "business college": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "business resource centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "buyback": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "black": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "barton brook care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bilton hall nursing home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bramley inn": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "brown & rosie": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "baskin robbins": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "biryani and burgers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bargain booze and select convenience": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ballingdon valley": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "brewery field street food restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bargin booze": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bridgefield mini market budgens": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bluebird care newmarket fenland kings lynn & west norfolk": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bromborough stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "brothers superstore": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "beaumont court care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "british wholesales": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bluebird care wiltshire south": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bombay nnakka": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bridge of don dental & aesthetic clinic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "buffet island": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "best western london highbury hotel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "biryani guys": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bishop sutton stores & post office": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "babus indian spice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "butterfly dental practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "biomonde": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "blossom home care": [
         {
             "type": 1,
             "rating": 1

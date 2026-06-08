@@ -7091,11 +7091,11 @@
     ],
     "kca deutag drilling": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14419,6 +14419,12 @@
             "rating": 1
         }
     ],
+    "kingsbury dental practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kingsbury halal butchers": [
         {
             "type": 1,
@@ -18070,12 +18076,6 @@
         }
     ],
     "knox insolvency": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "knox mcconnell architects": [
         {
             "type": 1,
             "rating": 1
@@ -24514,6 +24514,66 @@
     "kinross polo club": [
         {
             "type": 10,
+            "rating": 1
+        }
+    ],
+    "kitchen plaza": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kentish town post office": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kolapata retaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kaydees": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kings dry cleaners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "krisp london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kings flavour": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kelstone court nursing home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "karahi wok": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kasey s chicken": [
+        {
+            "type": 1,
             "rating": 1
         }
     ]

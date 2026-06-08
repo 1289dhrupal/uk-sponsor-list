@@ -5545,6 +5545,12 @@
             "rating": 1
         }
     ],
+    "gch hotels windsor": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gch operations holdings": [
         {
             "type": 1,
@@ -5624,12 +5630,6 @@
         }
     ],
     "gcs private": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gcssystems": [
         {
             "type": 1,
             "rating": 1
@@ -8137,6 +8137,12 @@
             "rating": 1
         }
     ],
+    "georgian antiques": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "georgian house hotel": [
         {
             "type": 1,
@@ -8869,16 +8875,6 @@
             "rating": 1
         }
     ],
-    "gf machining solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "gfa elektromaten": [
         {
             "type": 1,
@@ -8887,11 +8883,11 @@
     ],
     "gfa world": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -11274,6 +11270,12 @@
         }
     ],
     "gjns": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gjs design consultants": [
         {
             "type": 1,
             "rating": 1
@@ -14728,12 +14730,6 @@
         }
     ],
     "global talent creators gtc": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "global tech house": [
         {
             "type": 1,
             "rating": 1
@@ -21315,12 +21311,6 @@
             "rating": 1
         }
     ],
-    "grace hour healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "grace house care home": [
         {
             "type": 1,
@@ -22104,12 +22094,6 @@
         }
     ],
     "grand care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grand central post": [
         {
             "type": 1,
             "rating": 1
@@ -32201,6 +32185,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
         }
     ],
     "griller": [
@@ -32412,6 +32400,178 @@
         }
     ],
     "grill & chill": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "good humans": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gouqi": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "guardian angel carers spelthorne elmbridge and runnymede": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "garanti builders": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gas cooker": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gas safety and competence": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gas": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gas technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "get trained": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "glass": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "glassforce": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "global commodities": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "good deals": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "government investments": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "graduate": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "guan yin citta dharma door buddhist charity foundation": [
+        {
+            "type": 9,
+            "rating": 2
+        }
+    ],
+    "gunite": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "green street stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "golborne pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "global-migrate": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gmd tyres": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gatley tandoori takeaway": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "grill shack and tiki bar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gibbs & gurnell": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "galaxy tuition": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gunaydin": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "great wall chinese restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "grilliant bites": [
         {
             "type": 1,
             "rating": 1

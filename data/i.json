@@ -53,6 +53,12 @@
             "rating": 1
         }
     ],
+    "imperial glazing solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "indiya": [
         {
             "type": 1,
@@ -4181,11 +4187,11 @@
     ],
     "iglu network": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -6957,12 +6963,6 @@
             "rating": 1
         }
     ],
-    "imperial breeze healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "imperial breeze healthcare south east": [
         {
             "type": 1,
@@ -8067,12 +8067,6 @@
             "rating": 1
         }
     ],
-    "in2 design engineering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "in2grate business solutions": [
         {
             "type": 1,
@@ -8129,11 +8123,11 @@
     ],
     "inatech europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13123,12 +13117,6 @@
             "rating": 1
         }
     ],
-    "inplenion": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "inploi": [
         {
             "type": 1,
@@ -13178,6 +13166,12 @@
         }
     ],
     "insafehands": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "insanity media": [
         {
             "type": 1,
             "rating": 1
@@ -20327,6 +20321,16 @@
             "rating": 1
         }
     ],
+    "iqvia laboratories": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "iqvia": [
         {
             "type": 1,
@@ -21816,12 +21820,6 @@
         }
     ],
     "isobel advertising": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "isobelles care": [
         {
             "type": 1,
             "rating": 1
@@ -24290,6 +24288,88 @@
         }
     ],
     "indiawaale by the arth": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "i-smartlife company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ice hockey foundation": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 1
+        }
+    ],
+    "immigration and visa": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "india healthcare collaboration": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "industrial pallets southern": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "international machinery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "international nursing agency": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "intis telecom": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ireland equipment": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "israel business": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "independent financial advisor": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ips pharma": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ikkan sushi": [
         {
             "type": 1,
             "rating": 1
