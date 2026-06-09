@@ -1,13 +1,16 @@
 {
     "types": {
+        "1": "Licensed and Fully Active"
+    },
+    "ratings": {
         "1": "Skilled Worker",
-        "2": "Tier 2 Ministers of Religion",
-        "3": "Global Business Mobility: UK Expansion Worker",
+        "2": "Global Business Mobility: Senior or Specialist Worker",
+        "3": "International Agreement",
         "4": "Creative Worker",
-        "5": "Global Business Mobility: Senior or Specialist Worker",
-        "6": "International Agreement",
-        "7": "Scale-up",
-        "8": "Global Business Mobility: Graduate Trainee",
+        "5": "Scale-up",
+        "6": "Tier 2 Ministers of Religion",
+        "7": "Global Business Mobility: Graduate Trainee",
+        "8": "Global Business Mobility: UK Expansion Worker",
         "9": "Charity Worker",
         "10": "International Sportsperson",
         "11": "Religious Worker",
@@ -15,18 +18,7 @@
         "13": "Global Business Mobility: Service Supplier",
         "14": "Seasonal Worker",
         "15": "Global Business Mobility: Secondment Worker",
-        "16": "Intra-company Routes",
-        "17": "Intra Company Transfers (ICT)"
-    },
-    "ratings": {
-        "1": "Worker (A rating)",
-        "2": "Temporary Worker (A rating)",
-        "3": "Worker (UK Expansion Worker: Provisional )",
-        "4": "Worker (B rating)",
-        "5": "Temporary Worker (B rating)",
-        "6": "Worker (A (SME+))",
-        "7": "Temporary Worker (A (SME+))",
-        "8": "Worker (A (Premium))",
-        "9": "Temporary Worker (A (Premium))"
+        "16": "Intra Company Transfers (ICT)",
+        "17": "Intra-company Routes"
     }
 }
