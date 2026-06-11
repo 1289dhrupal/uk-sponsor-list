@@ -2117,6 +2117,12 @@
             "rating": 1
         }
     ],
+    "oban congregational church": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "oban dental and implant centre": [
         {
             "type": 1,
@@ -4417,11 +4423,11 @@
     ],
     "oilfield production consultants opc": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5240,6 +5246,12 @@
     "oldham council": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "oldham engineering": [
+        {
+            "type": 5,
             "rating": 1
         }
     ],

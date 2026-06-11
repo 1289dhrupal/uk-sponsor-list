@@ -165,12 +165,6 @@
             "rating": 1
         }
     ],
-    "indish": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "id autospray": [
         {
             "type": 1,
@@ -396,12 +390,6 @@
         }
     ],
     "i a & c maciver": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "i am cares": [
         {
             "type": 1,
             "rating": 1
@@ -4499,13 +4487,19 @@
             "rating": 1
         }
     ],
+    "igy skd management company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ih international advisors": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5893,6 +5887,12 @@
             "rating": 1
         }
     ],
+    "imagino": [
+        {
+            "type": 8,
+            "rating": 2
+        }
+    ],
     "imago publishing": [
         {
             "type": 1,
@@ -6336,12 +6336,6 @@
         }
     ],
     "imlink": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "immaculate healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -6985,6 +6979,12 @@
             "rating": 1
         }
     ],
+    "imperial care hcs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "imperial cash and carry": [
         {
             "type": 1,
@@ -7596,12 +7596,6 @@
         }
     ],
     "improvenergy solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "impulse care": [
         {
             "type": 1,
             "rating": 1
@@ -9658,6 +9652,16 @@
         }
     ],
     "indo-asia trading": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "indo- film company": [
+        {
+            "type": 4,
+            "rating": 2
+        },
         {
             "type": 1,
             "rating": 1
@@ -11999,6 +12003,10 @@
     ],
     "inktec europe": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -13812,12 +13820,6 @@
         }
     ],
     "inspire you care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "inspirecare 247 t/ahalo domiciliary care": [
         {
             "type": 1,
             "rating": 1
@@ -20601,12 +20603,6 @@
             "rating": 1
         }
     ],
-    "irisarlene": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "irisguard": [
         {
             "type": 1,
@@ -21136,6 +21132,12 @@
         }
     ],
     "ishaas indian eatery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ishak practices": [
         {
             "type": 1,
             "rating": 1
@@ -22596,7 +22598,7 @@
     "ite holding": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "itebs world": [
@@ -23546,6 +23548,12 @@
     "ivy business centre": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "ivy church bristol": [
+        {
+            "type": 2,
             "rating": 1
         }
     ],

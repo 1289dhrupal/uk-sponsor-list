@@ -2385,12 +2385,6 @@
             "rating": 1
         }
     ],
-    "lad assessments": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ladana lounge": [
         {
             "type": 1,
@@ -2411,11 +2405,11 @@
     ],
     "ladbrokes betting & gaming": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7989,6 +7983,12 @@
             "rating": 1
         }
     ],
+    "leading edge accountancy solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "leading edge automation": [
         {
             "type": 1,
@@ -10935,12 +10935,6 @@
             "rating": 1
         }
     ],
-    "leopard hotel 5": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "leopard secure": [
         {
             "type": 1,
@@ -13750,12 +13744,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "lifesytle support": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -29479,6 +29467,12 @@
             "rating": 1
         }
     ],
+    "luxuria auto": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "luxurious personal care": [
         {
             "type": 1,
@@ -30142,6 +30136,12 @@
         }
     ],
     "lyndhurst rest home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lyndon goode architects": [
         {
             "type": 1,
             "rating": 1
