@@ -15441,6 +15441,12 @@
             "rating": 2
         }
     ],
+    "glorious estates": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "glorious fast": [
         {
             "type": 1,
@@ -23635,15 +23641,15 @@
             "rating": 1
         }
     ],
-    "great harwood cricket club": [
-        {
-            "type": 10,
-            "rating": 1
-        }
-    ],
     "great harwood medical": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "great harwood sports and social club": [
+        {
+            "type": 10,
             "rating": 1
         }
     ],
@@ -27972,12 +27978,6 @@
         }
     ],
     "growing hope king s cross": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "growing independent support": [
         {
             "type": 1,
             "rating": 1

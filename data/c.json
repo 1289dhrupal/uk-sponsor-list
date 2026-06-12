@@ -9877,12 +9877,6 @@
             "rating": 1
         }
     ],
-    "care petals": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "care pharma romford": [
         {
             "type": 1,
@@ -12142,12 +12136,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "carrik care": [
         {
             "type": 1,
             "rating": 1
@@ -37545,11 +37533,11 @@
     ],
     "cnr international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -51205,12 +51193,6 @@
             "rating": 1
         }
     ],
-    "cowgill holloway": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cowgills": [
         {
             "type": 1,
@@ -51219,11 +51201,11 @@
     ],
     "cowi": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

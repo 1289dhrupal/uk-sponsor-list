@@ -4829,12 +4829,6 @@
             "rating": 1
         }
     ],
-    "dat healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "data 1st": [
         {
             "type": 1,
@@ -7889,12 +7883,6 @@
             "rating": 1
         }
     ],
-    "de-heritage international": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "de-ientes": [
         {
             "type": 1,
@@ -9817,6 +9805,18 @@
             "rating": 1
         }
     ],
+    "delight essential": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dolphin healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "delight foods": [
         {
             "type": 1,
@@ -9918,6 +9918,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "delio": [
         {
             "type": 1,
             "rating": 1
@@ -25261,6 +25267,12 @@
             "rating": 1
         }
     ],
+    "dr charlie easmon": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dr craig needs": [
         {
             "type": 1,
@@ -26432,12 +26444,6 @@
         }
     ],
     "drb schools and academies": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "drc it solutions": [
         {
             "type": 1,
             "rating": 1

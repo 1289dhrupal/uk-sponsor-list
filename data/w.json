@@ -3085,6 +3085,12 @@
             "rating": 1
         }
     ],
+    "ward gethin archer": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ward hadaway": [
         {
             "type": 1,
@@ -5300,6 +5306,12 @@
         }
     ],
     "ways to wellness foundation": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wayside care": [
         {
             "type": 1,
             "rating": 1
@@ -20096,12 +20108,6 @@
         }
     ],
     "woolton grange care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "woolton physiotherapy clinic": [
         {
             "type": 1,
             "rating": 1

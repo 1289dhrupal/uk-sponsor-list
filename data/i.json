@@ -2479,20 +2479,6 @@
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
-    "icon clinical research": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "icon corporate finance": [
@@ -10388,12 +10374,6 @@
         }
     ],
     "infinite care network": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "infinite care": [
         {
             "type": 1,
             "rating": 1
@@ -23080,12 +23060,6 @@
         }
     ],
     "its pizza time": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "its software systems": [
         {
             "type": 1,
             "rating": 1

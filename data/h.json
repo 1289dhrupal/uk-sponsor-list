@@ -3497,6 +3497,12 @@
             "rating": 1
         }
     ],
+    "halcyon medical centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "halcyon medispa & wellness clinic": [
         {
             "type": 1,
@@ -4376,6 +4382,12 @@
         }
     ],
     "hamidi transport": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hamill homecare": [
         {
             "type": 1,
             "rating": 1
@@ -10391,20 +10403,14 @@
             "rating": 1
         }
     ],
-    "havana care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "havana salsa": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "havanatour": [
@@ -15581,6 +15587,12 @@
             "rating": 1
         }
     ],
+    "hembury fort house": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hemdem interior": [
         {
             "type": 1,
@@ -16151,6 +16163,10 @@
     ],
     "hensel recycling": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         }
@@ -16570,6 +16586,12 @@
         }
     ],
     "heritage charity london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "heritage childrens homes": [
         {
             "type": 1,
             "rating": 1
@@ -30728,12 +30750,6 @@
         }
     ],
     "hughes electronics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hughes fowler carruthers": [
         {
             "type": 1,
             "rating": 1
