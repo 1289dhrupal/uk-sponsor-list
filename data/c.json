@@ -797,6 +797,12 @@
             "rating": 1
         }
     ],
+    "c and s goodear": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "c brandauer and co": [
         {
             "type": 1,
@@ -10743,12 +10749,6 @@
             "rating": 1
         }
     ],
-    "carepoint": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "carepoint365": [
         {
             "type": 1,
@@ -18752,6 +18752,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "certs assured technology": [
         {
             "type": 1,
             "rating": 1
@@ -29201,7 +29207,7 @@
             "rating": 1
         }
     ],
-    "chutzpah property connect": [
+    "chutzpah properties": [
         {
             "type": 1,
             "rating": 1
@@ -29810,12 +29816,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cinejade": [
         {
             "type": 1,
             "rating": 1
@@ -39219,12 +39219,6 @@
             "rating": 1
         }
     ],
-    "cognitive publishing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cognitive solutions": [
         {
             "type": 1,
@@ -41288,6 +41282,12 @@
         }
     ],
     "commercial it recycling t/a ecogreen it recycling": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "commercial": [
         {
             "type": 1,
             "rating": 1
@@ -45853,20 +45853,6 @@
             "rating": 1
         }
     ],
-    "continental automotive trading": [
-        {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "continental business service": [
         {
             "type": 1,
@@ -48057,6 +48043,16 @@
             "rating": 1
         }
     ],
+    "corinth pipeworks": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "corinthia global management": [
         {
             "type": 1,
@@ -49532,12 +49528,6 @@
         }
     ],
     "costcutter hailsham": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "costcutter kph traders": [
         {
             "type": 1,
             "rating": 1
@@ -51066,16 +51056,6 @@
     "coverwise holdings": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "coverys managing agency": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],

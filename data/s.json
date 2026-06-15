@@ -1307,12 +1307,6 @@
             "rating": 1
         }
     ],
-    "st michaels rest home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shobha s rasoi": [
         {
             "type": 1,
@@ -2508,6 +2502,12 @@
         }
     ],
     "st margarets nursing home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sapphire pharmacy": [
         {
             "type": 1,
             "rating": 1
@@ -3816,12 +3816,6 @@
         }
     ],
     "s u birmingham": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "s u v health care": [
         {
             "type": 1,
             "rating": 1
@@ -9607,6 +9601,12 @@
             "rating": 1
         }
     ],
+    "salessense international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "salford city college": [
         {
             "type": 1,
@@ -10300,6 +10300,12 @@
         }
     ],
     "sam & co accountants mcr": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sam & hi equestrian": [
         {
             "type": 1,
             "rating": 1
@@ -13856,12 +13862,6 @@
         }
     ],
     "sapphire retail international": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sapphire software": [
         {
             "type": 1,
             "rating": 1
@@ -22806,6 +22806,12 @@
         }
     ],
     "selectronics phone and computer repairs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "selekt motors": [
         {
             "type": 1,
             "rating": 1
@@ -34149,6 +34155,18 @@
             "rating": 1
         }
     ],
+    "shreejifoodsuk": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "shayona grocery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "shreek meds": [
         {
             "type": 1,
@@ -34827,11 +34845,11 @@
     ],
     "shun xin century": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -54893,7 +54911,7 @@
             "rating": 1
         }
     ],
-    "southtax cars": [
+    "southtax southampton taxi": [
         {
             "type": 1,
             "rating": 1
@@ -63724,12 +63742,6 @@
         }
     ],
     "st andrew s catholic primary school": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "st andrew s catholic school": [
         {
             "type": 1,
             "rating": 1
@@ -73845,6 +73857,12 @@
             "rating": 1
         }
     ],
+    "strathearn leisure parks": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "strathedin properties": [
         {
             "type": 1,
@@ -82233,11 +82251,11 @@
     ],
     "susquehanna dublin - branch": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

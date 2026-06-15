@@ -5329,12 +5329,6 @@
             "rating": 1
         }
     ],
-    "hand of hope homecare service": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hand picked hotels": [
         {
             "type": 1,
@@ -5387,7 +5381,7 @@
             "rating": 1
         }
     ],
-    "handicap international": [
+    "handicap international known as humanity & inclusion": [
         {
             "type": 1,
             "rating": 1
@@ -18977,6 +18971,12 @@
             "rating": 1
         }
     ],
+    "high-tech membrane roofing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "high-tech mot s": [
         {
             "type": 1,
@@ -24640,12 +24640,6 @@
         }
     ],
     "holy shot": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "holy trade": [
         {
             "type": 1,
             "rating": 1
@@ -31893,6 +31887,12 @@
             "rating": 1
         }
     ],
+    "huntingdon specsavers hearcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "huntington dental surgery": [
         {
             "type": 1,
@@ -32393,11 +32393,11 @@
     ],
     "hutchison whampoa europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

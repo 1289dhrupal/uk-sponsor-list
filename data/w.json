@@ -5165,12 +5165,6 @@
             "rating": 1
         }
     ],
-    "waxham house": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "waxman energy": [
         {
             "type": 1,
@@ -7078,6 +7072,12 @@
         }
     ],
     "weinbriner": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "weingart global": [
         {
             "type": 1,
             "rating": 1
@@ -11862,12 +11862,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "wheelie good motors": [
         {
             "type": 1,
             "rating": 1

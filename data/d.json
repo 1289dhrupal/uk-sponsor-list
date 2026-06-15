@@ -549,6 +549,12 @@
             "rating": 1
         }
     ],
+    "d c daniels dental": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "d c i & e food": [
         {
             "type": 1,
@@ -884,6 +890,12 @@
         }
     ],
     "d&d porter": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "d&f creative": [
         {
             "type": 1,
             "rating": 1
@@ -29399,11 +29411,11 @@
     ],
     "dun & bradstreet": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30080,12 +30092,6 @@
         }
     ],
     "durbar hospitality": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "durbar": [
         {
             "type": 1,
             "rating": 1

@@ -1567,12 +1567,6 @@
             "rating": 1
         }
     ],
-    "ukcode cultural exchange": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "uke electric service": [
         {
             "type": 1,
@@ -1632,6 +1626,16 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "ukg technology": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2342,6 +2346,12 @@
         }
     ],
     "ultratown": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ultraviolet cyber": [
         {
             "type": 1,
             "rating": 1

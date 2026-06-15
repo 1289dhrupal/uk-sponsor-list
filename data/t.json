@@ -1113,6 +1113,12 @@
             "rating": 1
         }
     ],
+    "the gin tub": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the gurkha kitchen": [
         {
             "type": 1,
@@ -2806,6 +2812,12 @@
         }
     ],
     "traditional european food & wine": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the burgerzzz": [
         {
             "type": 1,
             "rating": 1
@@ -28027,6 +28039,12 @@
             "rating": 1
         }
     ],
+    "the ingham practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the ingredientist": [
         {
             "type": 1,
@@ -29650,12 +29668,6 @@
             "type": 4,
             "rating": 2
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the lingoes": [
         {
             "type": 1,
             "rating": 1
@@ -41137,6 +41149,12 @@
             "rating": 1
         }
     ],
+    "thermo king": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "thermoelectric conversion systems": [
         {
             "type": 1,
@@ -41145,12 +41163,12 @@
     ],
     "thermographic measurements co": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "thermopylae": [
@@ -61043,13 +61061,19 @@
             "rating": 1
         }
     ],
+    "twfvp": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "twg cadillac formula 1 team": [
         {
-            "type": 5,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 5,
             "rating": 1
         },
         {

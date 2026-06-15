@@ -5859,12 +5859,6 @@
             "rating": 1
         }
     ],
-    "paragon east": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "paragon fire protection": [
         {
             "type": 1,
@@ -24905,6 +24899,12 @@
             "rating": 1
         }
     ],
+    "plymouth chiropractic clinic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "plymouth city council": [
         {
             "type": 1,
@@ -34789,6 +34789,12 @@
             "rating": 1
         }
     ],
+    "priorcarehomes / fernlea residential home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "priority accountancy": [
         {
             "type": 1,
@@ -35610,6 +35616,12 @@
         }
     ],
     "pro fit bays ta pro fit bays garage": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pro football academy": [
         {
             "type": 1,
             "rating": 1
@@ -39547,11 +39559,11 @@
     ],
     "prudential": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
