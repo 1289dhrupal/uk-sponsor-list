@@ -13755,23 +13755,29 @@
             "rating": 1
         }
     ],
-    "telespazio": [
+    "teleship": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "telespazio": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
     "teletrac navman": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29297,6 +29303,12 @@
             "rating": 1
         }
     ],
+    "the laundry post": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the laundry restaurant": [
         {
             "type": 1,
@@ -33372,6 +33384,12 @@
         }
     ],
     "the parochial church council of the ecclesiastical parish of christ church summerfield birmingham": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "the parochial church council of the ecclesiastical parish of christ church west green with st peter": [
         {
             "type": 2,
             "rating": 1
@@ -38649,6 +38667,12 @@
             "rating": 1
         }
     ],
+    "the trendsetting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the trinity house ministries": [
         {
             "type": 2,
@@ -41532,12 +41556,6 @@
         }
     ],
     "thinkbiz": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "thinkempathy": [
         {
             "type": 1,
             "rating": 1
@@ -49055,13 +49073,13 @@
             "rating": 1
         }
     ],
-    "top shop convenience store": [
+    "top shop food & booze": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "top shop food & booze": [
+    "top shop maltby": [
         {
             "type": 1,
             "rating": 1
@@ -54709,12 +54727,6 @@
             "rating": 1
         }
     ],
-    "trend international": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "trend micro": [
         {
             "type": 5,
@@ -59953,13 +59965,13 @@
             "rating": 1
         }
     ],
-    "turbine simulation cell technologies": [
+    "turbine simulated cell technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

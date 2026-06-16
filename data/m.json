@@ -13197,12 +13197,6 @@
             "rating": 1
         }
     ],
-    "marcon community": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "marcon fit-out": [
         {
             "type": 1,
@@ -29517,11 +29511,11 @@
     ],
     "metrol technology": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -54815,6 +54809,12 @@
             "rating": 1
         }
     ],
+    "mvm advisory": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "mvm2": [
         {
             "type": 1,
@@ -57338,6 +57338,12 @@
         }
     ],
     "menara lounge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "madras masala": [
         {
             "type": 1,
             "rating": 1

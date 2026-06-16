@@ -12259,6 +12259,12 @@
             "rating": 1
         }
     ],
+    "sandhurst service station": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sandhus convience stores": [
         {
             "type": 1,
@@ -24614,6 +24620,12 @@
         }
     ],
     "serenity care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "serenity consultancy": [
         {
             "type": 1,
             "rating": 1
@@ -38699,6 +38711,16 @@
             "rating": 1
         }
     ],
+    "simply tv": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "simplybeds online": [
         {
             "type": 1,
@@ -39823,11 +39845,11 @@
     ],
     "sion catholic community for evangelism": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
@@ -40654,6 +40676,16 @@
         }
     ],
     "sitemark": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sitemate": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -54859,6 +54891,12 @@
             "rating": 1
         }
     ],
+    "southpaw communications": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "southport & birkdale cricket club": [
         {
             "type": 10,
@@ -57251,13 +57289,19 @@
             "rating": 1
         }
     ],
+    "speeder systems": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "speedinvest": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -68775,6 +68819,12 @@
             "rating": 1
         }
     ],
+    "starlybek care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "starmedi healthcare": [
         {
             "type": 1,
@@ -70287,6 +70337,12 @@
             "rating": 1
         }
     ],
+    "stencil creative": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "stenham support": [
         {
             "type": 5,
@@ -71336,6 +71392,10 @@
         }
     ],
     "stick n step": [
+        {
+            "type": 9,
+            "rating": 2
+        },
         {
             "type": 1,
             "rating": 1
@@ -81440,6 +81500,12 @@
         }
     ],
     "surejogi old street": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "surelygrow": [
         {
             "type": 1,
             "rating": 1

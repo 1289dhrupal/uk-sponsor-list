@@ -9535,7 +9535,7 @@
             "rating": 1
         }
     ],
-    "legend financial and tax advisers": [
+    "legend fusions": [
         {
             "type": 1,
             "rating": 1
@@ -10544,6 +10544,12 @@
     "lennox auto": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "lennox evangelical church": [
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -11826,6 +11832,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lewis hamilton ventures": [
         {
             "type": 1,
             "rating": 1
@@ -22278,6 +22290,12 @@
         }
     ],
     "london family office": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "london fast food investment": [
         {
             "type": 1,
             "rating": 1

@@ -12863,6 +12863,12 @@
             "rating": 1
         }
     ],
+    "redalpine venture partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "redas": [
         {
             "type": 1,
@@ -28863,6 +28869,10 @@
     ],
     "romanian orthodox church bristol": [
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         }
@@ -34364,6 +34374,12 @@
         }
     ],
     "rudraunsh": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ruff sports": [
         {
             "type": 1,
             "rating": 1

@@ -4409,16 +4409,6 @@
             "rating": 1
         }
     ],
-    "igt": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "igt- gaming": [
         {
             "type": 1,
@@ -6020,10 +6010,6 @@
         }
     ],
     "imcd": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -18907,6 +18893,12 @@
             "rating": 1
         }
     ],
+    "invincible software holdings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "invincible structures": [
         {
             "type": 1,
@@ -20635,7 +20627,7 @@
             "rating": 1
         }
     ],
-    "irj software": [
+    "irj io": [
         {
             "type": 1,
             "rating": 1

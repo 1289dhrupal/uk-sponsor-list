@@ -28177,6 +28177,10 @@
     ],
     "christian faith centre international ministries": [
         {
+            "type": 2,
+            "rating": 1
+        },
+        {
             "type": 9,
             "rating": 2
         },
@@ -28187,10 +28191,6 @@
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
         }
     ],
     "christian faith ministries fellowship": [
@@ -31243,12 +31243,6 @@
             "rating": 1
         }
     ],
-    "city home care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "city hygiene": [
         {
             "type": 1,
@@ -33093,6 +33087,10 @@
     ],
     "clarke energy": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -34853,12 +34851,6 @@
             "rating": 1
         }
     ],
-    "clickchart": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "clicknsend": [
         {
             "type": 1,
@@ -35988,6 +35980,12 @@
         }
     ],
     "cloud ix kitchens": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cloud kitchen london t/as hyderabad wala {house of biryani}": [
         {
             "type": 1,
             "rating": 1
@@ -55200,6 +55198,12 @@
         }
     ],
     "crossbell": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "crossbell pharmacy": [
         {
             "type": 1,
             "rating": 1

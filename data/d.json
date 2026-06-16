@@ -21853,11 +21853,11 @@
     ],
     "docomo europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24522,6 +24522,12 @@
         }
     ],
     "dowbusz property": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dowdales school": [
         {
             "type": 1,
             "rating": 1
@@ -31406,12 +31412,6 @@
         }
     ],
     "dyson it": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dystematic": [
         {
             "type": 1,
             "rating": 1

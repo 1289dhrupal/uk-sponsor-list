@@ -4807,23 +4807,13 @@
             "rating": 1
         }
     ],
-    "gavs technologies europe": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gaw capital advisors": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7883,6 +7873,12 @@
             "rating": 1
         }
     ],
+    "geordie ai": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "george and dragon": [
         {
             "type": 1,
@@ -7902,6 +7898,12 @@
         }
     ],
     "george barber": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "george bureau": [
         {
             "type": 1,
             "rating": 1
@@ -13591,6 +13593,12 @@
             "rating": 1
         }
     ],
+    "global event partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "global exchange currency exchange united kingdom": [
         {
             "type": 1,
@@ -17998,6 +18006,12 @@
         }
     ],
     "golden care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "golden care living": [
         {
             "type": 1,
             "rating": 1
@@ -26201,12 +26215,12 @@
     ],
     "greenwich+docklands festivals": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "greenwichgadgets": [
@@ -31466,6 +31480,12 @@
         }
     ],
     "guyatt house care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "guyson international": [
         {
             "type": 1,
             "rating": 1

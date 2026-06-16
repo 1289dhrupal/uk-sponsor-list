@@ -771,6 +771,12 @@
             "rating": 1
         }
     ],
+    "wash": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "welbourn homes": [
         {
             "type": 1,
@@ -19960,6 +19966,12 @@
         }
     ],
     "woodstyle": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "woodthorpe view": [
         {
             "type": 1,
             "rating": 1
