@@ -2425,6 +2425,12 @@
             "rating": 1
         }
     ],
+    "obviously": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "oby enterprises": [
         {
             "type": 1,
@@ -11847,16 +11853,6 @@
             "rating": 1
         }
     ],
-    "orbital express launch": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "orbital gas systems": [
         {
             "type": 5,
@@ -13489,6 +13485,12 @@
         {
             "type": 8,
             "rating": 2
+        }
+    ],
+    "orphalan": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "orphans in need": [
@@ -15322,12 +15324,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "outreach healthcare": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],

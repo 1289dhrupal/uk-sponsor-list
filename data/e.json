@@ -729,6 +729,12 @@
             "rating": 1
         }
     ],
+    "e&m west": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "e&p consulting": [
         {
             "type": 1,
@@ -1093,16 +1099,16 @@
     ],
     "e on": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 5,
             "rating": 1
         },
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "e s a engineering": [
@@ -2612,6 +2618,12 @@
         }
     ],
     "east leicester medical practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "east link london": [
         {
             "type": 1,
             "rating": 1
@@ -6072,6 +6084,12 @@
         }
     ],
     "ecompanda": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ecomtex": [
         {
             "type": 1,
             "rating": 1
@@ -14614,12 +14632,6 @@
         }
     ],
     "elva ventures operations": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "elvasons care solutions": [
         {
             "type": 1,
             "rating": 1

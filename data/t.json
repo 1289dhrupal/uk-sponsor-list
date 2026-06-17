@@ -1381,6 +1381,12 @@
             "rating": 1
         }
     ],
+    "truthengine": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the tamil crown": [
         {
             "type": 1,
@@ -10798,12 +10804,6 @@
         }
     ],
     "teallach restaurants": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "tealt": [
         {
             "type": 1,
             "rating": 1
@@ -48810,6 +48810,12 @@
         }
     ],
     "top collection": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "top cure": [
         {
             "type": 1,
             "rating": 1

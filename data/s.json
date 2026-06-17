@@ -2999,12 +2999,6 @@
             "rating": 1
         }
     ],
-    "s & v foods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "s & v management": [
         {
             "type": 1,
@@ -6956,12 +6950,6 @@
         }
     ],
     "saffron health partnership": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "saffron indian kitchen": [
         {
             "type": 1,
             "rating": 1
@@ -12552,6 +12540,12 @@
         }
     ],
     "sandwell mbc": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sandwell valley school": [
         {
             "type": 1,
             "rating": 1
@@ -33769,6 +33763,16 @@
             "rating": 1
         }
     ],
+    "shree limbachia gnati federation u k": [
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "shree london": [
         {
             "type": 1,
@@ -37117,6 +37121,12 @@
             "rating": 1
         }
     ],
+    "silloth medical practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sillywater": [
         {
             "type": 1,
@@ -40173,12 +40183,6 @@
             "rating": 1
         }
     ],
-    "sirius security systems": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sirkka networks": [
         {
             "type": 1,
@@ -42562,12 +42566,6 @@
         }
     ],
     "skipton opticians": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "skirsgill dental practice": [
         {
             "type": 1,
             "rating": 1
@@ -47361,6 +47359,12 @@
             "rating": 1
         }
     ],
+    "smithers information": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "smithers mdt": [
         {
             "type": 1,
@@ -50402,6 +50406,12 @@
         }
     ],
     "solaimaniyah": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "solaire training & consultancy": [
         {
             "type": 1,
             "rating": 1
@@ -66405,12 +66415,6 @@
             "rating": 1
         }
     ],
-    "st mary s restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "st marys private wealth": [
         {
             "type": 1,
@@ -66506,6 +66510,12 @@
         }
     ],
     "st katharine docks practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "st mary s restaurant": [
         {
             "type": 1,
             "rating": 1
