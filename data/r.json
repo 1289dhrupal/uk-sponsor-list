@@ -7687,6 +7687,12 @@
             "rating": 1
         }
     ],
+    "rare tv": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rare-breed men tribe scio": [
         {
             "type": 1,
@@ -31225,11 +31231,11 @@
     ],
     "rovi europe a tivo company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31514,6 +31520,12 @@
         }
     ],
     "roy textile": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "roy victor humphrey & macayla j burrows": [
         {
             "type": 1,
             "rating": 1

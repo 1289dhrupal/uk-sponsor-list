@@ -4041,6 +4041,12 @@
             "rating": 1
         }
     ],
+    "ballodair equestrian": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "balloo inns": [
         {
             "type": 1,
@@ -9585,12 +9591,6 @@
             "rating": 1
         }
     ],
-    "bayview healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bayview hotel portballintrae": [
         {
             "type": 1,
@@ -11048,6 +11048,12 @@
         }
     ],
     "beacon international products": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "beacon haven": [
         {
             "type": 1,
             "rating": 1
@@ -26682,6 +26688,12 @@
         }
     ],
     "blitz fibre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "blitz gooday": [
         {
             "type": 1,
             "rating": 1
@@ -48562,6 +48574,10 @@
         }
     ],
     "bwb consulting": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

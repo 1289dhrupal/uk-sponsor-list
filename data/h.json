@@ -7835,16 +7835,6 @@
             "rating": 1
         }
     ],
-    "harman connected": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "harman food": [
         {
             "type": 1,
@@ -13299,6 +13289,12 @@
             "rating": 1
         }
     ],
+    "healthside pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "healthstart trading": [
         {
             "type": 1,
@@ -14398,12 +14394,6 @@
         }
     ],
     "heaven scent care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "heaven support": [
         {
             "type": 1,
             "rating": 1
@@ -19152,12 +19142,6 @@
         }
     ],
     "higher healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "higher height care": [
         {
             "type": 1,
             "rating": 1
@@ -30305,13 +30289,13 @@
             "rating": 1
         }
     ],
-    "huawei technologies research and development": [
+    "huawei technologies research & development": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -31464,12 +31448,6 @@
         }
     ],
     "hummingle technology and media private": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "humn ai": [
         {
             "type": 1,
             "rating": 1
@@ -32861,6 +32839,12 @@
             "rating": 1
         }
     ],
+    "hydeng marine": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hydenlyne": [
         {
             "type": 1,
@@ -34152,6 +34136,12 @@
         }
     ],
     "holiday inn basingstoke": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "heathfield court care home": [
         {
             "type": 1,
             "rating": 1

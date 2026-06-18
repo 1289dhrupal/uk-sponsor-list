@@ -2759,6 +2759,12 @@
             "rating": 1
         }
     ],
+    "cafea": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cafepoint": [
         {
             "type": 1,
@@ -8710,16 +8716,6 @@
         }
     ],
     "cardamon alliance": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cardano advisory": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -16559,6 +16555,10 @@
         {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "celestial crown partners": [
@@ -22421,6 +22421,12 @@
             "rating": 1
         }
     ],
+    "chawton park surgery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "chayan": [
         {
             "type": 1,
@@ -23130,6 +23136,12 @@
         }
     ],
     "chelsea cloisters": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "chelsea community hospital school": [
         {
             "type": 1,
             "rating": 1
@@ -49277,6 +49289,12 @@
             "rating": 1
         }
     ],
+    "cosmetic and family dentistry hessle": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cosmetic courses": [
         {
             "type": 1,
@@ -53205,22 +53223,22 @@
     ],
     "creative goods merchandising": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "creative ideas & architecture office": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "creative ideaz": [
@@ -53580,6 +53598,12 @@
         }
     ],
     "credit4": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "creditnature": [
         {
             "type": 1,
             "rating": 1

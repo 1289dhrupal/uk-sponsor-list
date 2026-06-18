@@ -2111,13 +2111,19 @@
             "rating": 1
         }
     ],
-    "dailypay ni": [
+    "dailycare4u telford": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "dailypay ni": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9409,12 +9415,6 @@
             "rating": 1
         }
     ],
-    "dek-co": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dekahvil logistics": [
         {
             "type": 1,
@@ -13140,12 +13140,6 @@
         }
     ],
     "desire fashion": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "desire healthcare": [
         {
             "type": 1,
             "rating": 1

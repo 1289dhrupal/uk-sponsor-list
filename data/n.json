@@ -291,6 +291,12 @@
             "rating": 1
         }
     ],
+    "newport smile centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "newswey": [
         {
             "type": 1,
@@ -8739,11 +8745,11 @@
     ],
     "netjets management": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9324,6 +9330,12 @@
         }
     ],
     "neurolize": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "neuron healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -21006,6 +21018,12 @@
         }
     ],
     "north haven infrastructure iii holdings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "north heath care home": [
         {
             "type": 1,
             "rating": 1

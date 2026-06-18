@@ -17433,12 +17433,6 @@
             "rating": 1
         }
     ],
-    "thandi brickwork": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "thandi": [
         {
             "type": 1,
@@ -18858,6 +18852,12 @@
         }
     ],
     "the atrium": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the attention studio": [
         {
             "type": 1,
             "rating": 1
@@ -28243,12 +28243,6 @@
             "rating": 1
         }
     ],
-    "the intrinsic care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the investigo": [
         {
             "type": 1,
@@ -28578,12 +28572,6 @@
         }
     ],
     "the john wallis church of england academy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the johnson trust": [
         {
             "type": 1,
             "rating": 1
@@ -39745,6 +39733,12 @@
             "rating": 1
         }
     ],
+    "the wesleyan holiness church - british isles district": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "the west": [
         {
             "type": 1,
@@ -42556,6 +42550,12 @@
     "thornaby cricket club": [
         {
             "type": 10,
+            "rating": 1
+        }
+    ],
+    "thornacre engineering": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -46988,6 +46988,12 @@
         }
     ],
     "tmrw london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tms grid": [
         {
             "type": 1,
             "rating": 1
@@ -52352,16 +52358,6 @@
         },
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "tradewill": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -61902,6 +61898,12 @@
         }
     ],
     "tylorstown convenience store": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tylos logistics": [
         {
             "type": 1,
             "rating": 1

@@ -6423,6 +6423,12 @@
             "rating": 1
         }
     ],
+    "immersive gamebox": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "immersive gaming": [
         {
             "type": 1,
@@ -6496,16 +6502,6 @@
         }
     ],
     "immo investment technologies": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "immobel capital partners": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1

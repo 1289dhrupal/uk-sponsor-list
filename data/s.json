@@ -6423,12 +6423,6 @@
             "rating": 1
         }
     ],
-    "safe hands care & support": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "safe hands professional care": [
         {
             "type": 1,
@@ -6844,6 +6838,12 @@
         }
     ],
     "safety security": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "safety technology & legislation": [
         {
             "type": 1,
             "rating": 1
@@ -17796,16 +17796,6 @@
     "schemeserve": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "schenck process": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -45157,12 +45147,6 @@
             "rating": 1
         }
     ],
-    "smart car automotive": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "smart care": [
         {
             "type": 1,
@@ -64561,6 +64545,12 @@
             "rating": 1
         }
     ],
+    "st george s crescent surgery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "st george s crypt": [
         {
             "type": 1,
@@ -72091,6 +72081,10 @@
     ],
     "stoke park": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -78596,6 +78590,12 @@
         }
     ],
     "sunbeam photographic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sunbim": [
         {
             "type": 1,
             "rating": 1
@@ -87426,12 +87426,6 @@
         }
     ],
     "stamma": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "seaford college": [
         {
             "type": 1,
             "rating": 1
