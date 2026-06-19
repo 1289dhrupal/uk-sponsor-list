@@ -135,6 +135,12 @@
             "rating": 1
         }
     ],
+    "ox hotel and suites manchester": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "onecare platform": [
         {
             "type": 1,
@@ -13469,16 +13475,16 @@
     ],
     "orona": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "orphalan": [

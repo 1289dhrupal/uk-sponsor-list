@@ -11161,6 +11161,12 @@
             "rating": 1
         }
     ],
+    "visible health": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "visibly tech": [
         {
             "type": 1,

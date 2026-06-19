@@ -135,6 +135,12 @@
             "rating": 1
         }
     ],
+    "koyal restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "krause architects": [
         {
             "type": 1,
@@ -9503,12 +9509,6 @@
             "rating": 1
         }
     ],
-    "kentures": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kentwood house": [
         {
             "type": 1,
@@ -10946,6 +10946,12 @@
         }
     ],
     "kf cars": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kf petroleum": [
         {
             "type": 1,
             "rating": 1
@@ -21252,12 +21258,6 @@
         },
         {
             "type": 2,
-            "rating": 1
-        }
-    ],
-    "krishna ely": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],

@@ -4133,12 +4133,6 @@
             "rating": 1
         }
     ],
-    "t-bot care dynamics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "t-cypher bio": [
         {
             "type": 1,
@@ -13359,12 +13353,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "teknokon industry": [
-        {
-            "type": 3,
-            "rating": 3
         }
     ],
     "teknolia": [
@@ -32163,12 +32151,16 @@
     ],
     "the norwegian church": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 1,
@@ -44577,12 +44569,6 @@
             "rating": 1
         }
     ],
-    "tigers international association - tia": [
-        {
-            "type": 9,
-            "rating": 2
-        }
-    ],
     "tigers security": [
         {
             "type": 1,
@@ -47374,6 +47360,12 @@
         }
     ],
     "tocqueville holding": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "toda leisure holdings": [
         {
             "type": 1,
             "rating": 1
@@ -53327,12 +53319,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "transition town forres": [
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "transitional care": [

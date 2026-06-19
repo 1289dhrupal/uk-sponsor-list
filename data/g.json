@@ -9553,12 +9553,6 @@
             "rating": 1
         }
     ],
-    "ghs clinical": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ghs global hospitality": [
         {
             "type": 1,
@@ -12075,21 +12069,21 @@
     ],
     "glass civil engineering": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "glassbox digital": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

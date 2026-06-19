@@ -1769,6 +1769,12 @@
             "rating": 1
         }
     ],
+    "wakefield eye clinic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "wakefield home care": [
         {
             "type": 1,
@@ -7119,12 +7125,6 @@
             "rating": 1
         }
     ],
-    "wejo": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "wekaio": [
         {
             "type": 1,
@@ -7161,11 +7161,11 @@
     ],
     "welbond armatures": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -14520,6 +14520,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "william hynes": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22152,6 +22158,12 @@
         }
     ],
     "wrh": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wri europe": [
         {
             "type": 1,
             "rating": 1

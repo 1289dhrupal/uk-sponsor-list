@@ -191,12 +191,6 @@
             "rating": 1
         }
     ],
-    "a & f foods sco": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "a & f foods": [
         {
             "type": 1,
@@ -6127,12 +6121,6 @@
             "rating": 1
         }
     ],
-    "aask scotland": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "aasra care": [
         {
             "type": 1,
@@ -10720,6 +10708,12 @@
         }
     ],
     "access self storage": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "access speech and language therapy": [
         {
             "type": 1,
             "rating": 1
@@ -32663,6 +32657,12 @@
             "rating": 1
         }
     ],
+    "allen transport": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "allenbrook care": [
         {
             "type": 1,
@@ -37982,6 +37982,12 @@
         }
     ],
     "ambienta": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ambika falcon": [
         {
             "type": 1,
             "rating": 1
@@ -61199,19 +61205,13 @@
             "rating": 1
         }
     ],
-    "assynt": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "assystem energy & infrastructure": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -62940,6 +62940,12 @@
         }
     ],
     "athium": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "athla capital management": [
         {
             "type": 1,
             "rating": 1
@@ -72174,12 +72180,6 @@
         }
     ],
     "avise content agency": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "agb resourcing": [
         {
             "type": 1,
             "rating": 1
