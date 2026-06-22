@@ -1219,12 +1219,6 @@
             "rating": 1
         }
     ],
-    "e2 dental practice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "e2 electrical": [
         {
             "type": 1,
@@ -17103,12 +17097,6 @@
             "rating": 1
         }
     ],
-    "enable living solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "enable network": [
         {
             "type": 1,
@@ -17123,12 +17111,12 @@
     ],
     "enable scotland": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "enable support": [

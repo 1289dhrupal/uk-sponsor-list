@@ -10065,12 +10065,6 @@
             "rating": 1
         }
     ],
-    "academic aces": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "academic achiever": [
         {
             "type": 1,
@@ -33013,19 +33007,13 @@
             "rating": 1
         }
     ],
-    "alliance media and communications": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "alliance medical": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -43668,6 +43656,12 @@
         }
     ],
     "animoca brands": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "animotive": [
         {
             "type": 1,
             "rating": 1
@@ -56931,12 +56925,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "asdi equipment rental and trading 15444604": [
-        {
-            "type": 3,
-            "rating": 3
         }
     ],
     "ase management": [
