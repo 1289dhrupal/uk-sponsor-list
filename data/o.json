@@ -8195,6 +8195,12 @@
             "rating": 1
         }
     ],
+    "one stop healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "one stop kph traders": [
         {
             "type": 1,
@@ -14112,12 +14118,6 @@
         }
     ],
     "oscore": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "osd healthcare": [
         {
             "type": 1,
             "rating": 1

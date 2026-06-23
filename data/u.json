@@ -4249,12 +4249,6 @@
             "rating": 1
         }
     ],
-    "unique resourcing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "unique retail": [
         {
             "type": 1,
@@ -4824,6 +4818,12 @@
         }
     ],
     "united facilities support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "united food brands": [
         {
             "type": 1,
             "rating": 1

@@ -5023,12 +5023,6 @@
             "rating": 1
         }
     ],
-    "fashmode": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fashoff": [
         {
             "type": 1,
@@ -19349,6 +19343,12 @@
             "rating": 1
         }
     ],
+    "fortius telecommunications": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fortna": [
         {
             "type": 1,
@@ -23232,6 +23232,12 @@
         }
     ],
     "freshgeo": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "freshgos": [
         {
             "type": 1,
             "rating": 1

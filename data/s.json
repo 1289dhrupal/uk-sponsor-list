@@ -6035,12 +6035,6 @@
             "rating": 1
         }
     ],
-    "sadaat logistics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sadaf halal meat": [
         {
             "type": 1,
@@ -21009,12 +21003,6 @@
             "rating": 1
         }
     ],
-    "seatruck ferries": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "seattle software": [
         {
             "type": 1,
@@ -23982,12 +23970,6 @@
         }
     ],
     "sentinel performance solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sentinel security and consultancy": [
         {
             "type": 1,
             "rating": 1
@@ -31378,6 +31360,12 @@
         }
     ],
     "shikari beauty": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "shiki zero yon": [
         {
             "type": 1,
             "rating": 1
@@ -43088,6 +43076,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "sky vigil care": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -64101,6 +64095,12 @@
             "rating": 1
         }
     ],
+    "st bonaventure s school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "st brendans sixth form college": [
         {
             "type": 2,
@@ -73791,6 +73791,12 @@
             "rating": 1
         }
     ],
+    "stratfield care t/as stratfield lodge care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "stratford city hotels": [
         {
             "type": 1,
@@ -73811,11 +73817,11 @@
     ],
     "stratford garden development": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -80622,6 +80628,12 @@
         }
     ],
     "supermetrics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "supermix": [
         {
             "type": 1,
             "rating": 1

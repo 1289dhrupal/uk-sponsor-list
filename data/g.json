@@ -5589,6 +5589,12 @@
             "rating": 1
         }
     ],
+    "gcl concreting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gcm investments": [
         {
             "type": 5,
@@ -11780,6 +11786,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "glance-global audience & content evolution": [
         {
             "type": 1,
             "rating": 1
@@ -22149,12 +22161,6 @@
             "rating": 1
         }
     ],
-    "grand computers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "grand constructions": [
         {
             "type": 1,
@@ -27202,12 +27208,6 @@
         }
     ],
     "grin": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grind & co": [
         {
             "type": 1,
             "rating": 1

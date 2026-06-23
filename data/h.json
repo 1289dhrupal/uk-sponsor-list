@@ -9509,12 +9509,6 @@
             "rating": 1
         }
     ],
-    "harvlightcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "harwests": [
         {
             "type": 1,
@@ -18242,12 +18236,6 @@
         }
     ],
     "hi-lux beds": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hi-tech brid": [
         {
             "type": 1,
             "rating": 1
@@ -31006,6 +30994,12 @@
         }
     ],
     "hum2n": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "huma retails": [
         {
             "type": 1,
             "rating": 1

@@ -7387,6 +7387,12 @@
             "rating": 1
         }
     ],
+    "kdh projects": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kdk discount food & wine": [
         {
             "type": 1,
@@ -7506,6 +7512,12 @@
         }
     ],
     "keakie": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "keal capital management": [
         {
             "type": 1,
             "rating": 1
@@ -8483,13 +8495,19 @@
             "rating": 1
         }
     ],
+    "kemfa": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kemin": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

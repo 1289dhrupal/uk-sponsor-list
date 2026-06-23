@@ -327,12 +327,6 @@
             "rating": 1
         }
     ],
-    "westhaven nursing home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "winemeup": [
         {
             "type": 1,
@@ -2514,12 +2508,6 @@
         }
     ],
     "walsh associates": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "walshaw care homes": [
         {
             "type": 1,
             "rating": 1
@@ -10659,12 +10647,6 @@
             "rating": 1
         }
     ],
-    "westholme dementia care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "westhoughton cricket club": [
         {
             "type": 10,
@@ -11786,6 +11768,12 @@
         }
     ],
     "whatsonstage": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "whe care": [
         {
             "type": 1,
             "rating": 1
@@ -16475,18 +16463,24 @@
             "rating": 1
         }
     ],
+    "winner foods": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "winner???¢????????s family chapel international": [
         {
             "type": 9,
             "rating": 2
         },
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "winners retail": [

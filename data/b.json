@@ -639,12 +639,6 @@
             "rating": 1
         }
     ],
-    "b rahman consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "b s accessories": [
         {
             "type": 1,
@@ -3971,6 +3965,12 @@
             "rating": 1
         }
     ],
+    "ballathie house hotel company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ballbusiness": [
         {
             "type": 1,
@@ -6079,12 +6079,12 @@
     ],
     "baptist mid-mission of the united kingdom of great britain and northern ireland": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "baptist missionary society": [
@@ -24241,6 +24241,12 @@
             "rating": 1
         }
     ],
+    "bizmonkeys": [
+        {
+            "type": 4,
+            "rating": 2
+        }
+    ],
     "biznav chartered accountants": [
         {
             "type": 1,
@@ -37995,6 +38001,12 @@
             "rating": 1
         }
     ],
+    "bridge referrals": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bridge road 1": [
         {
             "type": 1,
@@ -39253,12 +39265,6 @@
         {
             "type": 9,
             "rating": 2
-        }
-    ],
-    "brightpoint": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "brightr": [

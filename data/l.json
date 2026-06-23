@@ -3531,6 +3531,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
         }
     ],
     "lam": [
@@ -26726,12 +26730,6 @@
         }
     ],
     "lozain": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lozdon": [
         {
             "type": 1,
             "rating": 1

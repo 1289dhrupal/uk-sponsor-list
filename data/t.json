@@ -41489,6 +41489,12 @@
             "rating": 1
         }
     ],
+    "think jam": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "think publishing": [
         {
             "type": 1,
@@ -53099,6 +53105,12 @@
             "rating": 1
         }
     ],
+    "transform housing & support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "transform supported accommodation": [
         {
             "type": 1,
@@ -56878,6 +56890,10 @@
     "triton container": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -60703,6 +60719,12 @@
             "rating": 1
         }
     ],
+    "tvm animal health": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tvr": [
         {
             "type": 1,
@@ -61714,7 +61736,7 @@
     "ty derwen": [
         {
             "type": 1,
-            "rating": 4
+            "rating": 1
         }
     ],
     "ty draw lodge": [
