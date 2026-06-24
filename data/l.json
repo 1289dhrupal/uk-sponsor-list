@@ -4357,6 +4357,10 @@
     ],
     "landmark properties operations": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -5356,12 +5360,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "larchwood care homes north": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -8472,6 +8470,12 @@
         }
     ],
     "learning technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "learning together": [
         {
             "type": 1,
             "rating": 1
@@ -17545,6 +17549,12 @@
             "rating": 1
         }
     ],
+    "little raccoons day nursery weybridge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "little resham": [
         {
             "type": 1,
@@ -25231,12 +25241,6 @@
             "rating": 1
         }
     ],
-    "loteezo food": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lothar bohm associates": [
         {
             "type": 1,
@@ -29954,6 +29958,12 @@
         }
     ],
     "lycosa web": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lydia capital management": [
         {
             "type": 1,
             "rating": 1

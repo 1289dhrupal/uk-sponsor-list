@@ -2041,12 +2041,6 @@
             "rating": 1
         }
     ],
-    "p&j midlands": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "p&k distributors": [
         {
             "type": 1,
@@ -7371,6 +7365,12 @@
             "rating": 1
         }
     ],
+    "parkview gloucester": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "parkview practice": [
         {
             "type": 1,
@@ -9265,16 +9265,6 @@
         {
             "type": 9,
             "rating": 2
-        }
-    ],
-    "patrizia infrastructure": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "patrizia": [
@@ -21780,6 +21770,12 @@
         }
     ],
     "pivotal impartment limiteed": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pivotal logic": [
         {
             "type": 1,
             "rating": 1

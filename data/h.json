@@ -7893,12 +7893,6 @@
             "rating": 1
         }
     ],
-    "harmonia village": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "harmonic": [
         {
             "type": 5,
@@ -13284,6 +13278,16 @@
         }
     ],
     "healthstart trading": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "healthtab": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -19099,11 +19103,11 @@
     ],
     "higher concept software": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19115,11 +19119,11 @@
     ],
     "higher health u k": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23305,20 +23309,14 @@
             "rating": 1
         }
     ],
-    "hofer powertrain": [
+    "hofesh shechter company": [
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "hofesh shechter company": [
+        },
         {
             "type": 4,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "hoffman & crew": [
@@ -30806,6 +30804,12 @@
         }
     ],
     "huka": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hukam haulage": [
         {
             "type": 1,
             "rating": 1

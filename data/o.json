@@ -4607,6 +4607,12 @@
             "rating": 1
         }
     ],
+    "okay health": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "oke development": [
         {
             "type": 1,
@@ -9310,12 +9316,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "oomla": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -14676,6 +14676,12 @@
         }
     ],
     "oto international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "oto technologies": [
         {
             "type": 1,
             "rating": 1

@@ -8055,6 +8055,12 @@
             "rating": 1
         }
     ],
+    "nero carbon": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "nero holdings": [
         {
             "type": 5,
@@ -16365,11 +16371,11 @@
     ],
     "nike retail": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16450,16 +16456,6 @@
         },
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "nikko asset management europe": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -20025,6 +20021,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "nora foods as": [
+        {
+            "type": 3,
+            "rating": 3
         }
     ],
     "norab properties": [
@@ -27183,12 +27185,6 @@
             "rating": 1
         }
     ],
-    "novopay": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "new fortune cookie": [
         {
             "type": 1,
@@ -27310,6 +27306,12 @@
         }
     ],
     "net try food city": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "novopay": [
         {
             "type": 1,
             "rating": 1

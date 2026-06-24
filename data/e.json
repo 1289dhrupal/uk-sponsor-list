@@ -8129,12 +8129,6 @@
             "rating": 1
         }
     ],
-    "education business hub": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "education careers": [
         {
             "type": 1,
@@ -11138,12 +11132,6 @@
         }
     ],
     "elderly care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "elders safe hands": [
         {
             "type": 1,
             "rating": 1
@@ -17097,6 +17085,12 @@
             "rating": 1
         }
     ],
+    "enable investment holdings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "enable leisure and culture": [
         {
             "type": 1,
@@ -20054,20 +20048,6 @@
     "entrepreneur breed networks": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "entrepreneur first operations": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -24717,12 +24697,6 @@
             "rating": 1
         }
     ],
-    "etc management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "etc venues": [
         {
             "type": 1,
@@ -25000,6 +24974,12 @@
         }
     ],
     "ethicstar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ethigen": [
         {
             "type": 1,
             "rating": 1
@@ -29772,6 +29752,12 @@
         }
     ],
     "excelcare holdings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "excelcare24": [
         {
             "type": 1,
             "rating": 1

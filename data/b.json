@@ -9825,12 +9825,6 @@
             "rating": 2
         }
     ],
-    "bbc care service": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bbc coffee": [
         {
             "type": 1,
@@ -20719,6 +20713,12 @@
             "rating": 1
         }
     ],
+    "big hearts community trust": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "big hearts recruitment": [
         {
             "type": 1,
@@ -24082,6 +24082,12 @@
         }
     ],
     "bitterne specsavers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bitwise europe management": [
         {
             "type": 1,
             "rating": 1
@@ -29472,12 +29478,6 @@
         }
     ],
     "bm brislington": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bm business": [
         {
             "type": 1,
             "rating": 1
@@ -39285,6 +39285,12 @@
             "rating": 1
         }
     ],
+    "brightside travel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "brightsign digital": [
         {
             "type": 1,
@@ -39387,7 +39393,7 @@
             "rating": 1
         }
     ],
-    "brightwaycareagencylimited": [
+    "brightwaycareagency": [
         {
             "type": 1,
             "rating": 1

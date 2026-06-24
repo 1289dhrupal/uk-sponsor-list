@@ -23489,6 +23489,12 @@
             "rating": 1
         }
     ],
+    "great ballard school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "great beyond brewing company": [
         {
             "type": 1,
@@ -26655,12 +26661,6 @@
             "rating": 1
         }
     ],
-    "grey s residential homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "greydern associates": [
         {
             "type": 1,
@@ -29298,7 +29298,7 @@
     "guardian jet": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "guardian live-in care": [

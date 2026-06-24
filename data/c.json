@@ -10739,12 +10739,6 @@
             "rating": 1
         }
     ],
-    "carenova": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "careoline carers": [
         {
             "type": 1,
@@ -36983,6 +36977,12 @@
             "rating": 1
         }
     ],
+    "clydebank specsavers hearcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "clydesdale bank": [
         {
             "type": 1,
@@ -42850,6 +42850,12 @@
         }
     ],
     "complete tree care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "complete vehicle management": [
         {
             "type": 1,
             "rating": 1
