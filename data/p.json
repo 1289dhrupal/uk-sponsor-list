@@ -2323,11 +2323,11 @@
     ],
     "p/e investments associates": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12946,6 +12946,12 @@
         }
     ],
     "pennine weavers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pennings": [
         {
             "type": 1,
             "rating": 1
@@ -36450,6 +36456,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "prodent": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

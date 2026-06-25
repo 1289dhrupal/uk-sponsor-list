@@ -7381,6 +7381,12 @@
             "rating": 1
         }
     ],
+    "tanpopo japanese food": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tans beauty": [
         {
             "type": 1,
@@ -15896,6 +15902,10 @@
         }
     ],
     "tetra technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 5,
             "rating": 1
@@ -24641,6 +24651,12 @@
             "rating": 1
         }
     ],
+    "the fabrika construction": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the face recognition company": [
         {
             "type": 1,
@@ -32203,16 +32219,6 @@
             "rating": 1
         }
     ],
-    "the npd": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the nucleo project": [
         {
             "type": 1,
@@ -38036,6 +38042,12 @@
         }
     ],
     "the surgery@wheatbridge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the surgical consortium": [
         {
             "type": 1,
             "rating": 1

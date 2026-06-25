@@ -4515,6 +4515,12 @@
             "rating": 1
         }
     ],
+    "cambridge aerospace": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cambridge agile solutions": [
         {
             "type": 1,
@@ -6208,12 +6214,6 @@
         }
     ],
     "candlelight homecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "candleriggs cafe": [
         {
             "type": 1,
             "rating": 1
@@ -10859,12 +10859,6 @@
             "rating": 1
         }
     ],
-    "caresoft engineering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "caresoft engineering limted": [
         {
             "type": 1,
@@ -11012,6 +11006,12 @@
         }
     ],
     "carfinance247": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "carfinanced": [
         {
             "type": 1,
             "rating": 1
@@ -12126,16 +12126,6 @@
     "carrickmore health centre": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "carrier fire & security": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -30677,6 +30667,12 @@
             "rating": 1
         }
     ],
+    "citigaurd securedrive": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "citiguard": [
         {
             "type": 1,
@@ -31961,13 +31957,19 @@
             "rating": 1
         }
     ],
+    "civic recruitment": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "civic studios international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -51837,12 +51839,6 @@
             "rating": 1
         }
     ],
-    "cra recruitment and payroll": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cra international": [
         {
             "type": 5,
@@ -52176,12 +52172,6 @@
         }
     ],
     "craigneuk retail": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "craigton foods": [
         {
             "type": 1,
             "rating": 1

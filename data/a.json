@@ -16197,6 +16197,16 @@
             "rating": 1
         }
     ],
+    "adm-indicia marketing": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "admacro": [
         {
             "type": 1,
@@ -25867,16 +25877,6 @@
             "rating": 1
         }
     ],
-    "akin and oloye holdings": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
-        }
-    ],
     "akin gump strauss hauer & feld": [
         {
             "type": 1,
@@ -26000,6 +26000,12 @@
         }
     ],
     "akmol properties": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "akms retail": [
         {
             "type": 1,
             "rating": 1
@@ -28828,6 +28834,12 @@
         }
     ],
     "albida consulting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "albin and co": [
         {
             "type": 1,
             "rating": 1
@@ -32327,16 +32339,12 @@
     ],
     "all3media": [
         {
-            "type": 5,
-            "rating": 1
+            "type": 4,
+            "rating": 2
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "all4one care": [
@@ -53887,12 +53895,6 @@
             "rating": 1
         }
     ],
-    "aromaz": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "arome central": [
         {
             "type": 1,
@@ -57366,6 +57368,12 @@
         }
     ],
     "ash tech futures": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ash translation co": [
         {
             "type": 1,
             "rating": 1

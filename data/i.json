@@ -3019,6 +3019,12 @@
             "rating": 2
         }
     ],
+    "ideal care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ideal centre hull": [
         {
             "type": 1,
@@ -24148,6 +24154,12 @@
         }
     ],
     "ibis styles reading oxford road": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "invicta stores": [
         {
             "type": 1,
             "rating": 1

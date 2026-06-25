@@ -3147,6 +3147,12 @@
             "rating": 1
         }
     ],
+    "falcon flying": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "falcon fm": [
         {
             "type": 1,
@@ -22598,6 +22604,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "freighton logistics": [
         {
             "type": 1,
             "rating": 1

@@ -2743,14 +2743,20 @@
             "rating": 1
         }
     ],
-    "east midlands buddhist association": [
+    "east midlands ambulance service": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "east midlands buddhist association": [
         {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "east midlands care agency service": [
@@ -2788,12 +2794,6 @@
         }
     ],
     "east midlands vans": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "east miidlands ambulance service": [
         {
             "type": 1,
             "rating": 1
@@ -3908,6 +3908,12 @@
         }
     ],
     "easy tiger executive search": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "easy to maintain": [
         {
             "type": 1,
             "rating": 1
@@ -17721,6 +17727,12 @@
             "rating": 1
         }
     ],
+    "endurance care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "endurance health": [
         {
             "type": 1,
@@ -27252,12 +27264,6 @@
         }
     ],
     "evam analytics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "evamed": [
         {
             "type": 1,
             "rating": 1

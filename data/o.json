@@ -4225,6 +4225,12 @@
             "rating": 1
         }
     ],
+    "ohana care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ohana parental assessment centre": [
         {
             "type": 1,
@@ -7966,16 +7972,6 @@
         }
     ],
     "one nation": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "one network enterprises": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1

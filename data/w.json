@@ -9920,7 +9920,7 @@
     "westbrook healthcare t/a westbrook care": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "westbrook law": [
@@ -11938,6 +11938,12 @@
         }
     ],
     "whetstone medical centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "which independent schools": [
         {
             "type": 1,
             "rating": 1

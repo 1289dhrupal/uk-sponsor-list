@@ -6729,6 +6729,12 @@
             "rating": 1
         }
     ],
+    "safer birth": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "safer hands youth service": [
         {
             "type": 1,
@@ -9606,6 +9612,10 @@
         }
     ],
     "salford city football club": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 10,
             "rating": 1
@@ -27361,6 +27371,12 @@
             "rating": 1
         }
     ],
+    "shahanshah vegetarian restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "shahbaz hussain": [
         {
             "type": 1,
@@ -27906,12 +27922,6 @@
         }
     ],
     "shalimar inverness": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "shalimar kebab aberdeen": [
         {
             "type": 1,
             "rating": 1
@@ -31857,12 +31867,6 @@
             "rating": 1
         }
     ],
-    "ship cars": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ship shape search": [
         {
             "type": 1,
@@ -35619,6 +35623,12 @@
             "rating": 1
         }
     ],
+    "sidhu carpet and flooring": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sidhu catering": [
         {
             "type": 1,
@@ -36092,20 +36102,6 @@
         }
     ],
     "sigma connected": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
-    "sigma connectivity": [
-        {
-            "type": 3,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -37346,7 +37342,7 @@
     "silver regulatory associates llc": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "silver screen stores": [
@@ -62852,6 +62848,10 @@
     "ss creative solutions 15462184": [
         {
             "type": 3,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

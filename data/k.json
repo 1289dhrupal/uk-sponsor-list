@@ -3305,6 +3305,12 @@
             "rating": 1
         }
     ],
+    "kalsi care and company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kalsi kitchens & bedrooms": [
         {
             "type": 1,
@@ -11177,6 +11183,16 @@
         {
             "type": 3,
             "rating": 3
+        }
+    ],
+    "kgs fire & security": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "kgs pvt": [
@@ -19465,16 +19481,6 @@
             "rating": 1
         }
     ],
-    "konica minolta marketing": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "konika": [
         {
             "type": 1,
@@ -21045,7 +21051,7 @@
             "rating": 1
         }
     ],
-    "kress cooper online learning school kcolls": [
+    "kress cooper academy": [
         {
             "type": 1,
             "rating": 1

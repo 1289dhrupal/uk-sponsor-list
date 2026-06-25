@@ -18725,6 +18725,12 @@
             "rating": 1
         }
     ],
+    "retailing enterprises": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "retailmenot": [
         {
             "type": 5,
@@ -29280,12 +29286,6 @@
         }
     ],
     "room board": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "room roof": [
         {
             "type": 1,
             "rating": 1
