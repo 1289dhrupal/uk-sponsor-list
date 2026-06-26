@@ -21455,16 +21455,6 @@
             "rating": 1
         }
     ],
-    "charlie goldsmith associates": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "charlie oscar": [
         {
             "type": 1,
@@ -34387,6 +34377,12 @@
             "rating": 1
         }
     ],
+    "clearwell capital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "clearwell energy holdings": [
         {
             "type": 1,
@@ -44959,12 +44955,6 @@
             "rating": 1
         }
     ],
-    "consigli": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "consigned sealed delivered": [
         {
             "type": 1,
@@ -52674,6 +52664,10 @@
         }
     ],
     "crayon": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

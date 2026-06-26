@@ -4686,7 +4686,7 @@
     "hammersmith and fulham partnership": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "hammersmith healthcare": [
@@ -5204,12 +5204,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "hana petroleum": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -17808,12 +17802,6 @@
         }
     ],
     "hfs consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hfs property management": [
         {
             "type": 1,
             "rating": 1

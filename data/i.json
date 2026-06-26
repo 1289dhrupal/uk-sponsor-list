@@ -18489,11 +18489,11 @@
     ],
     "inverness caledonian thistle football club": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18786,6 +18786,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "investorhub": [
         {
             "type": 1,
             "rating": 1

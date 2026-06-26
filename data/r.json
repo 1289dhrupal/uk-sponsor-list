@@ -18343,14 +18343,20 @@
             "rating": 1
         }
     ],
-    "restless development": [
+    "resthaven nursing home": [
         {
-            "type": 9,
-            "rating": 2
-        },
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "restless development": [
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         },
         {
             "type": 1,
@@ -18874,6 +18880,12 @@
         }
     ],
     "retn": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "retn networks": [
         {
             "type": 1,
             "rating": 1
@@ -19589,14 +19601,20 @@
             "rating": 1
         }
     ],
-    "rewind memories": [
+    "rewayyat": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "rewind memories": [
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "rewinds & j windsor & sons engineers": [
@@ -19954,6 +19972,16 @@
         }
     ],
     "rg educare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rg hotels": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -34170,16 +34198,6 @@
         }
     ],
     "ruby grange homecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ruby hospitality": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
