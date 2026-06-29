@@ -1217,6 +1217,12 @@
             "rating": 2
         }
     ],
+    "b j s building supplies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "b p marsh & partners": [
         {
             "type": 1,
@@ -13003,12 +13009,6 @@
             "rating": 1
         }
     ],
-    "beechwood house": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "beechwood medical centre": [
         {
             "type": 1,
@@ -16675,6 +16675,12 @@
             "rating": 1
         }
     ],
+    "berrys global innovations": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "berrys news": [
         {
             "type": 1,
@@ -16698,6 +16704,12 @@
         }
     ],
     "bert frank": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bertelsmann global business": [
         {
             "type": 1,
             "rating": 1
@@ -31791,6 +31803,10 @@
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "bond financial technologies": [
@@ -34434,6 +34450,12 @@
         }
     ],
     "boxford suffolk holdings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "boxkite software": [
         {
             "type": 1,
             "rating": 1
@@ -40060,6 +40082,12 @@
         }
     ],
     "bristol old vic theatre school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bristol phones & tech specialists": [
         {
             "type": 1,
             "rating": 1
@@ -49298,12 +49326,6 @@
         }
     ],
     "bamber education": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "best western plus dover marina hotel & spa": [
         {
             "type": 1,
             "rating": 1

@@ -7153,16 +7153,6 @@
             "rating": 1
         }
     ],
-    "genesis oil and gas consultants": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "genesis residential homes": [
         {
             "type": 1,
@@ -8921,11 +8911,11 @@
     ],
     "gfa world": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
@@ -20203,6 +20193,12 @@
             "rating": 1
         }
     ],
+    "gormley kitchens": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gormley robotics": [
         {
             "type": 1,
@@ -21822,6 +21818,12 @@
         }
     ],
     "graham garage": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "graham hart process technology": [
         {
             "type": 1,
             "rating": 1

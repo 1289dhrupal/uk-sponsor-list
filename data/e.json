@@ -4495,6 +4495,12 @@
             "rating": 1
         }
     ],
+    "ebbw vales visionplus": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ebc global": [
         {
             "type": 1,
@@ -11272,6 +11278,16 @@
         }
     ],
     "elec-mec wholesale": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "eleclink": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -19408,6 +19424,12 @@
         }
     ],
     "enotria winecellars": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "enough energy": [
         {
             "type": 1,
             "rating": 1
@@ -30434,12 +30456,6 @@
         }
     ],
     "exemplar health care support centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "exemplary care": [
         {
             "type": 1,
             "rating": 1

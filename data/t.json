@@ -9185,11 +9185,11 @@
     ],
     "tavant technologies private": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23391,14 +23391,20 @@
             "rating": 1
         }
     ],
-    "the delfina foundation": [
+    "the deeside water company": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "the delfina foundation": [
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "the den fight centre": [
@@ -32445,6 +32451,12 @@
             "rating": 1
         }
     ],
+    "the old cinema": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the old co-op": [
         {
             "type": 1,
@@ -40866,6 +40878,12 @@
         }
     ],
     "themobyshop com": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "thenetworkone online": [
         {
             "type": 1,
             "rating": 1
@@ -51248,6 +51266,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "towertrend": [
         {
             "type": 1,
             "rating": 1

@@ -9083,12 +9083,6 @@
             "rating": 1
         }
     ],
-    "network homecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "network links": [
         {
             "type": 1,
@@ -9647,6 +9641,16 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "new beginning ministries": [
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "new beginnings 16 plus": [
@@ -19561,6 +19565,12 @@
             "rating": 1
         }
     ],
+    "nomira care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "nomisma solution": [
         {
             "type": 1,
@@ -27116,6 +27126,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "nyxi": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

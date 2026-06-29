@@ -26481,6 +26481,12 @@
             "rating": 1
         }
     ],
+    "akyn studio": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "akz haulage": [
         {
             "type": 1,
@@ -45768,7 +45774,7 @@
     "aoc homecare": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "aoc resins": [
@@ -50689,26 +50695,26 @@
     ],
     "archer aviation": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "archer daniels midland": [
         {
+            "type": 8,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "archer daniels securities": [
@@ -61889,6 +61895,12 @@
             "rating": 1
         }
     ],
+    "astro tapas and cocktail bar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "astroluxe": [
         {
             "type": 1,
@@ -63035,13 +63047,19 @@
             "rating": 1
         }
     ],
-    "athlon mobility": [
+    "athletica health": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "athlon mobility": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -69981,6 +69999,12 @@
             "rating": 1
         }
     ],
+    "axis healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "axis mason": [
         {
             "type": 1,
@@ -71460,6 +71484,12 @@
         }
     ],
     "azo": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "azoma": [
         {
             "type": 1,
             "rating": 1

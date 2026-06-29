@@ -2855,6 +2855,16 @@
             "rating": 1
         }
     ],
+    "id logistics": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "id medical": [
         {
             "type": 5,
@@ -6866,6 +6876,12 @@
         }
     ],
     "impelsys": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "impera capital": [
         {
             "type": 1,
             "rating": 1
@@ -18186,6 +18202,12 @@
         }
     ],
     "intumescent systems": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "intune healthcare": [
         {
             "type": 1,
             "rating": 1

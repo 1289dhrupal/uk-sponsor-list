@@ -10915,6 +10915,12 @@
             "rating": 1
         }
     ],
+    "sammi care homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sammie": [
         {
             "type": 1,
@@ -19633,11 +19639,11 @@
     ],
     "scs building automation": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28583,7 +28589,7 @@
             "rating": 1
         }
     ],
-    "shanthi vihara & meditation centre": [
+    "shanthi vihara and meditation centre": [
         {
             "type": 11,
             "rating": 2
@@ -36243,16 +36249,6 @@
             "rating": 1
         }
     ],
-    "sigmatic": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sigmus": [
         {
             "type": 1,
@@ -37620,12 +37616,6 @@
         }
     ],
     "silverlight it consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "silverline logistics": [
         {
             "type": 1,
             "rating": 1
@@ -42648,12 +42638,6 @@
         }
     ],
     "skoen": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "skolak healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -48742,6 +48726,12 @@
         }
     ],
     "sntnl": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "snu management": [
         {
             "type": 1,
             "rating": 1
@@ -56839,6 +56829,12 @@
             "rating": 1
         }
     ],
+    "specsavers daventry": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "specsavers dundee": [
         {
             "type": 1,
@@ -58541,6 +58537,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "spicer street church": [
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "spicers": [
@@ -61605,6 +61607,12 @@
             "rating": 1
         }
     ],
+    "srds tax": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sre consultancy": [
         {
             "type": 1,
@@ -64266,6 +64274,12 @@
         }
     ],
     "st clements": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "st clements partnership": [
         {
             "type": 1,
             "rating": 1
@@ -72337,12 +72351,6 @@
             "rating": 1
         }
     ],
-    "stone ram": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "stone security": [
         {
             "type": 1,
@@ -74016,6 +74024,12 @@
         }
     ],
     "stratsmore construction": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "stratton house": [
         {
             "type": 1,
             "rating": 1

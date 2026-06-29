@@ -4633,11 +4633,11 @@
     ],
     "hammer creative": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5150,6 +5150,12 @@
         }
     ],
     "han food": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "han kun": [
         {
             "type": 1,
             "rating": 1
@@ -14650,7 +14656,7 @@
     "hector house glasgow": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "hector scot": [
@@ -20967,6 +20973,10 @@
         {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 2,
@@ -33899,6 +33909,12 @@
             "rating": 1
         }
     ],
+    "heathrow slough hotel and suites": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hedin heaters": [
         {
             "type": 1,
@@ -34445,6 +34461,12 @@
             "rating": 1
         }
     ],
+    "himley manor care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hollytree pharmacy": [
         {
             "type": 1,
@@ -34710,6 +34732,12 @@
         }
     ],
     "hatay brasserie": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "honey lane care home": [
         {
             "type": 1,
             "rating": 1

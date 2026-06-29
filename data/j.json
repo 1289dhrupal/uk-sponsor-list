@@ -4989,12 +4989,6 @@
             "rating": 1
         }
     ],
-    "janros care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "jans": [
         {
             "type": 1,
@@ -5933,14 +5927,20 @@
             "rating": 1
         }
     ],
-    "jass cateringh": [
+    "jass builder": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "jass cateringh": [
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "jassal flavours": [
@@ -6442,6 +6442,12 @@
         }
     ],
     "jayex": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jaykishan lostock hall": [
         {
             "type": 1,
             "rating": 1
@@ -7852,6 +7858,12 @@
         }
     ],
     "jenesys ai": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jenga advisors": [
         {
             "type": 1,
             "rating": 1
@@ -11815,12 +11827,6 @@
             "rating": 1
         }
     ],
-    "john cumming ross": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "john deere": [
         {
             "type": 5,
@@ -12814,6 +12820,12 @@
         }
     ],
     "jomsom food": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jomsom nepalese": [
         {
             "type": 1,
             "rating": 1
@@ -16607,19 +16619,13 @@
             "rating": 1
         }
     ],
-    "juven advisors": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "juvenesence": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

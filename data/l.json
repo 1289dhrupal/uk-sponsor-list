@@ -3119,6 +3119,12 @@
             "rating": 1
         }
     ],
+    "lakeside assets": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lakeside care": [
         {
             "type": 1,
@@ -8510,6 +8516,12 @@
         }
     ],
     "learningpoint": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "learnlight": [
         {
             "type": 1,
             "rating": 1

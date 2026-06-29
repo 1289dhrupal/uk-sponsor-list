@@ -2287,13 +2287,19 @@
             "rating": 1
         }
     ],
-    "p r marriott drilling": [
+    "p r architecture": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "p r marriott drilling": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5003,6 +5009,12 @@
             "rating": 1
         }
     ],
+    "panmario birmingham": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "panmario earlsdon": [
         {
             "type": 1,
@@ -5522,12 +5534,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "paprika nw": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -8807,13 +8813,19 @@
             "rating": 1
         }
     ],
+    "patera engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "paterson & cooke": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11044,6 +11056,12 @@
         }
     ],
     "peachies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "peachy den": [
         {
             "type": 1,
             "rating": 1
@@ -25183,6 +25201,12 @@
             "rating": 1
         }
     ],
+    "pmj masonry": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pmk accountancy": [
         {
             "type": 1,
@@ -35344,12 +35368,6 @@
         }
     ],
     "private healthcare information network": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "private home care": [
         {
             "type": 1,
             "rating": 1
