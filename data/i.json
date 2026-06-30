@@ -2003,12 +2003,6 @@
             "rating": 1
         }
     ],
-    "icare solutions nw": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "icare solutions stockport": [
         {
             "type": 1,
@@ -22603,6 +22597,10 @@
     ],
     "ite holding": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 3,
             "rating": 1
         }
@@ -22848,12 +22846,6 @@
         }
     ],
     "itinstock": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "itjl-jn kalsana restaurant": [
         {
             "type": 1,
             "rating": 1

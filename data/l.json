@@ -20757,11 +20757,11 @@
     ],
     "logicmonitor": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24001,7 +24001,7 @@
             "rating": 1
         }
     ],
-    "london victoria": [
+    "london victoria groups": [
         {
             "type": 1,
             "rating": 1

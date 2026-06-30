@@ -32571,12 +32571,6 @@
             "rating": 1
         }
     ],
-    "shivron care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shivsai": [
         {
             "type": 1,
@@ -44249,6 +44243,12 @@
             "rating": 1
         }
     ],
+    "slippery drinks": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "slipshoe street dental surgery": [
         {
             "type": 1,
@@ -53485,6 +53485,12 @@
             "rating": 1
         }
     ],
+    "south chingford congregational church": [
+        {
+            "type": 11,
+            "rating": 2
+        }
+    ],
     "south city market": [
         {
             "type": 1,
@@ -58742,6 +58748,12 @@
     "spiecapag sas branch": [
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "spiel": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -77981,11 +77993,15 @@
     ],
     "summer international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
             "type": 3,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -85942,10 +85958,6 @@
     "symatrix": [
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],

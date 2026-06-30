@@ -1089,12 +1089,6 @@
             "rating": 1
         }
     ],
-    "the rookery rest home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the white swan hotel": [
         {
             "type": 1,
@@ -3034,6 +3028,12 @@
         }
     ],
     "the bedford": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the tamil prince": [
         {
             "type": 1,
             "rating": 1
@@ -32213,6 +32213,12 @@
             "rating": 1
         }
     ],
+    "the nsb trust": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the nucleo project": [
         {
             "type": 1,
@@ -60392,12 +60398,6 @@
         }
     ],
     "turnout labs": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "turnpower": [
         {
             "type": 1,
             "rating": 1

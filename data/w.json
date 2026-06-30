@@ -149,6 +149,12 @@
             "rating": 1
         }
     ],
+    "water mill house care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "worq": [
         {
             "type": 1,
@@ -5611,12 +5617,6 @@
             "rating": 1
         }
     ],
-    "we aid care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "we are adamo": [
         {
             "type": 1,
@@ -7698,6 +7698,12 @@
         }
     ],
     "wellhot": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "welliam trade": [
         {
             "type": 1,
             "rating": 1
@@ -11803,6 +11809,12 @@
             "rating": 1
         }
     ],
+    "wheatoo": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "wheatsheaf sandbach": [
         {
             "type": 1,
@@ -12612,12 +12624,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "white star care": [
         {
             "type": 1,
             "rating": 1

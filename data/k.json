@@ -8407,12 +8407,6 @@
             "rating": 1
         }
     ],
-    "kelvatek": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kelvin construction company": [
         {
             "type": 1,
@@ -17485,6 +17479,16 @@
             "rating": 1
         }
     ],
+    "knav advisory": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "knav": [
         {
             "type": 5,
@@ -21907,6 +21911,12 @@
             "rating": 1
         }
     ],
+    "ks emporium": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ks fast foods": [
         {
             "type": 1,
@@ -23506,6 +23516,12 @@
         }
     ],
     "kvj food and wine": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kvr enterprises": [
         {
             "type": 1,
             "rating": 1

@@ -4513,6 +4513,12 @@
             "rating": 1
         }
     ],
+    "darul amaan trust": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "darul hadis latifiah northwest": [
         {
             "type": 1,
@@ -8873,11 +8879,11 @@
     ],
     "deep dock bv": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10804,12 +10810,6 @@
         }
     ],
     "dementech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dementia care & support at home": [
         {
             "type": 1,
             "rating": 1
@@ -28710,12 +28710,6 @@
         }
     ],
     "duadata": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dual care": [
         {
             "type": 1,
             "rating": 1
