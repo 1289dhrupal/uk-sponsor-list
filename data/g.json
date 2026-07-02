@@ -6783,6 +6783,12 @@
             "rating": 1
         }
     ],
+    "general reasoning": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "general softwares": [
         {
             "type": 1,
@@ -12183,6 +12189,16 @@
             "rating": 1
         }
     ],
+    "gld brands": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gleacher shacklock": [
         {
             "type": 1,
@@ -15253,13 +15269,13 @@
             "rating": 1
         }
     ],
-    "globeleq africa": [
+    "globeleq africa investments": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18589,12 +18605,6 @@
             "rating": 1
         }
     ],
-    "goldenknit mcr": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "goldenpeaks advisers": [
         {
             "type": 1,
@@ -21678,6 +21688,12 @@
         }
     ],
     "gradient sports europe": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gradko international": [
         {
             "type": 1,
             "rating": 1
@@ -25127,12 +25143,6 @@
             "rating": 1
         }
     ],
-    "green tech solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "green technologies": [
         {
             "type": 1,
@@ -26200,7 +26210,7 @@
     "greenwich food ingredients": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "greenwich foundation for the old royal naval college": [
@@ -30155,12 +30165,6 @@
             "rating": 1
         }
     ],
-    "guncast swimming pools": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gungah care": [
         {
             "type": 1,
@@ -30539,6 +30543,16 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "gurdwara sri guru singh sabha hounslow": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "gurdwara sri guru singh sabha slough": [

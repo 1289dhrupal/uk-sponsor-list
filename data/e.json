@@ -13223,12 +13223,6 @@
             "rating": 1
         }
     ],
-    "elite kl": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "elite law solicitors": [
         {
             "type": 1,
@@ -13402,6 +13396,12 @@
         }
     ],
     "elite support providers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "elite support london": [
         {
             "type": 1,
             "rating": 1
@@ -14563,7 +14563,7 @@
             "rating": 1
         }
     ],
-    "elta fans": [
+    "elta": [
         {
             "type": 5,
             "rating": 1
@@ -15943,35 +15943,23 @@
             "rating": 1
         }
     ],
-    "emiran and associates": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "emiran healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "emirates": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "emirates nbd": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25887,6 +25875,18 @@
             "rating": 1
         }
     ],
+    "euro poli": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "europoli supermarket": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "euro pool system": [
         {
             "type": 5,
@@ -27597,6 +27597,12 @@
             "rating": 1
         }
     ],
+    "eventmap": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "events 4": [
         {
             "type": 1,
@@ -28793,6 +28799,12 @@
             "rating": 1
         }
     ],
+    "evgenis": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "evialex": [
         {
             "type": 1,
@@ -28918,6 +28930,12 @@
         }
     ],
     "evo dental centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "evo fitness & sports": [
         {
             "type": 1,
             "rating": 1
@@ -30281,11 +30299,11 @@
     ],
     "executive channel europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30684,6 +30702,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "exinity works": [
         {
             "type": 1,
             "rating": 1

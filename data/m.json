@@ -5083,13 +5083,19 @@
             "rating": 1
         }
     ],
+    "mackins accident repair": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "mackintosh": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5126,12 +5132,6 @@
     "maclellan foundation scotland": [
         {
             "type": 2,
-            "rating": 1
-        }
-    ],
-    "macleod & mcneil": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -9037,7 +9037,7 @@
             "rating": 1
         }
     ],
-    "mal contractors": [
+    "mal contractors civil engineering": [
         {
             "type": 1,
             "rating": 1
@@ -12575,6 +12575,12 @@
             "rating": 1
         }
     ],
+    "maplesfs service company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "mapleton care": [
         {
             "type": 1,
@@ -12583,11 +12589,11 @@
     ],
     "mapletree management": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20257,12 +20263,6 @@
             "rating": 1
         }
     ],
-    "mayfair residential home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "mayfair sleep": [
         {
             "type": 1,
@@ -24445,7 +24445,7 @@
             "rating": 1
         }
     ],
-    "medicines and healthcare regulatory agency": [
+    "medicines and healthcare products regulatory agency": [
         {
             "type": 1,
             "rating": 1
@@ -25084,6 +25084,12 @@
         }
     ],
     "medsan consultancy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "medscheck": [
         {
             "type": 1,
             "rating": 1
@@ -34291,7 +34297,7 @@
             "rating": 1
         }
     ],
-    "millet accountants": [
+    "millet audit": [
         {
             "type": 1,
             "rating": 1
@@ -37584,12 +37590,6 @@
         }
     ],
     "mitigate": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "mitisha": [
         {
             "type": 1,
             "rating": 1
@@ -42506,6 +42506,12 @@
         }
     ],
     "mondra global": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "mondrelog": [
         {
             "type": 1,
             "rating": 1

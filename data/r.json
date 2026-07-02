@@ -24389,6 +24389,12 @@
             "rating": 1
         }
     ],
+    "riverside trossachs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "riverside venue": [
         {
             "type": 1,
@@ -26343,6 +26349,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "roam artists": [
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "roam foods": [
@@ -30784,6 +30796,12 @@
     "rotherham doncaster and south humber nhs foundation trust": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "rotherham titans rugby": [
+        {
+            "type": 10,
             "rating": 1
         }
     ],

@@ -35,6 +35,12 @@
             "rating": 1
         }
     ],
+    "union collective": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "uncle sams hamburger express": [
         {
             "type": 1,
@@ -3909,16 +3915,16 @@
     ],
     "unipres": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "unipro": [

@@ -2401,6 +2401,12 @@
             "rating": 1
         }
     ],
+    "value rich care pathways": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "value stream machinery": [
         {
             "type": 1,
@@ -5561,11 +5567,11 @@
     ],
     "venterra": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15500,6 +15506,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vx3": [
         {
             "type": 1,
             "rating": 1

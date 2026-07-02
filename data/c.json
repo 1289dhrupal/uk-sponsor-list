@@ -3455,6 +3455,12 @@
             "rating": 1
         }
     ],
+    "calatherm": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "calcinotto": [
         {
             "type": 1,
@@ -7243,6 +7249,12 @@
             "rating": 1
         }
     ],
+    "capital city college": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "capital claim & management": [
         {
             "type": 1,
@@ -10437,6 +10449,12 @@
             "rating": 1
         }
     ],
+    "carebase colchester": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "carebase guildford": [
         {
             "type": 1,
@@ -12478,12 +12496,6 @@
         }
     ],
     "cartledge agri": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cartmel grange": [
         {
             "type": 1,
             "rating": 1
@@ -15793,6 +15805,12 @@
             "rating": 1
         }
     ],
+    "cdr partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cds superstores international": [
         {
             "type": 1,
@@ -16961,12 +16979,6 @@
             "rating": 1
         }
     ],
-    "celsa manufacturing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "celsey": [
         {
             "type": 1,
@@ -17938,6 +17950,12 @@
         }
     ],
     "centre for health sciences training research and development chestrad international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "centre for homelessness impact": [
         {
             "type": 1,
             "rating": 1
@@ -19524,6 +19542,12 @@
         }
     ],
     "chadni pizza express": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "chadsmoor medical practice": [
         {
             "type": 1,
             "rating": 1
@@ -27663,6 +27687,16 @@
             "rating": 2
         }
     ],
+    "christ apostolic church throne of grace and mercy": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
+        }
+    ],
     "christ apostolic church wonders assembly": [
         {
             "type": 11,
@@ -30252,12 +30286,6 @@
         }
     ],
     "circle 13": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "circle care": [
         {
             "type": 1,
             "rating": 1
@@ -35555,16 +35583,6 @@
             "rating": 1
         }
     ],
-    "clintec international": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "clintech hub": [
         {
             "type": 1,
@@ -40811,7 +40829,7 @@
             "rating": 1
         }
     ],
-    "comap controls": [
+    "comap control": [
         {
             "type": 1,
             "rating": 1
@@ -44397,6 +44415,12 @@
             "rating": 1
         }
     ],
+    "connect care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "connect consultants": [
         {
             "type": 1,
@@ -47215,6 +47239,12 @@
             "rating": 1
         }
     ],
+    "coperion": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "copernus": [
         {
             "type": 1,
@@ -47541,6 +47571,12 @@
             "rating": 1
         }
     ],
+    "coram leap confronting conflict": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "coram s fields and the harmsworth memorial playground": [
         {
             "type": 1,
@@ -47560,6 +47596,12 @@
         }
     ],
     "corban global": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "corban solicitors": [
         {
             "type": 1,
             "rating": 1
@@ -55115,6 +55157,10 @@
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "crop-ware": [
@@ -58396,6 +58442,12 @@
         }
     ],
     "cura terrae air": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cura-care yorkshire": [
         {
             "type": 1,
             "rating": 1

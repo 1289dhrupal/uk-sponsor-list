@@ -257,12 +257,6 @@
             "rating": 1
         }
     ],
-    "bo ness care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "border off licence": [
         {
             "type": 1,
@@ -3287,12 +3281,6 @@
             "rating": 1
         }
     ],
-    "baker perkins": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "baker richards consulting": [
         {
             "type": 1,
@@ -5394,6 +5382,12 @@
         }
     ],
     "banjo tech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bank frick ag": [
         {
             "type": 1,
             "rating": 1
@@ -10904,6 +10898,12 @@
         }
     ],
     "be the fox": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "be the mercy": [
         {
             "type": 1,
             "rating": 1
@@ -21105,11 +21105,11 @@
     ],
     "bigo technology": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24129,6 +24129,12 @@
             "rating": 1
         }
     ],
+    "bivora": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bixley pharma": [
         {
             "type": 1,
@@ -26358,6 +26364,16 @@
         }
     ],
     "blend media": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "blend360": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -38379,12 +38395,6 @@
             "rating": 1
         }
     ],
-    "bridgeway recruitment": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bridgewell consultants": [
         {
             "type": 1,
@@ -39006,12 +39016,6 @@
         }
     ],
     "brightening lives": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "brighter dawn": [
         {
             "type": 1,
             "rating": 1
@@ -43697,13 +43701,19 @@
             "rating": 3
         }
     ],
+    "brunswick coffee": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "brunswick consultants": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -45753,6 +45763,12 @@
         {
             "type": 9,
             "rating": 2
+        }
+    ],
+    "building management solutions integrators": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "building material supplies": [
@@ -47809,6 +47825,12 @@
             "rating": 1
         }
     ],
+    "businessldn": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "businessmobiles com": [
         {
             "type": 1,
@@ -48543,6 +48565,12 @@
             "rating": 1
         }
     ],
+    "bvu ventures": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bw & co": [
         {
             "type": 1,
@@ -48746,6 +48774,12 @@
         }
     ],
     "bxk": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bxmedia": [
         {
             "type": 1,
             "rating": 1
@@ -51231,6 +51265,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "branch of mirine global": [
+        {
+            "type": 3,
+            "rating": 3
         }
     ],
     "branch of sewon chemical co": [

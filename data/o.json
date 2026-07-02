@@ -851,12 +851,6 @@
             "rating": 1
         }
     ],
-    "oak house homecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oak initiative cic": [
         {
             "type": 4,
@@ -1316,6 +1310,12 @@
         }
     ],
     "oaklands stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "oaklands surgery": [
         {
             "type": 1,
             "rating": 1
@@ -5179,6 +5179,12 @@
             "rating": 1
         }
     ],
+    "oldbury energy solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "oldendorff carriers": [
         {
             "type": 5,
@@ -6214,6 +6220,12 @@
         }
     ],
     "om wines": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "om2careltd": [
         {
             "type": 1,
             "rating": 1
@@ -8578,6 +8590,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "oneplace homes": [
         {
             "type": 1,
             "rating": 1
@@ -15044,12 +15062,6 @@
         }
     ],
     "our retail": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "our rock": [
         {
             "type": 1,
             "rating": 1

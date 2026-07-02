@@ -2093,6 +2093,12 @@
             "rating": 1
         }
     ],
+    "label apparel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "label nation": [
         {
             "type": 1,
@@ -3084,6 +3090,12 @@
         }
     ],
     "lakeross": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lakers restaurant": [
         {
             "type": 1,
             "rating": 1
@@ -8250,12 +8262,6 @@
     "leanpath": [
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "leap confronting conflict": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -13851,12 +13857,6 @@
             "rating": 2
         }
     ],
-    "lifeways care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "liforme": [
         {
             "type": 1,
@@ -15644,6 +15644,12 @@
         }
     ],
     "linet": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "linetech": [
         {
             "type": 1,
             "rating": 1
@@ -25709,12 +25715,6 @@
             "rating": 1
         }
     ],
-    "loughshore veg": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "loughton hall": [
         {
             "type": 1,
@@ -28335,13 +28335,13 @@
             "rating": 1
         }
     ],
-    "lumera itm": [
+    "lumera": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

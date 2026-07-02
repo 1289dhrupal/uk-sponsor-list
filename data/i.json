@@ -3283,6 +3283,12 @@
             "rating": 1
         }
     ],
+    "idemia identity & security": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "idemia": [
         {
             "type": 1,
@@ -4400,16 +4406,6 @@
         },
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "igt interactive": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -11391,6 +11387,12 @@
             "rating": 1
         }
     ],
+    "infraly": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "infranity": [
         {
             "type": 5,
@@ -14207,23 +14209,13 @@
             "rating": 1
         }
     ],
-    "instinctif partners": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "instinet global": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14588,6 +14580,10 @@
         }
     ],
     "insuremo": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 5,
             "rating": 1
@@ -20721,6 +20717,12 @@
             "rating": 1
         }
     ],
+    "ironhall hospitality bradford": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ironman": [
         {
             "type": 5,
@@ -21270,6 +21272,12 @@
         },
         {
             "type": 2,
+            "rating": 1
+        }
+    ],
+    "iskender est 1867": [
+        {
+            "type": 3,
             "rating": 1
         }
     ],
@@ -22689,12 +22697,6 @@
             "rating": 1
         }
     ],
-    "itelenet engineering solution": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "itential europe": [
         {
             "type": 5,
@@ -23298,6 +23300,12 @@
         }
     ],
     "ivanhoe hotel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ivanhoe mines": [
         {
             "type": 1,
             "rating": 1
