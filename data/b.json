@@ -5721,6 +5721,12 @@
             "rating": 1
         }
     ],
+    "banks co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "banks hotel": [
         {
             "type": 1,
@@ -26391,6 +26397,12 @@
             "rating": 1
         }
     ],
+    "blenford": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "blengold": [
         {
             "type": 1,
@@ -26962,6 +26974,12 @@
         }
     ],
     "bloom health": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bloom health hospitals": [
         {
             "type": 1,
             "rating": 1
@@ -37023,12 +37041,12 @@
     ],
     "breeze connect": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "breeze craft beds": [
@@ -47104,6 +47122,12 @@
         }
     ],
     "burrendale hotel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "burridge dental practice": [
         {
             "type": 1,
             "rating": 1

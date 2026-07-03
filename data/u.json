@@ -2153,6 +2153,12 @@
             "rating": 1
         }
     ],
+    "ultra building products": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ultra care clinic": [
         {
             "type": 1,
@@ -2934,6 +2940,12 @@
         }
     ],
     "uncoded": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "uncommon bio": [
         {
             "type": 1,
             "rating": 1
@@ -8149,6 +8161,12 @@
             "rating": 1
         }
     ],
+    "upvolt": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "upwards care solutions": [
         {
             "type": 1,
@@ -8905,6 +8923,12 @@
         {
             "type": 12,
             "rating": 2
+        }
+    ],
+    "us3 global consulting": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "usa builders": [

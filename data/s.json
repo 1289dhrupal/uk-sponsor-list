@@ -3863,12 +3863,6 @@
             "rating": 1
         }
     ],
-    "s w living": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "s w p concrete solutions": [
         {
             "type": 1,
@@ -12264,12 +12258,6 @@
         }
     ],
     "sandhurst rest home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sandhurst service station": [
         {
             "type": 1,
             "rating": 1
@@ -26701,6 +26689,12 @@
             "rating": 1
         }
     ],
+    "sh children s home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sh contractors": [
         {
             "type": 1,
@@ -33497,6 +33491,10 @@
         {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "shq romford": [
@@ -37413,6 +37411,12 @@
             "rating": 2
         }
     ],
+    "silver stone partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "silver summer": [
         {
             "type": 1,
@@ -37716,12 +37720,6 @@
         }
     ],
     "silverstone academy trust": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "silverstone accountant": [
         {
             "type": 1,
             "rating": 1
@@ -46914,6 +46912,12 @@
         }
     ],
     "smile and implant centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "smile arch": [
         {
             "type": 1,
             "rating": 1
@@ -56645,6 +56649,12 @@
             "rating": 1
         }
     ],
+    "specialist alarm": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "specialist auto spares": [
         {
             "type": 1,
@@ -58584,6 +58594,12 @@
         }
     ],
     "spices 7": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "spices of india": [
         {
             "type": 1,
             "rating": 1
@@ -66539,6 +66555,12 @@
             "rating": 1
         }
     ],
+    "st davids diocesan board of finance the": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "st helens council": [
         {
             "type": 1,
@@ -74307,7 +74329,7 @@
             "rating": 1
         }
     ],
-    "streatham montessori nursery and day care": [
+    "streatham montessori day nursery": [
         {
             "type": 1,
             "rating": 1

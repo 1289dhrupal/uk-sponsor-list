@@ -387,11 +387,11 @@
     ],
     "i -exceed technology solutions": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -580,12 +580,6 @@
         }
     ],
     "i m smile": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "i maintain builders": [
         {
             "type": 1,
             "rating": 1
@@ -7170,6 +7164,12 @@
         }
     ],
     "imperial oaks": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "imperial packaging solution": [
         {
             "type": 1,
             "rating": 1

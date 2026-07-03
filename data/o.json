@@ -1297,6 +1297,12 @@
             "rating": 1
         }
     ],
+    "oaklands residential care home - leeds": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "oaklands rest home": [
         {
             "type": 1,
@@ -7821,6 +7827,16 @@
             "rating": 1
         }
     ],
+    "one solutions london": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "one health home care": [
         {
             "type": 1,
@@ -7999,6 +8015,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "one ocean planet": [
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "one of us": [
@@ -9190,6 +9212,12 @@
         }
     ],
     "ontra healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ontrax equipment": [
         {
             "type": 1,
             "rating": 1
@@ -14425,12 +14453,6 @@
             "rating": 1
         }
     ],
-    "osr tech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "osrl oil spill response": [
         {
             "type": 5,
@@ -17027,12 +17049,6 @@
             "rating": 1
         }
     ],
-    "oxitec": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oxiway": [
         {
             "type": 1,
@@ -17082,12 +17098,6 @@
         }
     ],
     "oxomoron": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "oxon builders": [
         {
             "type": 1,
             "rating": 1

@@ -3259,12 +3259,6 @@
             "rating": 1
         }
     ],
-    "vape suite online": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vape supplier": [
         {
             "type": 1,
@@ -3284,12 +3278,6 @@
         }
     ],
     "vape4world": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "vapeazy": [
         {
             "type": 1,
             "rating": 1
@@ -6485,19 +6473,13 @@
             "rating": 1
         }
     ],
-    "verity healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "verity medical": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12217,13 +12199,19 @@
             "rating": 1
         }
     ],
+    "vitality care and support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vitality corporate": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

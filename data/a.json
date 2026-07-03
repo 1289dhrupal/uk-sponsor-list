@@ -1969,11 +1969,11 @@
     ],
     "a travel agency london office": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12213,6 +12213,12 @@
             "rating": 1
         }
     ],
+    "acj accountants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ack manufacturing": [
         {
             "type": 1,
@@ -15108,6 +15114,12 @@
         }
     ],
     "adc therapeutics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "adclaro": [
         {
             "type": 1,
             "rating": 1
@@ -20644,12 +20656,6 @@
         }
     ],
     "agecare mg2": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "agecare petunia": [
         {
             "type": 1,
             "rating": 1
@@ -39935,13 +39941,19 @@
             "rating": 1
         }
     ],
+    "amos pictures": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "amos sport": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -42678,6 +42690,12 @@
         }
     ],
     "angel plant hire": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "angel plus homes": [
         {
             "type": 1,
             "rating": 1
@@ -52792,12 +52810,6 @@
     "ark of hope foundation for all nations": [
         {
             "type": 2,
-            "rating": 1
-        }
-    ],
-    "ark physiotherapy": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],

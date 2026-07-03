@@ -6871,11 +6871,11 @@
     ],
     "generate holdings": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24403,12 +24403,6 @@
             "rating": 1
         }
     ],
-    "green chilies restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "green choice ta khan cash & carry": [
         {
             "type": 1,
@@ -31606,6 +31600,12 @@
         }
     ],
     "gw art studio": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gw building developments": [
         {
             "type": 1,
             "rating": 1

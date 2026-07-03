@@ -6321,11 +6321,11 @@
     ],
     "magda multan home": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6337,12 +6337,12 @@
     ],
     "magdalen college school": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "magdalen college school brackley academy trust": [
@@ -18375,6 +18375,12 @@
             "rating": 1
         }
     ],
+    "matravers school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "matreshka media house": [
         {
             "type": 1,
@@ -25412,6 +25418,12 @@
         }
     ],
     "meetang": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "meetash": [
         {
             "type": 1,
             "rating": 1
@@ -34486,6 +34498,12 @@
         }
     ],
     "millsted care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "millstream yield": [
         {
             "type": 1,
             "rating": 1
@@ -47784,6 +47802,12 @@
         }
     ],
     "mqh": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "mqm": [
         {
             "type": 1,
             "rating": 1

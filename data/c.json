@@ -9341,12 +9341,6 @@
             "rating": 1
         }
     ],
-    "care at home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "care at home newbury": [
         {
             "type": 1,
@@ -9360,6 +9354,12 @@
         }
     ],
     "care at home south east": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "care at home": [
         {
             "type": 1,
             "rating": 1
@@ -42758,6 +42758,12 @@
         }
     ],
     "complete childrens care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "complete co-packing": [
         {
             "type": 1,
             "rating": 1
