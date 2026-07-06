@@ -381,12 +381,6 @@
             "rating": 1
         }
     ],
-    "saints coffee": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "salford curry king": [
         {
             "type": 1,
@@ -25239,6 +25233,12 @@
             "rating": 1
         }
     ],
+    "sesn gb": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sessay cricket club": [
         {
             "type": 10,
@@ -30492,6 +30492,12 @@
         }
     ],
     "shenley": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "shenny technologies": [
         {
             "type": 1,
             "rating": 1
@@ -35759,14 +35765,20 @@
             "rating": 1
         }
     ],
-    "sidney sussex college": [
+    "sidney stringer multi academy trust": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "sidney sussex college": [
         {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "sidon foods": [
@@ -37485,7 +37497,7 @@
             "rating": 1
         }
     ],
-    "silverbirch lodge private nursing home": [
+    "silverbirch lodge": [
         {
             "type": 1,
             "rating": 1
@@ -37586,12 +37598,6 @@
         }
     ],
     "silverjen": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "silverlake care 1": [
         {
             "type": 1,
             "rating": 1
@@ -39195,6 +39201,16 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "sinfonia smith square": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "sinfonietta productions trading as london sinfonietta": [
@@ -41301,12 +41317,6 @@
             "rating": 1
         }
     ],
-    "sja ventures": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sjc bookkeeping": [
         {
             "type": 1,
@@ -42929,17 +42939,13 @@
             "rating": 1
         }
     ],
-    "sky management": [
+    "sky local": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "sky media house": [
-        {
-            "type": 4,
-            "rating": 2
-        },
+    "sky management": [
         {
             "type": 1,
             "rating": 1
@@ -54403,16 +54409,6 @@
             "rating": 2
         }
     ],
-    "southbank sinfonia": [
-        {
-            "type": 4,
-            "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "southberg holdings": [
         {
             "type": 1,
@@ -59440,6 +59436,12 @@
         }
     ],
     "splendid communications": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "splendid healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -64586,6 +64588,12 @@
         },
         {
             "type": 2,
+            "rating": 1
+        }
+    ],
+    "st gabriel the archangel cmat": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -71481,6 +71489,12 @@
             "rating": 1
         }
     ],
+    "stick & twist": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "stick n step": [
         {
             "type": 9,
@@ -75621,6 +75635,12 @@
             "rating": 1
         }
     ],
+    "studio mya": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "studio nari": [
         {
             "type": 1,
@@ -75888,10 +75908,6 @@
     "study": [
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -78460,6 +78476,12 @@
         }
     ],
     "sun global investments": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sun harvest": [
         {
             "type": 1,
             "rating": 1
@@ -86394,6 +86416,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "synechron platform consulting": [
         {
             "type": 1,
             "rating": 1

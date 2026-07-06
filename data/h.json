@@ -13133,6 +13133,12 @@
             "rating": 1
         }
     ],
+    "healthcare infection society": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "healthcare interaction": [
         {
             "type": 1,
@@ -14335,12 +14341,6 @@
             "rating": 1
         }
     ],
-    "heatly": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "heaton cricket club": [
         {
             "type": 10,
@@ -14348,6 +14348,12 @@
         }
     ],
     "heaton food store": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "heaton healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -22886,6 +22892,12 @@
         }
     ],
     "honu nail studio": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hna supermarket": [
         {
             "type": 1,
             "rating": 1
@@ -31818,6 +31830,12 @@
         }
     ],
     "hunters lodge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hunters lodge care homes": [
         {
             "type": 1,
             "rating": 1

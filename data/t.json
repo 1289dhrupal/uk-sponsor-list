@@ -10165,6 +10165,12 @@
             "rating": 1
         }
     ],
+    "tbi media": [
+        {
+            "type": 4,
+            "rating": 2
+        }
+    ],
     "tbn people support": [
         {
             "type": 1,
@@ -13654,12 +13660,6 @@
         }
     ],
     "telelink": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "telemos capital": [
         {
             "type": 1,
             "rating": 1
@@ -32167,7 +32167,7 @@
             "rating": 1
         }
     ],
-    "the norton motorcycle company": [
+    "the norton motorcycle co": [
         {
             "type": 5,
             "rating": 1
@@ -32179,19 +32179,19 @@
     ],
     "the norwegian church": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 9,
             "rating": 2
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -35161,16 +35161,16 @@
     ],
     "the redeemed assemblies canaanland": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
             "type": 9,
             "rating": 2
         },
         {
-            "type": 11,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "the redeemed assemblies trust": [
@@ -38487,6 +38487,12 @@
             "rating": 1
         }
     ],
+    "the thornbury clinic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the thornton practice": [
         {
             "type": 1,
@@ -39421,6 +39427,12 @@
             "rating": 1
         }
     ],
+    "the vivensa foundation": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the voces8 foundation": [
         {
             "type": 4,
@@ -39690,6 +39702,10 @@
         }
     ],
     "the wellcome trust as trustee of the wellcome trust": [
+        {
+            "type": 4,
+            "rating": 2
+        },
         {
             "type": 1,
             "rating": 1
@@ -47004,6 +47020,18 @@
         }
     ],
     "tms grid": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tmsg": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tucare": [
         {
             "type": 1,
             "rating": 1

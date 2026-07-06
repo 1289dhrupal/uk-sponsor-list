@@ -119,6 +119,12 @@
             "rating": 1
         }
     ],
+    "ultima care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "underwood village stores premier and post office": [
         {
             "type": 1,
@@ -2963,6 +2969,12 @@
             "rating": 1
         }
     ],
+    "unconventional wisdom": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "uncovered": [
         {
             "type": 1,
@@ -3834,6 +3846,12 @@
             "type": 4,
             "rating": 2
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "union windows": [
         {
             "type": 1,
             "rating": 1
@@ -5518,6 +5536,12 @@
         }
     ],
     "unity distribution": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "unity education trust": [
         {
             "type": 1,
             "rating": 1
@@ -7407,11 +7431,11 @@
     ],
     "unumplus": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

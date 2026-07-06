@@ -1529,6 +1529,12 @@
             "rating": 1
         }
     ],
+    "eagle plumbing & heating": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "eagle power ministries international": [
         {
             "type": 2,
@@ -4851,12 +4857,6 @@
             "rating": 1
         }
     ],
-    "ec ipco": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ec learning solutions": [
         {
             "type": 1,
@@ -6265,11 +6265,11 @@
     ],
     "ecoportal": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16172,6 +16172,12 @@
             "type": 11,
             "rating": 2
         },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "emmanuel christian fellowship-ilford": [
         {
             "type": 2,
             "rating": 1
@@ -28917,6 +28923,12 @@
             "rating": 1
         }
     ],
+    "evimed solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "evington food": [
         {
             "type": 1,
@@ -32286,6 +32298,12 @@
         }
     ],
     "eyre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "eyre street dental": [
         {
             "type": 1,
             "rating": 1

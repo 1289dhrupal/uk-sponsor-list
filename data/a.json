@@ -955,6 +955,12 @@
             "rating": 1
         }
     ],
+    "a h accountants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "a h local supermarket": [
         {
             "type": 1,
@@ -6797,12 +6803,12 @@
     ],
     "abb": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -7426,12 +7432,6 @@
         }
     ],
     "abbotswood court care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "abbotswood lodge": [
         {
             "type": 1,
             "rating": 1
@@ -19795,6 +19795,12 @@
             "rating": 1
         }
     ],
+    "african night fever cic": [
+        {
+            "type": 4,
+            "rating": 2
+        }
+    ],
     "african octopus": [
         {
             "type": 1,
@@ -23729,6 +23735,12 @@
             "rating": 1
         }
     ],
+    "aira home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "aira textiles": [
         {
             "type": 1,
@@ -26395,6 +26407,12 @@
             "rating": 1
         }
     ],
+    "aktive healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "aktrion manufacturing support": [
         {
             "type": 1,
@@ -28124,6 +28142,12 @@
         }
     ],
     "alan chalmers chemists": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "alan conisbee & associates trading as conisbee": [
         {
             "type": 1,
             "rating": 1
@@ -36384,16 +36408,6 @@
         }
     ],
     "alviz studios": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "alvogen": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -49893,6 +49907,12 @@
             "rating": 1
         }
     ],
+    "arbaz&bro": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "arbion": [
         {
             "type": 1,
@@ -53781,6 +53801,12 @@
             "rating": 1
         }
     ],
+    "arnot st mary cofe primary school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "aro finance": [
         {
             "type": 1,
@@ -55620,6 +55646,12 @@
         }
     ],
     "arun": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "arun sharma chemists": [
         {
             "type": 1,
             "rating": 1
@@ -59011,6 +59043,12 @@
             "rating": 1
         }
     ],
+    "asian resource centre of croydon": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "asian snacks": [
         {
             "type": 1,
@@ -61315,11 +61353,11 @@
     ],
     "assystem energy & infrastructure": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -66859,12 +66897,6 @@
             "rating": 1
         }
     ],
-    "autotrade southwest": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "autotrader": [
         {
             "type": 1,
@@ -68802,6 +68834,12 @@
         }
     ],
     "avon survey": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "avon-dynamic calibration": [
         {
             "type": 1,
             "rating": 1
@@ -71586,6 +71624,16 @@
         }
     ],
     "aztek comms": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "aztiq": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

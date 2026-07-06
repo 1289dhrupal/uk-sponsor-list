@@ -3211,12 +3211,6 @@
             "rating": 1
         }
     ],
-    "vape cash and carry": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vape green": [
         {
             "type": 1,
@@ -5370,6 +5364,12 @@
         }
     ],
     "vendo digital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "veneklasen gallery": [
         {
             "type": 1,
             "rating": 1
@@ -8329,12 +8329,6 @@
             "rating": 1
         }
     ],
-    "victoria hall care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "victoria house wallasey": [
         {
             "type": 1,
@@ -10412,10 +10406,6 @@
     "vira international": [
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],

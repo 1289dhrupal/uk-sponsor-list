@@ -4207,12 +4207,6 @@
             "rating": 1
         }
     ],
-    "ignite health & home care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ignite health care": [
         {
             "type": 1,
@@ -9390,6 +9384,12 @@
         }
     ],
     "indicatrix crystallography": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "indices ai": [
         {
             "type": 1,
             "rating": 1
@@ -19459,6 +19459,12 @@
             "rating": 1
         }
     ],
+    "iotech systems": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "iov42": [
         {
             "type": 1,
@@ -19486,6 +19492,12 @@
     "ip equipment sales d/b/a vermeer": [
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "ip exchange msp": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20938,6 +20950,12 @@
         }
     ],
     "isabella stefanelli": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "isabella worsley": [
         {
             "type": 1,
             "rating": 1
@@ -23666,6 +23684,12 @@
         }
     ],
     "ivy bank residential care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ivybank care": [
         {
             "type": 1,
             "rating": 1

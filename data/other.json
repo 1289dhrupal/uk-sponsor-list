@@ -3335,20 +3335,14 @@
             "rating": 1
         }
     ],
-    "4 seasons": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "4 seasons catering": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "4 seasons deli": [

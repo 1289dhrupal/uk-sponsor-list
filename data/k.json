@@ -7869,6 +7869,12 @@
             "rating": 1
         }
     ],
+    "keep safe & secure": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "keepcup": [
         {
             "type": 1,
@@ -10540,6 +10546,12 @@
         }
     ],
     "key supplies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "key travel": [
         {
             "type": 1,
             "rating": 1
@@ -19215,12 +19227,6 @@
             "rating": 1
         }
     ],
-    "kome care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kome entertainment": [
         {
             "type": 4,
@@ -19795,31 +19801,31 @@
     ],
     "kore ai": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "korea aerospace industries office": [
         {
-            "type": 5,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         }
     ],
     "korea creative content agency": [
         {
-            "type": 5,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
@@ -24394,12 +24400,6 @@
         }
     ],
     "kings education": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kare plus": [
         {
             "type": 1,
             "rating": 1
