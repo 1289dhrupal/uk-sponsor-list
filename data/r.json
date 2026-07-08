@@ -2651,6 +2651,16 @@
             "rating": 1
         }
     ],
+    "r2 global recruitment": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "r2 investments": [
         {
             "type": 1,
@@ -4354,6 +4364,12 @@
         }
     ],
     "rahmans kitchen": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rahmath traders": [
         {
             "type": 1,
             "rating": 1
@@ -12979,16 +12995,6 @@
             "rating": 1
         }
     ],
-    "redburn europe": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "redburn innovations": [
         {
             "type": 1,
@@ -17090,6 +17096,12 @@
         }
     ],
     "renova estates": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "renovar ventures": [
         {
             "type": 1,
             "rating": 1
@@ -21442,6 +21454,12 @@
     "richmondshire cricket club": [
         {
             "type": 10,
+            "rating": 1
+        }
+    ],
+    "richmore hospitality": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30886,6 +30904,16 @@
     "rothesay pensions management": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "rothschild & co global markets solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

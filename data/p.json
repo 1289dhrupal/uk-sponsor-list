@@ -897,12 +897,6 @@
             "rating": 1
         }
     ],
-    "paul s bakery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "photoplace": [
         {
             "type": 1,
@@ -11187,12 +11181,6 @@
             "rating": 1
         }
     ],
-    "peak home assist": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "peak ndt": [
         {
             "type": 1,
@@ -13275,12 +13263,6 @@
             "rating": 1
         }
     ],
-    "pentagon security force tm": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "pentagon technical": [
         {
             "type": 1,
@@ -15095,6 +15077,16 @@
             "rating": 1
         }
     ],
+    "persona identities": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "persona labs": [
         {
             "type": 1,
@@ -16746,6 +16738,12 @@
         }
     ],
     "pharm2farm": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pharma box": [
         {
             "type": 1,
             "rating": 1
@@ -20628,6 +20626,12 @@
         }
     ],
     "pink castle": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pink diamond": [
         {
             "type": 1,
             "rating": 1
@@ -24615,6 +24619,12 @@
             "rating": 1
         }
     ],
+    "pltfrm search": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "plu&m": [
         {
             "type": 1,
@@ -24865,12 +24875,12 @@
     ],
     "plus info": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "plus investments": [
@@ -29823,6 +29833,12 @@
             "rating": 1
         }
     ],
+    "prad fusions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "prada retail": [
         {
             "type": 5,
@@ -32097,11 +32113,11 @@
     ],
     "preqin": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -37680,6 +37696,12 @@
         }
     ],
     "prolojik": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "prolynk": [
         {
             "type": 1,
             "rating": 1
@@ -43534,6 +43556,12 @@
         }
     ],
     "premier fuel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "private capital trade association": [
         {
             "type": 1,
             "rating": 1

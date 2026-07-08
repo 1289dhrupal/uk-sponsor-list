@@ -1565,6 +1565,12 @@
             "rating": 1
         }
     ],
+    "ga care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ga constructions london": [
         {
             "type": 1,
@@ -1612,6 +1618,12 @@
         }
     ],
     "ga&a design": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ga-alliance": [
         {
             "type": 1,
             "rating": 1
@@ -10535,12 +10547,6 @@
             "rating": 1
         }
     ],
-    "gillbrooke nursing home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gillespies": [
         {
             "type": 1,
@@ -16201,6 +16207,12 @@
             "rating": 1
         }
     ],
+    "gmk advisory": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gmk software solutions": [
         {
             "type": 1,
@@ -18810,12 +18822,6 @@
         }
     ],
     "goldmark legal": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "goldmine global": [
         {
             "type": 1,
             "rating": 1
@@ -21433,6 +21439,18 @@
             "rating": 1
         }
     ],
+    "grace manor care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "grace manor care centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "grace of his glory": [
         {
             "type": 1,
@@ -22335,6 +22353,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "grand slam wrestling": [
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "grand slice pizza": [
@@ -23680,12 +23704,6 @@
         }
     ],
     "great expectations hotel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "great future support": [
         {
             "type": 1,
             "rating": 1
@@ -27195,12 +27213,6 @@
             "rating": 1
         }
     ],
-    "grimaldi sl": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "grimsby town cricket club": [
         {
             "type": 10,
@@ -30265,13 +30277,13 @@
             "rating": 1
         }
     ],
-    "guotai junan securities": [
+    "guotai haitong securities": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

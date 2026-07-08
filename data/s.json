@@ -6101,12 +6101,6 @@
             "rating": 1
         }
     ],
-    "sadie luton": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sadiq traders": [
         {
             "type": 1,
@@ -17185,6 +17179,12 @@
             "rating": 1
         }
     ],
+    "sca-inter a": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "scaffold digital": [
         {
             "type": 1,
@@ -19226,6 +19226,12 @@
             "type": 10,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "scottish funding council": [
         {
             "type": 1,
             "rating": 1
@@ -40175,6 +40181,16 @@
             "rating": 1
         }
     ],
+    "siriuspoint international insurance corporation": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sirkka networks": [
         {
             "type": 1,
@@ -43632,7 +43648,7 @@
     "skystone finance": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "skysun": [
@@ -45883,11 +45899,11 @@
     ],
     "smart trade technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -55713,12 +55729,6 @@
             "rating": 1
         }
     ],
-    "spaces highbury and islington": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "spaceships": [
         {
             "type": 1,
@@ -55966,6 +55976,12 @@
         }
     ],
     "spark a2z": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "spark by hilton luton": [
         {
             "type": 1,
             "rating": 1
@@ -64388,12 +64404,6 @@
         }
     ],
     "st david s clinic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "st david s nursing home": [
         {
             "type": 1,
             "rating": 1
@@ -77321,13 +77331,19 @@
             "rating": 1
         }
     ],
-    "suissetechpartners": [
+    "suiso": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "suissetechpartners": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -82581,6 +82597,10 @@
     ],
     "sustainable bright": [
         {
+            "type": 13,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         },
@@ -85040,6 +85060,12 @@
         }
     ],
     "swindon dispensary": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "swindon pharmacy": [
         {
             "type": 1,
             "rating": 1

@@ -16335,6 +16335,12 @@
             "rating": 1
         }
     ],
+    "intermodal tank transport": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "intermusica artists management": [
         {
             "type": 1,
@@ -18575,11 +18581,11 @@
     ],
     "inverto": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21049,6 +21055,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
         }
     ],
     "isdi": [
@@ -22408,6 +22418,12 @@
         }
     ],
     "it-soho": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "it com domains": [
         {
             "type": 1,
             "rating": 1

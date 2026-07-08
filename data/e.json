@@ -33,6 +33,12 @@
             "rating": 2
         }
     ],
+    "exotica asian cuisine": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "executive nexus": [
         {
             "type": 1,
@@ -3754,12 +3760,6 @@
         }
     ],
     "easy car & repair": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "easy care 4 u": [
         {
             "type": 1,
             "rating": 1
@@ -14418,12 +14418,6 @@
         }
     ],
     "elorarez": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "elp facility management": [
         {
             "type": 1,
             "rating": 1
@@ -29399,6 +29393,16 @@
             "rating": 1
         }
     ],
+    "evs broadcast": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "evtec automotive": [
         {
             "type": 1,
@@ -29816,6 +29820,12 @@
         }
     ],
     "excel sa": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "excel search & advisory": [
         {
             "type": 1,
             "rating": 1

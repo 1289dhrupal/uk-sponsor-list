@@ -2131,6 +2131,12 @@
             "rating": 1
         }
     ],
+    "walkers professional": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "walkers snackfoods": [
         {
             "type": 5,
@@ -8049,12 +8055,6 @@
             "rating": 2
         }
     ],
-    "wellspring everyday support": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "wellspring medical centre": [
         {
             "type": 1,
@@ -12204,6 +12204,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "white bear corporate": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21630,6 +21636,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "worldwide solutions": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

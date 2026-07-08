@@ -4625,6 +4625,16 @@
             "rating": 1
         }
     ],
+    "vedic society of southampton": [
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "vedic voyages": [
         {
             "type": 1,
@@ -9586,6 +9596,12 @@
         }
     ],
     "village software engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "village street pharmacy": [
         {
             "type": 1,
             "rating": 1

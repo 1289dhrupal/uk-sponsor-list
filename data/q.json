@@ -1187,6 +1187,12 @@
             "rating": 1
         }
     ],
+    "qlfy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "qlik solutions": [
         {
             "type": 1,
@@ -1816,12 +1822,6 @@
         }
     ],
     "qualient technology solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "qualifi solutions": [
         {
             "type": 1,
             "rating": 1
@@ -3142,6 +3142,12 @@
         }
     ],
     "quaywest housing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "quazis": [
         {
             "type": 1,
             "rating": 1
