@@ -8609,12 +8609,6 @@
             "rating": 1
         }
     ],
-    "makai care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "makamana": [
         {
             "type": 1,
@@ -31739,6 +31733,16 @@
             "rating": 1
         }
     ],
+    "micro agi": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "micro creations": [
         {
             "type": 1,
@@ -40079,6 +40083,10 @@
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "moa foods": [
@@ -42609,16 +42617,6 @@
             "rating": 1
         }
     ],
-    "monese": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "monet beauty clinic": [
         {
             "type": 1,
@@ -44533,6 +44531,16 @@
             "rating": 1
         }
     ],
+    "morae global": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "morah": [
         {
             "type": 1,
@@ -45253,16 +45261,6 @@
             "rating": 1
         }
     ],
-    "moroccan national tourist office": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 6,
-            "rating": 2
-        }
-    ],
     "morocex": [
         {
             "type": 1,
@@ -45283,12 +45281,12 @@
     ],
     "morphe cosmetics": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -54381,16 +54379,6 @@
         {
             "type": 4,
             "rating": 2
-        }
-    ],
-    "music learning": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
         }
     ],
     "music managers forum": [

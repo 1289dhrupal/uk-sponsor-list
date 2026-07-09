@@ -2277,23 +2277,29 @@
             "rating": 1
         }
     ],
-    "nala payments": [
+    "nakodar trading": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "nala payments": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
     "nala renewables": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11645,12 +11651,6 @@
             "rating": 1
         }
     ],
-    "new support care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "new sydney market": [
         {
             "type": 1,
@@ -14568,6 +14568,12 @@
         }
     ],
     "neya taste": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "neya technologies": [
         {
             "type": 1,
             "rating": 1
@@ -24363,13 +24369,13 @@
             "rating": 1
         }
     ],
-    "novo nordisk research centre oxford": [
+    "novo nordisk research and development": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

@@ -8087,12 +8087,6 @@
             "rating": 1
         }
     ],
-    "harneys corporate": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "harnham search and selection": [
         {
             "type": 1,
@@ -9617,19 +9611,13 @@
             "rating": 1
         }
     ],
-    "haseko corporation london branch": [
-        {
-            "type": 3,
-            "rating": 1
-        }
-    ],
     "haseko": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13351,6 +13339,12 @@
             "rating": 1
         }
     ],
+    "healthy -halal online": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "healthy asian kitchen": [
         {
             "type": 1,
@@ -14730,6 +14724,12 @@
         }
     ],
     "hedingham medical centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hedkase": [
         {
             "type": 1,
             "rating": 1
@@ -18758,12 +18758,6 @@
         }
     ],
     "high green medical practice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "high healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -25985,12 +25979,6 @@
             "rating": 1
         }
     ],
-    "honeybee homecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "honeycake factory": [
         {
             "type": 1,
@@ -32428,6 +32416,12 @@
         }
     ],
     "huuuge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "huvepharma": [
         {
             "type": 1,
             "rating": 1

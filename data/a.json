@@ -1,4 +1,10 @@
 {
+    "alt": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "asian african foods": [
         {
             "type": 1,
@@ -24667,6 +24673,12 @@
             "rating": 1
         }
     ],
+    "aj care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "aj convenience store": [
         {
             "type": 1,
@@ -35575,6 +35587,12 @@
             "rating": 1
         }
     ],
+    "altechnologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "altechnologyconsulting": [
         {
             "type": 1,
@@ -39022,6 +39040,12 @@
         }
     ],
     "ami home care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ami medical": [
         {
             "type": 1,
             "rating": 1
@@ -51031,12 +51055,6 @@
             "rating": 1
         }
     ],
-    "archmore care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "archna": [
         {
             "type": 1,
@@ -56839,6 +56857,12 @@
             "rating": 1
         }
     ],
+    "ascentium": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ascertia": [
         {
             "type": 1,
@@ -58272,6 +58296,12 @@
         }
     ],
     "ashley taylors legal": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ashley webb": [
         {
             "type": 1,
             "rating": 1
@@ -60271,19 +60301,13 @@
             "rating": 1
         }
     ],
-    "aspire for intelligent care and support cic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "aspire ft": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -63567,16 +63591,6 @@
             "rating": 1
         }
     ],
-    "atlantica sustainable infrastructure": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "atlantica sustainable lnfrastructure": [
         {
             "type": 1,
@@ -63855,13 +63869,19 @@
             "rating": 1
         }
     ],
+    "atlas petroleum": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "atlas energy": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

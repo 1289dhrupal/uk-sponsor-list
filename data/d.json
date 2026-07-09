@@ -7967,6 +7967,12 @@
             "rating": 1
         }
     ],
+    "dea1": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "deafblind scotland": [
         {
             "type": 1,
@@ -30040,6 +30046,16 @@
         }
     ],
     "duo safety": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "duolingo": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

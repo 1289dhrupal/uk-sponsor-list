@@ -4457,16 +4457,6 @@
             "rating": 1
         }
     ],
-    "ih international advisors": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "ih travels": [
         {
             "type": 1,
@@ -13163,6 +13153,12 @@
             "rating": 1
         }
     ],
+    "inserval global brokers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "insha trading": [
         {
             "type": 1,
@@ -17562,6 +17558,16 @@
     "interocean personnel": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "interogo global private equity advisors": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

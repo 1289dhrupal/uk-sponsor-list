@@ -3147,6 +3147,12 @@
             "rating": 1
         }
     ],
+    "pagelove": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pagenta": [
         {
             "type": 1,
@@ -17884,16 +17890,6 @@
         }
     ],
     "phoenix building products": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "phoenix business solutions": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -42480,6 +42476,10 @@
     "pusula customer experience": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

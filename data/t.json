@@ -41,12 +41,6 @@
             "rating": 1
         }
     ],
-    "treatz dessert parlour wembley": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the jolly farmers": [
         {
             "type": 1,
@@ -6182,6 +6176,12 @@
         }
     ],
     "talent supply ta the talentpool company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "talent systems europe": [
         {
             "type": 1,
             "rating": 1
@@ -34147,16 +34147,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "the pilgrims school": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "the pilot pen company": [

@@ -2003,6 +2003,12 @@
             "rating": 1
         }
     ],
+    "baby scan clinic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "baby scanning boutique": [
         {
             "type": 1,
@@ -15949,12 +15955,6 @@
             "rating": 1
         }
     ],
-    "benvie care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "benwell hill cricket club": [
         {
             "type": 10,
@@ -18404,6 +18404,12 @@
         }
     ],
     "better q": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "better rehabilitation": [
         {
             "type": 1,
             "rating": 1
@@ -40146,6 +40152,12 @@
         }
     ],
     "bristol newmedica": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bristol nhs foundation trust": [
         {
             "type": 1,
             "rating": 1
