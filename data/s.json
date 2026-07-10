@@ -7211,6 +7211,10 @@
             "rating": 1
         },
         {
+            "type": 13,
+            "rating": 2
+        },
+        {
             "type": 5,
             "rating": 1
         }
@@ -32223,18 +32227,6 @@
             "rating": 1
         }
     ],
-    "shiuli restaurants": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "shiuli": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shiv cash and carry": [
         {
             "type": 1,
@@ -48981,12 +48973,6 @@
             "rating": 1
         }
     ],
-    "soben contract & commercial": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "soben contract and commercial": [
         {
             "type": 1,
@@ -55489,11 +55475,11 @@
     ],
     "spa business": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -60754,6 +60740,12 @@
         }
     ],
     "sprints capital management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sprintworks": [
         {
             "type": 1,
             "rating": 1
@@ -73601,6 +73593,16 @@
             "rating": 2
         }
     ],
+    "strada professional": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "straddle": [
         {
             "type": 5,
@@ -78225,12 +78227,6 @@
             "rating": 1
         }
     ],
-    "summit": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "summit creative": [
         {
             "type": 1,
@@ -79512,6 +79508,12 @@
         }
     ],
     "sunrise carpets": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sunrise community nursery": [
         {
             "type": 1,
             "rating": 1
@@ -81529,12 +81531,6 @@
             "rating": 1
         }
     ],
-    "sure thing constructions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sure24": [
         {
             "type": 1,
@@ -81618,6 +81614,12 @@
         }
     ],
     "surefoot communications": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "surefreight sw": [
         {
             "type": 1,
             "rating": 1
@@ -85889,12 +85891,6 @@
             "rating": 1
         }
     ],
-    "sykes cottages": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sykes seafood": [
         {
             "type": 5,
@@ -86862,6 +86858,12 @@
         }
     ],
     "syntasso": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "syntato": [
         {
             "type": 1,
             "rating": 1

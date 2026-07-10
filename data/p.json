@@ -5141,6 +5141,16 @@
             "rating": 1
         }
     ],
+    "panterra global": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pantheon hotels and leisure": [
         {
             "type": 1,
@@ -8286,6 +8296,10 @@
         }
     ],
     "passca": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 3,
             "rating": 1
@@ -14717,16 +14731,6 @@
             "rating": 1
         }
     ],
-    "perkins coie international": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "perkins newsagent": [
         {
             "type": 1,
@@ -14777,11 +14781,11 @@
     ],
     "permasteelisa": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -25811,11 +25815,11 @@
     ],
     "point72": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -37342,16 +37346,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "project associates": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],

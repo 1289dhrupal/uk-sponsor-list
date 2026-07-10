@@ -3969,12 +3969,6 @@
             "rating": 1
         }
     ],
-    "wasserman music": [
-        {
-            "type": 4,
-            "rating": 2
-        }
-    ],
     "waste logics software": [
         {
             "type": 1,
@@ -5480,6 +5474,12 @@
         }
     ],
     "wbm design and construction": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wbs solutions": [
         {
             "type": 1,
             "rating": 1

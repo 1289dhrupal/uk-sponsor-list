@@ -7073,6 +7073,16 @@
             "rating": 1
         }
     ],
+    "fenchurch law": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fencing mart": [
         {
             "type": 1,
@@ -15287,12 +15297,6 @@
             "rating": 1
         }
     ],
-    "flower of scotland": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "flower pack": [
         {
             "type": 1,
@@ -18550,6 +18554,12 @@
         }
     ],
     "forge global": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "forge holiday": [
         {
             "type": 1,
             "rating": 1
@@ -24264,12 +24274,6 @@
         }
     ],
     "frontiers superstore": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "frontisti": [
         {
             "type": 1,
             "rating": 1

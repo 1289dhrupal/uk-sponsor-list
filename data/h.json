@@ -13601,12 +13601,6 @@
             "rating": 1
         }
     ],
-    "heart healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "heart homecare cambridge ta fuchsia homecare cambridge": [
         {
             "type": 1,
@@ -19057,12 +19051,6 @@
             "rating": 1
         }
     ],
-    "highbury nursing home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "highbury poultry farm produce": [
         {
             "type": 1,
@@ -21774,6 +21762,12 @@
         }
     ],
     "hitec exports": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hitec instruments": [
         {
             "type": 1,
             "rating": 1
@@ -27417,16 +27411,6 @@
             "rating": 1
         }
     ],
-    "horwich farrelly": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "horwitz associates": [
         {
             "type": 1,
@@ -30500,12 +30484,6 @@
     "huddersfield giants": [
         {
             "type": 10,
-            "rating": 1
-        }
-    ],
-    "huddersfield vapes": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],

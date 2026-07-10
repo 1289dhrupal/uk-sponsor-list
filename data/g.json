@@ -3097,11 +3097,11 @@
     ],
     "games workshop": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14469,22 +14469,22 @@
     ],
     "global payments": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "global peace and unity foundation": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "global peo": [
@@ -27769,16 +27769,6 @@
             "rating": 1
         }
     ],
-    "groupm": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "groupme": [
         {
             "type": 1,
@@ -29374,12 +29364,6 @@
         }
     ],
     "guardian supported living": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "guardian vape": [
         {
             "type": 1,
             "rating": 1
@@ -32298,6 +32282,12 @@
         }
     ],
     "griller": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "garner hotel reading city centre": [
         {
             "type": 1,
             "rating": 1

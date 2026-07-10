@@ -9681,6 +9681,12 @@
             "rating": 1
         }
     ],
+    "delfinus partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "delft investments": [
         {
             "type": 1,
@@ -10330,6 +10336,16 @@
         }
     ],
     "delta alpha psi": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "delta capita consulting": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -30600,12 +30616,6 @@
         }
     ],
     "dw studio": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dw young dental laboratories": [
         {
             "type": 1,
             "rating": 1

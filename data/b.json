@@ -3263,6 +3263,12 @@
             "rating": 1
         }
     ],
+    "baker crafts": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "baker hicks": [
         {
             "type": 5,
@@ -21013,12 +21019,6 @@
             "rating": 1
         }
     ],
-    "bigbyte digital": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bigchange": [
         {
             "type": 1,
@@ -27248,6 +27248,12 @@
         }
     ],
     "bloomsbury realty management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bloomscare": [
         {
             "type": 1,
             "rating": 1
@@ -41911,6 +41917,12 @@
             "rating": 1
         }
     ],
+    "brocc finance ab - branch": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "brock solutions": [
         {
             "type": 1,
@@ -44781,11 +44793,11 @@
     ],
     "btm global": [
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         }
     ],
