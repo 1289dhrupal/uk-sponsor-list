@@ -16775,6 +16775,12 @@
             "rating": 1
         }
     ],
+    "renbuild": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rencare homes": [
         {
             "type": 1,
@@ -28793,6 +28799,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 13,
+            "rating": 2
         }
     ],
     "rolls-royce smr": [
@@ -35710,6 +35720,12 @@
         }
     ],
     "rw stokes & son": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rwa consulting engineers": [
         {
             "type": 1,
             "rating": 1

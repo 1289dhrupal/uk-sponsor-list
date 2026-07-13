@@ -1851,6 +1851,12 @@
             "rating": 1
         }
     ],
+    "babelquest": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "baber smith": [
         {
             "type": 1,
@@ -9414,6 +9420,16 @@
         }
     ],
     "baya dynamics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "baya systems": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -35231,6 +35247,12 @@
             "rating": 1
         }
     ],
+    "bradbury stell": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bradbury street": [
         {
             "type": 1,
@@ -35512,6 +35534,12 @@
         }
     ],
     "bradstock consulting engineers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bradstowe": [
         {
             "type": 1,
             "rating": 1

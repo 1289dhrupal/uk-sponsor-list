@@ -4139,6 +4139,12 @@
             "rating": 1
         }
     ],
+    "land science": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "land securities properties": [
         {
             "type": 1,
@@ -5465,12 +5471,6 @@
             "rating": 1
         }
     ],
-    "larkham house dental practice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "larkin consulting": [
         {
             "type": 1,
@@ -5479,11 +5479,11 @@
     ],
     "larking gowen": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27756,6 +27756,12 @@
         }
     ],
     "luckman": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "luckman stores": [
         {
             "type": 1,
             "rating": 1

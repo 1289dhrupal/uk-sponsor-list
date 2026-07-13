@@ -12241,12 +12241,6 @@
             "rating": 1
         }
     ],
-    "john stone s beds and mattresses": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "john street capital": [
         {
             "type": 1,
@@ -14442,6 +14436,10 @@
     "js international trade": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

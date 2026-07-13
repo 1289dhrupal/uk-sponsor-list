@@ -2661,6 +2661,12 @@
             "rating": 1
         }
     ],
+    "the manor dental": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the olde forge stores": [
         {
             "type": 1,
@@ -4800,12 +4806,6 @@
         }
     ],
     "tack farms": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "taco bull": [
         {
             "type": 1,
             "rating": 1
@@ -10474,6 +10474,12 @@
         }
     ],
     "td meats": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "td medicare": [
         {
             "type": 1,
             "rating": 1
@@ -17185,6 +17191,12 @@
             "rating": 1
         }
     ],
+    "thames accountants & co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "thames c&c": [
         {
             "type": 1,
@@ -18348,16 +18360,6 @@
         },
         {
             "type": 10,
-            "rating": 1
-        }
-    ],
-    "the ambassador theatre": [
-        {
-            "type": 4,
-            "rating": 2
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -21760,6 +21762,12 @@
         }
     ],
     "the chiltern & the brook surgeries": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the chiltern centre": [
         {
             "type": 1,
             "rating": 1
@@ -42949,6 +42957,16 @@
             "rating": 1
         }
     ],
+    "thotherapy christian fellowship trust": [
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "thoub alharamain": [
         {
             "type": 1,
@@ -52747,6 +52765,12 @@
             "rating": 1
         }
     ],
+    "trailfam": [
+        {
+            "type": 9,
+            "rating": 2
+        }
+    ],
     "trailmix": [
         {
             "type": 1,
@@ -58183,6 +58207,12 @@
             "rating": 1
         }
     ],
+    "trusted tech team": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "trusted technology": [
         {
             "type": 1,
@@ -62031,7 +62061,7 @@
             "rating": 1
         }
     ],
-    "tyndale house": [
+    "tyndale house and institute": [
         {
             "type": 1,
             "rating": 1

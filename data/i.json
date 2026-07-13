@@ -1081,7 +1081,7 @@
             "rating": 1
         }
     ],
-    "i5 soft solutions europe": [
+    "i5 solutions global holdings": [
         {
             "type": 1,
             "rating": 1
@@ -8735,12 +8735,6 @@
             "rating": 1
         }
     ],
-    "independent vetcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "independently supporting people in a respectful environment": [
         {
             "type": 1,
@@ -13993,6 +13987,12 @@
             "rating": 1
         }
     ],
+    "inspiring vet care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "inspiringmindsnet": [
         {
             "type": 1,
@@ -16385,22 +16385,22 @@
     ],
     "international anjuman-e-khuddam-ul-sofia and amir-e- millat trust foundation": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "international artist agency": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "international asset management": [

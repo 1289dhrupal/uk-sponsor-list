@@ -19775,6 +19775,12 @@
             "rating": 1
         }
     ],
+    "sd commercial": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sd food & wine": [
         {
             "type": 1,
@@ -21818,6 +21824,12 @@
         }
     ],
     "sed medicons": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sed serenity education": [
         {
             "type": 1,
             "rating": 1
@@ -36187,6 +36199,12 @@
             "rating": 1
         }
     ],
+    "sigma occupational health": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sigma pharmaceuticals": [
         {
             "type": 1,
@@ -36345,11 +36363,11 @@
     ],
     "signal media": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -37054,6 +37072,12 @@
         }
     ],
     "silixa": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "silixon": [
         {
             "type": 1,
             "rating": 1
@@ -57527,12 +57551,6 @@
             "rating": 1
         }
     ],
-    "speedytime": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "speirs and major": [
         {
             "type": 1,
@@ -69752,12 +69770,6 @@
         }
     ],
     "steadview capital": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "steady care": [
         {
             "type": 1,
             "rating": 1
@@ -82663,6 +82675,12 @@
             "rating": 1
         }
     ],
+    "sustainable fibre alliance": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sustainable garden solutions": [
         {
             "type": 1,
@@ -84122,6 +84140,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "swart evaluation": [
         {
             "type": 1,
             "rating": 1

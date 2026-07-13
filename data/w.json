@@ -7469,12 +7469,6 @@
             "rating": 1
         }
     ],
-    "well spring care homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "well wish": [
         {
             "type": 1,
@@ -7668,12 +7662,6 @@
         }
     ],
     "wellers retail": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "wellesley house": [
         {
             "type": 1,
             "rating": 1
@@ -8045,14 +8033,20 @@
             "rating": 1
         }
     ],
-    "wellspring church": [
+    "wellspring care homes": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "wellspring church": [
         {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "wellspring medical centre": [
@@ -8340,6 +8334,12 @@
         }
     ],
     "wembley multi-academy trust": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wembley park medical centre": [
         {
             "type": 1,
             "rating": 1
@@ -16824,12 +16824,6 @@
         }
     ],
     "wintergreen advisors t/a trotter": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "wintergreen properties": [
         {
             "type": 1,
             "rating": 1

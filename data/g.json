@@ -6731,7 +6731,15 @@
     ],
     "general intuition": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 3,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9902,6 +9910,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "giddani health": [
         {
             "type": 1,
             "rating": 1
@@ -21428,6 +21442,10 @@
         }
     ],
     "grace london": [
+        {
+            "type": 2,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
