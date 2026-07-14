@@ -2725,6 +2725,12 @@
             "rating": 1
         }
     ],
+    "kairos im": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kairos media": [
         {
             "type": 1,
@@ -10913,12 +10919,12 @@
     ],
     "keywords studios": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "keyworth indian restaurant": [
@@ -15249,12 +15255,6 @@
             "rating": 1
         }
     ],
-    "kinshipcare plus": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kinshow management & promotions": [
         {
             "type": 4,
@@ -17955,19 +17955,13 @@
             "rating": 1
         }
     ],
-    "knorr bremse rail systems": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "knorr-bremse rail systems": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20446,6 +20440,12 @@
         }
     ],
     "kp indian restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kitchen7": [
         {
             "type": 1,
             "rating": 1

@@ -5173,6 +5173,12 @@
             "rating": 1
         }
     ],
+    "echo laboratories": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "echo packaging": [
         {
             "type": 1,
@@ -27664,6 +27670,12 @@
         }
     ],
     "eventuelle": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "eventum orthopaedics": [
         {
             "type": 1,
             "rating": 1

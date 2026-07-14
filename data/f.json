@@ -15219,12 +15219,6 @@
             "rating": 1
         }
     ],
-    "flow living medi-care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "flow neuroscience": [
         {
             "type": 1,
@@ -15256,12 +15250,6 @@
         }
     ],
     "flowbird": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "flowbird transport": [
         {
             "type": 1,
             "rating": 1
@@ -17750,6 +17738,12 @@
         }
     ],
     "forcepoint": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "forces finance": [
         {
             "type": 1,
             "rating": 1
@@ -26115,6 +26109,12 @@
             "rating": 1
         }
     ],
+    "fuse accountants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fuse diagnostics": [
         {
             "type": 1,
@@ -27824,6 +27824,12 @@
         }
     ],
     "fairway news and booze & go local": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fineclean": [
         {
             "type": 1,
             "rating": 1

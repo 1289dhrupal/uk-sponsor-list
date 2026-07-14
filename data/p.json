@@ -1473,12 +1473,6 @@
             "rating": 1
         }
     ],
-    "p & c residential": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "p & d healthcare": [
         {
             "type": 1,
@@ -2356,12 +2350,6 @@
         }
     ],
     "p2m coffee": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "p2p care support": [
         {
             "type": 1,
             "rating": 1
@@ -13971,23 +13959,29 @@
             "rating": 1
         }
     ],
-    "perella weinberg": [
+    "pereira and pereira": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "perella weinberg": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
     "perenco holdings": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15748,6 +15742,12 @@
         }
     ],
     "peterculter medical practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "peterhead fieldweld": [
         {
             "type": 1,
             "rating": 1
@@ -18524,12 +18524,6 @@
         }
     ],
     "phone surgery uxbridge": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "phone tech & vape": [
         {
             "type": 1,
             "rating": 1

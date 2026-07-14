@@ -1307,12 +1307,6 @@
             "rating": 1
         }
     ],
-    "spice indian cuisine": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "skillcast": [
         {
             "type": 5,
@@ -1526,12 +1520,6 @@
         }
     ],
     "stanley street food and wine": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "spice club": [
         {
             "type": 1,
             "rating": 1
@@ -3102,6 +3090,12 @@
         }
     ],
     "s and j brothers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "s and j drinks": [
         {
             "type": 1,
             "rating": 1
@@ -58238,6 +58232,12 @@
         }
     ],
     "spice hut ss6": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "spice indian cuisine": [
         {
             "type": 1,
             "rating": 1

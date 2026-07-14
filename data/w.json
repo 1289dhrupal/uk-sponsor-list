@@ -3699,29 +3699,23 @@
             "rating": 1
         }
     ],
-    "wartsila guidance marine": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "wartsila": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "wartsila voyage": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7308,6 +7302,12 @@
         }
     ],
     "weldon homecare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "weldone": [
         {
             "type": 1,
             "rating": 1
@@ -14640,6 +14640,12 @@
         }
     ],
     "william simpsons": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "william t healthcare": [
         {
             "type": 1,
             "rating": 1
