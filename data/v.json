@@ -1929,6 +1929,12 @@
             "rating": 1
         }
     ],
+    "valink therapeutics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "valitalia": [
         {
             "type": 1,
@@ -8247,13 +8253,23 @@
             "rating": 1
         }
     ],
+    "victoria & albert baths": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "victoria and albert museum": [
         {
-            "type": 9,
+            "type": 4,
             "rating": 2
         },
         {
-            "type": 4,
+            "type": 9,
             "rating": 2
         },
         {
@@ -13253,7 +13269,7 @@
             "rating": 1
         }
     ],
-    "vmax star": [
+    "vmax": [
         {
             "type": 1,
             "rating": 1

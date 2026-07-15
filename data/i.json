@@ -2521,12 +2521,6 @@
             "rating": 1
         }
     ],
-    "iconic care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "iconic consulting": [
         {
             "type": 1,
@@ -21888,6 +21882,12 @@
         }
     ],
     "isomab": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "isomer capital": [
         {
             "type": 1,
             "rating": 1

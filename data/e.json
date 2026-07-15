@@ -7463,12 +7463,6 @@
             "rating": 1
         }
     ],
-    "edinburgh portobello hotel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "edinburgh airport": [
         {
             "type": 1,
@@ -22015,6 +22009,12 @@
             "rating": 1
         }
     ],
+    "equipment hq": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "equipment move engineering": [
         {
             "type": 1,
@@ -27504,12 +27504,6 @@
         }
     ],
     "evecom": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "evedale care": [
         {
             "type": 1,
             "rating": 1

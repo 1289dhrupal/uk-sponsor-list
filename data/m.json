@@ -12469,6 +12469,12 @@
             "rating": 1
         }
     ],
+    "maple clinics airdrie": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "maple convenience": [
         {
             "type": 1,
@@ -18564,18 +18570,6 @@
         }
     ],
     "matt carpentry": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "matt hamnett & associates": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "mh&a": [
         {
             "type": 1,
             "rating": 1
@@ -27779,12 +27773,6 @@
             "rating": 1
         }
     ],
-    "meridian construction & refurbishments": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "meridian estates west midlands": [
         {
             "type": 1,
@@ -27963,11 +27951,11 @@
     ],
     "meril": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

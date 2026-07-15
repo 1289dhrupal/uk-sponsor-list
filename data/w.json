@@ -7259,12 +7259,6 @@
             "rating": 1
         }
     ],
-    "welcome support": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "welcome traders": [
         {
             "type": 1,
@@ -8935,12 +8929,6 @@
             "rating": 2
         }
     ],
-    "west central london mind": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "west chiltington and thakeham cricket club": [
         {
             "type": 10,
@@ -9560,16 +9548,6 @@
     "west park mini mart": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "west park portfolio": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -15373,12 +15351,6 @@
             "rating": 1
         }
     ],
-    "wilsonai": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "wilsons solicitors": [
         {
             "type": 1,
@@ -18134,16 +18106,6 @@
         }
     ],
     "wmg academy for young engineers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "wmg management europe": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -21968,6 +21930,16 @@
         }
     ],
     "wpp media": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
+    "wpp production": [
         {
             "type": 1,
             "rating": 1

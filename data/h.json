@@ -10511,6 +10511,12 @@
             "rating": 1
         }
     ],
+    "haven mortgages": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "haven residential care": [
         {
             "type": 1,
@@ -23364,16 +23370,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "hogarth worldwide": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],

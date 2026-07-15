@@ -9729,11 +9729,11 @@
     ],
     "lego digital play": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18657,6 +18657,16 @@
             "rating": 1
         }
     ],
+    "living water baptist mission london": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "living waters healthcare": [
         {
             "type": 1,
@@ -20289,6 +20299,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "lockerbie memorial church museum": [
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "lockfast london 24/7": [

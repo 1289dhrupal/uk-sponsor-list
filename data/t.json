@@ -40661,6 +40661,16 @@
             "rating": 1
         }
     ],
+    "the team: sme management emea": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "the team: sme music": [
         {
             "type": 4,
@@ -60162,12 +60172,6 @@
         }
     ],
     "turbocam": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "turbocharging": [
         {
             "type": 1,
             "rating": 1

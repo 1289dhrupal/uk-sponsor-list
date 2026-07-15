@@ -14993,20 +14993,6 @@
             "rating": 1
         }
     ],
-    "cb&i": [
-        {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cb1 properties cambridge": [
         {
             "type": 1,
@@ -32785,6 +32771,12 @@
             "rating": 1
         }
     ],
+    "clarenai": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "clarence court care home": [
         {
             "type": 1,
@@ -42563,6 +42555,12 @@
             "rating": 1
         }
     ],
+    "compassionate care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "compassionate care home": [
         {
             "type": 1,
@@ -48804,6 +48802,16 @@
         }
     ],
     "corpag": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "corporate & accelerator solutions": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

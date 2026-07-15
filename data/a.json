@@ -4385,11 +4385,11 @@
     ],
     "aa access partnership": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10453,6 +10453,12 @@
             "rating": 1
         }
     ],
+    "accelleron": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "accely": [
         {
             "type": 1,
@@ -13349,11 +13355,11 @@
     ],
     "actium bidco": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -33515,6 +33521,12 @@
             "rating": 1
         }
     ],
+    "allkind mental health and wellbeing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "allmed": [
         {
             "type": 1,
@@ -46511,11 +46523,11 @@
     ],
     "apex consolidation entity": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -47198,6 +47210,12 @@
         }
     ],
     "apollo healthcare & training": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "apollo hospitality portobello": [
         {
             "type": 1,
             "rating": 1
@@ -49674,6 +49692,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "arabian oud company": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -66569,6 +66593,12 @@
             "rating": 1
         }
     ],
+    "autodiscovery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "autodoc operations": [
         {
             "type": 1,
@@ -67878,6 +67908,12 @@
         }
     ],
     "avena healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "avencera": [
         {
             "type": 1,
             "rating": 1
@@ -69513,6 +69549,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "awat hama ali cargo": [
+        {
+            "type": 3,
+            "rating": 3
         }
     ],
     "away day care": [

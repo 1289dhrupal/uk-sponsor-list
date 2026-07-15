@@ -5305,16 +5305,6 @@
             "rating": 1
         }
     ],
-    "banglamedia": [
-        {
-            "type": 4,
-            "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bangle food": [
         {
             "type": 1,
@@ -7220,6 +7210,12 @@
     "barnards green cc": [
         {
             "type": 10,
+            "rating": 1
+        }
+    ],
+    "barnbrook": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21150,16 +21146,6 @@
     "bignall end cricket club & miners welfare institute": [
         {
             "type": 10,
-            "rating": 1
-        }
-    ],
-    "bigo technology": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -35347,6 +35333,12 @@
             "rating": 1
         }
     ],
+    "bradford auto care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bradford bulls 2017": [
         {
             "type": 1,
@@ -38198,6 +38190,12 @@
         }
     ],
     "bridge street news & snacks": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bridge street pharmacy": [
         {
             "type": 1,
             "rating": 1
@@ -45688,12 +45686,6 @@
         }
     ],
     "build a rocket boy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "build and guild": [
         {
             "type": 1,
             "rating": 1

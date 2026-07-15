@@ -8633,6 +8633,12 @@
             "rating": 1
         }
     ],
+    "fiena bskd": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fiera capital": [
         {
             "type": 5,
@@ -10373,11 +10379,11 @@
     ],
     "fintegral": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19604,12 +19610,6 @@
         }
     ],
     "fortune security": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fortune smiles": [
         {
             "type": 1,
             "rating": 1
