@@ -1417,6 +1417,12 @@
             "rating": 1
         }
     ],
+    "b3 insurance": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "b3 sa brasil bolsa balcao": [
         {
             "type": 5,
@@ -14397,12 +14403,6 @@
             "rating": 1
         }
     ],
-    "bellingdon news and off licence": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bellini s italian restaurant": [
         {
             "type": 1,
@@ -14648,6 +14648,12 @@
         }
     ],
     "belmont lavan": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "belmont medical centre": [
         {
             "type": 1,
             "rating": 1
@@ -20452,12 +20458,6 @@
     "biddestone cricket club": [
         {
             "type": 10,
-            "rating": 1
-        }
-    ],
-    "biddick academy": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -46063,12 +46063,6 @@
             "rating": 1
         }
     ],
-    "bulk atlantic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bulk buying": [
         {
             "type": 1,
@@ -46191,6 +46185,16 @@
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bullish": [
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,

@@ -1805,12 +1805,6 @@
             "rating": 1
         }
     ],
-    "daffodil care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "daffodil hotel 2": [
         {
             "type": 1,
@@ -12147,18 +12141,6 @@
             "rating": 1
         }
     ],
-    "der touristik": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dertour": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dera baba gobind dass": [
         {
             "type": 11,
@@ -12182,12 +12164,6 @@
         }
     ],
     "dera partnership": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "derayo": [
         {
             "type": 1,
             "rating": 1
@@ -12522,6 +12498,18 @@
         }
     ],
     "derschutze": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dertour": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "detour": [
         {
             "type": 1,
             "rating": 1
@@ -17750,12 +17738,6 @@
         }
     ],
     "digitzen": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "digiway consulting": [
         {
             "type": 1,
             "rating": 1
@@ -27107,6 +27089,12 @@
             "rating": 1
         }
     ],
+    "drewbell pizza t/as the real pizza company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "drewhaven t/as hotel bluebells": [
         {
             "type": 1,
@@ -30056,6 +30044,10 @@
         }
     ],
     "duo operations": [
+        {
+            "type": 13,
+            "rating": 2
+        },
         {
             "type": 1,
             "rating": 1

@@ -5387,6 +5387,12 @@
             "rating": 1
         }
     ],
+    "larex ventures": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "large diameter drilling": [
         {
             "type": 1,
@@ -16195,6 +16201,12 @@
             "rating": 1
         }
     ],
+    "linkx ai": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "linn products": [
         {
             "type": 1,
@@ -16976,12 +16988,6 @@
         }
     ],
     "litigation matters": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "litmus": [
         {
             "type": 1,
             "rating": 1
@@ -18528,12 +18534,6 @@
         }
     ],
     "livgud properties": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "living at home": [
         {
             "type": 1,
             "rating": 1
@@ -25655,11 +25655,11 @@
     ],
     "loughborough college": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],

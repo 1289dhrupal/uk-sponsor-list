@@ -3603,7 +3603,7 @@
             "rating": 1
         }
     ],
-    "radiant world commodities": [
+    "radiant world corporation": [
         {
             "type": 1,
             "rating": 1
@@ -25333,6 +25333,12 @@
             "rating": 1
         }
     ],
+    "rkj motors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rkk enterprise": [
         {
             "type": 1,
@@ -30525,6 +30531,12 @@
             "rating": 1
         }
     ],
+    "roshni news": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "roshon banqueting hall ta roshon banqueting": [
         {
             "type": 1,
@@ -34289,6 +34301,16 @@
         {
             "type": 4,
             "rating": 2
+        }
+    ],
+    "rubix industrial": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "rubix mep": [

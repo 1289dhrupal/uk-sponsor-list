@@ -7977,12 +7977,6 @@
             "rating": 1
         }
     ],
-    "sai care providers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sai chetan": [
         {
             "type": 1,
@@ -7990,6 +7984,12 @@
         }
     ],
     "sai children centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sai clinic": [
         {
             "type": 1,
             "rating": 1
@@ -8092,7 +8092,7 @@
     "sai hara": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "sai hospitality": [
@@ -32117,12 +32117,6 @@
             "rating": 1
         }
     ],
-    "shirley fried chicken": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shirley health partnership": [
         {
             "type": 1,
@@ -32216,6 +32210,18 @@
         }
     ],
     "shital a patel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "shiuli restaurants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "shiuli": [
         {
             "type": 1,
             "rating": 1
@@ -34224,6 +34230,18 @@
         }
     ],
     "shrees food": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "shreeve protection": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "shreeve": [
         {
             "type": 1,
             "rating": 1
@@ -41349,7 +41367,7 @@
             "rating": 1
         }
     ],
-    "sjc bookkeeping": [
+    "sjc finance team": [
         {
             "type": 1,
             "rating": 1
@@ -42536,6 +42554,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "skinilean": [
         {
             "type": 1,
             "rating": 1
@@ -57385,12 +57409,6 @@
             "rating": 1
         }
     ],
-    "speedway trading -14416548": [
-        {
-            "type": 3,
-            "rating": 3
-        }
-    ],
     "speedways auto": [
         {
             "type": 1,
@@ -67912,12 +67930,6 @@
         }
     ],
     "star anise pvt": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "star auto parts": [
         {
             "type": 1,
             "rating": 1

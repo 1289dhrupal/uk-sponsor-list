@@ -5915,16 +5915,6 @@
             "rating": 1
         }
     ],
-    "madina mosque and community centre": [
-        {
-            "type": 9,
-            "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "madina super store rochdale": [
         {
             "type": 1,
@@ -24567,6 +24557,12 @@
             "rating": 1
         }
     ],
+    "medicus health": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "medicus health partners": [
         {
             "type": 1,
@@ -42194,6 +42190,16 @@
     "momentum transport planning": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "momentus technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

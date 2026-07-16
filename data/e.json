@@ -15837,6 +15837,12 @@
             "rating": 1
         }
     ],
+    "emi-care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "emicapital europe": [
         {
             "type": 1,
@@ -21637,11 +21643,11 @@
     ],
     "eptura international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22622,16 +22628,6 @@
         }
     ],
     "erika technology": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "eriks industrial": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -24652,6 +24648,10 @@
         }
     ],
     "esvagt": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

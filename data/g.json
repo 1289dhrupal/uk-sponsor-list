@@ -389,6 +389,12 @@
             "rating": 1
         }
     ],
+    "g & a delights": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "g & a foods": [
         {
             "type": 1,
@@ -6720,6 +6726,20 @@
     "general high voltage industries": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "general hvac solutions": [
+        {
+            "type": 8,
+            "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28232,12 +28252,6 @@
         }
     ],
     "grs global": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grs investment": [
         {
             "type": 1,
             "rating": 1

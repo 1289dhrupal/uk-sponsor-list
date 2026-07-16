@@ -24199,6 +24199,12 @@
             "rating": 1
         }
     ],
+    "frontier protection worldwid": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "frontier raas": [
         {
             "type": 1,
@@ -25253,37 +25259,23 @@
             "rating": 1
         }
     ],
-    "fujitsu general air conditioning": [
-        {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "fujitsu research of europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "fujitsu": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

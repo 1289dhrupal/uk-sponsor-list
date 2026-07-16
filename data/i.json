@@ -6719,6 +6719,12 @@
             "rating": 1
         }
     ],
+    "impact xm europe": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "impact-now": [
         {
             "type": 9,
@@ -13199,13 +13205,19 @@
             "rating": 1
         }
     ],
+    "insiders ventures advisors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "insidesource emea": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
