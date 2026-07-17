@@ -11519,13 +11519,13 @@
             "rating": 1
         }
     ],
-    "reborn": [
+    "reborn healthcare": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "reborn healthcare": [
+    "rebound diagnostic and therapeutic": [
         {
             "type": 1,
             "rating": 1
@@ -13367,6 +13367,16 @@
         {
             "type": 2,
             "rating": 1
+        }
+    ],
+    "redeemed christian church of god true vine centre": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "redeemed christian church of god victory assembly": [
@@ -19031,12 +19041,6 @@
             "rating": 1
         }
     ],
-    "retro lounge newcastle": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "retro track & air": [
         {
             "type": 1,
@@ -20611,15 +20615,15 @@
     ],
     "rhomberg sersa": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

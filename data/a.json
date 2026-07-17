@@ -31237,6 +31237,12 @@
             "rating": 1
         }
     ],
+    "alight fire system": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "align & smile": [
         {
             "type": 1,
@@ -32051,6 +32057,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "all purpose studio": [
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "all round care solutions": [
@@ -41719,6 +41731,12 @@
             "rating": 1
         }
     ],
+    "anchor support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "anchor teaching": [
         {
             "type": 1,
@@ -43968,12 +43986,6 @@
         }
     ],
     "anjani logistics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "anjeli": [
         {
             "type": 1,
             "rating": 1
@@ -50921,6 +50933,12 @@
             "rating": 1
         }
     ],
+    "archibald frame": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "archibald shaw": [
         {
             "type": 1,
@@ -57173,12 +57191,6 @@
             "rating": 1
         }
     ],
-    "asdf": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ase management": [
         {
             "type": 1,
@@ -60923,6 +60935,12 @@
             "rating": 1
         }
     ],
+    "asset workflows": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "asset55": [
         {
             "type": 1,
@@ -64012,20 +64030,6 @@
     "atman care": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "atmecs europe": [
-        {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],

@@ -7145,6 +7145,12 @@
             "rating": 1
         }
     ],
+    "genesis intelligence": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "genesis investment management": [
         {
             "type": 1,
@@ -10803,7 +10809,7 @@
             "rating": 1
         }
     ],
-    "gingerbread commercial": [
+    "gingerbread care": [
         {
             "type": 1,
             "rating": 1
@@ -24089,18 +24095,24 @@
             "rating": 1
         }
     ],
+    "greater change foundation": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "greater europe mission": [
         {
             "type": 11,
             "rating": 2
         },
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "greater evangelism world crusade": [
@@ -26277,7 +26289,15 @@
     ],
     "greenwich food ingredients": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 3,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

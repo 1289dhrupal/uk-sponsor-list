@@ -2457,11 +2457,11 @@
     ],
     "ladera technology": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10980,6 +10980,12 @@
         }
     ],
     "leopard business solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "leopard hotel 15": [
         {
             "type": 1,
             "rating": 1
@@ -24438,12 +24444,6 @@
         }
     ],
     "longevita london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "longevity care": [
         {
             "type": 1,
             "rating": 1

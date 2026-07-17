@@ -18383,6 +18383,12 @@
             "rating": 1
         }
     ],
+    "forever apparel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "forever care": [
         {
             "type": 1,
@@ -22239,13 +22245,19 @@
             "rating": 1
         }
     ],
-    "freeda": [
+    "freeburn transport": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "freeda": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25478,12 +25490,6 @@
         }
     ],
     "full circle living": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "full circle professional cic": [
         {
             "type": 1,
             "rating": 1

@@ -2897,6 +2897,12 @@
             "rating": 1
         }
     ],
+    "m&m building": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "m&m business accounting": [
         {
             "type": 1,
@@ -3806,16 +3812,6 @@
         }
     ],
     "m3at hub meat hub": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "m3ca": [
-        {
-            "type": 4,
-            "rating": 2
-        },
         {
             "type": 1,
             "rating": 1
@@ -11818,6 +11814,12 @@
         }
     ],
     "manor road store": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "manor springs": [
         {
             "type": 1,
             "rating": 1
@@ -36321,6 +36323,12 @@
             "rating": 1
         }
     ],
+    "minut home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "minuteman press oxford": [
         {
             "type": 1,
@@ -43835,11 +43843,11 @@
     ],
     "moody s shared": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

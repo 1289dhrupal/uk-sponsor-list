@@ -799,6 +799,12 @@
             "rating": 1
         }
     ],
+    "oak hall surgery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "oak healthcare holding": [
         {
             "type": 1,
@@ -3162,6 +3168,12 @@
         }
     ],
     "octane holding": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "octave": [
         {
             "type": 1,
             "rating": 1

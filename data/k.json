@@ -6669,12 +6669,6 @@
             "rating": 1
         }
     ],
-    "kaz executive travel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kaz minerals": [
         {
             "type": 1,
@@ -12582,12 +12576,6 @@
         }
     ],
     "kidz kabin pembroke studios": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kidz rebound": [
         {
             "type": 1,
             "rating": 1
@@ -18829,6 +18817,18 @@
             "rating": 1
         }
     ],
+    "kojikojo": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "koji academy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kojima": [
         {
             "type": 1,
@@ -19854,6 +19854,12 @@
         }
     ],
     "korea lng london representative office": [
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
+    "korea money brokerage corporation london branch": [
         {
             "type": 5,
             "rating": 1
