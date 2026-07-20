@@ -1611,6 +1611,12 @@
             "rating": 1
         }
     ],
+    "ibn leicester": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ibn sina": [
         {
             "type": 1,
@@ -2436,6 +2442,16 @@
         }
     ],
     "icomat": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "icomera": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -4887,6 +4903,12 @@
             "rating": 1
         }
     ],
+    "ikos consulting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ikoyi": [
         {
             "type": 1,
@@ -5784,6 +5806,12 @@
         }
     ],
     "imagine draughting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "imagine health": [
         {
             "type": 1,
             "rating": 1
@@ -10901,16 +10929,6 @@
             "rating": 1
         }
     ],
-    "infogain solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "infogr8": [
         {
             "type": 1,
@@ -14114,12 +14132,6 @@
         }
     ],
     "instant karma store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "instant lmc": [
         {
             "type": 1,
             "rating": 1
@@ -18815,13 +18827,19 @@
             "rating": 1
         }
     ],
-    "investra capital": [
+    "investors for purpose": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "investra capital": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21074,6 +21092,12 @@
         }
     ],
     "iseepr": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "iseki & ireland": [
         {
             "type": 1,
             "rating": 1

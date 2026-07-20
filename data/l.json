@@ -6677,6 +6677,12 @@
             "rating": 1
         }
     ],
+    "lavita velo": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lavo": [
         {
             "type": 1,
@@ -11168,6 +11174,12 @@
         }
     ],
     "les petites etoiles": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "les petits rois nurseries": [
         {
             "type": 1,
             "rating": 1
@@ -19111,12 +19123,6 @@
             "rating": 1
         }
     ],
-    "lkee care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lkj construction": [
         {
             "type": 1,
@@ -20638,6 +20644,10 @@
         }
     ],
     "logan & partners law": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 3,
             "rating": 1
@@ -29084,12 +29094,6 @@
         }
     ],
     "luton food & wine": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "luton friendship homecarers": [
         {
             "type": 1,
             "rating": 1

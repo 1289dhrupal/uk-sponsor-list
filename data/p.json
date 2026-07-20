@@ -1347,6 +1347,16 @@
             "rating": 1
         }
     ],
+    "pashupatinath temple": [
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "prestige suite": [
         {
             "type": 1,
@@ -13173,12 +13183,6 @@
             "rating": 1
         }
     ],
-    "pensions for purpose": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "penske media": [
         {
             "type": 1,
@@ -16702,10 +16706,6 @@
     "phaidon international": [
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -23711,6 +23711,12 @@
             "rating": 1
         }
     ],
+    "plastic-i": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "plasticell": [
         {
             "type": 1,
@@ -27320,6 +27326,12 @@
         }
     ],
     "porch surgery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "porchiva": [
         {
             "type": 1,
             "rating": 1
@@ -31977,12 +31989,6 @@
             "rating": 1
         }
     ],
-    "premium turf-care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "premkumar thurairajah": [
         {
             "type": 1,
@@ -33086,6 +33092,12 @@
         }
     ],
     "price chopper": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "price cut books": [
         {
             "type": 1,
             "rating": 1

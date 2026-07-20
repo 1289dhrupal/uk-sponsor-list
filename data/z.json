@@ -3295,6 +3295,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 7,
+            "rating": 1
         }
     ],
     "zero height": [
@@ -3800,6 +3804,12 @@
         }
     ],
     "zh transport": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "zha architects": [
         {
             "type": 1,
             "rating": 1

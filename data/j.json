@@ -3313,7 +3313,7 @@
             "rating": 1
         }
     ],
-    "jaijon lifts": [
+    "jaijon solutions": [
         {
             "type": 1,
             "rating": 1
@@ -3339,7 +3339,7 @@
     ],
     "jain network": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -3347,7 +3347,7 @@
             "rating": 1
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
@@ -7298,6 +7298,12 @@
         }
     ],
     "jdr products": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jdrh care": [
         {
             "type": 1,
             "rating": 1
@@ -11908,6 +11914,12 @@
         }
     ],
     "john grimes partnership": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "john gunn and sons": [
         {
             "type": 1,
             "rating": 1

@@ -561,6 +561,12 @@
             "rating": 2
         }
     ],
+    "surecare skipton & bingley": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sunnybank care home": [
         {
             "type": 1,
@@ -6926,6 +6932,18 @@
         }
     ],
     "saffron brand consultants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "saffron bristol": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "saffron": [
         {
             "type": 1,
             "rating": 1
@@ -14562,12 +14580,6 @@
         }
     ],
     "saroj hospitality": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "saffron": [
         {
             "type": 1,
             "rating": 1
@@ -25730,6 +25742,12 @@
         }
     ],
     "seven star i": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "seven stars motors": [
         {
             "type": 1,
             "rating": 1
@@ -41951,6 +41969,12 @@
             "rating": 1
         }
     ],
+    "skandavel webtech private": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "skandihus": [
         {
             "type": 1,
@@ -43432,6 +43456,12 @@
         }
     ],
     "skylark recruitment": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "skylarks charity": [
         {
             "type": 1,
             "rating": 1
@@ -51502,16 +51532,6 @@
         }
     ],
     "solvay interox": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "solvay solutions": [
         {
             "type": 5,
             "rating": 1
@@ -76929,12 +76949,6 @@
             "rating": 1
         }
     ],
-    "success recruitment consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "success smart cleaning": [
         {
             "type": 1,
@@ -85906,6 +85920,16 @@
         }
     ],
     "syeds law office solicitors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "syensqo solutions": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

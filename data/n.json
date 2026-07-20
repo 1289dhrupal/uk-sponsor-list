@@ -5435,11 +5435,11 @@
     ],
     "navien": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7898,6 +7898,16 @@
     "nepali momo": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "nepali temple cum-community centre london": [
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -18443,6 +18453,12 @@
             "rating": 1
         }
     ],
+    "nlighten opco": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "nlyte software": [
         {
             "type": 5,
@@ -19170,6 +19186,12 @@
         }
     ],
     "noddington technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "noddys nursery school": [
         {
             "type": 1,
             "rating": 1
@@ -24518,6 +24540,12 @@
         }
     ],
     "novus care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "novus care - canvey": [
         {
             "type": 1,
             "rating": 1

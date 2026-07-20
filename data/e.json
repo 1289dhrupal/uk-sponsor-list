@@ -2125,6 +2125,10 @@
     ],
     "earthid technology": [
         {
+            "type": 12,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -3282,12 +3286,6 @@
         }
     ],
     "ea mobility": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "eastern balti fy1": [
         {
             "type": 1,
             "rating": 1
@@ -10127,7 +10125,7 @@
             "rating": 1
         }
     ],
-    "eim": [
+    "eim executive interim management ag": [
         {
             "type": 1,
             "rating": 1
@@ -15843,12 +15841,6 @@
             "rating": 1
         }
     ],
-    "emi-care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "emicapital europe": [
         {
             "type": 1,
@@ -20156,6 +20148,16 @@
         }
     ],
     "entreprenor": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "entrilia": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
