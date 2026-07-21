@@ -3613,12 +3613,6 @@
             "rating": 1
         }
     ],
-    "danish motors": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "danish refrigeration": [
         {
             "type": 1,
@@ -21980,6 +21974,12 @@
         }
     ],
     "doctor care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "doctor clare orrom swan doctor thanh mai nguyen": [
         {
             "type": 1,
             "rating": 1

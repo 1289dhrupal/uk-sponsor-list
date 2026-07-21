@@ -15383,11 +15383,11 @@
     ],
     "jukin media": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15422,6 +15422,12 @@
         }
     ],
     "julia interior architecture and design": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "julia nagle conservation": [
         {
             "type": 1,
             "rating": 1

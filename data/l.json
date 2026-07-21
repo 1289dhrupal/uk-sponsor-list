@@ -2109,6 +2109,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "labelbox": [
@@ -6356,6 +6360,12 @@
         }
     ],
     "laura produce": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "laura s idea": [
         {
             "type": 1,
             "rating": 1
@@ -13369,12 +13379,6 @@
             "rating": 1
         }
     ],
-    "life energy and climate": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "life enhancement and fitness": [
         {
             "type": 1,
@@ -13564,6 +13568,12 @@
         }
     ],
     "lifeessentials11": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lifeful care": [
         {
             "type": 1,
             "rating": 1
@@ -25290,12 +25300,6 @@
         }
     ],
     "lothar bohm associates": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lothberg asset management": [
         {
             "type": 1,
             "rating": 1

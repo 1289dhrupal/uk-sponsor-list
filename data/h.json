@@ -2175,18 +2175,6 @@
             "rating": 1
         }
     ],
-    "habitat care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "home instead bristol": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "habitat energy": [
         {
             "type": 1,
@@ -6082,6 +6070,12 @@
         }
     ],
     "hanson grey": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hanson investments": [
         {
             "type": 1,
             "rating": 1
@@ -29198,6 +29192,12 @@
         }
     ],
     "hpl global": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hpo sales": [
         {
             "type": 1,
             "rating": 1

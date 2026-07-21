@@ -7597,6 +7597,12 @@
             "rating": 1
         }
     ],
+    "mahg children s": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "mahhad halal meat": [
         {
             "type": 1,
@@ -41836,6 +41842,14 @@
     "mol techno-trade european branch": [
         {
             "type": 3,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

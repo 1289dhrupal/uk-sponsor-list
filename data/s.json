@@ -17565,6 +17565,12 @@
             "rating": 1
         }
     ],
+    "scarista": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "scarlet general trading company": [
         {
             "type": 1,
@@ -18179,7 +18185,7 @@
             "rating": 1
         }
     ],
-    "schools of king edward v1 in birmingham": [
+    "schools of king edward vi in birmingham": [
         {
             "type": 1,
             "rating": 1
@@ -27863,6 +27869,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "shakespeare road": [
@@ -34221,6 +34231,12 @@
             "rating": 1
         }
     ],
+    "shreeji traders": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "shreeji vishal": [
         {
             "type": 1,
@@ -38288,6 +38304,12 @@
         }
     ],
     "simon gillespie": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "simon hill": [
         {
             "type": 1,
             "rating": 1
@@ -47724,12 +47746,6 @@
         }
     ],
     "smokin wok": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "smoknic": [
         {
             "type": 1,
             "rating": 1
@@ -61539,12 +61555,6 @@
             "rating": 1
         }
     ],
-    "sr living": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sr mailing": [
         {
             "type": 1,
@@ -64581,6 +64591,12 @@
         {
             "type": 4,
             "rating": 2
+        }
+    ],
+    "st edwards medical centre": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "st elizabeth hospice": [
@@ -77977,6 +77993,12 @@
             "rating": 1
         }
     ],
+    "sumika polymer compounds europe": [
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "sumika polymer compounds": [
         {
             "type": 1,
@@ -87788,12 +87810,6 @@
         }
     ],
     "sanda": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "seaman": [
         {
             "type": 1,
             "rating": 1
