@@ -5395,6 +5395,12 @@
             "rating": 1
         }
     ],
+    "kasdigitaltech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kase care": [
         {
             "type": 1,
@@ -7104,12 +7110,6 @@
         }
     ],
     "kcb supermarket": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kcc care": [
         {
             "type": 1,
             "rating": 1
@@ -10765,11 +10765,11 @@
     ],
     "keystone europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

@@ -12401,6 +12401,12 @@
             "rating": 1
         }
     ],
+    "red hot goods": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "red hotels": [
         {
             "type": 1,
@@ -15860,6 +15866,12 @@
         }
     ],
     "reliable network technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "reliable scan": [
         {
             "type": 1,
             "rating": 1
@@ -35939,6 +35951,12 @@
             "rating": 1
         }
     ],
+    "rxpharmaco": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ry solutions": [
         {
             "type": 1,
@@ -36092,6 +36110,12 @@
     "rye cricket club": [
         {
             "type": 10,
+            "rating": 1
+        }
+    ],
+    "rye dental surgery": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

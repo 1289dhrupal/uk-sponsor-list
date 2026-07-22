@@ -12703,6 +12703,12 @@
             "rating": 1
         }
     ],
+    "glenfields care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "glenfinnan house hotel management": [
         {
             "type": 1,
@@ -15926,12 +15932,6 @@
         }
     ],
     "glr fashion networking": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "glr roofing": [
         {
             "type": 1,
             "rating": 1
@@ -21343,6 +21343,10 @@
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "grace church leatherhead": [
@@ -23418,12 +23422,6 @@
         }
     ],
     "grayareas": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grayareas - kingsmount": [
         {
             "type": 1,
             "rating": 1

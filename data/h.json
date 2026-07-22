@@ -5807,12 +5807,6 @@
             "rating": 1
         }
     ],
-    "hannahs homecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hannaman material handling": [
         {
             "type": 1,
@@ -7368,6 +7362,12 @@
         }
     ],
     "hari prasadam": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hari-jai": [
         {
             "type": 1,
             "rating": 1

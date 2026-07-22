@@ -621,12 +621,6 @@
             "rating": 1
         }
     ],
-    "d j haswell": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "d j howard": [
         {
             "type": 1,
@@ -1170,6 +1164,12 @@
         }
     ],
     "d i halal meat": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "d j haswell": [
         {
             "type": 1,
             "rating": 1
@@ -7786,6 +7786,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "de le cuona designs": [
         {
             "type": 1,
             "rating": 1

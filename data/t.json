@@ -12417,6 +12417,12 @@
             "rating": 1
         }
     ],
+    "technovate solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "technovative solutions": [
         {
             "type": 1,
@@ -13674,6 +13680,16 @@
         }
     ],
     "telegraph media": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "telegraph publishing": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -59447,11 +59463,11 @@
     ],
     "tube tech industrial": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -60994,12 +61010,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "tvtidy": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],

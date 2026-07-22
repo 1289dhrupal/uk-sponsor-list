@@ -4019,12 +4019,12 @@
     ],
     "wat buddharam london": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "wat buddharam leeds": [
@@ -7908,12 +7908,6 @@
         }
     ],
     "wellmun care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "wellness care provider": [
         {
             "type": 1,
             "rating": 1
@@ -11806,6 +11800,12 @@
         }
     ],
     "wheatsheaf sandbach": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wheel freedom": [
         {
             "type": 1,
             "rating": 1

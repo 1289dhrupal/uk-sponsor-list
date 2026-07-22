@@ -9259,12 +9259,6 @@
             "rating": 1
         }
     ],
-    "care and homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "care and management": [
         {
             "type": 1,
@@ -19469,12 +19463,6 @@
             "rating": 1
         }
     ],
-    "chacha chai holding": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "chacha chaiwala": [
         {
             "type": 1,
@@ -25613,6 +25601,12 @@
             "rating": 1
         }
     ],
+    "chilo s fast food": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "chilos fast food": [
         {
             "type": 1,
@@ -27479,6 +27473,20 @@
             "rating": 1
         }
     ],
+    "christ apostolic church - house of prayer glasgow": [
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "christ apostolic church balm of gilead christian ministries international": [
         {
             "type": 2,
@@ -28041,6 +28049,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "christ the messiahs pentecostal church": [
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "christ the redeemer catholic education trust": [
