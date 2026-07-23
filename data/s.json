@@ -937,6 +937,12 @@
             "rating": 1
         }
     ],
+    "spice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "shish legends": [
         {
             "type": 1,
@@ -31277,6 +31283,12 @@
             "rating": 1
         }
     ],
+    "shield engineering syston": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "shield fire safety and security": [
         {
             "type": 1,
@@ -45341,16 +45353,6 @@
             "rating": 1
         }
     ],
-    "smart citizen charitable foundation": [
-        {
-            "type": 9,
-            "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "smart city consultancy": [
         {
             "type": 1,
@@ -56165,6 +56167,12 @@
             "rating": 1
         }
     ],
+    "spark medical - st georges surgery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "spark product innovation": [
         {
             "type": 1,
@@ -58037,12 +58045,6 @@
             "rating": 1
         }
     ],
-    "spice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "spice & co wholesale": [
         {
             "type": 1,
@@ -59446,12 +59448,6 @@
         }
     ],
     "spixworth dental practice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "spj foods": [
         {
             "type": 1,
             "rating": 1
@@ -66545,12 +66541,12 @@
     ],
     "st luke s trust": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "st marguerite residential care home": [
@@ -79025,6 +79021,10 @@
     ],
     "sunderland afc women": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 10,
             "rating": 1
         }
@@ -80657,13 +80657,19 @@
             "rating": 1
         }
     ],
+    "supercell": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "supercharge london": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -81358,12 +81364,6 @@
         }
     ],
     "supreme beds": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "supreme car wash luton": [
         {
             "type": 1,
             "rating": 1

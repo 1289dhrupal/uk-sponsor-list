@@ -8085,6 +8085,12 @@
             "rating": 1
         }
     ],
+    "george potter care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "george potter house": [
         {
             "type": 1,
@@ -11069,12 +11075,12 @@
     ],
     "girls education co": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "girls learning trust": [
@@ -13180,12 +13186,6 @@
         }
     ],
     "global a1 traders": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "global abandoned products": [
         {
             "type": 1,
             "rating": 1

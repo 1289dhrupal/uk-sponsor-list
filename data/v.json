@@ -11357,6 +11357,16 @@
             "rating": 1
         }
     ],
+    "vision gospel ministries international": [
+        {
+            "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 11,
+            "rating": 2
+        }
+    ],
     "vision homes association": [
         {
             "type": 1,
@@ -12204,12 +12214,6 @@
         }
     ],
     "vital telecom": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "vitalcare at home": [
         {
             "type": 1,
             "rating": 1
@@ -13614,6 +13618,16 @@
         },
         {
             "type": 2,
+            "rating": 1
+        }
+    ],
+    "voice of the child": [
+        {
+            "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

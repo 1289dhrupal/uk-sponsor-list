@@ -4697,19 +4697,13 @@
             "rating": 1
         }
     ],
-    "macdave": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "macdermid performance solutions": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11986,6 +11980,10 @@
     "mansfield town football club": [
         {
             "type": 10,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25161,12 +25159,6 @@
             "rating": 1
         }
     ],
-    "medstar care & support": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "medstar clinic": [
         {
             "type": 1,
@@ -31950,6 +31942,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "micron semiconductor": [
         {
             "type": 1,
             "rating": 1

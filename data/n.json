@@ -4335,12 +4335,16 @@
     ],
     "national spiritual assembly of the baha/is of the": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         },
         {
             "type": 1,
@@ -4514,12 +4518,6 @@
         }
     ],
     "nationwide care derby": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "nationwide care dudley": [
         {
             "type": 1,
             "rating": 1

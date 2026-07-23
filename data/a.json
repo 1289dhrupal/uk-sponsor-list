@@ -12683,12 +12683,12 @@
     ],
     "acosta dance centre": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "acosta dance foundation": [
@@ -25729,12 +25729,6 @@
             "rating": 1
         }
     ],
-    "akbar roti junction": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "akcali": [
         {
             "type": 1,
@@ -36493,12 +36487,6 @@
             "rating": 1
         }
     ],
-    "always caring bromley": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "always inclusive": [
         {
             "type": 1,
@@ -47244,16 +47232,6 @@
         }
     ],
     "apollo partners": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "apollo radiology international": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -59558,12 +59536,6 @@
         }
     ],
     "askam civil engineering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "askari & co": [
         {
             "type": 1,
             "rating": 1

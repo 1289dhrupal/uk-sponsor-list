@@ -1897,6 +1897,12 @@
             "rating": 1
         }
     ],
+    "oasis health and wellness": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "oasis healthcare": [
         {
             "type": 5,
@@ -11365,6 +11371,12 @@
             "rating": 1
         }
     ],
+    "opus 2 international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "opus accountancy": [
         {
             "type": 1,
@@ -12708,6 +12720,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "ori healthcare": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

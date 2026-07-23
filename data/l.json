@@ -13555,12 +13555,6 @@
             "rating": 1
         }
     ],
-    "lifecome care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lifecycle sourcing": [
         {
             "type": 1,
@@ -13581,7 +13575,7 @@
     ],
     "lifegate church": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
@@ -13589,7 +13583,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -24953,6 +24947,12 @@
             "rating": 1
         }
     ],
+    "lorama foods": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lorapat standard care & geotec": [
         {
             "type": 1,
@@ -25258,12 +25258,6 @@
         }
     ],
     "lot 36": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lot bar and restaruant": [
         {
             "type": 1,
             "rating": 1
