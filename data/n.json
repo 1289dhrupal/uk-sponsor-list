@@ -8513,6 +8513,12 @@
             "rating": 1
         }
     ],
+    "net zero north sea storage": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "net zero now": [
         {
             "type": 1,
@@ -22550,12 +22556,6 @@
             "type": 9,
             "rating": 2
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "northrow": [
         {
             "type": 1,
             "rating": 1

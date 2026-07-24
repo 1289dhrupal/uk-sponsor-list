@@ -5843,12 +5843,6 @@
             "rating": 1
         }
     ],
-    "takeover creations": [
-        {
-            "type": 4,
-            "rating": 2
-        }
-    ],
     "takepart": [
         {
             "type": 1,
@@ -31053,6 +31047,10 @@
     ],
     "the mentholatum company": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -31464,6 +31462,12 @@
         }
     ],
     "the montana global t/as bikanervala": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the montessori house wantage": [
         {
             "type": 1,
             "rating": 1
@@ -45009,6 +45013,12 @@
             "rating": 1
         }
     ],
+    "tile station": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tile world kent": [
         {
             "type": 1,
@@ -58004,6 +58014,12 @@
         }
     ],
     "trufin labs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "trulience technologies": [
         {
             "type": 1,
             "rating": 1

@@ -1651,6 +1651,12 @@
             "rating": 1
         }
     ],
+    "h d ricketts": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "h g hanks": [
         {
             "type": 1,
@@ -3913,12 +3919,12 @@
     ],
     "halle concerts society": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "halleluyah gate ministries": [
@@ -4936,12 +4942,6 @@
         }
     ],
     "hampton by hilton oxford": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hampton court care home": [
         {
             "type": 1,
             "rating": 1

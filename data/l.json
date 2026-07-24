@@ -1017,12 +1017,6 @@
             "rating": 1
         }
     ],
-    "l&t patient transport": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "l&t technology service": [
         {
             "type": 5,
@@ -1047,7 +1041,7 @@
     ],
     "l abri fellowship": [
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
@@ -1055,7 +1049,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -8737,12 +8731,6 @@
             "rating": 1
         }
     ],
-    "lec build": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lecce badgers": [
         {
             "type": 1,
@@ -12917,12 +12905,6 @@
             "rating": 1
         }
     ],
-    "liberty cf": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "liberty charge": [
         {
             "type": 1,
@@ -13732,12 +13714,6 @@
         }
     ],
     "lifesearch": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lifeserve solutions": [
         {
             "type": 1,
             "rating": 1
@@ -28301,12 +28277,6 @@
             "rating": 1
         }
     ],
-    "luluz healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "luma homecare": [
         {
             "type": 1,
@@ -28820,6 +28790,12 @@
         }
     ],
     "lundie farming": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "luneia": [
         {
             "type": 1,
             "rating": 1

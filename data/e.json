@@ -2287,6 +2287,12 @@
             "rating": 1
         }
     ],
+    "east and west healthcare": [
+        {
+            "type": 1,
+            "rating": 4
+        }
+    ],
     "east and west roofing": [
         {
             "type": 1,
@@ -5866,6 +5872,12 @@
         }
     ],
     "ecobility": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ecobride": [
         {
             "type": 1,
             "rating": 1
@@ -30670,6 +30682,16 @@
         },
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "exeter rugby": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 10,
             "rating": 1
         }
     ],
