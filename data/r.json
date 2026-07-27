@@ -24105,6 +24105,12 @@
             "rating": 1
         }
     ],
+    "river veterinary care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "river woodwork": [
         {
             "type": 1,
@@ -26406,6 +26412,12 @@
         }
     ],
     "roadliner": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "roadmap tm": [
         {
             "type": 1,
             "rating": 1
@@ -32028,6 +32040,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "royal exchange theatre": [
         {
             "type": 1,
             "rating": 1

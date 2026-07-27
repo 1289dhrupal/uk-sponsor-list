@@ -5605,12 +5605,6 @@
             "rating": 1
         }
     ],
-    "oliveheal healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "olivello ristorante & bar": [
         {
             "type": 1,
@@ -5687,14 +5681,20 @@
             "rating": 1
         }
     ],
-    "oliver marketing": [
+    "oliver law security": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "oliver marketing": [
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -6896,6 +6896,12 @@
         }
     ],
     "omni facilities management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "omni fort it": [
         {
             "type": 1,
             "rating": 1
@@ -16054,12 +16060,6 @@
         }
     ],
     "ox brasserie": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ox global": [
         {
             "type": 1,
             "rating": 1

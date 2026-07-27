@@ -6825,12 +6825,6 @@
             "rating": 1
         }
     ],
-    "impala travel technology": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "imparta": [
         {
             "type": 1,
@@ -11581,12 +11575,6 @@
             "rating": 1
         }
     ],
-    "ingenia resourcing & recruitment": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ingenico": [
         {
             "type": 1,
@@ -12920,12 +12908,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "inobat auto": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -17133,6 +17115,16 @@
             "rating": 1
         }
     ],
+    "international power and marine": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "international power": [
         {
             "type": 5,
@@ -19635,16 +19627,6 @@
             "rating": 1
         }
     ],
-    "ipcos": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ipe international publishers": [
         {
             "type": 1,
@@ -20742,6 +20724,16 @@
         }
     ],
     "ironbridge medical practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ironclad contracting": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

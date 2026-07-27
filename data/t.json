@@ -4303,12 +4303,6 @@
             "rating": 1
         }
     ],
-    "t m utley offshore": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "t m j traders": [
         {
             "type": 1,
@@ -12743,6 +12737,12 @@
             "rating": 1
         }
     ],
+    "tecman speciality materials": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tecni-form": [
         {
             "type": 1,
@@ -14202,12 +14202,6 @@
         }
     ],
     "temple farm": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "temple": [
         {
             "type": 1,
             "rating": 1
@@ -26965,6 +26959,12 @@
             "rating": 1
         }
     ],
+    "the halfway house": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the halkin partnership": [
         {
             "type": 1,
@@ -33703,6 +33703,12 @@
             "rating": 2
         }
     ],
+    "the parochial church council of the ecclesiastical parish of st john tunbridge wells": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "the parochial church council of the ecclesiastical parish of st john walthamstow": [
         {
             "type": 2,
@@ -36435,14 +36441,20 @@
             "rating": 1
         }
     ],
-    "the royal national theatre": [
-        {
-            "type": 4,
-            "rating": 2
-        },
+    "the royal mint": [
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "the royal national theatre": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "the royal northern and university club": [
@@ -37754,6 +37766,12 @@
         }
     ],
     "the spice tree sharnbrook": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the spitalfields practice": [
         {
             "type": 1,
             "rating": 1

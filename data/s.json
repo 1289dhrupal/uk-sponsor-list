@@ -1985,12 +1985,6 @@
             "rating": 1
         }
     ],
-    "spar city road": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "skr superstore": [
         {
             "type": 1,
@@ -19103,6 +19097,16 @@
             "rating": 1
         }
     ],
+    "scott health & safety": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "scott hobbs planning": [
         {
             "type": 1,
@@ -21084,6 +21088,12 @@
         }
     ],
     "seaview oriental": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "seaview residential home": [
         {
             "type": 1,
             "rating": 1
@@ -46279,6 +46289,12 @@
             "rating": 1
         }
     ],
+    "smartdata enterprises limted": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "smartdesc": [
         {
             "type": 1,
@@ -52876,6 +52892,12 @@
         }
     ],
     "soproduce": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sops healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -67683,12 +67705,6 @@
             "rating": 1
         }
     ],
-    "stanhill court hotel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "stanhill hotel": [
         {
             "type": 1,
@@ -76871,6 +76887,16 @@
             "rating": 1
         }
     ],
+    "substrate bio": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "subtex global": [
         {
             "type": 1,
@@ -77695,20 +77721,14 @@
             "rating": 1
         }
     ],
-    "sulem care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "suleymaniye community association": [
-        {
-            "type": 11,
-            "rating": 2
-        },
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         },
         {
             "type": 1,
@@ -81082,6 +81102,12 @@
         }
     ],
     "supplier day": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "supply chain optimisation": [
         {
             "type": 1,
             "rating": 1

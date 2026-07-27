@@ -4129,12 +4129,16 @@
     ],
     "kannegiesser": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "kannika & co": [
@@ -11789,18 +11793,6 @@
             "rating": 1
         }
     ],
-    "khawaja halal poultry sole trader": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "khp poultry": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "khawar & co": [
         {
             "type": 1,
@@ -13122,12 +13114,6 @@
         }
     ],
     "kimmit": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kimo i t solutions": [
         {
             "type": 1,
             "rating": 1
@@ -15079,12 +15065,6 @@
             "rating": 1
         }
     ],
-    "kingz peri peri": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kini pizza": [
         {
             "type": 1,
@@ -16776,12 +16756,6 @@
         }
     ],
     "kleemann lifts": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kleen & easy hire": [
         {
             "type": 1,
             "rating": 1
@@ -20581,12 +20555,6 @@
             "rating": 1
         }
     ],
-    "kpm care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kpm engineering": [
         {
             "type": 5,
@@ -23858,6 +23826,12 @@
         }
     ],
     "kymira": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kyn agency": [
         {
             "type": 1,
             "rating": 1

@@ -13035,6 +13035,12 @@
             "rating": 1
         }
     ],
+    "acs commercial risk engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "acs couriers and logistics": [
         {
             "type": 1,
@@ -16250,6 +16256,12 @@
         }
     ],
     "adman s health care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "admanage": [
         {
             "type": 1,
             "rating": 1
@@ -20685,12 +20697,6 @@
             "rating": 1
         }
     ],
-    "agecare mg1": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "agecare mg2": [
         {
             "type": 1,
@@ -23560,6 +23566,12 @@
     "air bearings": [
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "air bubble": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -38027,6 +38039,12 @@
             "rating": 1
         }
     ],
+    "ambican": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ambien": [
         {
             "type": 1,
@@ -41872,6 +41890,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "andbloom": [
         {
             "type": 1,
             "rating": 1
@@ -55140,6 +55164,12 @@
         }
     ],
     "arthur morrison t/as am care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "arthur street store": [
         {
             "type": 1,
             "rating": 1

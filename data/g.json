@@ -8737,6 +8737,12 @@
             "rating": 1
         }
     ],
+    "get planks": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "get set hire": [
         {
             "type": 1,
