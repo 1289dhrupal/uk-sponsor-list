@@ -10213,6 +10213,12 @@
             "rating": 1
         }
     ],
+    "salus property": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "salus technical": [
         {
             "type": 1,
@@ -32299,18 +32305,6 @@
             "rating": 1
         }
     ],
-    "shiuli restaurants": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "shiuli": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shiv cash and carry": [
         {
             "type": 1,
@@ -35859,7 +35853,7 @@
             "rating": 1
         }
     ],
-    "sidley stores": [
+    "sidley convenience store": [
         {
             "type": 1,
             "rating": 1
@@ -80820,12 +80814,6 @@
         }
     ],
     "superior accounting solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "superior care midlands": [
         {
             "type": 1,
             "rating": 1

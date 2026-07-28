@@ -651,12 +651,6 @@
             "rating": 1
         }
     ],
-    "f&a care and support": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "f&a fruits": [
         {
             "type": 1,
@@ -6388,6 +6382,12 @@
         }
     ],
     "fea foods": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "feanor capital partners": [
         {
             "type": 1,
             "rating": 1

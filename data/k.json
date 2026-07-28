@@ -471,12 +471,6 @@
             "rating": 1
         }
     ],
-    "kachina": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "karai lounge": [
         {
             "type": 1,
@@ -4889,12 +4883,6 @@
             "rating": 1
         }
     ],
-    "karis care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "karis medical centre": [
         {
             "type": 1,
@@ -6162,12 +6150,6 @@
         }
     ],
     "kattz": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "katvic": [
         {
             "type": 1,
             "rating": 1
@@ -11721,12 +11703,6 @@
             "rating": 1
         }
     ],
-    "kharis solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "khas consulting": [
         {
             "type": 1,
@@ -13016,6 +12992,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "kimberly-clark europe": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

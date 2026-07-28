@@ -131,6 +131,12 @@
             "rating": 1
         }
     ],
+    "miso hungry": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "media guru": [
         {
             "type": 1,
@@ -7797,12 +7803,6 @@
             "rating": 1
         }
     ],
-    "mahran hyper market": [
-        {
-            "type": 3,
-            "rating": 3
-        }
-    ],
     "mahrosh beauty": [
         {
             "type": 1,
@@ -9446,12 +9446,6 @@
         }
     ],
     "malik riaz and sons": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "malik s immigration office": [
         {
             "type": 1,
             "rating": 1
@@ -11674,12 +11668,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "manoo superstore": [
         {
             "type": 1,
             "rating": 1
@@ -46395,12 +46383,12 @@
     ],
     "motivation": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "motivations every sensation": [

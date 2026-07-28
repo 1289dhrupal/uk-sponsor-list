@@ -6431,11 +6431,11 @@
     ],
     "talon outdoor": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16507,6 +16507,12 @@
             "rating": 1
         }
     ],
+    "tga building consulting engineers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tga consulting engineers": [
         {
             "type": 1,
@@ -24673,7 +24679,7 @@
             "rating": 1
         }
     ],
-    "the eveline day nursery school": [
+    "the eveline day nursery schools": [
         {
             "type": 1,
             "rating": 1
@@ -46717,6 +46723,12 @@
             "rating": 1
         }
     ],
+    "tlb 24/7 healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tlb medicals": [
         {
             "type": 1,
@@ -51162,12 +51174,6 @@
         }
     ],
     "touchpoints marketing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "touchstack": [
         {
             "type": 1,
             "rating": 1
@@ -58008,6 +58014,12 @@
         }
     ],
     "truetea": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "truevale care": [
         {
             "type": 1,
             "rating": 1

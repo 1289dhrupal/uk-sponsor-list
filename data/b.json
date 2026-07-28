@@ -34997,12 +34997,6 @@
             "rating": 1
         }
     ],
-    "br pitlochry": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "br spices": [
         {
             "type": 1,
@@ -36046,6 +36040,12 @@
         }
     ],
     "branchspace": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "branco flex": [
         {
             "type": 1,
             "rating": 1
@@ -47779,11 +47779,11 @@
     ],
     "business modelling associates": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

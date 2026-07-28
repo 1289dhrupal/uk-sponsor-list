@@ -17347,6 +17347,12 @@
             "rating": 1
         }
     ],
+    "international sos gs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "international sports federation for athletes with an intellectual impairment": [
         {
             "type": 1,
@@ -19535,16 +19541,16 @@
     ],
     "ip global properties": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         },
         {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         }
     ],
     "ip global": [

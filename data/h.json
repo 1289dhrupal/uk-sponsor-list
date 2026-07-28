@@ -11939,12 +11939,6 @@
             "rating": 1
         }
     ],
-    "hbcuk": [
-        {
-            "type": 1,
-            "rating": 4
-        }
-    ],
     "hbg": [
         {
             "type": 1,
@@ -27348,6 +27342,12 @@
     "horsham cricket club part of horsham sports club": [
         {
             "type": 10,
+            "rating": 1
+        }
+    ],
+    "horsham learning alliance": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

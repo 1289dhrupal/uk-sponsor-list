@@ -9579,6 +9579,12 @@
             "rating": 1
         }
     ],
+    "absolute cnc": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "absolute dt": [
         {
             "type": 1,
@@ -11911,19 +11917,13 @@
             "rating": 1
         }
     ],
-    "acer health care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "acer international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -52767,6 +52767,12 @@
             "rating": 1
         }
     ],
+    "ark care & support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ark care": [
         {
             "type": 1,
@@ -61876,12 +61882,6 @@
         }
     ],
     "aston villa women s football club": [
-        {
-            "type": 10,
-            "rating": 1
-        }
-    ],
-    "aston villa womens football club": [
         {
             "type": 10,
             "rating": 1
