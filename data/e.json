@@ -9531,6 +9531,12 @@
             "rating": 1
         }
     ],
+    "eghc performance": [
+        {
+            "type": 10,
+            "rating": 1
+        }
+    ],
     "egi & ukb": [
         {
             "type": 1,
@@ -15817,12 +15823,6 @@
         {
             "type": 9,
             "rating": 2
-        }
-    ],
-    "emerson energy and engineering": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "emerson grange": [

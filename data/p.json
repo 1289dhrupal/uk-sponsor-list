@@ -607,12 +607,6 @@
             "rating": 1
         }
     ],
-    "palm court nursing home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "plashet pharmacy": [
         {
             "type": 1,
@@ -16087,11 +16081,11 @@
     ],
     "petroplan europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27317,6 +27311,12 @@
             "rating": 1
         }
     ],
+    "poradigm technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "porbandar restaurants": [
         {
             "type": 1,
@@ -27377,19 +27377,13 @@
             "rating": 1
         }
     ],
-    "porous liquid technologies": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "porr": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28900,6 +28894,12 @@
         }
     ],
     "power cms technology": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "power control and automation solutions": [
         {
             "type": 1,
             "rating": 1
@@ -42640,6 +42640,12 @@
         }
     ],
     "puunnamii creeative": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "puzey family practice": [
         {
             "type": 1,
             "rating": 1

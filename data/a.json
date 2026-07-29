@@ -11249,6 +11249,12 @@
             "rating": 1
         }
     ],
+    "accounting office software": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "accounting people": [
         {
             "type": 5,
@@ -19349,13 +19355,19 @@
             "rating": 1
         }
     ],
+    "affinity labs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "affinity sports academy": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -25861,11 +25873,11 @@
     ],
     "akg learning": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -31081,6 +31093,16 @@
             "rating": 2
         }
     ],
+    "alibaba cloud europe": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "alibaba e-commerce": [
         {
             "type": 1,
@@ -31088,16 +31110,6 @@
         }
     ],
     "alibaba eats": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "alibaba com europe": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -44628,6 +44640,12 @@
         }
     ],
     "anp": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "anp solicitors": [
         {
             "type": 1,
             "rating": 1
@@ -71520,6 +71538,12 @@
         }
     ],
     "azi accountancy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "azila": [
         {
             "type": 1,
             "rating": 1

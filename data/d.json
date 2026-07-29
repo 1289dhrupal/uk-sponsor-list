@@ -14673,12 +14673,6 @@
             "rating": 2
         }
     ],
-    "dfb care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dfc swansea": [
         {
             "type": 1,
@@ -20856,6 +20850,10 @@
     "dka": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

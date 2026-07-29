@@ -573,6 +573,12 @@
             "rating": 1
         }
     ],
+    "h & f logistics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "h & friends gtl": [
         {
             "type": 1,
@@ -2740,12 +2746,6 @@
         }
     ],
     "hafod housing association": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hafod y green care": [
         {
             "type": 1,
             "rating": 1
@@ -11833,6 +11833,12 @@
             "rating": 1
         }
     ],
+    "hb and sons": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hb birmingham construction": [
         {
             "type": 1,
@@ -12186,6 +12192,12 @@
         }
     ],
     "hcp franchise": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hcp advisors": [
         {
             "type": 1,
             "rating": 1
@@ -27837,13 +27849,19 @@
             "rating": 1
         }
     ],
+    "hotel systems & solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hotel technology management htm": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

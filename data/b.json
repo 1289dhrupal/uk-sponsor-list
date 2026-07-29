@@ -8711,12 +8711,6 @@
             "rating": 1
         }
     ],
-    "bateleur hc": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bates office": [
         {
             "type": 1,
@@ -9512,18 +9506,6 @@
         }
     ],
     "bayleaf care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bayleaf grayshott": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bayleaf": [
         {
             "type": 1,
             "rating": 1
@@ -13174,6 +13156,12 @@
         }
     ],
     "bees electrical supplies london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bees foodservice": [
         {
             "type": 1,
             "rating": 1
@@ -47099,6 +47087,16 @@
             "rating": 1
         }
     ],
+    "burns & wilcox global solutions": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "burns and gough properties": [
         {
             "type": 1,
@@ -49352,6 +49350,12 @@
         }
     ],
     "butterfly house": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bayleaf": [
         {
             "type": 1,
             "rating": 1

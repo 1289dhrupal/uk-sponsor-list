@@ -3215,12 +3215,6 @@
             "rating": 1
         }
     ],
-    "vape n out": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vape and gadgets": [
         {
             "type": 1,
@@ -13612,16 +13606,6 @@
         },
         {
             "type": 2,
-            "rating": 1
-        }
-    ],
-    "voice of the child": [
-        {
-            "type": 9,
-            "rating": 2
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],

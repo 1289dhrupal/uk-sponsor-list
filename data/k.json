@@ -11199,12 +11199,6 @@
             "rating": 1
         }
     ],
-    "khadija supermarket": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "khadijah catering": [
         {
             "type": 1,
@@ -11583,12 +11577,6 @@
             "rating": 1
         }
     ],
-    "khanh hoang": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "khaniqahi nimatullahi": [
         {
             "type": 1,
@@ -11846,6 +11834,12 @@
         }
     ],
     "kheyadiya & dev": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "khi bmsl": [
         {
             "type": 1,
             "rating": 1
@@ -19155,12 +19149,6 @@
             "rating": 1
         }
     ],
-    "komfiline": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "komgree": [
         {
             "type": 1,
@@ -20629,11 +20617,11 @@
     ],
     "kpp ventures": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21062,12 +21050,6 @@
         }
     ],
     "krirosh stores": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kris carers": [
         {
             "type": 1,
             "rating": 1
@@ -22934,12 +22916,6 @@
         }
     ],
     "kumar home improvement": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kumar infotech": [
         {
             "type": 1,
             "rating": 1

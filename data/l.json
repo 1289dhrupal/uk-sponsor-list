@@ -1165,12 +1165,6 @@
             "rating": 1
         }
     ],
-    "l-charge operations": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "l-gam advisors": [
         {
             "type": 5,
@@ -7297,12 +7291,6 @@
             "rating": 1
         }
     ],
-    "lbt property": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lc carpentry": [
         {
             "type": 1,
@@ -8331,11 +8319,11 @@
     ],
     "leap29 holdings": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11161,12 +11149,6 @@
             "rating": 1
         }
     ],
-    "les filles": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "les lions farm": [
         {
             "type": 10,
@@ -11884,16 +11866,6 @@
         }
     ],
     "lewes old grammar school": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "leweston school trust": [
-        {
-            "type": 9,
-            "rating": 2
-        },
         {
             "type": 1,
             "rating": 1
@@ -12967,6 +12939,12 @@
             "rating": 1
         }
     ],
+    "liberty finance": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "liberty frozen foods": [
         {
             "type": 1,
@@ -13022,12 +13000,6 @@
         }
     ],
     "liberty law solicitors": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "liberty leasing": [
         {
             "type": 1,
             "rating": 1
@@ -24631,6 +24603,12 @@
             "rating": 1
         }
     ],
+    "longthornes pharmacies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "longton booze & news": [
         {
             "type": 1,
@@ -30894,6 +30872,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "lords pharmacy": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

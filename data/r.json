@@ -14741,6 +14741,12 @@
             "rating": 1
         }
     ],
+    "regen waste": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "regenagri cic": [
         {
             "type": 1,
@@ -17347,6 +17353,12 @@
             "rating": 1
         }
     ],
+    "reo digital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "reoncare": [
         {
             "type": 1,
@@ -18604,6 +18616,12 @@
         }
     ],
     "restronauts": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "restwyn": [
         {
             "type": 1,
             "rating": 1
@@ -31574,6 +31592,12 @@
         }
     ],
     "rowlandcourt healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rowlands castle surgery": [
         {
             "type": 1,
             "rating": 1
