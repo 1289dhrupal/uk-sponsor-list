@@ -975,12 +975,6 @@
             "rating": 1
         }
     ],
-    "l&k care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "l&k transportss": [
         {
             "type": 1,
@@ -6856,6 +6850,12 @@
         }
     ],
     "lawnbrook care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lawns": [
         {
             "type": 1,
             "rating": 1
@@ -20853,6 +20853,12 @@
             "rating": 1
         }
     ],
+    "logini hollies care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "logini old library": [
         {
             "type": 1,
@@ -25635,11 +25641,11 @@
     ],
     "loughborough college": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30670,6 +30676,12 @@
         }
     ],
     "lotus restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "labstore westend": [
         {
             "type": 1,
             "rating": 1

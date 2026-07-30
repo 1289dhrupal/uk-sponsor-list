@@ -9653,6 +9653,12 @@
             "rating": 1
         }
     ],
+    "villapharm": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "villeroy & boch": [
         {
             "type": 1,
@@ -11919,12 +11925,6 @@
         {
             "type": 4,
             "rating": 2
-        }
-    ],
-    "visual bliss media": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "visual business retail": [
@@ -14266,6 +14266,18 @@
         }
     ],
     "voortman": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vooshama": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "veg chennai srilalitha watford": [
         {
             "type": 1,
             "rating": 1

@@ -4249,12 +4249,6 @@
             "rating": 1
         }
     ],
-    "unique oriental food": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "unique personnel": [
         {
             "type": 1,
@@ -4262,6 +4256,12 @@
         }
     ],
     "unique plating & polishing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "unique portsmouth": [
         {
             "type": 1,
             "rating": 1
@@ -5362,6 +5362,12 @@
         }
     ],
     "united technologists europe": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "united therapeutics europe": [
         {
             "type": 1,
             "rating": 1
@@ -6577,16 +6583,20 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "university of hertfordshire higher education corporation": [
-        {
-            "type": 1,
-            "rating": 1
         },
         {
             "type": 12,
             "rating": 2
+        }
+    ],
+    "university of hertfordshire higher education corporation": [
+        {
+            "type": 12,
+            "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 10,
@@ -7572,6 +7582,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "upb products": [
         {
             "type": 1,
             "rating": 1

@@ -7095,20 +7095,14 @@
             "rating": 1
         }
     ],
-    "parker hampton food": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "parker hannifin manufacturing": [
-        {
-            "type": 8,
-            "rating": 2
-        },
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -9456,6 +9450,12 @@
         }
     ],
     "pattrn": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "patyka": [
         {
             "type": 1,
             "rating": 1
@@ -14259,6 +14259,12 @@
             "rating": 1
         }
     ],
+    "perfect tailor": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "perfect teeth": [
         {
             "type": 1,
@@ -16295,13 +16301,19 @@
             "rating": 1
         }
     ],
-    "pexapark": [
+    "pevonia": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "pexapark": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28676,6 +28688,12 @@
         }
     ],
     "potters leisure": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pottery cafe": [
         {
             "type": 1,
             "rating": 1
@@ -41346,12 +41364,6 @@
         }
     ],
     "punjabi thali & sweets": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "punk vape": [
         {
             "type": 1,
             "rating": 1
