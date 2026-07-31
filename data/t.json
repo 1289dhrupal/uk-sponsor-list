@@ -1209,6 +1209,12 @@
             "rating": 1
         }
     ],
+    "the farmhouse bistro": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "totally hardware": [
         {
             "type": 1,
@@ -1970,12 +1976,6 @@
         }
     ],
     "the vet clinic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the hollies care centre": [
         {
             "type": 1,
             "rating": 1
@@ -9924,16 +9924,6 @@
     "taylor thomas": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "taylor wessing": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -22777,12 +22767,6 @@
             "rating": 1
         }
     ],
-    "the conversation store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the conversation trust": [
         {
             "type": 1,
@@ -31514,6 +31498,12 @@
             "type": 12,
             "rating": 2
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the moreton centre": [
         {
             "type": 1,
             "rating": 1
@@ -42707,12 +42697,6 @@
             "rating": 1
         }
     ],
-    "thorburn manor": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "thoresby colliery cricket club": [
         {
             "type": 10,
@@ -51371,6 +51355,12 @@
             "rating": 1
         }
     ],
+    "tower hamlets mission": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tower house dental clinic": [
         {
             "type": 1,
@@ -53750,6 +53740,12 @@
         }
     ],
     "transport for the north": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "transport for wales": [
         {
             "type": 1,
             "rating": 1
@@ -56724,12 +56720,6 @@
         }
     ],
     "triotech recruitment": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "trip affairs travel consult": [
         {
             "type": 1,
             "rating": 1

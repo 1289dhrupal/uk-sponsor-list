@@ -4577,12 +4577,6 @@
             "rating": 1
         }
     ],
-    "bamboo & coconut": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bamboo distribution": [
         {
             "type": 1,
@@ -20663,6 +20657,12 @@
             "rating": 1
         }
     ],
+    "big creative training": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "big daddy s jordenthorpe": [
         {
             "type": 1,
@@ -30631,6 +30631,12 @@
             "rating": 2
         }
     ],
+    "bodhi zen clinic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bodhigyan meditation & cultural centre": [
         {
             "type": 11,
@@ -30799,16 +30805,20 @@
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 13,
+            "rating": 2
         }
     ],
     "boeing defence": [
         {
-            "type": 6,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 6,
+            "rating": 2
         },
         {
             "type": 5,

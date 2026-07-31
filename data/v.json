@@ -2243,6 +2243,12 @@
             "rating": 1
         }
     ],
+    "valoris trading": [
+        {
+            "type": 3,
+            "rating": 3
+        }
+    ],
     "valorum care": [
         {
             "type": 1,
@@ -9904,12 +9910,6 @@
         }
     ],
     "vine house care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "vine recruitment solutions": [
         {
             "type": 1,
             "rating": 1

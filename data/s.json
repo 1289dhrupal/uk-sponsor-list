@@ -2555,6 +2555,12 @@
             "rating": 1
         }
     ],
+    "s & a auto": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "s & a bett": [
         {
             "type": 1,
@@ -5203,12 +5209,6 @@
             "rating": 1
         }
     ],
-    "saact": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "saad ali": [
         {
             "type": 1,
@@ -5807,11 +5807,11 @@
     ],
     "sabre global technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8498,12 +8498,6 @@
         }
     ],
     "sailaavan express": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sailbrand": [
         {
             "type": 1,
             "rating": 1
@@ -26031,12 +26025,6 @@
             "rating": 1
         }
     ],
-    "sevgi beauty": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "seville developments": [
         {
             "type": 1,
@@ -27097,6 +27085,16 @@
             "rating": 1
         }
     ],
+    "shadowhouse films": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
+        }
+    ],
     "shadpury": [
         {
             "type": 1,
@@ -27632,6 +27630,12 @@
     "shahjalal grocery": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "shahjalal islamic centre & masjid": [
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -44207,12 +44211,6 @@
             "rating": 1
         }
     ],
-    "sleep mode dews": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sleep&dreams": [
         {
             "type": 1,
@@ -47667,12 +47665,6 @@
             "rating": 1
         }
     ],
-    "smoith piri food": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "smoke & fire curtains": [
         {
             "type": 1,
@@ -48702,12 +48694,6 @@
         }
     ],
     "snowden": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "snowdonia hotel": [
         {
             "type": 1,
             "rating": 1
@@ -66757,6 +66743,12 @@
             "rating": 1
         }
     ],
+    "staac design": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "staash enterprises": [
         {
             "type": 1,
@@ -71159,6 +71151,12 @@
             "rating": 1
         }
     ],
+    "sterling oak": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sterling partners": [
         {
             "type": 1,
@@ -73862,6 +73860,12 @@
         }
     ],
     "stranraer specsavers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "strapp metal": [
         {
             "type": 1,
             "rating": 1

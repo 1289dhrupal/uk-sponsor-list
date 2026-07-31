@@ -5062,7 +5062,7 @@
     "ece expert care": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "ece london": [
@@ -6624,6 +6624,12 @@
         }
     ],
     "edc scotland": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "edc automotive": [
         {
             "type": 1,
             "rating": 1
@@ -8430,12 +8436,6 @@
         }
     ],
     "edward billington & son": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "edward davies commercials": [
         {
             "type": 1,
             "rating": 1
@@ -16413,12 +16413,6 @@
             "rating": 1
         }
     ],
-    "empathy care service": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "empathy care24": [
         {
             "type": 1,
@@ -16427,11 +16421,11 @@
     ],
     "empathybroker": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16524,12 +16518,6 @@
         }
     ],
     "empire care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "empire college london": [
         {
             "type": 1,
             "rating": 1
@@ -30418,12 +30406,6 @@
         }
     ],
     "execujet liimited": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "executive care personnel": [
         {
             "type": 1,
             "rating": 1

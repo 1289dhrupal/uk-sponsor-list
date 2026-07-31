@@ -11749,19 +11749,13 @@
             "rating": 1
         }
     ],
-    "levicare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "levidian nanosystems": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17797,12 +17791,6 @@
             "rating": 1
         }
     ],
-    "littlecombe park": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "littledata technologies": [
         {
             "type": 1,
@@ -22617,6 +22605,12 @@
             "rating": 1
         }
     ],
+    "london heritage stone": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "london high street enterprise": [
         {
             "type": 1,
@@ -24926,12 +24920,6 @@
         }
     ],
     "lorama foods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lorapat standard care & geotec": [
         {
             "type": 1,
             "rating": 1

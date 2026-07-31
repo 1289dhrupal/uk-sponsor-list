@@ -3951,14 +3951,20 @@
             "rating": 1
         }
     ],
-    "james brown management": [
-        {
-            "type": 4,
-            "rating": 2
-        },
+    "james brearley & sons": [
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "james brown management": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "james burton developers": [
@@ -11028,6 +11034,12 @@
         }
     ],
     "jmg store": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jmg systems": [
         {
             "type": 1,
             "rating": 1

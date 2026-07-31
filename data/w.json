@@ -15435,12 +15435,6 @@
             "rating": 1
         }
     ],
-    "wimax": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "wimbart": [
         {
             "type": 1,
@@ -16682,6 +16676,16 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "winston taylor": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19461,6 +19465,12 @@
             "rating": 1
         }
     ],
+    "woodland furniture": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "woodland": [
         {
             "type": 1,
@@ -19474,12 +19484,6 @@
         }
     ],
     "woodland kitchen and bedroom": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "woodland kitchens n i": [
         {
             "type": 1,
             "rating": 1
