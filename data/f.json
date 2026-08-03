@@ -6597,6 +6597,16 @@
             "rating": 1
         }
     ],
+    "federation stories": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
+        }
+    ],
     "fedex express": [
         {
             "type": 1,
@@ -8512,6 +8522,12 @@
         }
     ],
     "field equine vets": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "field gibson media": [
         {
             "type": 1,
             "rating": 1

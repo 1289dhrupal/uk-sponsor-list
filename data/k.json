@@ -173,6 +173,10 @@
     ],
     "kiji": [
         {
+            "type": 4,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -10720,12 +10724,6 @@
         }
     ],
     "keysoe international": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "keysource": [
         {
             "type": 1,
             "rating": 1

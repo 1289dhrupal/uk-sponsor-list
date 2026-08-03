@@ -1435,12 +1435,6 @@
             "rating": 1
         }
     ],
-    "sweet aldridge": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sirajco mini market": [
         {
             "type": 1,
@@ -5897,6 +5891,12 @@
             "rating": 1
         }
     ],
+    "sachets": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sachi s food private": [
         {
             "type": 1,
@@ -9129,12 +9129,6 @@
             "rating": 1
         }
     ],
-    "sakant construction and solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sakata": [
         {
             "type": 5,
@@ -10120,6 +10114,12 @@
         }
     ],
     "saltire dental practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "saltire medical practice": [
         {
             "type": 1,
             "rating": 1
@@ -13343,6 +13343,12 @@
             "rating": 1
         }
     ],
+    "santam specialist business": [
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "santander asset management": [
         {
             "type": 5,
@@ -14270,6 +14276,12 @@
         }
     ],
     "sarai subs ta subway": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "saram hotels droitwich tas st andrews town hotel": [
         {
             "type": 1,
             "rating": 1
@@ -25573,13 +25585,19 @@
             "rating": 1
         }
     ],
+    "seven baring automotive": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "seven bridges genomics": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -26741,6 +26759,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 13,
+            "rating": 2
         }
     ],
     "sh accounting & bookkeeping": [
@@ -32887,12 +32909,6 @@
         {
             "type": 11,
             "rating": 2
-        }
-    ],
-    "shojin property partners": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "shokall nest": [
@@ -74714,6 +74730,12 @@
         }
     ],
     "stretton care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "stretton hills veterinary practice": [
         {
             "type": 1,
             "rating": 1

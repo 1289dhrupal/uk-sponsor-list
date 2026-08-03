@@ -1195,7 +1195,7 @@
             "rating": 1
         }
     ],
-    "w&w trading and consulting": [
+    "w&w insights global": [
         {
             "type": 1,
             "rating": 1
@@ -7926,6 +7926,12 @@
         }
     ],
     "wellnessjourney": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wellperson": [
         {
             "type": 1,
             "rating": 1
@@ -20771,6 +20777,12 @@
             "rating": 1
         }
     ],
+    "workspace": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "workwear & ppe supplies": [
         {
             "type": 1,
@@ -21908,6 +21920,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "wppc": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
