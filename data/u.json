@@ -6585,24 +6585,14 @@
             "rating": 1
         }
     ],
-    "university of greenwich": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 12,
-            "rating": 2
-        }
-    ],
     "university of hertfordshire higher education corporation": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         },
         {
             "type": 10,

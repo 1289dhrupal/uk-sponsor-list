@@ -519,12 +519,6 @@
             "rating": 1
         }
     ],
-    "holy cross care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "home instead greenwich & bexley": [
         {
             "type": 1,
@@ -24536,6 +24530,12 @@
     "holy cross abbey": [
         {
             "type": 2,
+            "rating": 1
+        }
+    ],
+    "holy cross care home": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

@@ -18199,11 +18199,11 @@
     ],
     "centro asset management": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19069,21 +19069,21 @@
     ],
     "cf fertilisers": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "cf private equity u k": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31543,12 +31543,12 @@
     ],
     "city of london corporation": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "city of london corporation barbican centre": [
@@ -33294,6 +33294,12 @@
         }
     ],
     "clartes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "clarusto logistics": [
         {
             "type": 1,
             "rating": 1
@@ -35844,6 +35850,12 @@
         }
     ],
     "close brothers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "close brothers rail": [
         {
             "type": 1,
             "rating": 1

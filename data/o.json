@@ -5773,16 +5773,16 @@
     ],
     "olivet assembly": [
         {
-            "type": 11,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 9,
             "rating": 2
         },
         {
-            "type": 1,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
             "type": 2,
@@ -12376,6 +12376,12 @@
         }
     ],
     "orchid wellness": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "orchid woodlands healthcare": [
         {
             "type": 1,
             "rating": 1

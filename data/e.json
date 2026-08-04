@@ -13005,6 +13005,12 @@
             "rating": 1
         }
     ],
+    "elite care professionals": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "elite care pvt": [
         {
             "type": 1,
@@ -18094,6 +18100,12 @@
         }
     ],
     "energy fix": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "energy gardens": [
         {
             "type": 1,
             "rating": 1
@@ -25835,12 +25847,6 @@
             "rating": 1
         }
     ],
-    "euro export": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "euro food & wine 219": [
         {
             "type": 1,
@@ -26544,6 +26550,12 @@
         }
     ],
     "europa food store": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "europa fusion industries": [
         {
             "type": 1,
             "rating": 1
@@ -30232,16 +30244,6 @@
         }
     ],
     "exception pcb": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "exception pcb solutions": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1

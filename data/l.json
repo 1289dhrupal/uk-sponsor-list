@@ -21445,6 +21445,16 @@
             "rating": 1
         }
     ],
+    "london and south east university": [
+        {
+            "type": 12,
+            "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "london and surrey montessori schools": [
         {
             "type": 1,
@@ -21566,6 +21576,12 @@
         }
     ],
     "london bookkeeping": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "london borough haringey": [
         {
             "type": 1,
             "rating": 1

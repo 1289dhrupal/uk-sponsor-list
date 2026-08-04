@@ -1057,6 +1057,12 @@
             "rating": 1
         }
     ],
+    "d marble": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "d modish fingerfoods and bakes": [
         {
             "type": 1,
@@ -4090,12 +4096,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "darethealthcare": [
         {
             "type": 1,
             "rating": 1
@@ -8845,14 +8845,20 @@
             "rating": 1
         }
     ],
-    "deen consult": [
-        {
-            "type": 4,
-            "rating": 2
-        },
+    "deen care": [
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "deen consult": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "deen trust international": [
@@ -13583,12 +13589,6 @@
             "rating": 2
         }
     ],
-    "destiny jubilee care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "destiny kids nursery": [
         {
             "type": 1,
@@ -14380,6 +14380,12 @@
         }
     ],
     "devoted supported living": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "devoted to care": [
         {
             "type": 1,
             "rating": 1
@@ -16852,6 +16858,12 @@
         }
     ],
     "digi technology": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "digi world consulting": [
         {
             "type": 1,
             "rating": 1
