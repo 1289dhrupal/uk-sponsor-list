@@ -14499,6 +14499,12 @@
             "rating": 1
         }
     ],
+    "refute": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "refy beauty": [
         {
             "type": 1,
@@ -19506,6 +19512,12 @@
     "revive living waters cic": [
         {
             "type": 2,
+            "rating": 1
+        }
+    ],
+    "revive maintenance": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -35009,6 +35021,10 @@
         {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "rumpala": [

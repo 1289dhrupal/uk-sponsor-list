@@ -5511,12 +5511,6 @@
             "rating": 1
         }
     ],
-    "camile thai kitchen ta camile thai": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "camino healthcare": [
         {
             "type": 1,
@@ -9146,12 +9140,6 @@
         }
     ],
     "care & co": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "care & grace": [
         {
             "type": 1,
             "rating": 1
@@ -16575,12 +16563,6 @@
             "rating": 2
         }
     ],
-    "celestial church of christ mountain of new glory parish ori oke ogo titun": [
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
     "celestial church of christ salvation ark parish": [
         {
             "type": 9,
@@ -23187,12 +23169,6 @@
             "rating": 1
         }
     ],
-    "chelsea digital ventures": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "chelsea education": [
         {
             "type": 1,
@@ -28815,26 +28791,26 @@
     ],
     "church army": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
         },
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "church communities": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "church end dental clinic": [
@@ -42555,6 +42531,12 @@
             "rating": 1
         }
     ],
+    "compassion homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "compassion plus healthcare": [
         {
             "type": 1,
@@ -47746,6 +47728,12 @@
         }
     ],
     "cordell health": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cordercare": [
         {
             "type": 1,
             "rating": 1
@@ -59288,12 +59276,6 @@
         }
     ],
     "curzon pr": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "curzon square": [
         {
             "type": 1,
             "rating": 1

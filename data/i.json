@@ -6359,12 +6359,6 @@
             "rating": 1
         }
     ],
-    "immediate quality care iqc": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "immediate social care": [
         {
             "type": 1,
@@ -17587,6 +17581,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "interpack": [
+        {
+            "type": 3,
+            "rating": 3
         }
     ],
     "interpart u k": [

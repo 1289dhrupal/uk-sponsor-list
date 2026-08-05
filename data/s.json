@@ -19033,12 +19033,6 @@
             "rating": 1
         }
     ],
-    "scotscare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "scotsman": [
         {
             "type": 1,
@@ -38811,6 +38805,12 @@
             "rating": 1
         }
     ],
+    "simply local": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "simply lunch": [
         {
             "type": 1,
@@ -45064,12 +45064,6 @@
         }
     ],
     "small luxury hotels of the world": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "small luxury hotels of the world management": [
         {
             "type": 1,
             "rating": 1
@@ -53775,6 +53769,12 @@
             "rating": 1
         }
     ],
+    "south east london mind": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "south east psychology cic": [
         {
             "type": 1,
@@ -57552,12 +57552,6 @@
         }
     ],
     "speedy care express": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "speedy cargo": [
         {
             "type": 1,
             "rating": 1
@@ -68411,6 +68405,12 @@
             "rating": 1
         }
     ],
+    "star oriental trading": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "star pacific": [
         {
             "type": 1,
@@ -68661,39 +68661,33 @@
             "rating": 1
         }
     ],
-    "starbrite fuel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "starbucks coffee company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "starbucks emea": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "starburst data": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -83282,12 +83276,6 @@
         }
     ],
     "sv cargills": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sv croydon": [
         {
             "type": 1,
             "rating": 1
