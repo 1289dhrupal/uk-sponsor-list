@@ -7619,6 +7619,12 @@
             "rating": 1
         }
     ],
+    "imran maan": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "imran mushtaq": [
         {
             "type": 1,
@@ -9030,12 +9036,6 @@
         }
     ],
     "indian dinners": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "indian eateries": [
         {
             "type": 1,
             "rating": 1
@@ -21295,12 +21295,6 @@
             "rating": 1
         }
     ],
-    "isite facilities": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "iskcon scotland": [
         {
             "type": 11,
@@ -21319,11 +21313,11 @@
     ],
     "isko": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21748,12 +21742,6 @@
         }
     ],
     "ismaael car rental": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ismah foods": [
         {
             "type": 1,
             "rating": 1

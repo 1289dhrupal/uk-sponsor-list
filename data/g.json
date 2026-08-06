@@ -11399,6 +11399,12 @@
             "rating": 1
         }
     ],
+    "gk engineering & design": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gk foodservice": [
         {
             "type": 1,
@@ -12546,7 +12552,7 @@
     "glencarron homes": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "glencoe care": [
@@ -21444,12 +21450,6 @@
         }
     ],
     "grace investments": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "grace live in carers": [
         {
             "type": 1,
             "rating": 1

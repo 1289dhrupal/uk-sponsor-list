@@ -529,6 +529,12 @@
             "rating": 1
         }
     ],
+    "k & a care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "k & a solicitors": [
         {
             "type": 1,
@@ -1034,12 +1040,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "k lodge": [
         {
             "type": 1,
             "rating": 1
@@ -4752,6 +4752,12 @@
         }
     ],
     "kare for you surrey": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kare recruitment": [
         {
             "type": 1,
             "rating": 1
@@ -14802,6 +14808,12 @@
         }
     ],
     "kingston roofing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kingston students union": [
         {
             "type": 1,
             "rating": 1

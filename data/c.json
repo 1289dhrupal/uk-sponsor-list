@@ -5431,6 +5431,12 @@
             "rating": 1
         }
     ],
+    "camelott digital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "camels head store": [
         {
             "type": 1,
@@ -22975,6 +22981,12 @@
             "rating": 1
         }
     ],
+    "chel pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "chele care": [
         {
             "type": 1,
@@ -39441,23 +39453,29 @@
             "rating": 1
         }
     ],
-    "coherent scotland": [
+    "coherent healthcare": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "coherent scotland": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
     "cohesity international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -42274,6 +42292,10 @@
         }
     ],
     "compagnie francaise d assurance pour le commerce exterieur branch in coface": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 5,
             "rating": 1
@@ -59492,12 +59514,6 @@
         }
     ],
     "cutler and gross": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cutmaster barber shop": [
         {
             "type": 1,
             "rating": 1

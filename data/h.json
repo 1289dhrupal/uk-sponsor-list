@@ -8211,6 +8211,16 @@
             "rating": 1
         }
     ],
+    "harper church": [
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "harper james": [
         {
             "type": 1,
@@ -8233,16 +8243,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "harper memorial baptist church": [
-        {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 11,
-            "rating": 2
         }
     ],
     "harper stone properties": [
@@ -20646,12 +20646,6 @@
         }
     ],
     "himalayan oasis": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "himalayan salt products": [
         {
             "type": 1,
             "rating": 1

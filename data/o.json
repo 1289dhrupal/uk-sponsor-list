@@ -845,12 +845,6 @@
             "rating": 1
         }
     ],
-    "oak house children s homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oak house dental practice": [
         {
             "type": 1,
@@ -3786,6 +3780,12 @@
     "off the rock design": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "off-piste wines": [
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8970,6 +8970,12 @@
         }
     ],
     "online oceans robotics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "online online": [
         {
             "type": 1,
             "rating": 1
@@ -14803,12 +14809,6 @@
             "rating": 1
         }
     ],
-    "oto international": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oto technologies": [
         {
             "type": 1,
@@ -17335,13 +17335,19 @@
             "rating": 1
         }
     ],
-    "oyster yachts": [
+    "oyster supported living & domicilary care": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "oyster yachts": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

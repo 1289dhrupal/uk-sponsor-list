@@ -13527,6 +13527,12 @@
             "rating": 1
         }
     ],
+    "lifecome care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lifecycle sourcing": [
         {
             "type": 1,
@@ -13547,7 +13553,7 @@
     ],
     "lifegate church": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -13555,7 +13561,7 @@
             "rating": 1
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -13636,12 +13642,6 @@
         }
     ],
     "lifeline protect": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lifelong home care": [
         {
             "type": 1,
             "rating": 1
@@ -21018,6 +21018,12 @@
         }
     ],
     "loidis care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lokal restaurant": [
         {
             "type": 1,
             "rating": 1

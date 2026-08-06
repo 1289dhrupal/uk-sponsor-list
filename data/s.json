@@ -4107,12 +4107,6 @@
             "rating": 1
         }
     ],
-    "s&m kent": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "s&m london": [
         {
             "type": 1,
@@ -11741,6 +11735,12 @@
             "rating": 1
         }
     ],
+    "sana care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sana house ta sania sweets and bakers": [
         {
             "type": 1,
@@ -18200,7 +18200,7 @@
     "schoolgate accounting": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "schools counselling partnership": [
@@ -27153,6 +27153,12 @@
             "rating": 1
         }
     ],
+    "shaffa health care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "shafi associates": [
         {
             "type": 1,
@@ -34643,12 +34649,6 @@
             "rating": 1
         }
     ],
-    "shri lakshmi foods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shri paramhans advait mat": [
         {
             "type": 11,
@@ -35677,6 +35677,10 @@
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "sidecar ai": [
@@ -55681,6 +55685,12 @@
             "rating": 1
         }
     ],
+    "space & place properties": [
+        {
+            "type": 3,
+            "rating": 3
+        }
+    ],
     "space 48": [
         {
             "type": 1,
@@ -60719,12 +60729,6 @@
             "rating": 1
         }
     ],
-    "springpharm": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "springpicnic": [
         {
             "type": 1,
@@ -62620,12 +62624,6 @@
         }
     ],
     "srk bridal": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "srk capital heights": [
         {
             "type": 1,
             "rating": 1
@@ -69711,6 +69709,12 @@
             "rating": 1
         }
     ],
+    "stax trade centres": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "stax ukco": [
         {
             "type": 5,
@@ -74184,6 +74188,12 @@
         }
     ],
     "strathmore road fish bar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "strathroy dairy": [
         {
             "type": 1,
             "rating": 1
@@ -80324,6 +80334,12 @@
         }
     ],
     "super fresh": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "super global technologies": [
         {
             "type": 1,
             "rating": 1

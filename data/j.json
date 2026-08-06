@@ -3249,14 +3249,20 @@
             "rating": 1
         }
     ],
-    "jai maa bhameshwari kali mandir": [
+    "jai ma tara": [
         {
-            "type": 11,
-            "rating": 2
-        },
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jai maa bhameshwari kali mandir": [
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "jai maa vaibhav laxmi": [
@@ -9306,12 +9312,6 @@
         }
     ],
     "jhd foods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "jhd hospitality ta alec s restaurant": [
         {
             "type": 1,
             "rating": 1

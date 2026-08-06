@@ -8455,12 +8455,6 @@
             "rating": 1
         }
     ],
-    "passion to care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "passion transport": [
         {
             "type": 1,
@@ -22745,6 +22739,12 @@
             "rating": 1
         }
     ],
+    "pk pharmacare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pk retail": [
         {
             "type": 1,
@@ -27586,12 +27586,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "portavadie estates": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -42214,12 +42208,6 @@
         }
     ],
     "purple media": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "purple mighty": [
         {
             "type": 1,
             "rating": 1

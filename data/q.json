@@ -905,11 +905,11 @@
     ],
     "qera marketing": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2724,6 +2724,12 @@
         }
     ],
     "quantum clothing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "quantum commodity intelligence": [
         {
             "type": 1,
             "rating": 1
