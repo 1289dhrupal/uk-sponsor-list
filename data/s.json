@@ -11,12 +11,6 @@
             "rating": 1
         }
     ],
-    "saga d&b trading and contracting": [
-        {
-            "type": 3,
-            "rating": 1
-        }
-    ],
     "sai convenience & newsagent": [
         {
             "type": 1,
@@ -6263,6 +6257,10 @@
     ],
     "safa soft": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 3,
             "rating": 1
         }
@@ -7314,6 +7312,12 @@
     "sag-tek": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "saga d&b trading and contracting": [
+        {
+            "type": 3,
             "rating": 1
         }
     ],
@@ -47570,6 +47574,12 @@
     "smiths blinds": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "smiths detection": [
+        {
+            "type": 5,
             "rating": 1
         }
     ],

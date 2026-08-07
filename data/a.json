@@ -16353,6 +16353,12 @@
             "rating": 1
         }
     ],
+    "admire care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "admire consultancy": [
         {
             "type": 1,
@@ -22673,12 +22679,6 @@
             "rating": 1
         }
     ],
-    "ai fm": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ai foods": [
         {
             "type": 1,
@@ -26671,12 +26671,6 @@
             "rating": 1
         }
     ],
-    "al arsh al malaki technical": [
-        {
-            "type": 3,
-            "rating": 3
-        }
-    ],
     "al bader lounge": [
         {
             "type": 1,
@@ -27062,12 +27056,6 @@
         }
     ],
     "al manar islamic shop": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "al mannai consultant": [
         {
             "type": 1,
             "rating": 1
@@ -30579,6 +30567,12 @@
             "rating": 1
         }
     ],
+    "algbra fs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "algbra": [
         {
             "type": 1,
@@ -30875,12 +30869,6 @@
             "rating": 1
         }
     ],
-    "ali convenience store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ali family caterers": [
         {
             "type": 1,
@@ -30900,12 +30888,6 @@
         }
     ],
     "ali food store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ali foods superstore": [
         {
             "type": 1,
             "rating": 1
@@ -35949,19 +35931,13 @@
             "rating": 1
         }
     ],
-    "altitec": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "altium": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -42769,6 +42745,12 @@
             "rating": 1
         }
     ],
+    "angel gas and building": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "angel hands": [
         {
             "type": 1,
@@ -44308,12 +44290,6 @@
         }
     ],
     "anna s aesthetics & beauty": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "anna-maya holdings": [
         {
             "type": 1,
             "rating": 1
@@ -48044,6 +48020,12 @@
         }
     ],
     "applied network solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "applied nuclear physics": [
         {
             "type": 1,
             "rating": 1
@@ -60680,6 +60662,12 @@
         }
     ],
     "asquire wealth management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "asquith house dental practice": [
         {
             "type": 1,
             "rating": 1

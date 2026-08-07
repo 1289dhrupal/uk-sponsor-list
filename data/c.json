@@ -51,6 +51,12 @@
             "rating": 1
         }
     ],
+    "construction point": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "corby muslim association": [
         {
             "type": 2,
@@ -7709,6 +7715,12 @@
             "rating": 1
         }
     ],
+    "caplet pharma": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "caplin systems": [
         {
             "type": 1,
@@ -10386,6 +10398,12 @@
         }
     ],
     "care4us health care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "care4uwe": [
         {
             "type": 1,
             "rating": 1
@@ -23409,6 +23427,12 @@
             "rating": 1
         }
     ],
+    "chemetall": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "chemical business association": [
         {
             "type": 1,
@@ -26443,16 +26467,6 @@
             "rating": 1
         }
     ],
-    "chipper technologies": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "chipping sodbury cricket club": [
         {
             "type": 10,
@@ -28635,6 +28649,12 @@
             "rating": 1
         }
     ],
+    "chrysanth dental care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "chryshananthy vigneswaran": [
         {
             "type": 1,
@@ -30026,12 +30046,6 @@
         }
     ],
     "cinnamon garden": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cinnamon garden restaurant": [
         {
             "type": 1,
             "rating": 1
@@ -32597,23 +32611,13 @@
             "rating": 1
         }
     ],
-    "clarabridge": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "claranet": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -36013,12 +36017,6 @@
             "rating": 1
         }
     ],
-    "cloud cowork": [
-        {
-            "type": 8,
-            "rating": 2
-        }
-    ],
     "cloud cx": [
         {
             "type": 1,
@@ -36744,6 +36742,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "clstr": [
         {
             "type": 1,
             "rating": 1

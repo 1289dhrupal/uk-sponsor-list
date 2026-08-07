@@ -789,20 +789,6 @@
             "rating": 1
         }
     ],
-    "willis towers watson": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
-        }
-    ],
     "wroxall abbey hotel & spa": [
         {
             "type": 1,
@@ -14763,6 +14749,20 @@
             "rating": 2
         }
     ],
+    "willis towers watson": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
+        }
+    ],
     "willis mitsui & co asset management": [
         {
             "type": 1,
@@ -17643,12 +17643,6 @@
             "rating": 1
         }
     ],
-    "without exceptions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "withsecure": [
         {
             "type": 1,
@@ -20142,6 +20136,12 @@
         }
     ],
     "wootton vale healthy living centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wootzwork labs": [
         {
             "type": 1,
             "rating": 1

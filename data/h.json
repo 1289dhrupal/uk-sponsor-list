@@ -13719,12 +13719,6 @@
             "rating": 1
         }
     ],
-    "hearten": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "heartfelt care yeovil and sherborne": [
         {
             "type": 1,
@@ -16115,13 +16109,19 @@
             "rating": 1
         }
     ],
+    "henry david learning": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "henry schein one": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

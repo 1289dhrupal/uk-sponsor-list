@@ -1787,7 +1787,7 @@
             "rating": 1
         }
     ],
-    "gad interior finishers": [
+    "gad building contracts": [
         {
             "type": 1,
             "rating": 1
@@ -3614,12 +3614,6 @@
         }
     ],
     "garden campus": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "garden holdco": [
         {
             "type": 1,
             "rating": 1
@@ -17323,6 +17317,12 @@
             "rating": 1
         }
     ],
+    "godiva travel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "godiva": [
         {
             "type": 5,
@@ -26711,12 +26711,6 @@
             "rating": 1
         }
     ],
-    "grey consultants": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "grey epoch europe": [
         {
             "type": 1,
@@ -30807,12 +30801,6 @@
             "rating": 1
         }
     ],
-    "gurkha express eastwood": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gurkha inn 17": [
         {
             "type": 1,
@@ -31103,12 +31091,6 @@
         {
             "type": 9,
             "rating": 2
-        }
-    ],
-    "guru nanak couture": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "guru nanak cultural and recreational centre": [

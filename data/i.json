@@ -13743,6 +13743,12 @@
             "rating": 1
         }
     ],
+    "inspire together": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "inspire wellbeing": [
         {
             "type": 1,
@@ -19769,6 +19775,12 @@
             "rating": 1
         }
     ],
+    "iplace global": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "iplay n talk": [
         {
             "type": 1,
@@ -21308,6 +21320,10 @@
     "iskender est 1867": [
         {
             "type": 3,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
