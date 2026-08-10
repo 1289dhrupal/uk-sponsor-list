@@ -10265,6 +10265,12 @@
             "rating": 1
         }
     ],
+    "re-style grooming haringey": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "re-tec": [
         {
             "type": 1,
@@ -13801,13 +13807,19 @@
             "rating": 1
         }
     ],
+    "redrice ventures": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "redridge diligence": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24013,6 +24025,12 @@
             "rating": 1
         }
     ],
+    "rivendell": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "river church st neots": [
         {
             "type": 2,
@@ -24526,6 +24544,12 @@
         }
     ],
     "riverside nursery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "riverside nw motor company": [
         {
             "type": 1,
             "rating": 1
@@ -35672,12 +35696,6 @@
         }
     ],
     "rutherford search": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ruthin education": [
         {
             "type": 1,
             "rating": 1

@@ -7997,6 +7997,16 @@
             "rating": 1
         }
     ],
+    "main capital partners": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "main course partners": [
         {
             "type": 1,
@@ -29231,12 +29241,6 @@
             "rating": 1
         }
     ],
-    "metis care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "metis consultants": [
         {
             "type": 1,
@@ -39737,12 +39741,6 @@
             "rating": 1
         }
     ],
-    "mmr business": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "mmr design & build": [
         {
             "type": 1,
@@ -41875,6 +41873,12 @@
             "rating": 1
         }
     ],
+    "molecular glue labs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "molecular products": [
         {
             "type": 5,
@@ -42013,19 +42017,13 @@
             "rating": 1
         }
     ],
-    "moloukalhaydari": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "molson coors brewing company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -52103,19 +52101,13 @@
             "rating": 1
         }
     ],
-    "mtn logistics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "mtorres": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -57312,6 +57304,12 @@
         }
     ],
     "mitford road mini mart": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "monson retirement home": [
         {
             "type": 1,
             "rating": 1

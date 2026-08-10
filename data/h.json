@@ -934,7 +934,7 @@
     "h e direct": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "h equestrian": [
@@ -1574,18 +1574,6 @@
         }
     ],
     "h-pack paper & board manufacturing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "h-roce": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "h-roce care": [
         {
             "type": 1,
             "rating": 1
@@ -2981,12 +2969,6 @@
             "rating": 1
         }
     ],
-    "haines watts": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "haines watts farnborough": [
         {
             "type": 1,
@@ -2994,6 +2976,12 @@
         }
     ],
     "haines watts kingston": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "haines watts swindon": [
         {
             "type": 1,
             "rating": 1
@@ -3731,12 +3719,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "halima habib foundation": [
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "haliogen power": [
@@ -21119,12 +21101,6 @@
             "rating": 1
         }
     ],
-    "hinterview": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hinton charterhouse cricket club": [
         {
             "type": 10,
@@ -23926,12 +23902,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "hollow oak nursing home": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],

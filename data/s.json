@@ -38171,6 +38171,12 @@
             "rating": 1
         }
     ],
+    "simerics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "simetri architecture & construction": [
         {
             "type": 1,
@@ -50457,6 +50463,12 @@
             "rating": 1
         }
     ],
+    "soka london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sokhi & associates": [
         {
             "type": 1,
@@ -54646,12 +54658,6 @@
         }
     ],
     "southcrest veterinary centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "southdown nursing home": [
         {
             "type": 1,
             "rating": 1
@@ -59304,16 +59310,6 @@
         }
     ],
     "spirez": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "spirit aerosystems europe": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -66339,6 +66335,12 @@
             "rating": 1
         }
     ],
+    "st catherine care homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "st cenydd food store": [
         {
             "type": 1,
@@ -71601,14 +71603,24 @@
             "rating": 1
         }
     ],
-    "stichting oxfam international": [
+    "stichting climate-kic international foundation": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
+            "type": 5,
+            "rating": 1
+        }
+    ],
+    "stichting oxfam international": [
+        {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
