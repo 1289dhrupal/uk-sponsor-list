@@ -7160,7 +7160,7 @@
     "tangem ag": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "tangency capital": [
@@ -40805,19 +40805,13 @@
             "rating": 1
         }
     ],
-    "thea drurys quality meats": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "thea pharmaceuticals": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -48951,12 +48945,6 @@
             "rating": 1
         }
     ],
-    "top - notch healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "top 1 logistics": [
         {
             "type": 1,
@@ -52438,12 +52426,6 @@
         }
     ],
     "trade republic bank gmbh - london branch": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "trade skills development": [
         {
             "type": 1,
             "rating": 1
@@ -55968,12 +55950,6 @@
         }
     ],
     "trimak": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "trimarge care and cleaning": [
         {
             "type": 1,
             "rating": 1
@@ -61524,6 +61500,12 @@
         }
     ],
     "twin wholesale": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "twinfix": [
         {
             "type": 1,
             "rating": 1

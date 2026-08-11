@@ -9087,13 +9087,19 @@
             "rating": 1
         }
     ],
+    "deepdene care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "deepfin research": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14542,6 +14548,12 @@
         }
     ],
     "dex talent": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dexata": [
         {
             "type": 1,
             "rating": 1

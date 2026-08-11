@@ -22437,11 +22437,11 @@
     ],
     "biosynth": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26751,6 +26751,12 @@
             "rating": 1
         }
     ],
+    "blitz bolton": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "blitz consulting": [
         {
             "type": 1,
@@ -28111,12 +28117,6 @@
             "rating": 1
         }
     ],
-    "blue mountain general trading": [
-        {
-            "type": 3,
-            "rating": 3
-        }
-    ],
     "blue mountain homes": [
         {
             "type": 1,
@@ -28218,12 +28218,6 @@
         }
     ],
     "blue pits housing action": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "blue poppy": [
         {
             "type": 1,
             "rating": 1
@@ -30700,12 +30694,6 @@
         }
     ],
     "body fit training": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "body in motion": [
         {
             "type": 1,
             "rating": 1
@@ -35499,12 +35487,6 @@
             "rating": 1
         }
     ],
-    "brady automotive": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "brady bags": [
         {
             "type": 1,
@@ -38865,6 +38847,12 @@
             "rating": 1
         }
     ],
+    "bright futures children s care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bright futures educational trust": [
         {
             "type": 1,
@@ -39024,12 +39012,6 @@
         }
     ],
     "bright star it": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bright sunrise": [
         {
             "type": 1,
             "rating": 1
@@ -48220,6 +48202,12 @@
         }
     ],
     "buttercups empire": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "butterfield": [
         {
             "type": 1,
             "rating": 1

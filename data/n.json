@@ -3558,7 +3558,7 @@
     "nash alliance": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "nash care homes": [
@@ -3598,12 +3598,6 @@
         }
     ],
     "nashe company": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "nashe-": [
         {
             "type": 1,
             "rating": 1
@@ -7188,6 +7182,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "negotient": [
         {
             "type": 1,
             "rating": 1

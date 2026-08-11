@@ -17,12 +17,6 @@
             "rating": 1
         }
     ],
-    "pep health": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "phonebox gadgets": [
         {
             "type": 1,
@@ -3457,6 +3451,12 @@
             "rating": 1
         }
     ],
+    "pak poultry products scotland": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pak real estate": [
         {
             "type": 1,
@@ -4385,12 +4385,6 @@
         {
             "type": 4,
             "rating": 2
-        }
-    ],
-    "pan ajia tradings": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "pan artisan": [
@@ -27525,11 +27519,11 @@
     ],
     "portakabin": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

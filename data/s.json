@@ -2069,12 +2069,6 @@
             "rating": 1
         }
     ],
-    "sytdaiyl homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "st james pharmacy": [
         {
             "type": 1,
@@ -17155,6 +17149,18 @@
             "rating": 1
         }
     ],
+    "sc healthcare scotland": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sure care glasgow": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sc hospitality": [
         {
             "type": 1,
@@ -17469,19 +17475,13 @@
             "rating": 1
         }
     ],
-    "scanline vfx london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "scannell management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -36711,12 +36711,6 @@
             "rating": 1
         }
     ],
-    "signet healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "signet hotels united kingdom": [
         {
             "type": 1,
@@ -38544,6 +38538,18 @@
         }
     ],
     "simple reason": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "simple sanitaryware and plumbing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "simple sanitaryware": [
         {
             "type": 1,
             "rating": 1
@@ -45361,6 +45367,12 @@
             "rating": 1
         }
     ],
+    "smart carpet & flooring": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "smart cells international": [
         {
             "type": 1,
@@ -46710,12 +46722,6 @@
         }
     ],
     "smash & sear": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "smash and friez": [
         {
             "type": 1,
             "rating": 1
@@ -63531,12 +63537,6 @@
             "rating": 2
         }
     ],
-    "ssingeco": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ssj building supplies": [
         {
             "type": 1,
@@ -63758,6 +63758,12 @@
         }
     ],
     "sss food": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sss": [
         {
             "type": 1,
             "rating": 1
@@ -72820,6 +72826,12 @@
         }
     ],
     "stones constructions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "stones corporation": [
         {
             "type": 1,
             "rating": 1
@@ -85837,12 +85849,12 @@
     ],
     "sycamore church rccg": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "sycamore process engineering": [

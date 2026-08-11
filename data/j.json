@@ -2073,11 +2073,11 @@
     ],
     "j s held": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17077,6 +17077,12 @@
             "rating": 1
         }
     ],
+    "jet stansted londis": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "jlt gym": [
         {
             "type": 1,
@@ -17174,12 +17180,6 @@
         }
     ],
     "jahangir balti & tandoori restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "jrc wtford": [
         {
             "type": 1,
             "rating": 1
