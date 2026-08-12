@@ -9987,12 +9987,6 @@
             "rating": 1
         }
     ],
-    "eight media labs": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "eight members club": [
         {
             "type": 1,
@@ -13000,6 +12994,12 @@
         }
     ],
     "elite care pvt": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "elite careplus": [
         {
             "type": 1,
             "rating": 1
@@ -23849,16 +23849,6 @@
             "rating": 1
         }
     ],
-    "essar energy": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "essar international": [
         {
             "type": 1,
@@ -30402,6 +30392,12 @@
         }
     ],
     "exec homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "exec-it": [
         {
             "type": 1,
             "rating": 1

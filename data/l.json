@@ -7610,7 +7610,7 @@
     "ldr eduventures pvt": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "lds repairs": [
@@ -12282,12 +12282,6 @@
         }
     ],
     "leymar": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "leypass": [
         {
             "type": 1,
             "rating": 1
@@ -17508,6 +17502,12 @@
         }
     ],
     "little owl dental": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "little pearls nursery and preschool": [
         {
             "type": 1,
             "rating": 1
@@ -23209,12 +23209,12 @@
     ],
     "london philharmonic orchestra": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "london pilsner": [

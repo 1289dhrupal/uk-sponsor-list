@@ -1401,15 +1401,15 @@
     ],
     "h&mv engineering": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9791,12 +9791,6 @@
             "rating": 1
         }
     ],
-    "hassan freelancing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hassan halwani": [
         {
             "type": 1,
@@ -11569,12 +11563,6 @@
             "rating": 1
         }
     ],
-    "hazeford": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hazel homes for autism": [
         {
             "type": 1,
@@ -13234,12 +13222,6 @@
         }
     ],
     "healthier business": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "healthier flour": [
         {
             "type": 1,
             "rating": 1
@@ -23551,6 +23533,12 @@
             "rating": 1
         }
     ],
+    "holcombe hockey club": [
+        {
+            "type": 10,
+            "rating": 1
+        }
+    ],
     "holdcode": [
         {
             "type": 1,
@@ -25778,12 +25766,6 @@
         }
     ],
     "hometrust care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "homeuz": [
         {
             "type": 1,
             "rating": 1
@@ -33506,6 +33488,12 @@
         }
     ],
     "hyperion equity partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hyperion industries": [
         {
             "type": 1,
             "rating": 1

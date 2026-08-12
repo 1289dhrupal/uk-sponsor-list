@@ -2409,11 +2409,11 @@
     ],
     "pa holdings": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4914,6 +4914,12 @@
         }
     ],
     "pani puri house": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "panic deliveries": [
         {
             "type": 1,
             "rating": 1
@@ -25921,6 +25927,16 @@
             "rating": 1
         }
     ],
+    "polardc": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "polaris autoliner": [
         {
             "type": 1,
@@ -26628,12 +26644,6 @@
         }
     ],
     "pompey car sales": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pompon trading": [
         {
             "type": 1,
             "rating": 1

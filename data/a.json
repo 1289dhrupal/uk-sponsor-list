@@ -17787,11 +17787,11 @@
     ],
     "advantech europe bv branch": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -55337,6 +55337,12 @@
             "rating": 1
         }
     ],
+    "artio carbon": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "artionis": [
         {
             "type": 1,
@@ -62826,6 +62832,12 @@
         }
     ],
     "atec design & renovation": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ateca": [
         {
             "type": 1,
             "rating": 1
@@ -70894,6 +70906,12 @@
         }
     ],
     "aynam energy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "aynfg": [
         {
             "type": 1,
             "rating": 1

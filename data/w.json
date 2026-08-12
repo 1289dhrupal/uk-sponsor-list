@@ -4337,6 +4337,12 @@
             "rating": 1
         }
     ],
+    "waterfall house": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "waterfields lettings": [
         {
             "type": 1,
@@ -15169,16 +15175,6 @@
             "rating": 1
         }
     ],
-    "wilshire opco": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "wilson & co accountancy": [
         {
             "type": 1,
@@ -19986,7 +19982,7 @@
     "woodway house residential care home": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "woodway medical centre": [

@@ -3579,6 +3579,12 @@
             "rating": 1
         }
     ],
+    "family circle homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "family circles": [
         {
             "type": 1,
@@ -6696,12 +6702,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "feel at home": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -11140,12 +11140,6 @@
         }
     ],
     "first british clinic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "first british textile": [
         {
             "type": 1,
             "rating": 1
@@ -19503,29 +19497,23 @@
             "rating": 1
         }
     ],
-    "fortu wealth": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fortude pte": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "fortum o&m": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
