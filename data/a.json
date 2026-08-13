@@ -18377,6 +18377,12 @@
             "rating": 1
         }
     ],
+    "aegis residential care homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "aegis trust": [
         {
             "type": 5,
@@ -31492,6 +31498,12 @@
         }
     ],
     "alistair downie": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "alistair management": [
         {
             "type": 1,
             "rating": 1
@@ -64786,6 +64798,12 @@
         }
     ],
     "attraction tickets": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "attune acoustics": [
         {
             "type": 1,
             "rating": 1

@@ -6153,6 +6153,18 @@
             "rating": 2
         }
     ],
+    "sae dining": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sariska": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sae": [
         {
             "type": 1,
@@ -13128,6 +13140,12 @@
         }
     ],
     "sanraj": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sanremo the italian restaurant": [
         {
             "type": 1,
             "rating": 1
@@ -25737,6 +25755,12 @@
             "rating": 1
         }
     ],
+    "seven points capital llc": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "seven seas fish bar and restaurant": [
         {
             "type": 1,
@@ -27853,7 +27877,7 @@
             "rating": 1
         }
     ],
-    "shaily": [
+    "shaily innovations": [
         {
             "type": 5,
             "rating": 1
@@ -39091,13 +39115,19 @@
             "rating": 1
         }
     ],
-    "simpsons of north shields": [
+    "simpsons preston": [
         {
             "type": 1,
             "rating": 1
         }
     ],
     "simpsons": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "simpsons of north shields": [
         {
             "type": 1,
             "rating": 1
@@ -57709,6 +57739,16 @@
             "rating": 1
         }
     ],
+    "spektr division": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "spektrix": [
         {
             "type": 1,
@@ -60628,12 +60668,6 @@
         }
     ],
     "springfield medical practice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "springfield park care home": [
         {
             "type": 1,
             "rating": 1
@@ -66381,6 +66415,12 @@
         {
             "type": 4,
             "rating": 2
+        }
+    ],
+    "st dominic s": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "st edmund s school trust": [

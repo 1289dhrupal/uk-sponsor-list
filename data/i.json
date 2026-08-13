@@ -23657,12 +23657,6 @@
             "rating": 1
         }
     ],
-    "ivy inn": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ivy league scholars": [
         {
             "type": 1,
@@ -23682,6 +23676,12 @@
         }
     ],
     "ivy lodge care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ivy lodge retirement home": [
         {
             "type": 1,
             "rating": 1
