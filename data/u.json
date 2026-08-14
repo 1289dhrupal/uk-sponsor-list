@@ -1121,19 +1121,13 @@
             "rating": 1
         }
     ],
-    "uddingston convenience store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "uddingston cricket and sports club": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -2136,6 +2130,12 @@
         }
     ],
     "ultimate repair": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ultimate retail": [
         {
             "type": 1,
             "rating": 1
@@ -8562,6 +8562,12 @@
         }
     ],
     "urban property refinement": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "urban quaters": [
         {
             "type": 1,
             "rating": 1

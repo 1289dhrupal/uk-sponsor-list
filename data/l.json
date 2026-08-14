@@ -2671,12 +2671,12 @@
     ],
     "lagan s foundation": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "lagardere travel retail": [
@@ -7359,6 +7359,12 @@
             "rating": 1
         }
     ],
+    "lcd consulting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lce": [
         {
             "type": 1,
@@ -11494,6 +11500,12 @@
         }
     ],
     "lettus grow": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "letty investments": [
         {
             "type": 1,
             "rating": 1

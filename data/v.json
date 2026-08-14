@@ -6019,12 +6019,6 @@
             "rating": 1
         }
     ],
-    "veracity": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "veracity healthcare": [
         {
             "type": 1,
@@ -6032,6 +6026,12 @@
         }
     ],
     "veracity osi": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "veracity": [
         {
             "type": 1,
             "rating": 1
@@ -13133,6 +13133,12 @@
             "rating": 1
         }
     ],
+    "vl test systems": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vlads emporium": [
         {
             "type": 1,
@@ -14409,6 +14415,12 @@
             "rating": 2
         }
     ],
+    "vortex liquid biopsy solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vortexa": [
         {
             "type": 1,
@@ -15316,6 +15328,12 @@
         }
     ],
     "vulcan engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vulcan healthcare": [
         {
             "type": 1,
             "rating": 1

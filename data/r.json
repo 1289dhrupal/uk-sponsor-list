@@ -4677,12 +4677,6 @@
             "rating": 1
         }
     ],
-    "rainbow hand car wash": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rainbow health & care": [
         {
             "type": 1,
@@ -13207,6 +13201,16 @@
             "rating": 1
         }
     ],
+    "redditch mosque trust": [
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "redditch smile care": [
         {
             "type": 1,
@@ -14380,6 +14384,12 @@
         }
     ],
     "reflection community support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "reflections dental care": [
         {
             "type": 1,
             "rating": 1
@@ -17746,6 +17756,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "research and commerce": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

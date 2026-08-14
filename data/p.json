@@ -2161,18 +2161,6 @@
             "rating": 1
         }
     ],
-    "p&r investments & trading": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "p&r health care solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "p&v trading": [
         {
             "type": 1,
@@ -12431,6 +12419,12 @@
             "rating": 1
         }
     ],
+    "pembroke media": [
+        {
+            "type": 4,
+            "rating": 2
+        }
+    ],
     "pembroke medical": [
         {
             "type": 1,
@@ -12518,12 +12512,6 @@
         }
     ],
     "penates properties": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "penberth house": [
         {
             "type": 1,
             "rating": 1
@@ -32101,11 +32089,11 @@
     ],
     "preqin": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -32129,7 +32117,7 @@
     ],
     "presbyterian church in ireland": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
@@ -32137,7 +32125,7 @@
             "rating": 2
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -38429,6 +38417,12 @@
             "rating": 1
         }
     ],
+    "proponent u k": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "proposition rthapoe": [
         {
             "type": 1,
@@ -43512,12 +43506,6 @@
         }
     ],
     "pepinos": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "phoenix healthcare": [
         {
             "type": 1,
             "rating": 1

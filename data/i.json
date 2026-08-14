@@ -241,12 +241,6 @@
             "rating": 1
         }
     ],
-    "indigo": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "idal": [
         {
             "type": 4,
@@ -23367,11 +23361,11 @@
     ],
     "ivanhoe cambridge holdings": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

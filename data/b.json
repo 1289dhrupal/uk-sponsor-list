@@ -5701,6 +5701,12 @@
             "rating": 1
         }
     ],
+    "bankfield medical practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bankfoot auto clinic": [
         {
             "type": 1,
@@ -6994,6 +7000,12 @@
         }
     ],
     "barker care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "barker langham": [
         {
             "type": 1,
             "rating": 1
@@ -26715,6 +26727,12 @@
             "rating": 1
         }
     ],
+    "bliss route courier": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bliss software solutions": [
         {
             "type": 1,
@@ -34605,12 +34623,6 @@
         {
             "type": 4,
             "rating": 2
-        }
-    ],
-    "boyas barbers": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "boyatt wood surgery": [
@@ -47061,13 +47073,23 @@
             "rating": 1
         }
     ],
-    "burnley football & athletic company": [
+    "burnley fc women": [
         {
             "type": 10,
             "rating": 1
         },
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "burnley football & athletic company": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 10,
             "rating": 1
         }
     ],
