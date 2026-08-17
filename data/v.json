@@ -1819,6 +1819,12 @@
             "rating": 1
         }
     ],
+    "valentis energy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "valeo": [
         {
             "type": 5,
@@ -6777,6 +6783,12 @@
             "rating": 1
         }
     ],
+    "verta logistics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vertala": [
         {
             "type": 1,
@@ -11376,16 +11388,6 @@
     "vision homes association": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "vision it solutions private": [
-        {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],

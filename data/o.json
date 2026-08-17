@@ -1705,12 +1705,6 @@
             "rating": 1
         }
     ],
-    "oakwood physiotherapy clinic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oakwood properties": [
         {
             "type": 1,
@@ -3366,6 +3360,12 @@
         }
     ],
     "oczo": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "od accountants": [
         {
             "type": 1,
             "rating": 1
@@ -10430,12 +10430,6 @@
         }
     ],
     "opportunity international": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "opportunity trading": [
         {
             "type": 1,
             "rating": 1

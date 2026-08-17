@@ -1177,12 +1177,6 @@
             "rating": 1
         }
     ],
-    "e12 chicken & pizza": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "e12 kebabish": [
         {
             "type": 1,
@@ -5244,6 +5238,12 @@
         }
     ],
     "echodigitech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "echogenicity": [
         {
             "type": 1,
             "rating": 1
@@ -14735,6 +14735,12 @@
             "rating": 1
         }
     ],
+    "elvarix tech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "elvasons care solutions": [
         {
             "type": 1,
@@ -19215,6 +19221,12 @@
             "rating": 1
         }
     ],
+    "enistic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "enixcare": [
         {
             "type": 1,
@@ -20373,6 +20385,12 @@
             "rating": 1
         }
     ],
+    "enver wealth management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "envertiz consultancy": [
         {
             "type": 1,
@@ -20628,6 +20646,12 @@
     "envirovent": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "envirowales": [
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30002,6 +30026,10 @@
         }
     ],
     "excelitas": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

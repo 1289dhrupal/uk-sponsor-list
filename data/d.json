@@ -7027,6 +7027,16 @@
             "rating": 1
         }
     ],
+    "dazzling engineering": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dazzling stars pre school": [
         {
             "type": 1,
@@ -9230,12 +9240,6 @@
         }
     ],
     "deethya solutions private": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "deevale healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -27547,6 +27551,12 @@
             "rating": 1
         }
     ],
+    "drnd": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "drochaid research": [
         {
             "type": 1,
@@ -30166,12 +30176,6 @@
         }
     ],
     "dupe vfx": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dupoin": [
         {
             "type": 1,
             "rating": 1
