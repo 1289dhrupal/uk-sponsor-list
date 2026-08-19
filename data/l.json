@@ -6945,12 +6945,6 @@
             "rating": 1
         }
     ],
-    "lawsons goldsmiths": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lawtech": [
         {
             "type": 1,
@@ -9398,12 +9392,6 @@
         }
     ],
     "legacy private": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "legacy supported living": [
         {
             "type": 1,
             "rating": 1
@@ -28837,6 +28825,12 @@
             "rating": 1
         }
     ],
+    "lunit": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "luno fashion": [
         {
             "type": 1,
@@ -31244,6 +31238,12 @@
         }
     ],
     "lucky seven motors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "little lever filling station": [
         {
             "type": 1,
             "rating": 1

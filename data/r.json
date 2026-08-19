@@ -8239,6 +8239,12 @@
             "rating": 1
         }
     ],
+    "rautela & rathaurstornoway": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rav builders ldn": [
         {
             "type": 1,
@@ -21148,6 +21154,10 @@
     "rich ocean": [
         {
             "type": 3,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

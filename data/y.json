@@ -407,6 +407,12 @@
             "rating": 1
         }
     ],
+    "y&h holdings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "y&l apparel": [
         {
             "type": 1,
@@ -3009,6 +3015,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 5,

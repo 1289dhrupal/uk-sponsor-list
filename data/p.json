@@ -6221,12 +6221,6 @@
             "rating": 1
         }
     ],
-    "paratus partners": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "paratus": [
         {
             "type": 1,
@@ -6772,6 +6766,12 @@
         }
     ],
     "park lane grocers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "park lane healthcare management": [
         {
             "type": 1,
             "rating": 1
@@ -8444,6 +8444,12 @@
         }
     ],
     "passion tree care service": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "passion tree care": [
         {
             "type": 1,
             "rating": 1
@@ -15759,12 +15765,6 @@
             "rating": 1
         }
     ],
-    "peterhead smile centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "peterhead specsavers": [
         {
             "type": 1,
@@ -20580,6 +20580,12 @@
         }
     ],
     "pingpong payment": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pingyou": [
         {
             "type": 1,
             "rating": 1
@@ -37407,7 +37413,19 @@
             "rating": 1
         }
     ],
+    "project global mining": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "project golf": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "project heaven restoration": [
         {
             "type": 1,
             "rating": 1

@@ -5525,12 +5525,6 @@
             "rating": 1
         }
     ],
-    "wcm europe": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "wcmc": [
         {
             "type": 1,
@@ -7589,6 +7583,12 @@
             "rating": 1
         }
     ],
+    "wellcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "wellcare partnership": [
         {
             "type": 1,
@@ -7654,12 +7654,6 @@
         }
     ],
     "wellfednaz": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "wellfield and henley house": [
         {
             "type": 1,
             "rating": 1
@@ -15921,12 +15915,6 @@
             "rating": 1
         }
     ],
-    "window to the womb leeds": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "window to the womb stoke": [
         {
             "type": 1,
@@ -17469,11 +17457,11 @@
     ],
     "wiss janney elstner": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21828,6 +21816,12 @@
         }
     ],
     "wovenlight": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wow interiors yorkshire": [
         {
             "type": 1,
             "rating": 1

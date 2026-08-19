@@ -4149,6 +4149,12 @@
             "rating": 1
         }
     ],
+    "ham interiors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ham polo club": [
         {
             "type": 10,
@@ -8496,6 +8502,12 @@
         }
     ],
     "harrison family vets": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "harrison intellectual property": [
         {
             "type": 1,
             "rating": 1
@@ -15271,6 +15283,10 @@
         {
             "type": 3,
             "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
         }
     ],
     "hello beauty nails": [
@@ -18274,6 +18290,16 @@
         }
     ],
     "hi-tech technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hi-wire": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

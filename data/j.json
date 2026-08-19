@@ -2111,6 +2111,12 @@
             "rating": 1
         }
     ],
+    "j1 transport": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "j1ddx": [
         {
             "type": 1,
@@ -14805,12 +14811,6 @@
             "rating": 1
         }
     ],
-    "jsr contracts": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "jsr farms": [
         {
             "type": 1,
@@ -15116,6 +15116,12 @@
         }
     ],
     "jubi": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jubichem": [
         {
             "type": 1,
             "rating": 1
@@ -16175,6 +16181,12 @@
             "rating": 1
         }
     ],
+    "juss marketing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "just 4x4 spares": [
         {
             "type": 1,
@@ -16797,13 +16809,19 @@
             "rating": 1
         }
     ],
-    "jwm law offices": [
+    "jwe trading": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "jwm law offices": [
         {
             "type": 3,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

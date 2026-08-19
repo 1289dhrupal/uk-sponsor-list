@@ -3083,12 +3083,6 @@
             "rating": 1
         }
     ],
-    "s and g l aswat and sons": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "s and j brothers": [
         {
             "type": 1,
@@ -18705,11 +18699,11 @@
     ],
     "scm": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20306,6 +20300,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sea design": [
         {
             "type": 1,
             "rating": 1
@@ -23276,12 +23276,6 @@
         }
     ],
     "semani": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "semantic": [
         {
             "type": 1,
             "rating": 1
@@ -36233,12 +36227,6 @@
             "rating": 1
         }
     ],
-    "sigga design": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sight cymru cio": [
         {
             "type": 1,
@@ -37430,12 +37418,6 @@
         }
     ],
     "silver cloud hr": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "silver healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -48077,6 +48059,12 @@
             "rating": 1
         }
     ],
+    "sms health care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sms legal solutions": [
         {
             "type": 1,
@@ -55654,6 +55642,18 @@
         }
     ],
     "sp revolution": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sp rotherham": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "smoke & pepper": [
         {
             "type": 1,
             "rating": 1
@@ -76501,12 +76501,6 @@
             "rating": 1
         }
     ],
-    "stylewise direct": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "stylex party & gift shop": [
         {
             "type": 1,
@@ -80389,23 +80383,29 @@
             "rating": 1
         }
     ],
-    "super bock beverages": [
-        {
-            "type": 5,
-            "rating": 1
-        },
+    "super blessings one": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "super brother trading": [
+    "super bock beverages": [
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         },
         {
+            "type": 5,
+            "rating": 1
+        }
+    ],
+    "super brother trading": [
+        {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 3,
             "rating": 1
         }
     ],
@@ -86564,6 +86564,12 @@
         }
     ],
     "symposium": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "symprove": [
         {
             "type": 1,
             "rating": 1

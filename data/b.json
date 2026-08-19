@@ -6121,12 +6121,12 @@
     ],
     "baptist mid-mission of the united kingdom of great britain and northern ireland": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "baptist missionary society": [
@@ -12736,12 +12736,6 @@
         }
     ],
     "bee compared": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bee home care": [
         {
             "type": 1,
             "rating": 1
@@ -24410,12 +24404,6 @@
         }
     ],
     "bjs plaice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bjss": [
         {
             "type": 1,
             "rating": 1
@@ -41757,6 +41745,12 @@
             "rating": 1
         }
     ],
+    "broadshires health centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "broadstairs medical practice": [
         {
             "type": 1,
@@ -49300,12 +49294,6 @@
         }
     ],
     "bz for care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bz technology": [
         {
             "type": 1,
             "rating": 1

@@ -10159,24 +10159,18 @@
             "rating": 1
         }
     ],
-    "giggles and more": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "giggleswick school": [
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 10,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "gigigo": [
@@ -17084,16 +17078,16 @@
     "goc solutions": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "gocardless": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -24803,6 +24797,12 @@
             "rating": 1
         }
     ],
+    "green gourmet": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "green grass management": [
         {
             "type": 1,
@@ -28720,6 +28720,12 @@
         }
     ],
     "gsd estate agents": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gsd technologies": [
         {
             "type": 1,
             "rating": 1

@@ -1213,12 +1213,12 @@
     ],
     "fabric life": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "fabric ventures": [
@@ -8383,6 +8383,12 @@
             "rating": 1
         }
     ],
+    "fidelity care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fidelity consultancy": [
         {
             "type": 1,
@@ -14979,6 +14985,16 @@
             "rating": 2
         }
     ],
+    "floral": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "floral street fragrances": [
         {
             "type": 1,
@@ -16780,12 +16796,6 @@
         }
     ],
     "fone-central": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fonebook": [
         {
             "type": 1,
             "rating": 1
@@ -19922,12 +19932,6 @@
         }
     ],
     "fossil production": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fossil property and consultancy": [
         {
             "type": 1,
             "rating": 1

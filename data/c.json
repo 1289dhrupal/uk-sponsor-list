@@ -10397,6 +10397,12 @@
             "rating": 1
         }
     ],
+    "careaid": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "careathomeservice tech": [
         {
             "type": 1,
@@ -21590,6 +21596,12 @@
     "charlton kings cricket club": [
         {
             "type": 10,
+            "rating": 1
+        }
+    ],
+    "charlton masjid trust": [
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -35635,6 +35647,12 @@
             "rating": 1
         }
     ],
+    "cliqnet": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "clique brands": [
         {
             "type": 1,
@@ -38066,6 +38084,12 @@
         }
     ],
     "cobb farming": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cobble lane cured": [
         {
             "type": 1,
             "rating": 1
@@ -50515,6 +50539,12 @@
             "rating": 1
         }
     ],
+    "county supplies london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "county town estates": [
         {
             "type": 1,
@@ -50535,11 +50565,11 @@
     ],
     "coupa software": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -52772,12 +52802,6 @@
         }
     ],
     "crazy fried chicken": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "crazy hunger": [
         {
             "type": 1,
             "rating": 1
@@ -62421,6 +62445,12 @@
             "rating": 1
         }
     ],
+    "church langley pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "courthouse hotel": [
         {
             "type": 1,
@@ -62480,6 +62510,12 @@
         }
     ],
     "city booze": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "caremark swansea": [
         {
             "type": 1,
             "rating": 1
