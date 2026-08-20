@@ -9649,6 +9649,12 @@
             "rating": 1
         }
     ],
+    "care givers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "care hand service": [
         {
             "type": 1,
@@ -55672,12 +55678,6 @@
         }
     ],
     "crossville developments": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "crossways care": [
         {
             "type": 1,
             "rating": 1

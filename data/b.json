@@ -10921,13 +10921,19 @@
             "rating": 1
         }
     ],
-    "be shaping the future management consulting": [
+    "be selective financial": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "be shaping the future management consulting": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22648,6 +22654,12 @@
         }
     ],
     "birchfield hotel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "birchfield residential care home": [
         {
             "type": 1,
             "rating": 1
@@ -42357,12 +42369,6 @@
             "rating": 1
         }
     ],
-    "bronx properties": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bronx properties- gloucester": [
         {
             "type": 1,
@@ -43979,11 +43985,11 @@
     ],
     "bryan smart": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],

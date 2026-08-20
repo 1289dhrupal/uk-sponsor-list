@@ -7049,12 +7049,6 @@
             "rating": 1
         }
     ],
-    "genesees": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "genesis advertising": [
         {
             "type": 1,
@@ -7427,16 +7421,16 @@
     ],
     "genome research": [
         {
-            "type": 12,
-            "rating": 2
-        },
-        {
             "type": 9,
             "rating": 2
         },
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 12,
+            "rating": 2
         }
     ],
     "genomic labs": [
@@ -29518,6 +29512,12 @@
         }
     ],
     "gucinari base": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gud ideas marketing": [
         {
             "type": 1,
             "rating": 1

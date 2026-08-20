@@ -14953,6 +14953,10 @@
     ],
     "tensys": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -36001,14 +36005,24 @@
             "rating": 1
         }
     ],
-    "the representative body of the church in wales": [
+    "the renewal trust": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the representative body of the church in wales": [
+        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "the representative office of shanghai clearing house in london": [
@@ -39078,6 +39092,12 @@
         }
     ],
     "the ufton court educational trust": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the carbon & graphite co": [
         {
             "type": 1,
             "rating": 1
@@ -51431,6 +51451,12 @@
             "rating": 1
         }
     ],
+    "tower bridge employeeco": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tower bridge international l p": [
         {
             "type": 5,
@@ -54578,12 +54604,6 @@
         }
     ],
     "treasure garden jewellery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "treasure homes": [
         {
             "type": 1,
             "rating": 1

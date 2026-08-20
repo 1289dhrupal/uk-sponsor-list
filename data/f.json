@@ -1151,6 +1151,12 @@
             "rating": 1
         }
     ],
+    "faber research and technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "faberge": [
         {
             "type": 1,
@@ -17720,7 +17726,7 @@
     "force hire equipment": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "force maintenance team": [
@@ -23153,6 +23159,12 @@
             "rating": 1
         }
     ],
+    "fresh start care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fresh start migration": [
         {
             "type": 1,
@@ -25441,7 +25453,7 @@
             "rating": 1
         }
     ],
-    "fulkers": [
+    "fulkers bailey russell": [
         {
             "type": 1,
             "rating": 1
@@ -26443,6 +26455,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 5,

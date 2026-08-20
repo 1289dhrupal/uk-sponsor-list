@@ -6381,6 +6381,12 @@
             "rating": 1
         }
     ],
+    "ecotech contracts": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ecotecture ecological design": [
         {
             "type": 1,
@@ -21739,6 +21745,12 @@
             "rating": 1
         }
     ],
+    "epta": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "eptg": [
         {
             "type": 1,
@@ -30325,6 +30337,12 @@
         {
             "type": 4,
             "rating": 2
+        }
+    ],
+    "exchange house": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "exchange tech": [

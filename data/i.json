@@ -2929,12 +2929,6 @@
             "rating": 2
         }
     ],
-    "idas global": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "idash solutions": [
         {
             "type": 1,
@@ -5613,12 +5607,6 @@
             "rating": 1
         }
     ],
-    "ima6ine": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "imaan butchers": [
         {
             "type": 1,
@@ -5638,6 +5626,12 @@
         }
     ],
     "imaan medical": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "imaan motors": [
         {
             "type": 1,
             "rating": 1
@@ -5848,6 +5842,10 @@
         }
     ],
     "imagine x global": [
+        {
+            "type": 4,
+            "rating": 2
+        },
         {
             "type": 1,
             "rating": 1
