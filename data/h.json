@@ -81,6 +81,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 4
         }
     ],
     "holybourne shop & post office": [
@@ -6018,12 +6022,6 @@
         }
     ],
     "hansom cab": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hanson and langford": [
         {
             "type": 1,
             "rating": 1
@@ -18771,6 +18769,12 @@
             "rating": 1
         }
     ],
+    "high ground investment management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "high heaton retail": [
         {
             "type": 1,
@@ -19220,7 +19224,7 @@
     "highfield house residential care home": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "highfield park management hampshire": [
@@ -28265,12 +28269,6 @@
             "rating": 1
         }
     ],
-    "house of biryanis": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "house of borse": [
         {
             "type": 1,
@@ -28674,6 +28672,12 @@
         }
     ],
     "housemates": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "houseofchill": [
         {
             "type": 1,
             "rating": 1

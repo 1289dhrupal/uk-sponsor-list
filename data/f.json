@@ -17939,12 +17939,6 @@
             "rating": 1
         }
     ],
-    "foreks financial technologies": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "foreman roberts consulting": [
         {
             "type": 1,
@@ -18630,6 +18624,12 @@
         }
     ],
     "foring": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "forinvest technologies": [
         {
             "type": 1,
             "rating": 1
@@ -20278,7 +20278,7 @@
     "fountain nursing home": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "fountain of health": [

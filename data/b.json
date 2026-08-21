@@ -22351,11 +22351,11 @@
     ],
     "biontech": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23002,6 +23002,12 @@
         }
     ],
     "birlinn": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "birmanti": [
         {
             "type": 1,
             "rating": 1
@@ -47086,6 +47092,12 @@
         }
     ],
     "burnlea care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "burnley college": [
         {
             "type": 1,
             "rating": 1

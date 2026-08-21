@@ -3735,12 +3735,6 @@
             "rating": 1
         }
     ],
-    "kamu streetfood": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kamu technologies": [
         {
             "type": 1,
@@ -6492,12 +6486,6 @@
         }
     ],
     "kaya traders": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kayaa holistic centre": [
         {
             "type": 1,
             "rating": 1
@@ -17395,6 +17383,12 @@
             "rating": 1
         }
     ],
+    "knc travels": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "knd truck": [
         {
             "type": 1,
@@ -17403,11 +17397,11 @@
     ],
     "knds defence": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

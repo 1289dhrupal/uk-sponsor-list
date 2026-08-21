@@ -4321,6 +4321,12 @@
             "rating": 1
         }
     ],
+    "eatnua riverside": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "eatnua thai eatery": [
         {
             "type": 1,
@@ -19651,12 +19657,6 @@
             "rating": 1
         }
     ],
-    "enriched care support": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "enriching healthcare": [
         {
             "type": 1,
@@ -26669,29 +26669,23 @@
             "rating": 1
         }
     ],
-    "europafoodxb": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "europastry": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "europcar": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

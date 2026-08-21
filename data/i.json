@@ -6153,12 +6153,6 @@
             "rating": 1
         }
     ],
-    "imfaa": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "imfixed": [
         {
             "type": 1,
@@ -11015,6 +11009,16 @@
             "rating": 1
         }
     ],
+    "inforcer": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "inforica": [
         {
             "type": 1,
@@ -12827,11 +12831,11 @@
     ],
     "innovo holding": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23142,6 +23146,12 @@
         }
     ],
     "its contracts": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "its convenient": [
         {
             "type": 1,
             "rating": 1

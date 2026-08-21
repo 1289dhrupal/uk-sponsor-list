@@ -3177,6 +3177,12 @@
             "rating": 1
         }
     ],
+    "lakeside house nursing home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lakeside medical practice": [
         {
             "type": 1,
@@ -8859,12 +8865,6 @@
             "rating": 1
         }
     ],
-    "ledibol": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ledmore sussex hospitality": [
         {
             "type": 1,
@@ -13288,12 +13288,6 @@
         }
     ],
     "life care plus": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "life care4u": [
         {
             "type": 1,
             "rating": 1
@@ -18215,11 +18209,11 @@
     ],
     "liveramp": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
