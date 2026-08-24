@@ -7453,6 +7453,12 @@
             "rating": 1
         }
     ],
+    "tansun": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tantalus leisure": [
         {
             "type": 1,
@@ -9044,12 +9050,6 @@
         }
     ],
     "tatham law": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "tatham macinnes": [
         {
             "type": 1,
             "rating": 1
@@ -14090,6 +14090,12 @@
         }
     ],
     "tema engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "temal healthcare agency": [
         {
             "type": 1,
             "rating": 1
@@ -22925,6 +22931,12 @@
             "rating": 1
         }
     ],
+    "the cornershop sa": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the cornershop g s": [
         {
             "type": 1,
@@ -26584,6 +26596,12 @@
         }
     ],
     "the grange nursing home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the grange rest home": [
         {
             "type": 1,
             "rating": 1
@@ -30475,6 +30493,12 @@
             "rating": 1
         }
     ],
+    "the lytham dental clinic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the mac trading company": [
         {
             "type": 4,
@@ -30945,6 +30969,12 @@
         {
             "type": 9,
             "rating": 2
+        }
+    ],
+    "the mayda creative company": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "the mayfair general store": [
@@ -35088,6 +35118,12 @@
         }
     ],
     "the raj": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the rajdoot enterprises": [
         {
             "type": 1,
             "rating": 1
@@ -41527,12 +41563,6 @@
             "rating": 1
         }
     ],
-    "thermo king": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "thermoelectric conversion systems": [
         {
             "type": 1,
@@ -41541,12 +41571,12 @@
     ],
     "thermographic measurements co": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "thermopylae": [
@@ -45334,6 +45364,12 @@
         }
     ],
     "tim hall consulting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tim o hare associates": [
         {
             "type": 1,
             "rating": 1

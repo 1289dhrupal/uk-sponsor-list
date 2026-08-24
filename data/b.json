@@ -119,6 +119,12 @@
             "rating": 1
         }
     ],
+    "bishopsworth dental surgery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "best shop": [
         {
             "type": 1,
@@ -156,6 +162,12 @@
         }
     ],
     "buy macs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "boss pizza": [
         {
             "type": 1,
             "rating": 1
@@ -6372,12 +6384,6 @@
         }
     ],
     "barbed": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "barber caver barber and beauty": [
         {
             "type": 1,
             "rating": 1
@@ -17925,6 +17931,16 @@
             "rating": 1
         }
     ],
+    "bestpac": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bestroute": [
         {
             "type": 1,
@@ -23773,12 +23789,6 @@
             "rating": 1
         }
     ],
-    "bishopsworth dental surgery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bishopton company": [
         {
             "type": 1,
@@ -27010,6 +27020,12 @@
         }
     ],
     "bloom business solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bloom construction": [
         {
             "type": 1,
             "rating": 1
@@ -34343,6 +34359,12 @@
             "rating": 1
         }
     ],
+    "bowie carpentry and construction": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bowimi": [
         {
             "type": 1,
@@ -35343,11 +35365,11 @@
     ],
     "bradford city football club": [
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -42658,6 +42680,12 @@
         }
     ],
     "brooklands care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "brooklands college": [
         {
             "type": 1,
             "rating": 1
@@ -50046,6 +50074,12 @@
         }
     ],
     "bombai indian street food": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "blue water & co": [
         {
             "type": 1,
             "rating": 1

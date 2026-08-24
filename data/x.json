@@ -223,13 +223,19 @@
             "rating": 1
         }
     ],
+    "x2 bakery and pastry": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "x2x": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

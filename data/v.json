@@ -1177,6 +1177,12 @@
             "rating": 1
         }
     ],
+    "v4voip": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "v6 auto parts": [
         {
             "type": 1,
@@ -1502,20 +1508,6 @@
         }
     ],
     "valammah": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "valar resources": [
-        {
-            "type": 3,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1

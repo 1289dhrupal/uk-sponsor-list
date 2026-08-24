@@ -725,12 +725,6 @@
             "rating": 1
         }
     ],
-    "ubertas care homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ubg corporation": [
         {
             "type": 1,
@@ -3889,6 +3883,16 @@
             "rating": 1
         }
     ],
+    "unipec singapore pte": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "unipec company": [
         {
             "type": 1,
@@ -4532,6 +4536,12 @@
         }
     ],
     "unit superheater engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "unit tv": [
         {
             "type": 1,
             "rating": 1

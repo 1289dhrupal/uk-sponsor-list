@@ -3321,6 +3321,12 @@
             "rating": 1
         }
     ],
+    "eastern express atr": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "eastern eye newton abbot": [
         {
             "type": 1,
@@ -14043,6 +14049,10 @@
     ],
     "ellipse projects": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -15442,6 +15452,18 @@
         }
     ],
     "embed": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "embellish harrow": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "embellish hair and beauty": [
         {
             "type": 1,
             "rating": 1
@@ -17505,6 +17527,12 @@
             "rating": 1
         }
     ],
+    "encom international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "encompass corporation": [
         {
             "type": 5,
@@ -18692,6 +18720,16 @@
         }
     ],
     "engi pro engineering professional": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "engie": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

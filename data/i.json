@@ -1340,7 +1340,7 @@
     "iassist ni": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         },
         {
             "type": 9,
@@ -17565,6 +17565,10 @@
     ],
     "internorm windows": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -19084,6 +19088,12 @@
         }
     ],
     "involvement": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "invonex": [
         {
             "type": 1,
             "rating": 1
@@ -21369,6 +21379,12 @@
             "rating": 1
         }
     ],
+    "isla sell physiotherapy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "isla trading": [
         {
             "type": 1,
@@ -22125,13 +22141,19 @@
             "rating": 1
         }
     ],
+    "istar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "istari global": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

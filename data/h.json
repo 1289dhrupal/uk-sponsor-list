@@ -21815,10 +21815,6 @@
             "rating": 1
         },
         {
-            "type": 13,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
         }
@@ -23810,6 +23806,12 @@
         }
     ],
     "holland hall hotel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "holland harvey": [
         {
             "type": 1,
             "rating": 1

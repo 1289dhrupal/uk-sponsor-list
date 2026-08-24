@@ -2907,7 +2907,7 @@
             "rating": 1
         }
     ],
-    "raam construction": [
+    "raam fire & compliance": [
         {
             "type": 1,
             "rating": 1
@@ -2926,6 +2926,12 @@
         }
     ],
     "raark": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "raas": [
         {
             "type": 1,
             "rating": 1
@@ -5689,12 +5695,6 @@
             "rating": 1
         }
     ],
-    "rajoka accountants": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rajoka": [
         {
             "type": 1,
@@ -6471,13 +6471,19 @@
             "rating": 1
         }
     ],
+    "ramos grill": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ramp business": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7490,12 +7496,6 @@
         }
     ],
     "rapid project development": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "rapid repair centre": [
         {
             "type": 1,
             "rating": 1
@@ -16648,6 +16648,12 @@
         }
     ],
     "rempapa": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rems bespoke": [
         {
             "type": 1,
             "rating": 1
@@ -35486,6 +35492,12 @@
         }
     ],
     "rusheer": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rushey green nursery": [
         {
             "type": 1,
             "rating": 1

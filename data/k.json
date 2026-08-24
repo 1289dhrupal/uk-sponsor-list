@@ -3185,6 +3185,12 @@
             "rating": 1
         }
     ],
+    "kallu brothers transport": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kallums": [
         {
             "type": 1,
@@ -6514,6 +6520,12 @@
         }
     ],
     "kayanni": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kayanx": [
         {
             "type": 1,
             "rating": 1
@@ -11342,6 +11354,12 @@
         }
     ],
     "khalsa super store": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "khalsa1313": [
         {
             "type": 1,
             "rating": 1
@@ -18003,11 +18021,11 @@
     ],
     "knownorigin labs": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -19383,12 +19401,6 @@
             "rating": 1
         }
     ],
-    "konnexa": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "konrad u k": [
         {
             "type": 1,
@@ -19397,11 +19409,11 @@
     ],
     "konrad-adenauer-stiftung": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

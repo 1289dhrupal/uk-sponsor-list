@@ -10541,6 +10541,12 @@
             "rating": 1
         }
     ],
+    "career choices dewis gyrfa": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "career drive resourcing": [
         {
             "type": 1,
@@ -12477,13 +12483,19 @@
             "rating": 1
         }
     ],
+    "carterwood": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cartesian": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12954,6 +12966,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "casco food & wine": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17480,6 +17498,12 @@
         }
     ],
     "central chambers law solicitors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "central chemical supplies": [
         {
             "type": 1,
             "rating": 1
@@ -44639,6 +44663,12 @@
             "rating": 1
         }
     ],
+    "connectia education": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "connecting core it solutions": [
         {
             "type": 1,
@@ -52559,6 +52589,12 @@
             "rating": 1
         }
     ],
+    "crapper and sons landfill": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "crash damage": [
         {
             "type": 1,
@@ -57135,6 +57171,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "cs infocomm": [
+        {
+            "type": 3,
+            "rating": 3
         }
     ],
     "cs managers": [
