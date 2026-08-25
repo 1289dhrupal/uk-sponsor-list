@@ -923,12 +923,6 @@
             "rating": 1
         }
     ],
-    "v&h": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "v&j billington": [
         {
             "type": 1,
@@ -8263,12 +8257,6 @@
             "rating": 1
         }
     ],
-    "victor westbrook": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "victorguard care": [
         {
             "type": 1,
@@ -8277,11 +8265,11 @@
     ],
     "victoria & albert baths": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8291,12 +8279,12 @@
             "rating": 2
         },
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "victoria and mapperley practice": [
@@ -11299,6 +11287,12 @@
             "rating": 1
         }
     ],
+    "vision care": [
+        {
+            "type": 1,
+            "rating": 4
+        }
+    ],
     "vision consultancy": [
         {
             "type": 1,
@@ -13565,6 +13559,16 @@
             "rating": 1
         }
     ],
+    "voestalpine turnout technology": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vogacloset": [
         {
             "type": 1,
@@ -15214,6 +15218,16 @@
         }
     ],
     "vtb global": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vteb energy": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

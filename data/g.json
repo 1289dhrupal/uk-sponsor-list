@@ -5225,12 +5225,12 @@
     ],
     "gb srs brundavan": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "gb styles": [
@@ -9491,6 +9491,12 @@
             "rating": 1
         }
     ],
+    "ghir": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ghk restaurants": [
         {
             "type": 1,
@@ -11059,12 +11065,12 @@
     ],
     "girls education co": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "girls learning trust": [
@@ -26764,6 +26770,12 @@
         }
     ],
     "grey technology gtech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "greydales": [
         {
             "type": 1,
             "rating": 1

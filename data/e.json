@@ -1231,6 +1231,12 @@
             "rating": 1
         }
     ],
+    "e2 dental practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "e2 electrical": [
         {
             "type": 1,
@@ -19239,6 +19245,12 @@
             "rating": 1
         }
     ],
+    "enigma clinical solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "enigma int": [
         {
             "type": 1,
@@ -30988,12 +31000,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "exmo exchange": [
         {
             "type": 1,
             "rating": 1

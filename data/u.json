@@ -3781,6 +3781,12 @@
             "rating": 1
         }
     ],
+    "union lounge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "union maritime": [
         {
             "type": 1,
@@ -4502,12 +4508,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "unit 5": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],

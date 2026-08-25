@@ -12381,14 +12381,20 @@
             "rating": 1
         }
     ],
-    "johnson & johnson medical": [
+    "johnsen": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "johnson & johnson medical": [
         {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
