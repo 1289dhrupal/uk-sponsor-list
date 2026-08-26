@@ -10645,6 +10645,12 @@
             "rating": 1
         }
     ],
+    "reading cricket & hockey club": [
+        {
+            "type": 10,
+            "rating": 1
+        }
+    ],
     "reading estate agent": [
         {
             "type": 1,
@@ -10653,11 +10659,11 @@
     ],
     "reading family church": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
-            "type": 9,
+            "type": 11,
             "rating": 2
         },
         {
@@ -22877,13 +22883,19 @@
             "rating": 1
         }
     ],
+    "ring dufferin care ni": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ring london advertising": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

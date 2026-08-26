@@ -5573,12 +5573,6 @@
             "rating": 1
         }
     ],
-    "eco express hire": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "eco fit service": [
         {
             "type": 1,
@@ -8716,6 +8710,12 @@
         }
     ],
     "eelpower": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "eelpower management company": [
         {
             "type": 1,
             "rating": 1

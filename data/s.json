@@ -5469,6 +5469,12 @@
             "rating": 1
         }
     ],
+    "sabaoth church london": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "sabar foods": [
         {
             "type": 1,
@@ -18692,6 +18698,12 @@
         }
     ],
     "scj picnic to korea": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "scl advisory": [
         {
             "type": 1,
             "rating": 1
@@ -64677,6 +64689,12 @@
             "rating": 1
         }
     ],
+    "st dunstan s cheam cof e primary school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "st dunstan s education": [
         {
             "type": 1,
@@ -65657,14 +65675,20 @@
             "rating": 1
         }
     ],
-    "st mary and st abu saifain coptic orthodox church": [
-        {
-            "type": 11,
-            "rating": 2
-        },
+    "st mary and st abraam coptic orthodox church": [
         {
             "type": 2,
             "rating": 1
+        }
+    ],
+    "st mary and st abu saifain coptic orthodox church": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "st mary redcliffe and temple school": [
@@ -67635,10 +67659,6 @@
     ],
     "standard management": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         }
@@ -68054,6 +68074,12 @@
         }
     ],
     "stanway green lodge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "stanwell road surgery": [
         {
             "type": 1,
             "rating": 1
@@ -88188,12 +88214,6 @@
         }
     ],
     "supplies": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sowerby house care home": [
         {
             "type": 1,
             "rating": 1

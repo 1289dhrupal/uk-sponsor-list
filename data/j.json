@@ -3180,7 +3180,7 @@
     "jah-jireh charity homes": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "jah-son": [
@@ -4262,6 +4262,12 @@
         }
     ],
     "james sanderson t/as caremark bromley & lewisham": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "james specialist veterinary cardiology": [
         {
             "type": 1,
             "rating": 1
@@ -17226,12 +17232,6 @@
         }
     ],
     "jimmy s store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "jahangir balti & tandoori restaurant": [
         {
             "type": 1,
             "rating": 1

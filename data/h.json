@@ -13325,12 +13325,6 @@
             "rating": 1
         }
     ],
-    "healthwatch nottingham and nottinghamshire": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "healthxchange pharmacy": [
         {
             "type": 1,
@@ -14572,6 +14566,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hebden bridge practice": [
         {
             "type": 1,
             "rating": 1
@@ -26541,6 +26541,12 @@
             "rating": 1
         }
     ],
+    "hope family church": [
+        {
+            "type": 11,
+            "rating": 2
+        }
+    ],
     "hope florist": [
         {
             "type": 1,
@@ -33250,6 +33256,12 @@
         }
     ],
     "hydrosurv unmanned survey": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hydrotec": [
         {
             "type": 1,
             "rating": 1
