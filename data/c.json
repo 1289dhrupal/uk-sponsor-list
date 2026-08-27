@@ -9253,6 +9253,12 @@
             "rating": 1
         }
     ],
+    "care and homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "care and management": [
         {
             "type": 1,
@@ -29865,12 +29871,6 @@
             "rating": 1
         }
     ],
-    "cimteq": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cincom systems": [
         {
             "type": 1,
@@ -42186,6 +42186,12 @@
     "community southwark": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "community sport outreach programme": [
+        {
+            "type": 10,
             "rating": 1
         }
     ],
@@ -54565,6 +54571,12 @@
             "rating": 1
         }
     ],
+    "crieff golf club": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "crieff hydro": [
         {
             "type": 1,
@@ -61216,6 +61228,12 @@
         }
     ],
     "consultations": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "complex claims": [
         {
             "type": 1,
             "rating": 1

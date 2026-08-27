@@ -1925,12 +1925,6 @@
             "rating": 1
         }
     ],
-    "icall care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "icapital international": [
         {
             "type": 1,
@@ -20078,6 +20072,12 @@
         }
     ],
     "iptest": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ipv ventures": [
         {
             "type": 1,
             "rating": 1

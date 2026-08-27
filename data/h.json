@@ -7625,6 +7625,12 @@
             "rating": 1
         }
     ],
+    "harley grove medical centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "harley haddow": [
         {
             "type": 1,
@@ -8833,12 +8839,6 @@
             "rating": 1
         }
     ],
-    "harrytyres": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "harsbrook": [
         {
             "type": 1,
@@ -9064,6 +9064,12 @@
         }
     ],
     "hartlepool specsavers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hartley dental practice": [
         {
             "type": 1,
             "rating": 1
@@ -27851,6 +27857,12 @@
             "rating": 1
         }
     ],
+    "hotel creative": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hotel metropole llandrindod": [
         {
             "type": 1,
@@ -32664,6 +32676,16 @@
         }
     ],
     "hwh restaurants ey": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hwhc": [
+        {
+            "type": 10,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

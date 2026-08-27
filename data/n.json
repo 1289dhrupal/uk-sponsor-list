@@ -2031,12 +2031,6 @@
             "rating": 1
         }
     ],
-    "naid care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "naigai nitto logistics europe": [
         {
             "type": 5,
@@ -7208,6 +7202,16 @@
         }
     ],
     "neighbourhood centre dental practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "neighbourhood resource centre": [
+        {
+            "type": 9,
+            "rating": 2
+        },
         {
             "type": 1,
             "rating": 1
@@ -21519,6 +21523,12 @@
             "rating": 1
         }
     ],
+    "north star childrens home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "north star community trust": [
         {
             "type": 1,
@@ -23376,6 +23386,10 @@
     "notonthehighstreet enterprises": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27156,6 +27170,16 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "nyl investments": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

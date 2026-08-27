@@ -7441,12 +7441,6 @@
             "rating": 1
         }
     ],
-    "rapid healthcare & recruitment": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rapid home warranties": [
         {
             "type": 1,
@@ -24075,6 +24069,12 @@
             "rating": 1
         }
     ],
+    "rivan industries": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rive gauche london": [
         {
             "type": 1,
@@ -30253,12 +30253,6 @@
             "rating": 1
         }
     ],
-    "rose petals healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rose platinum": [
         {
             "type": 1,
@@ -31874,6 +31868,12 @@
         }
     ],
     "roxton nursing home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "roxton wealth": [
         {
             "type": 1,
             "rating": 1
@@ -35321,11 +35321,11 @@
     ],
     "runtime collective": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

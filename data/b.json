@@ -555,6 +555,18 @@
             "rating": 1
         }
     ],
+    "b italian cafe": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bonnane restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "b j i": [
         {
             "type": 1,
@@ -11294,6 +11306,12 @@
     "beadnell towers hotel": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "beads london": [
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -50923,11 +50941,11 @@
     ],
     "brandwatch": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
