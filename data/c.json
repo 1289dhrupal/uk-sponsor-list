@@ -7151,6 +7151,12 @@
             "rating": 1
         }
     ],
+    "capita customer management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "capita pension solutions": [
         {
             "type": 1,
@@ -27196,12 +27202,6 @@
         }
     ],
     "chopstix trading": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "chor baazaar restaurant": [
         {
             "type": 1,
             "rating": 1
@@ -48141,12 +48141,6 @@
             "rating": 1
         }
     ],
-    "corenet tech pvt": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "corenet tech": [
         {
             "type": 1,
@@ -57714,6 +57708,10 @@
         }
     ],
     "cts international logistics co": [
+        {
+            "type": 8,
+            "rating": 2
+        },
         {
             "type": 1,
             "rating": 1

@@ -21637,6 +21637,10 @@
     ],
     "mccloud professional": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -27583,19 +27587,13 @@
             "rating": 1
         }
     ],
-    "mercy care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "mercy corps europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -27648,12 +27646,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "mereside care home": [
         {
             "type": 1,
             "rating": 1
@@ -39982,12 +39974,6 @@
         }
     ],
     "mnr distribution": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "mns my new sofa": [
         {
             "type": 1,
             "rating": 1
@@ -55214,12 +55200,6 @@
         }
     ],
     "my care my home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "my care tayside": [
         {
             "type": 1,
             "rating": 1

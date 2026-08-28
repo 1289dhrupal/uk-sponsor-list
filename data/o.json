@@ -1955,12 +1955,6 @@
             "rating": 1
         }
     ],
-    "oasis professional care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oasis retail": [
         {
             "type": 1,
@@ -11599,6 +11593,12 @@
             "rating": 1
         }
     ],
+    "orama solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "oran homecare": [
         {
             "type": 1,
@@ -12912,6 +12912,12 @@
         }
     ],
     "oriental printing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "oriental recruitment": [
         {
             "type": 1,
             "rating": 1
@@ -15536,12 +15542,6 @@
         }
     ],
     "outsourced acc": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "outsourced technical solutions": [
         {
             "type": 1,
             "rating": 1

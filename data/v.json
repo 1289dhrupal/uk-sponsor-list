@@ -4515,6 +4515,12 @@
             "rating": 1
         }
     ],
+    "vectorial": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vectorworks": [
         {
             "type": 1,
@@ -14386,7 +14392,7 @@
     "vorg": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "vortec marine": [

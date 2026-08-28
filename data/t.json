@@ -15807,11 +15807,11 @@
     ],
     "testhouse": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -42729,19 +42729,13 @@
             "rating": 1
         }
     ],
-    "thomascare recruitment agency": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "thompson aero seating": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -51208,12 +51202,6 @@
         }
     ],
     "totty pharmacy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "totus care": [
         {
             "type": 1,
             "rating": 1

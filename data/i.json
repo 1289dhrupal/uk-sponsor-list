@@ -7689,12 +7689,6 @@
             "rating": 1
         }
     ],
-    "imranz takeaway": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "imray laurie norie & wilson": [
         {
             "type": 1,
@@ -14917,13 +14911,19 @@
             "rating": 1
         }
     ],
+    "integral powertrain": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "integral powertrain trading as helix": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

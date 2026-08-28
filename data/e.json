@@ -3667,12 +3667,6 @@
             "rating": 1
         }
     ],
-    "eastside house care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "eastside lettings": [
         {
             "type": 1,
@@ -7650,6 +7644,12 @@
         }
     ],
     "edinburgh korean church": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "edinburgh korean grace church": [
         {
             "type": 2,
             "rating": 1
@@ -15566,6 +15566,12 @@
         }
     ],
     "embross": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "embs community college": [
         {
             "type": 1,
             "rating": 1

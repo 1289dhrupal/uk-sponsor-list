@@ -2035,6 +2035,12 @@
             "rating": 1
         }
     ],
+    "daily comfort healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "daily crave 92": [
         {
             "type": 1,
@@ -7418,6 +7424,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "dcc mep": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21413,6 +21425,10 @@
     ],
     "dmi ventures": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 3,
             "rating": 1
         }
@@ -29362,6 +29378,12 @@
         }
     ],
     "duigan chiropractic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "duke austin & company": [
         {
             "type": 1,
             "rating": 1
