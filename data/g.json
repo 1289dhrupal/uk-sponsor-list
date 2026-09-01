@@ -8535,6 +8535,12 @@
             "rating": 1
         }
     ],
+    "germany trade & invest": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gerrard street baptist church": [
         {
             "type": 1,
@@ -18145,6 +18151,12 @@
             "rating": 1
         }
     ],
+    "golden care support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "golden charter": [
         {
             "type": 1,
@@ -19831,13 +19843,23 @@
             "rating": 1
         }
     ],
-    "goodnews christian centre": [
+    "goodnews assemblies of god": [
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
+            "type": 11,
+            "rating": 2
+        }
+    ],
+    "goodnews christian centre": [
+        {
             "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 11,
             "rating": 2
         },
         {

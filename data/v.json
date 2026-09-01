@@ -2199,12 +2199,6 @@
             "rating": 1
         }
     ],
-    "valor care training and consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "valor collective london": [
         {
             "type": 1,
@@ -4900,6 +4894,12 @@
         }
     ],
     "vegan concept": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vegan point chelsea": [
         {
             "type": 1,
             "rating": 1
@@ -12712,6 +12712,12 @@
         }
     ],
     "vivid block": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vivid broadcast": [
         {
             "type": 1,
             "rating": 1

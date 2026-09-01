@@ -1989,6 +1989,12 @@
             "rating": 1
         }
     ],
+    "nahaq": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "nahid residential": [
         {
             "type": 1,
@@ -2028,6 +2034,12 @@
     "naib technologies": [
         {
             "type": 3,
+            "rating": 1
+        }
+    ],
+    "naidu & co": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5394,6 +5406,12 @@
         }
     ],
     "navgold": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "naviam global": [
         {
             "type": 1,
             "rating": 1
@@ -9680,12 +9698,6 @@
         }
     ],
     "new beginnings healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "new beginnings south": [
         {
             "type": 1,
             "rating": 1
@@ -15425,16 +15437,6 @@
             "rating": 2
         }
     ],
-    "niantic international": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "niantic spatial": [
         {
             "type": 5,
@@ -18145,7 +18147,7 @@
             "rating": 1
         }
     ],
-    "nj coffee": [
+    "nj coffee ta flavour palace": [
         {
             "type": 1,
             "rating": 1
@@ -25755,12 +25757,6 @@
             "rating": 1
         }
     ],
-    "nua lancashire": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "nualnoi newson": [
         {
             "type": 1,
@@ -26658,6 +26654,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "nutrinutts": [
         {
             "type": 1,
             "rating": 1

@@ -605,12 +605,6 @@
             "rating": 1
         }
     ],
-    "o shea healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "o toid opticians": [
         {
             "type": 1,
@@ -8357,12 +8351,6 @@
             "rating": 1
         }
     ],
-    "one touch quality kare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "one trading exchange bv london branch": [
         {
             "type": 5,
@@ -11581,6 +11569,12 @@
             "rating": 1
         }
     ],
+    "oral creations dental laboratory": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "oral healthcare waldron": [
         {
             "type": 1,
@@ -12912,12 +12906,6 @@
         }
     ],
     "oriental printing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "oriental recruitment": [
         {
             "type": 1,
             "rating": 1
@@ -15029,14 +15017,20 @@
             "rating": 1
         }
     ],
-    "oundle school": [
+    "ouka london": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "oundle school": [
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 9,
@@ -16728,6 +16722,10 @@
     "oxford ionics": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

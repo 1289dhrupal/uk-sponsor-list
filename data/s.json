@@ -18995,12 +18995,6 @@
             "rating": 1
         }
     ],
-    "scotch beds": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "scotch partners": [
         {
             "type": 1,
@@ -25564,12 +25558,6 @@
         }
     ],
     "seva care respite and residential": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "seva childcare": [
         {
             "type": 1,
             "rating": 1
@@ -47535,6 +47523,12 @@
             "rating": 1
         }
     ],
+    "smith anderson": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "smith global t/a mr & mrs smith": [
         {
             "type": 1,
@@ -49458,6 +49452,12 @@
         }
     ],
     "social sports": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "social telecoms cic": [
         {
             "type": 1,
             "rating": 1
@@ -52439,6 +52439,12 @@
             "rating": 1
         }
     ],
+    "sonic megastore": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sonic platinum": [
         {
             "type": 1,
@@ -53746,6 +53752,12 @@
         }
     ],
     "south bank students union": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "south beach medical centre": [
         {
             "type": 1,
             "rating": 1
@@ -59628,6 +59640,12 @@
         }
     ],
     "spixworth dental practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "spj climbing two": [
         {
             "type": 1,
             "rating": 1
@@ -66361,16 +66379,16 @@
     ],
     "st thomas church philadelphia": [
         {
-            "type": 9,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 11,
             "rating": 2
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         }
     ],
     "st vincent care homes": [
@@ -66411,12 +66429,12 @@
     ],
     "st werburgh s derby": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "st werburghs food & wine": [
@@ -71625,6 +71643,12 @@
             "rating": 1
         }
     ],
+    "stevens childrens homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "stevenston enterprise": [
         {
             "type": 1,
@@ -75999,6 +76023,12 @@
             "rating": 1
         }
     ],
+    "studio miko": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "studio molyneaux": [
         {
             "type": 1,
@@ -76916,6 +76946,12 @@
         }
     ],
     "subhashish herne bay": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "subhida": [
         {
             "type": 1,
             "rating": 1
@@ -85648,6 +85684,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "swiss cottage surgery": [
         {
             "type": 1,
             "rating": 1

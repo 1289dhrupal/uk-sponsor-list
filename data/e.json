@@ -3252,6 +3252,10 @@
     "easteden": [
         {
             "type": 1,
+            "rating": 4
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4698,6 +4702,12 @@
         }
     ],
     "ebmco": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ebn academy": [
         {
             "type": 1,
             "rating": 1

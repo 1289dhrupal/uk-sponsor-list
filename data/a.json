@@ -16265,6 +16265,12 @@
             "rating": 1
         }
     ],
+    "adm pressings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "adm promotions": [
         {
             "type": 5,
@@ -24257,6 +24263,12 @@
             "rating": 1
         }
     ],
+    "airport coordination": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "airport direct travel": [
         {
             "type": 1,
@@ -29517,6 +29529,12 @@
             "rating": 1
         }
     ],
+    "aldermoor surgery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "aldermore": [
         {
             "type": 5,
@@ -33683,6 +33701,12 @@
             "rating": 1
         }
     ],
+    "allpropertyclaims": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "allroundsupermarket": [
         {
             "type": 1,
@@ -36891,12 +36915,6 @@
             "rating": 1
         }
     ],
-    "am seafoods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "am shakes": [
         {
             "type": 1,
@@ -37881,6 +37899,10 @@
         {
             "type": 9,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "ambby home plan": [
@@ -69838,6 +69860,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "awp marine consultancy": [
         {
             "type": 1,
             "rating": 1

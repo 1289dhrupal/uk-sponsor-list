@@ -10065,18 +10065,6 @@
             "rating": 1
         }
     ],
-    "tazana": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the ship and pilot": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tazaw": [
         {
             "type": 1,
@@ -10893,6 +10881,12 @@
             "rating": 1
         }
     ],
+    "team cycles north east": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "team driving": [
         {
             "type": 1,
@@ -11530,6 +11524,12 @@
         }
     ],
     "tech tornado": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tech tube": [
         {
             "type": 1,
             "rating": 1
@@ -27313,6 +27313,12 @@
             "rating": 1
         }
     ],
+    "the hazard management and environmental laboratories": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the haze agency": [
         {
             "type": 1,
@@ -42745,6 +42751,12 @@
             "rating": 1
         }
     ],
+    "thompson audio visual communications lim ited": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "thompson commercials": [
         {
             "type": 1,
@@ -51062,6 +51074,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "totall ventures": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
