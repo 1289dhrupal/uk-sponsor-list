@@ -4029,6 +4029,12 @@
             "rating": 1
         }
     ],
+    "s&l building & maintenance": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "s&l it pvt": [
         {
             "type": 1,
@@ -22864,6 +22870,12 @@
         }
     ],
     "select service partner": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "select specs": [
         {
             "type": 1,
             "rating": 1
@@ -48006,7 +48018,7 @@
     "smqa": [
         {
             "type": 1,
-            "rating": 4
+            "rating": 1
         }
     ],
     "smr automotive mirrors": [
@@ -50163,12 +50175,6 @@
             "rating": 1
         }
     ],
-    "softsleep": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "softspace studios": [
         {
             "type": 1,
@@ -51974,6 +51980,10 @@
         }
     ],
     "somerset county cricket club": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 10,
             "rating": 1

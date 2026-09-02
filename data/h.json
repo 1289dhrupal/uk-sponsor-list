@@ -16377,14 +16377,14 @@
             "rating": 1
         }
     ],
-    "herbert smith freehills": [
-        {
-            "type": 8,
-            "rating": 2
-        },
+    "herbert smith freehills kramer": [
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 5,
@@ -33503,23 +33503,13 @@
             "rating": 1
         }
     ],
-    "hyosung heavy industries corporation branch": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hyosung tns branch": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

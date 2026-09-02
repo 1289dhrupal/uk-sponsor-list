@@ -4245,6 +4245,12 @@
             "rating": 1
         }
     ],
+    "water direct": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "water engineering industrial equipment 16652955": [
         {
             "type": 3,
@@ -5096,12 +5102,6 @@
         }
     ],
     "waverly care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "waverly solutions": [
         {
             "type": 1,
             "rating": 1
