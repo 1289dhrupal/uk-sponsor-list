@@ -10715,12 +10715,6 @@
             "rating": 1
         }
     ],
-    "manchester street veterinary surgery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "manchester super store bolton": [
         {
             "type": 1,
@@ -35609,6 +35603,10 @@
     ],
     "ming yang renewable energy company": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 3,
             "rating": 1
         }
@@ -46215,12 +46213,6 @@
         {
             "type": 4,
             "rating": 2
-        }
-    ],
-    "motion care": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "motion europe": [

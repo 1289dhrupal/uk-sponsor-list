@@ -42675,11 +42675,11 @@
     ],
     "anergi international": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -54467,11 +54467,11 @@
     ],
     "arriva": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -61793,13 +61793,19 @@
             "rating": 1
         }
     ],
-    "astex therapeutics": [
+    "asters specialist care yorkshire": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "astex therapeutics": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -64493,13 +64499,19 @@
             "rating": 1
         }
     ],
-    "atp tour": [
+    "atp consultancy": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "atp tour": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

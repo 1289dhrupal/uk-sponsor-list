@@ -5915,12 +5915,6 @@
             "rating": 1
         }
     ],
-    "we cook london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "we could be kings": [
         {
             "type": 1,
@@ -7432,12 +7426,6 @@
         }
     ],
     "well bite": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "well care 24/7": [
         {
             "type": 1,
             "rating": 1
@@ -9558,6 +9546,12 @@
     "west of scotland cricket club": [
         {
             "type": 10,
+            "rating": 1
+        }
+    ],
+    "west of scotland housing association": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19861,6 +19855,12 @@
             "rating": 1
         }
     ],
+    "woodpecker technology": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "woodrow communications": [
         {
             "type": 1,
@@ -21320,6 +21320,12 @@
         }
     ],
     "world star aviation": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "world tax": [
         {
             "type": 1,
             "rating": 1

@@ -26217,12 +26217,6 @@
             "rating": 1
         }
     ],
-    "political intelligence": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "political lobbying & media relations": [
         {
             "type": 1,
@@ -27988,6 +27982,12 @@
         }
     ],
     "portobello international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "portobello medical centre": [
         {
             "type": 1,
             "rating": 1

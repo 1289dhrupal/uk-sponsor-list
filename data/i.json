@@ -11403,12 +11403,6 @@
             "rating": 1
         }
     ],
-    "infrared": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "infrared partners": [
         {
             "type": 1,
@@ -12271,16 +12265,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "innocent child": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 9,
-            "rating": 2
         }
     ],
     "innocent": [

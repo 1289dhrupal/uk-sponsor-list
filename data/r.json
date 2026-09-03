@@ -281,6 +281,12 @@
             "rating": 1
         }
     ],
+    "riverside house residential care home and newnton house residential care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rosedale care home": [
         {
             "type": 1,
@@ -2302,12 +2308,6 @@
         }
     ],
     "r&j hospitality": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "r&k shamrock house": [
         {
             "type": 1,
             "rating": 1
@@ -4422,6 +4422,12 @@
         }
     ],
     "rai dairies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rai property maintenance": [
         {
             "type": 1,
             "rating": 1

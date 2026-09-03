@@ -22835,12 +22835,6 @@
             "rating": 1
         }
     ],
-    "the contact agency": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the contemplative consciousness network": [
         {
             "type": 1,
@@ -38492,12 +38486,6 @@
         }
     ],
     "the sushi co woodford": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the sushi maki newbury": [
         {
             "type": 1,
             "rating": 1
@@ -54849,6 +54837,10 @@
     ],
     "tredence": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -62404,12 +62396,6 @@
         }
     ],
     "tyne coast college": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "tyne doc": [
         {
             "type": 1,
             "rating": 1
