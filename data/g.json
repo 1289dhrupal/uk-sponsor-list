@@ -9413,6 +9413,12 @@
             "rating": 1
         }
     ],
+    "ghazi contractors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ghazi hitech": [
         {
             "type": 1,
@@ -15687,11 +15693,11 @@
     ],
     "glory technology development": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

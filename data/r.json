@@ -21075,17 +21075,11 @@
             "rating": 1
         }
     ],
-    "ricardo performance products": [
+    "ricardo": [
         {
             "type": 1,
             "rating": 1
         },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
-    "ricardo": [
         {
             "type": 5,
             "rating": 1
@@ -21093,9 +21087,15 @@
         {
             "type": 8,
             "rating": 2
-        },
+        }
+    ],
+    "ricardo performance products": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

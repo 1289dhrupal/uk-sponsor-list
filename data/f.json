@@ -6553,12 +6553,6 @@
             "rating": 1
         }
     ],
-    "fedcap employment": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fedcap": [
         {
             "type": 1,
@@ -7833,6 +7827,12 @@
             "rating": 1
         }
     ],
+    "fetih textile": [
+        {
+            "type": 3,
+            "rating": 3
+        }
+    ],
     "fettes college": [
         {
             "type": 1,
@@ -7886,6 +7886,12 @@
         }
     ],
     "fexco merchant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fexco property": [
         {
             "type": 1,
             "rating": 1
@@ -12031,6 +12037,12 @@
             "rating": 1
         }
     ],
+    "first-step": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "first-string homes": [
         {
             "type": 1,
@@ -12372,7 +12384,7 @@
     "fisher care": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "fisher financial advisors": [
@@ -14960,6 +14972,12 @@
         }
     ],
     "floorify": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "flooring sales": [
         {
             "type": 1,
             "rating": 1
@@ -19430,12 +19448,6 @@
         }
     ],
     "fortius london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fortius telecommunications": [
         {
             "type": 1,
             "rating": 1
@@ -24426,6 +24438,12 @@
         }
     ],
     "frontpark": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "frontpark ta the clitheroe pharmacy": [
         {
             "type": 1,
             "rating": 1

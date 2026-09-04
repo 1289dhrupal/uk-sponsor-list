@@ -3303,6 +3303,12 @@
             "rating": 1
         }
     ],
+    "idemitsu europe": [
+        {
+            "type": 3,
+            "rating": 3
+        }
+    ],
     "idems international community interest company": [
         {
             "type": 1,
@@ -13951,15 +13957,15 @@
     ],
     "inspirext consulting": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24516,12 +24522,6 @@
         }
     ],
     "ips pharma": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ikkan sushi": [
         {
             "type": 1,
             "rating": 1

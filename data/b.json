@@ -6425,12 +6425,6 @@
             "rating": 1
         }
     ],
-    "barberz lounge": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "barbetta": [
         {
             "type": 1,
@@ -26705,6 +26699,16 @@
             "rating": 1
         }
     ],
+    "blink medical": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "blink productions": [
         {
             "type": 1,
@@ -39226,6 +39230,12 @@
         }
     ],
     "brightening lives": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "brighter day care at home": [
         {
             "type": 1,
             "rating": 1

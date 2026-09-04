@@ -535,6 +535,16 @@
             "rating": 1
         }
     ],
+    "corza medical": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cell links": [
         {
             "type": 1,
@@ -27555,24 +27565,6 @@
             "rating": 1
         }
     ],
-    "christ apostolic church canaan land birmingham": [
-        {
-            "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 9,
-            "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
     "christ apostolic church canaanland love embassy": [
         {
             "type": 4,
@@ -37421,12 +37413,6 @@
             "rating": 1
         }
     ],
-    "cmolds": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cmostores com": [
         {
             "type": 1,
@@ -41838,6 +41824,12 @@
         }
     ],
     "communications software airline systems": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "communications solutions": [
         {
             "type": 1,
             "rating": 1

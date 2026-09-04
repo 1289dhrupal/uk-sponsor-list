@@ -11777,16 +11777,6 @@
             "rating": 1
         }
     ],
-    "sana labs": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "sana traders": [
         {
             "type": 1,
@@ -15488,6 +15478,12 @@
     "saturn facilities": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "saturn fe": [
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22481,6 +22477,12 @@
             "rating": 1
         }
     ],
+    "segregated payments": [
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "segs enterprise": [
         {
             "type": 1,
@@ -25474,6 +25476,12 @@
         }
     ],
     "seth homes t/as stoneacre lodge care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "seth marine consultants": [
         {
             "type": 1,
             "rating": 1
@@ -35876,6 +35884,12 @@
         }
     ],
     "sidhu catering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sidhu construction": [
         {
             "type": 1,
             "rating": 1
@@ -46711,6 +46725,12 @@
             "rating": 1
         }
     ],
+    "smartsteps pvt": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "smartstream technologies": [
         {
             "type": 1,
@@ -54780,12 +54800,6 @@
         }
     ],
     "southcrest care 2": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "southcrest care": [
         {
             "type": 1,
             "rating": 1
@@ -67905,11 +67919,11 @@
     ],
     "stanley consultants": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -68442,12 +68456,6 @@
         }
     ],
     "star": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "star guarding service": [
         {
             "type": 1,
             "rating": 1
@@ -81723,12 +81731,6 @@
             "rating": 1
         }
     ],
-    "supreme education": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "supreme facilities management": [
         {
             "type": 1,
@@ -82286,12 +82288,6 @@
         }
     ],
     "surma beaumaris": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "surma construction": [
         {
             "type": 1,
             "rating": 1

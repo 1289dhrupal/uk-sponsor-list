@@ -7625,6 +7625,12 @@
             "rating": 1
         }
     ],
+    "harlesden health": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "harleston dental and aesthetic clinic": [
         {
             "type": 1,
@@ -13304,6 +13310,12 @@
         }
     ],
     "healthier west wirral pcn": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "healthist health consultancy": [
         {
             "type": 1,
             "rating": 1
@@ -25836,7 +25848,7 @@
     "homestead residential care ta hanwell house": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "homestead": [
@@ -27014,6 +27026,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "horison ai": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

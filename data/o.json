@@ -591,6 +591,10 @@
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "o rich": [
@@ -6701,16 +6705,6 @@
             "rating": 1
         }
     ],
-    "omilan productions": [
-        {
-            "type": 4,
-            "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "omim technology": [
         {
             "type": 5,
@@ -9658,12 +9652,6 @@
         }
     ],
     "open door young people s consultation service": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "open doors healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -13767,23 +13755,29 @@
             "rating": 1
         }
     ],
-    "ortec finance": [
+    "ortakslar": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "ortec finance": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
     "ortec": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
