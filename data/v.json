@@ -8567,12 +8567,6 @@
             "rating": 1
         }
     ],
-    "victorian roofing company": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "victorian solutions": [
         {
             "type": 1,
@@ -11449,6 +11443,12 @@
             "rating": 1
         }
     ],
+    "vision pro software": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vision ridge partners": [
         {
             "type": 5,
@@ -12096,6 +12096,12 @@
         }
     ],
     "vita mojo international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vita multi academy trust": [
         {
             "type": 1,
             "rating": 1
@@ -13821,13 +13827,13 @@
             "rating": 1
         }
     ],
-    "volante technologies": [
+    "volante technologies llc": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

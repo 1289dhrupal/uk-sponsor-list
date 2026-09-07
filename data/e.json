@@ -8797,12 +8797,6 @@
             "rating": 1
         }
     ],
-    "eesa engineering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "eesentia": [
         {
             "type": 1,
@@ -13906,6 +13900,12 @@
     "ellerston polo": [
         {
             "type": 10,
+            "rating": 1
+        }
+    ],
+    "ellesfield": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26575,6 +26575,12 @@
             "rating": 1
         }
     ],
+    "eurolink logistics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "eurolink technology": [
         {
             "type": 1,
@@ -29778,12 +29784,6 @@
         }
     ],
     "exact cnc ni": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "exact innovations": [
         {
             "type": 1,
             "rating": 1

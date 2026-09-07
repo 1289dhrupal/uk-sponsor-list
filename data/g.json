@@ -4025,12 +4025,12 @@
     ],
     "garsington opera": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "garson house care home": [
@@ -5034,12 +5034,6 @@
         }
     ],
     "gb copier systems": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gb desserts": [
         {
             "type": 1,
             "rating": 1
@@ -29710,6 +29704,12 @@
         }
     ],
     "guide point": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "guided education hub": [
         {
             "type": 1,
             "rating": 1

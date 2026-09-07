@@ -9359,6 +9359,12 @@
             "rating": 1
         }
     ],
+    "lees medical practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lees newsagents": [
         {
             "type": 1,
@@ -12902,6 +12908,12 @@
         }
     ],
     "libertas gbr": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "libertatem healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -30188,12 +30200,6 @@
         }
     ],
     "lyfe technology": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lyfem homecare": [
         {
             "type": 1,
             "rating": 1
