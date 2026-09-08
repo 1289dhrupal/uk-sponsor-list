@@ -9042,7 +9042,7 @@
     "filcare": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "file range": [
@@ -14293,6 +14293,12 @@
             "rating": 1
         }
     ],
+    "fletcher s stirling": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fletchers accountants": [
         {
             "type": 1,
@@ -15678,10 +15684,6 @@
     "flutterwave": [
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],

@@ -5,6 +5,12 @@
             "rating": 1
         }
     ],
+    "gibbs consulting global": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "global facility management mcr": [
         {
             "type": 1,
@@ -1294,6 +1300,12 @@
         }
     ],
     "g tav trading": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "g v building": [
         {
             "type": 1,
             "rating": 1
@@ -12373,12 +12385,12 @@
     ],
     "gleeds": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -20692,12 +20704,6 @@
         }
     ],
     "gourmet desserts london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gourmet empire": [
         {
             "type": 1,
             "rating": 1

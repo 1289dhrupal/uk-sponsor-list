@@ -24391,6 +24391,12 @@
             "rating": 1
         }
     ],
+    "sequence international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sequent u k": [
         {
             "type": 1,
@@ -28170,7 +28176,7 @@
     "shalimar kebab aberdeen": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "shalimar uppermill": [
@@ -31684,12 +31690,6 @@
         }
     ],
     "shiloh restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "shiloz": [
         {
             "type": 1,
             "rating": 1
@@ -53744,12 +53744,6 @@
             "type": 4,
             "rating": 2
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "south asian media": [
         {
             "type": 1,
             "rating": 1
@@ -81592,6 +81586,12 @@
         }
     ],
     "supported living solutions nw": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "supported solution": [
         {
             "type": 1,
             "rating": 1

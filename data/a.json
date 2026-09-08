@@ -1,4 +1,10 @@
 {
+    "aaruvika": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "alt": [
         {
             "type": 1,
@@ -8893,6 +8899,12 @@
             "rating": 1
         }
     ],
+    "able care menwinnion": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "able care huddersfield": [
         {
             "type": 1,
@@ -16216,6 +16228,10 @@
     "adler pelzer washington": [
         {
             "type": 13,
+            "rating": 2
+        },
+        {
+            "type": 8,
             "rating": 2
         }
     ],
@@ -31451,11 +31467,11 @@
     ],
     "alipay": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -35588,6 +35604,12 @@
         }
     ],
     "alta advisers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "alta performance materials holding company": [
         {
             "type": 1,
             "rating": 1
@@ -46897,6 +46919,12 @@
             "rating": 1
         }
     ],
+    "apex padel clubs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "apex physiotherapy": [
         {
             "type": 1,
@@ -57461,12 +57489,6 @@
             "rating": 1
         }
     ],
-    "asf securities": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "asf sofa frames": [
         {
             "type": 1,
@@ -61978,12 +62000,6 @@
         }
     ],
     "aston healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "aston home care": [
         {
             "type": 1,
             "rating": 1

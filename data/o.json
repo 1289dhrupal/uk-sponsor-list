@@ -661,6 +661,12 @@
             "rating": 1
         }
     ],
+    "o law firm": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "o s energy": [
         {
             "type": 1,
@@ -13287,6 +13293,12 @@
             "rating": 1
         }
     ],
+    "orion oxford opco": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "orion pharma": [
         {
             "type": 1,
@@ -17233,20 +17245,14 @@
             "rating": 1
         }
     ],
-    "oxygen technical solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oxygene": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "oxygy": [

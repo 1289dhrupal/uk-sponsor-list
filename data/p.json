@@ -7329,6 +7329,12 @@
             "rating": 1
         }
     ],
+    "parkside dental practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "parkside estates hyde park": [
         {
             "type": 1,
@@ -13075,12 +13081,6 @@
             "rating": 1
         }
     ],
-    "penrhos care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "penrhyn bay & deganwy medical centre": [
         {
             "type": 1,
@@ -15845,6 +15845,12 @@
             "rating": 1
         }
     ],
+    "petmere": [
+        {
+            "type": 3,
+            "rating": 3
+        }
+    ],
     "petplusu": [
         {
             "type": 1,
@@ -16762,6 +16768,12 @@
         }
     ],
     "pharma supply": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pharma-clinic": [
         {
             "type": 1,
             "rating": 1
@@ -39520,6 +39532,12 @@
         }
     ],
     "providence care solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "providence centered care": [
         {
             "type": 1,
             "rating": 1
