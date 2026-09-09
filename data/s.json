@@ -27217,12 +27217,6 @@
             "rating": 1
         }
     ],
-    "shady s joint": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shadzcare": [
         {
             "type": 1,
@@ -28536,12 +28530,6 @@
         }
     ],
     "shanco": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "shandaar foods": [
         {
             "type": 1,
             "rating": 1
@@ -44815,19 +44803,13 @@
             "rating": 1
         }
     ],
-    "slr care homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "slr consulting": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -49630,6 +49612,16 @@
         }
     ],
     "society of catholic medical missionaries central fund aka medical mission sisters": [
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "society of catholic medical missionaries cio": [
         {
             "type": 11,
             "rating": 2
@@ -61185,12 +61177,6 @@
             "rating": 1
         }
     ],
-    "sps technologies": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sps &i": [
         {
             "type": 5,
@@ -69691,6 +69677,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 13,
+            "rating": 2
         }
     ],
     "stateside distribution": [
@@ -78891,7 +78881,7 @@
     ],
     "sun chemical": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
@@ -78899,7 +78889,7 @@
             "rating": 2
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -85327,12 +85317,6 @@
             "rating": 1
         }
     ],
-    "swift mobiles and vapes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "swift motor repairs": [
         {
             "type": 1,
@@ -85908,6 +85892,12 @@
         }
     ],
     "switzerland travel centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "swivelt": [
         {
             "type": 1,
             "rating": 1
@@ -87164,12 +87154,6 @@
         }
     ],
     "synergy physio & rehab": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "synergy pvt": [
         {
             "type": 1,
             "rating": 1

@@ -12994,7 +12994,7 @@
     "whitelodge care home": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "whitemoor medical centre": [
@@ -15383,12 +15383,6 @@
             "rating": 1
         }
     ],
-    "wilta health solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "wilton bradley": [
         {
             "type": 1,
@@ -15678,6 +15672,16 @@
         }
     ],
     "wincanton creative print": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wincent": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -22510,6 +22514,12 @@
         }
     ],
     "wsm partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wsm ultrasound": [
         {
             "type": 1,
             "rating": 1

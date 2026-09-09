@@ -3829,12 +3829,6 @@
             "rating": 1
         }
     ],
-    "palenta": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "palepu": [
         {
             "type": 1,
@@ -6745,12 +6739,6 @@
             "rating": 1
         }
     ],
-    "park house residential home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "park house surgery": [
         {
             "type": 1,
@@ -8410,17 +8398,17 @@
     "passion home care": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "passion pictures": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "passion recruitment agency": [
@@ -10529,19 +10517,13 @@
             "rating": 1
         }
     ],
-    "pbt social care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "pbts europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -39034,6 +39016,12 @@
         }
     ],
     "protax wm": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "protea associates": [
         {
             "type": 1,
             "rating": 1

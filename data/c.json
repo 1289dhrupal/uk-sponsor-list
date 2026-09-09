@@ -3459,12 +3459,6 @@
             "rating": 1
         }
     ],
-    "calabash business enterprise": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "calabash mint": [
         {
             "type": 1,
@@ -22244,12 +22238,6 @@
         }
     ],
     "chatha & co": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "chatha fresh food": [
         {
             "type": 1,
             "rating": 1
@@ -61654,6 +61642,10 @@
         }
     ],
     "connectd": [
+        {
+            "type": 7,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

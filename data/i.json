@@ -2393,6 +2393,16 @@
             "rating": 1
         }
     ],
+    "icm advisers": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "icm capital": [
         {
             "type": 1,
@@ -10014,16 +10024,6 @@
     "industrial outsourcing": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "industrial power and marine": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -18757,6 +18757,26 @@
             "rating": 1
         }
     ],
+    "investindustrial corporate": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
+    "investindustrial management": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "investindustrial": [
         {
             "type": 1,
@@ -19224,6 +19244,16 @@
         }
     ],
     "ioi brighton": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ioi": [
         {
             "type": 5,
             "rating": 1
@@ -21808,6 +21838,12 @@
         }
     ],
     "islington visionplus": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "islip manor high school": [
         {
             "type": 1,
             "rating": 1

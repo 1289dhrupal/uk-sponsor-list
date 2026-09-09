@@ -125,12 +125,6 @@
             "rating": 1
         }
     ],
-    "lavender thai therapy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "little india": [
         {
             "type": 1,
@@ -3802,6 +3796,12 @@
         }
     ],
     "lampco": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lampco construction": [
         {
             "type": 1,
             "rating": 1
@@ -16171,6 +16171,10 @@
     ],
     "linkexec": [
         {
+            "type": 7,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -26551,13 +26555,19 @@
             "rating": 1
         }
     ],
-    "lowcodeminds": [
+    "low observable technology": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "lowcodeminds": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26882,6 +26892,12 @@
         }
     ],
     "lozain": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lozdon": [
         {
             "type": 1,
             "rating": 1

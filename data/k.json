@@ -8455,19 +8455,13 @@
             "rating": 1
         }
     ],
-    "kemfa": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kemin": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8942,12 +8936,6 @@
         }
     ],
     "kensa health analytics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kensa health home care": [
         {
             "type": 1,
             "rating": 1
@@ -12207,12 +12195,6 @@
             "rating": 1
         }
     ],
-    "ki & ken": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ki associates": [
         {
             "type": 1,
@@ -12326,16 +12308,6 @@
         }
     ],
     "kiavi": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kibo commerce": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -13332,12 +13304,6 @@
         }
     ],
     "kindleworth": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kindling media podcasts": [
         {
             "type": 1,
             "rating": 1

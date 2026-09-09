@@ -173,6 +173,12 @@
             "rating": 1
         }
     ],
+    "red rose": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "red rose care home": [
         {
             "type": 1,
@@ -7447,12 +7453,6 @@
             "rating": 1
         }
     ],
-    "rapid medical care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rapid medical": [
         {
             "type": 1,
@@ -13194,6 +13194,12 @@
         }
     ],
     "redditch smile care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "redditch smile care dental": [
         {
             "type": 1,
             "rating": 1
@@ -19442,7 +19448,7 @@
     "revital dental care": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "revital": [
@@ -20695,19 +20701,13 @@
             "rating": 1
         }
     ],
-    "rhm star": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rhobus": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
