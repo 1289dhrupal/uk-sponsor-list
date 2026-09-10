@@ -4685,12 +4685,6 @@
             "rating": 1
         }
     ],
-    "vedic voyages": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vedspiration": [
         {
             "type": 1,
@@ -10683,19 +10677,13 @@
             "rating": 1
         }
     ],
-    "virk transport": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "virmati energy": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13903,13 +13891,19 @@
             "rating": 1
         }
     ],
+    "volitech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "volition diagnostics": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

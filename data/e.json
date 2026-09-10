@@ -14519,6 +14519,16 @@
             "rating": 1
         }
     ],
+    "elmya epc": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "elnoor": [
         {
             "type": 1,
@@ -17242,6 +17252,12 @@
         }
     ],
     "ena london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "enable wm": [
         {
             "type": 1,
             "rating": 1
@@ -25813,13 +25829,19 @@
             "rating": 1
         }
     ],
-    "eurasia": [
+    "euraser": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "eurasia": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27047,12 +27069,6 @@
         {
             "type": 9,
             "rating": 2
-        }
-    ],
-    "european partners": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "european real estate company": [

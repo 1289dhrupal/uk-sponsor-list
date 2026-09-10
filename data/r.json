@@ -2775,6 +2775,12 @@
             "rating": 1
         }
     ],
+    "r983 live test": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ra & a accountants": [
         {
             "type": 1,
@@ -5809,12 +5815,6 @@
             "rating": 1
         }
     ],
-    "rakesh stores": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rakhamim care": [
         {
             "type": 1,
@@ -6479,11 +6479,11 @@
     ],
     "ramp business": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11856,12 +11856,6 @@
         }
     ],
     "recruit in care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "recruit the best": [
         {
             "type": 1,
             "rating": 1
@@ -22131,12 +22125,12 @@
     ],
     "rifco arts": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "riff raff films": [
@@ -27867,6 +27861,12 @@
             "rating": 1
         }
     ],
+    "rock tax & accounting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rock townsend architects": [
         {
             "type": 1,
@@ -28992,6 +28992,12 @@
     "rolleston cricket club": [
         {
             "type": 10,
+            "rating": 1
+        }
+    ],
+    "rollin rates": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

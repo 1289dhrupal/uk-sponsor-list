@@ -6335,6 +6335,12 @@
             "rating": 1
         }
     ],
+    "hapa cloud": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hapag lloyd": [
         {
             "type": 1,
@@ -6343,11 +6349,11 @@
     ],
     "hapimag management": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12088,6 +12094,12 @@
         }
     ],
     "hc-one": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hc-one management": [
         {
             "type": 1,
             "rating": 1
@@ -26991,6 +27003,12 @@
             "rating": 1
         }
     ],
+    "horfield health centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hori u k": [
         {
             "type": 5,
@@ -28392,12 +28410,6 @@
         }
     ],
     "house of borse": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "house of burger": [
         {
             "type": 1,
             "rating": 1

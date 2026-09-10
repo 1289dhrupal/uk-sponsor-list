@@ -967,6 +967,12 @@
             "rating": 1
         }
     ],
+    "a h hotel & spa": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "a h local supermarket": [
         {
             "type": 1,
@@ -24953,6 +24959,12 @@
             "rating": 1
         }
     ],
+    "aj zion": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "aj s convenience store": [
         {
             "type": 1,
@@ -35733,7 +35745,7 @@
             "rating": 1
         }
     ],
-    "altechnologyconsulting": [
+    "altechnology": [
         {
             "type": 1,
             "rating": 1
@@ -42514,6 +42526,16 @@
         }
     ],
     "andritz hydro hammerfest": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "andritz": [
         {
             "type": 5,
             "rating": 1
@@ -57829,6 +57851,12 @@
             "rating": 1
         }
     ],
+    "ashanti akim community organisation": [
+        {
+            "type": 9,
+            "rating": 2
+        }
+    ],
     "ashanti global": [
         {
             "type": 1,
@@ -60791,19 +60819,13 @@
             "rating": 1
         }
     ],
-    "asprey healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "asprey holdings": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

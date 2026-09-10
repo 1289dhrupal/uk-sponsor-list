@@ -4055,12 +4055,6 @@
             "rating": 1
         }
     ],
-    "t&s mobile & vape": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "t&s surveying": [
         {
             "type": 1,
@@ -11497,12 +11491,6 @@
             "rating": 1
         }
     ],
-    "tech smart": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tech solution world": [
         {
             "type": 1,
@@ -13401,11 +13389,11 @@
     ],
     "teknera": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22250,6 +22238,12 @@
         }
     ],
     "the clear company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the clearing consultancy": [
         {
             "type": 1,
             "rating": 1
@@ -38009,6 +38003,12 @@
             "rating": 1
         }
     ],
+    "the sporting chance": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the sports consultancy": [
         {
             "type": 1,
@@ -44867,12 +44867,6 @@
             "rating": 1
         }
     ],
-    "tiger food court": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tiger hill ventures": [
         {
             "type": 1,
@@ -45804,16 +45798,6 @@
     "timeslice": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "timet": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -51862,6 +51846,12 @@
         }
     ],
     "townsend newsagents": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "townsends medica": [
         {
             "type": 1,
             "rating": 1
@@ -60171,13 +60161,13 @@
             "rating": 1
         }
     ],
-    "tulsi kandel": [
+    "tulsi convenience store": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "tulsi news post office": [
+    "tulsi kandel": [
         {
             "type": 1,
             "rating": 1
@@ -60185,11 +60175,11 @@
     ],
     "tulu tech": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -62430,6 +62420,12 @@
         }
     ],
     "tynemouth medical practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tyneside fleet": [
         {
             "type": 1,
             "rating": 1

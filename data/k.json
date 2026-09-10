@@ -7743,12 +7743,6 @@
             "rating": 1
         }
     ],
-    "keele house care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "keele university - human resources": [
         {
             "type": 1,
@@ -16329,12 +16323,6 @@
             "rating": 1
         }
     ],
-    "kk private": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kk products and foams": [
         {
             "type": 1,
@@ -17780,6 +17768,12 @@
     "knk foods": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "knock": [
+        {
+            "type": 3,
             "rating": 1
         }
     ],

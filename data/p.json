@@ -1851,12 +1851,6 @@
             "rating": 1
         }
     ],
-    "p m promoters": [
-        {
-            "type": 4,
-            "rating": 2
-        }
-    ],
     "p m s s academy of advanced manufacturing": [
         {
             "type": 1,
@@ -8172,6 +8166,12 @@
         }
     ],
     "pascoe international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pascon": [
         {
             "type": 1,
             "rating": 1
@@ -30980,7 +30980,7 @@
     "premcard": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "premdor crosby": [
@@ -33516,12 +33516,6 @@
         }
     ],
     "primary carers 24/7 home care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "primary carers 24/7 homecare": [
         {
             "type": 1,
             "rating": 1
@@ -36621,6 +36615,10 @@
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "prode property development": [
@@ -40019,6 +40017,12 @@
             "rating": 1
         }
     ],
+    "ps2 management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "psa care": [
         {
             "type": 1,
@@ -40262,6 +40266,16 @@
         }
     ],
     "psk retail": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "psl capital": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
