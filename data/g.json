@@ -4119,12 +4119,6 @@
             "rating": 1
         }
     ],
-    "gary barber pharmacies": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gary baxter family dental practice": [
         {
             "type": 1,
@@ -8098,6 +8092,12 @@
         }
     ],
     "george ronald": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "george rye & sons": [
         {
             "type": 1,
             "rating": 1
@@ -14024,7 +14024,7 @@
     "global healthcare solutions": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "global highway": [
@@ -17373,19 +17373,13 @@
             "rating": 1
         }
     ],
-    "godlyn drylining": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "godolphin management company": [
         {
-            "type": 10,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 10,
             "rating": 1
         }
     ],
@@ -19705,12 +19699,6 @@
             "rating": 1
         }
     ],
-    "goodheart plus": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "goodheart surgery": [
         {
             "type": 1,
@@ -20206,6 +20194,12 @@
         }
     ],
     "gordon ramsay restaurants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gordon sports": [
         {
             "type": 1,
             "rating": 1
@@ -24028,12 +24022,6 @@
         }
     ],
     "great schools trust": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "great seven stars facilities management": [
         {
             "type": 1,
             "rating": 1

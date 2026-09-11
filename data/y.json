@@ -2531,6 +2531,12 @@
             "rating": 1
         }
     ],
+    "ymca st paul s": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ymca thames gateway": [
         {
             "type": 9,
@@ -3912,6 +3918,10 @@
     "your hippo": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 7,
             "rating": 1
         }
     ],

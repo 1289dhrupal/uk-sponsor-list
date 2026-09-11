@@ -4027,12 +4027,12 @@
     ],
     "ballet black": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "ballicom": [
@@ -24271,12 +24271,6 @@
             "rating": 1
         }
     ],
-    "biz trade": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "biz-effective": [
         {
             "type": 1,
@@ -26386,6 +26380,12 @@
         }
     ],
     "blc -serve": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "blck cap": [
         {
             "type": 1,
             "rating": 1
@@ -42214,6 +42214,10 @@
         }
     ],
     "broetje-automation": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

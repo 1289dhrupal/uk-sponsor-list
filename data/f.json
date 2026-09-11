@@ -149,6 +149,12 @@
             "rating": 1
         }
     ],
+    "firangi": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "forest care village": [
         {
             "type": 1,
@@ -6511,12 +6517,6 @@
             "rating": 1
         }
     ],
-    "featherstone rovers rlfc": [
-        {
-            "type": 10,
-            "rating": 1
-        }
-    ],
     "featuristic breathe deep": [
         {
             "type": 4,
@@ -10088,6 +10088,12 @@
         }
     ],
     "fingenius": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fingerpost consulting": [
         {
             "type": 1,
             "rating": 1
@@ -16494,6 +16500,12 @@
     "foi industry": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "foilco": [
+        {
+            "type": 5,
             "rating": 1
         }
     ],
