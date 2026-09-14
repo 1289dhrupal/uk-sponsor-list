@@ -769,7 +769,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -1929,7 +1929,7 @@
     ],
     "cac skills development centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -3025,7 +3025,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -3619,7 +3619,7 @@
     ],
     "calderwood baptist church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -3701,7 +3701,7 @@
     ],
     "caldy cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -3731,7 +3731,7 @@
     ],
     "caledonia basketball": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -4041,7 +4041,7 @@
     ],
     "callington cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -4211,7 +4211,7 @@
     ],
     "calvary braid valley": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4249,7 +4249,7 @@
     ],
     "calvary chapel hastings": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4259,19 +4259,19 @@
     ],
     "calvary chapel of harrogate": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "calvary chapel oxford": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "calvary chapel york": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4281,7 +4281,7 @@
     ],
     "calvary christian fellowship": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4329,7 +4329,7 @@
     ],
     "calvary ministries worldwide": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4427,7 +4427,7 @@
     ],
     "camberley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -4527,7 +4527,7 @@
     ],
     "camborne cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -5047,7 +5047,7 @@
     ],
     "cambridge rugby football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -5147,7 +5147,7 @@
     ],
     "cambridge united football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -5157,7 +5157,7 @@
     ],
     "cambridge university boat club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -6531,7 +6531,7 @@
     ],
     "cannock cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -6737,7 +6737,7 @@
     ],
     "canterbury cathedral": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -6765,7 +6765,7 @@
     ],
     "canterbury diocesan board of finance": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -6879,7 +6879,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -7687,7 +7687,7 @@
     ],
     "capitanio sisters": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -7955,7 +7955,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8137,7 +8137,7 @@
     ],
     "capuchin franciscan province of great britain": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -8871,7 +8871,7 @@
     ],
     "cardiff blues": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8883,7 +8883,7 @@
     ],
     "cardiff city football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -8915,7 +8915,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8945,7 +8945,7 @@
     ],
     "cardiff rugby club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -8959,7 +8959,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -9015,7 +9015,7 @@
     ],
     "cardigan islamic cultural centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -10741,12 +10741,6 @@
             "rating": 1
         }
     ],
-    "carelink healthcare professionals": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "carelink homecare": [
         {
             "type": 1,
@@ -11699,7 +11693,7 @@
     ],
     "carlton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -11747,7 +11741,7 @@
     ],
     "carlton towers cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -11805,7 +11799,7 @@
     ],
     "carmelite priory - oxford the friends of whitefriars oxford trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -12147,12 +12141,6 @@
             "rating": 1
         }
     ],
-    "carrapatelo construction engineering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "carrbridge hotel": [
         {
             "type": 1,
@@ -12203,7 +12191,7 @@
     ],
     "carrickfergus cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13551,7 +13539,7 @@
     ],
     "castle eden cricket and recreational club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13791,13 +13779,13 @@
     ],
     "castleford cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "castleford tigers rlfc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13958,6 +13946,12 @@
         }
     ],
     "caswell chiropractic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "casyan t/as cleeve house": [
         {
             "type": 1,
             "rating": 1
@@ -14415,7 +14409,7 @@
     ],
     "cathedral church of st andrews in wells": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -14469,13 +14463,13 @@
     ],
     "catherine isted": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "catherine lamacraft": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -14511,7 +14505,7 @@
     ],
     "catholic diocese of derry": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -14521,7 +14515,7 @@
     ],
     "catholic diocese of portsmouth": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -14535,7 +14529,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -14705,7 +14699,7 @@
     ],
     "causeway coast vineyard": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -14865,7 +14859,7 @@
     ],
     "caverswall cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -14945,7 +14939,7 @@
     ],
     "cawthorne cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -14991,7 +14985,7 @@
     ],
     "caythorpe cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -15361,7 +15355,7 @@
     ],
     "ccc church of christ sidcup kent parish": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -15379,7 +15373,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -16429,7 +16423,7 @@
     ],
     "celebrate church bradford": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -16470,6 +16464,12 @@
         }
     ],
     "celebrus technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "celentano fire protectiion": [
         {
             "type": 1,
             "rating": 1
@@ -16545,13 +16545,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "celestial church of christ aduragbemi power of prayer parish": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -16569,7 +16569,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -16589,7 +16589,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -16635,7 +16635,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -16657,7 +16657,7 @@
     ],
     "celestial church of christ manchester parish 1": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -16667,7 +16667,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -16693,7 +16693,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -17105,7 +17105,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -17385,7 +17385,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -17629,7 +17629,7 @@
     ],
     "central gurdwara singh sabha": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -17639,7 +17639,7 @@
     ],
     "central harvest church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -17683,7 +17683,7 @@
     ],
     "central jamia mosque madni & education centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -17741,7 +17741,7 @@
     ],
     "central mosque rochdale": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -17917,7 +17917,7 @@
     ],
     "centre 61 ministries": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -19535,7 +19535,7 @@
     ],
     "chabad lubavitch leeds": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20031,7 +20031,7 @@
     ],
     "chalmers church edinburgh": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -21259,7 +21259,7 @@
     ],
     "charity for roman catholic purposes administered in connection with the english province of the community of the religious of jesus and mary": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -21269,7 +21269,7 @@
     ],
     "charity of the bernardine sisters": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -21657,7 +21657,7 @@
     ],
     "charlton athletic football company": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -21667,7 +21667,7 @@
     ],
     "charlton athletic women fc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -21677,7 +21677,7 @@
     ],
     "charlton athletic womens football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -21707,7 +21707,7 @@
     ],
     "charlton kings cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -22181,7 +22181,7 @@
     ],
     "chashtiah educational trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -22639,7 +22639,7 @@
     ],
     "cheadle kingsway sports club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -22757,7 +22757,7 @@
     ],
     "checkley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -22917,7 +22917,7 @@
     ],
     "cheerful heart": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -23159,7 +23159,7 @@
     ],
     "chelmsford chieftains ihc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23177,7 +23177,7 @@
     ],
     "chelmsford cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23193,7 +23193,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -23211,7 +23211,7 @@
     ],
     "chelmsford presbyterian church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -23329,13 +23329,13 @@
     ],
     "chelsea football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "chelsea football club women": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23451,7 +23451,7 @@
     ],
     "cheltenham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23469,7 +23469,7 @@
     ],
     "cheltenham town association football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23563,7 +23563,7 @@
     ],
     "chemin neuf community": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -24231,7 +24231,7 @@
     ],
     "cheshire cricket board": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -24261,7 +24261,7 @@
     ],
     "cheshire phoenix basketball club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -24429,7 +24429,7 @@
     ],
     "chesterfield cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -24493,7 +24493,7 @@
     ],
     "chestfield cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -25299,7 +25299,7 @@
     ],
     "child evangelism fellowship of britain": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -25309,7 +25309,7 @@
     ],
     "child evangelism fellowship of ireland": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -25350,12 +25350,6 @@
         }
     ],
     "children in crossfire": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "children of colour": [
         {
             "type": 1,
             "rating": 1
@@ -26307,7 +26301,7 @@
     ],
     "chinese alliance churches union": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -26339,7 +26333,7 @@
     ],
     "chinese church in london": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -26377,7 +26371,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -26459,7 +26453,7 @@
     ],
     "chinmaya mission": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -26549,13 +26543,13 @@
     ],
     "chippenham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "chipping sodbury cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -26573,7 +26567,7 @@
     ],
     "chipstead coulsdon and old walcountians cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -27255,7 +27249,7 @@
     ],
     "chorley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -27519,7 +27513,7 @@
     ],
     "christ apostolic church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27547,7 +27541,7 @@
     ],
     "christ apostolic church - house of prayer glasgow": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27577,7 +27571,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -27591,7 +27585,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -27601,7 +27595,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27611,7 +27605,7 @@
     ],
     "christ apostolic church god is love": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27633,7 +27627,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -27653,13 +27647,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "christ apostolic church mount zion international": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27677,7 +27671,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -27693,7 +27687,7 @@
     ],
     "christ apostolic church pilgrims tabernacle": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27721,7 +27715,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -27737,7 +27731,7 @@
     ],
     "christ apostolic church wonders assembly": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27751,7 +27745,7 @@
     ],
     "christ apostolic church word of his grace": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27769,7 +27763,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -27783,13 +27777,13 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "christ apostolic mission church joy of salvation": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27811,7 +27805,7 @@
     ],
     "christ church birmingham": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27831,13 +27825,13 @@
     ],
     "christ church cathedral": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "christ church central": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -27859,7 +27853,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27869,7 +27863,7 @@
     ],
     "christ church haywards heath": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -27879,7 +27873,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27889,7 +27883,7 @@
     ],
     "christ church liverpool": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27903,7 +27897,7 @@
     ],
     "christ church london": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27943,7 +27937,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -27963,7 +27957,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -27991,7 +27985,7 @@
     ],
     "christ embassy": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -28009,7 +28003,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -28031,7 +28025,7 @@
     ],
     "christ gospel assembly": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -28049,7 +28043,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -28065,7 +28059,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -28145,7 +28139,7 @@
     ],
     "christ united pentecostal ministries liberty house": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -28163,7 +28157,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -28187,7 +28181,7 @@
     ],
     "christ`s chosen church of god": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -28207,7 +28201,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -28221,13 +28215,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "christchurch banstead": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -28285,7 +28279,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -28335,7 +28329,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -28347,7 +28341,7 @@
     ],
     "christian fellowship church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -28391,7 +28385,7 @@
     ],
     "christian outreach centre-bishop s stortford": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -28581,7 +28575,7 @@
     ],
     "chroma church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -28688,12 +28682,6 @@
         }
     ],
     "chrysalis consortium": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "chrysalis dementia care": [
         {
             "type": 1,
             "rating": 1
@@ -28869,7 +28857,7 @@
     ],
     "church & oswaldtwistle cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -28885,7 +28873,7 @@
     ],
     "church army": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -28899,7 +28887,7 @@
     ],
     "church communities": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -28953,7 +28941,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -28963,7 +28951,7 @@
     ],
     "church of god mission international dagenham": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -28997,7 +28985,7 @@
     ],
     "church of ireland and methodist chaplaincy belfast": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -29013,7 +29001,7 @@
     ],
     "church of scientology religious education college": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -29027,7 +29015,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -29041,7 +29029,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -29135,7 +29123,7 @@
     ],
     "churcher s college": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -29493,7 +29481,7 @@
     ],
     "cibao la pampa polo team": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -31087,7 +31075,7 @@
     ],
     "city church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31097,7 +31085,7 @@
     ],
     "city church cambridge": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -31111,13 +31099,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "city church manchester": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31281,7 +31269,7 @@
     ],
     "city football": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -31307,7 +31295,7 @@
     ],
     "city gates church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31431,7 +31419,7 @@
     ],
     "city life church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31499,7 +31487,7 @@
     ],
     "city of birmingham rockets basketball club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -31533,7 +31521,7 @@
     ],
     "city of faith ministry": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31549,7 +31537,7 @@
     ],
     "city of god christian centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31563,7 +31551,7 @@
     ],
     "city of gods": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31633,7 +31621,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -31835,7 +31823,7 @@
     ],
     "city valley church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -32103,7 +32091,7 @@
     ],
     "civil service north of ireland cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -32143,7 +32131,7 @@
     ],
     "ciyms cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -32575,7 +32563,7 @@
     ],
     "clan ice hockey club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -32737,7 +32725,7 @@
     ],
     "clare mathias": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -32933,7 +32921,7 @@
     ],
     "claretian missionaries trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -33003,7 +32991,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -33635,7 +33623,7 @@
     ],
     "classtrend": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -33807,7 +33795,7 @@
     ],
     "clayton west cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -33825,7 +33813,7 @@
     ],
     "clc international": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -34535,7 +34523,7 @@
     ],
     "cleator cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -34557,7 +34545,7 @@
     ],
     "cleckheaton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -34581,7 +34569,7 @@
     ],
     "cleethorpes cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -34593,7 +34581,7 @@
     ],
     "cleeve cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -34789,7 +34777,7 @@
     ],
     "clevedon cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -34845,7 +34833,7 @@
     ],
     "cleveland-northern ireland international basketball academy": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35217,13 +35205,13 @@
     ],
     "clifton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "clifton diocese": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -35311,7 +35299,7 @@
     ],
     "cliftonville academy cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35621,7 +35609,7 @@
     ],
     "clinova": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -35705,7 +35693,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35729,7 +35717,7 @@
     ],
     "clipstone cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35757,7 +35745,7 @@
     ],
     "clitheroe cricket bowls & tennis club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -36735,7 +36723,7 @@
     ],
     "clover polo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -36765,7 +36753,7 @@
     ],
     "clowne town cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -37001,7 +36989,7 @@
     ],
     "clydach cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -37117,7 +37105,7 @@
     ],
     "clydesdale cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -37815,7 +37803,7 @@
     ],
     "co-mission initiative trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -37907,7 +37895,7 @@
     ],
     "coal aston cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -38371,7 +38359,7 @@
     ],
     "cockermouth cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -39269,7 +39257,7 @@
     ],
     "coggeshall town cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -39701,7 +39689,7 @@
     ],
     "colchester and east essex cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -39809,7 +39797,7 @@
     ],
     "cole music productions": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -39869,7 +39857,7 @@
     ],
     "coleraine church of christ": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -39879,13 +39867,13 @@
     ],
     "coleraine cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "coleraine football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -40319,7 +40307,7 @@
     ],
     "collingham and district cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -40457,7 +40445,7 @@
     ],
     "colne cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -40865,7 +40853,7 @@
     ],
     "colwyn bay cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -41005,7 +40993,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -41569,7 +41557,7 @@
     ],
     "commission apostolic trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -41967,7 +41955,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -41977,7 +41965,7 @@
     ],
     "community church putney": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -42135,7 +42123,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -42145,7 +42133,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -42163,7 +42151,7 @@
     ],
     "community of the risen christ": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -42177,7 +42165,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -42231,7 +42219,7 @@
     ],
     "community sport outreach programme": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -43273,7 +43261,7 @@
     ],
     "compton & chanlder s ford cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -44245,19 +44233,19 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "congregation of our lady of sion": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "congregation of our lady of the missions cio": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -44271,7 +44259,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -44287,13 +44275,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "congregation of the dominican sisters of saint catherin of siena newcastle natal": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -44307,7 +44295,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -44319,7 +44307,7 @@
     ],
     "congregation of the most holy redeemer": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -44345,7 +44333,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -44357,7 +44345,7 @@
     ],
     "congregation of the sisters of the finding of jesus in the temple": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -44367,7 +44355,7 @@
     ],
     "congregation of the sisters of the immaculate heart of mary mother of christ": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -44377,7 +44365,7 @@
     ],
     "congresbury cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -44419,7 +44407,7 @@
     ],
     "conisbrough cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -45119,7 +45107,7 @@
     ],
     "consett and district cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -46911,7 +46899,7 @@
     ],
     "cookham dean cc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -47003,7 +46991,7 @@
     ],
     "cool hooves polo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -47015,7 +47003,7 @@
     ],
     "cool running motorsports": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -47337,7 +47325,7 @@
     ],
     "copdock & old ipswichian cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -47615,7 +47603,7 @@
     ],
     "copytech": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -47627,7 +47615,7 @@
     ],
     "cor-lumen christi trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -48539,7 +48527,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -48559,7 +48547,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -48569,7 +48557,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -48601,7 +48589,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -48661,7 +48649,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -48863,7 +48851,7 @@
     ],
     "cornwood cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -49049,7 +49037,7 @@
     ],
     "corpus christi carmelites": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -49189,7 +49177,7 @@
     ],
     "corrymeela community": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -49249,7 +49237,7 @@
     ],
     "corsham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -49311,7 +49299,7 @@
     ],
     "cortium polo team": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -50277,7 +50265,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -50975,7 +50963,7 @@
     ],
     "cove cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -50999,7 +50987,7 @@
     ],
     "cove rangers football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -51041,7 +51029,7 @@
     ],
     "covenant of mercy": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -51055,7 +51043,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -51065,7 +51053,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -51109,7 +51097,7 @@
     ],
     "coventry and north warwickshire cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -51131,7 +51119,7 @@
             "rating": 2
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -51153,7 +51141,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -51165,7 +51153,7 @@
     ],
     "coventry diocesan board of finance": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -51203,7 +51191,7 @@
     ],
     "coventry rugby": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -51223,7 +51211,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -51443,15 +51431,9 @@
             "rating": 1
         }
     ],
-    "cowbell managing general agency": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cowdrey cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -51467,7 +51449,7 @@
     ],
     "cowgate cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -51783,7 +51765,7 @@
     ],
     "cpfc women": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -52621,7 +52603,7 @@
     ],
     "cranleigh cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -52873,7 +52855,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -53614,6 +53596,10 @@
         }
     ],
     "creative restaurant": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -54585,7 +54571,7 @@
     ],
     "cricket scotland": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -55137,7 +55123,7 @@
     ],
     "croftlands community church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -55215,7 +55201,7 @@
     ],
     "crompton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -55489,7 +55475,7 @@
     ],
     "cross mission": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -55657,7 +55643,7 @@
     ],
     "crossflatts cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -55739,7 +55725,7 @@
     ],
     "crossover chapel international": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -55799,7 +55785,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -56105,7 +56091,7 @@
     ],
     "crown christian heritage trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -56209,7 +56195,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -56709,13 +56695,13 @@
     ],
     "crusaders community basketball": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "crusaders fc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -56775,7 +56761,7 @@
     ],
     "cruz novillo astrada": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -57071,7 +57057,7 @@
     ],
     "crystal palace football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -58081,13 +58067,13 @@
     ],
     "cuckfield cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "cuckney cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -58215,13 +58201,13 @@
     ],
     "cullompton cricket & recreational club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "cullompton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -58433,7 +58419,7 @@
     ],
     "cumberland lawn tennis club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -58959,7 +58945,7 @@
     ],
     "currie community church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -59635,7 +59621,7 @@
     ],
     "cutthorpe cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],

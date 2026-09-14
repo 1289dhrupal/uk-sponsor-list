@@ -1757,7 +1757,7 @@
     ],
     "r m beckett": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -2511,7 +2511,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -2602,12 +2602,6 @@
         }
     ],
     "r s foods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "r s prime builders": [
         {
             "type": 1,
             "rating": 1
@@ -3015,7 +3009,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -3385,7 +3379,7 @@
     ],
     "radcliffe-on-trent cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -3453,7 +3447,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -3835,7 +3829,7 @@
     ],
     "radlett cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -4169,7 +4163,7 @@
     ],
     "raghuvanshi mahajan london rama": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4465,7 +4459,7 @@
     ],
     "raiders ihc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -4887,7 +4881,7 @@
     ],
     "rainham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -4909,7 +4903,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -5043,7 +5037,7 @@
     ],
     "raith rovers football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -6287,7 +6281,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -6297,13 +6291,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "ramgarhia board northampton": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -6313,7 +6307,7 @@
     ],
     "ramgarhia board sikh temple": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -6323,7 +6317,7 @@
     ],
     "ramgarhia sabha derby": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -6337,13 +6331,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "ramgarhia sabha sikh temple": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -6353,7 +6347,7 @@
     ],
     "ramgarhia sikh association": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -6363,7 +6357,7 @@
     ],
     "ramgarhia sikh association gurdwara sahib sikh temple": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -6377,7 +6371,7 @@
     ],
     "ramgarhia sikh gurdwara": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -6391,7 +6385,7 @@
     ],
     "ramgarhia sikh temple": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -6401,7 +6395,7 @@
     ],
     "ramgharia sabha": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -6547,7 +6541,7 @@
     ],
     "ramsbottom cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -6559,7 +6553,7 @@
     ],
     "ramsey cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -6903,7 +6897,7 @@
     ],
     "randox laboratories": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -7939,7 +7933,7 @@
     ],
     "rastrick cricket & athletic club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8081,7 +8075,7 @@
     ],
     "rathplace developments": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8603,7 +8597,7 @@
     ],
     "rawtenstall cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -9503,7 +9497,7 @@
     ],
     "rccg - jubilee church manchester": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -9539,7 +9533,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -9549,7 +9543,7 @@
     ],
     "rccg city of david": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -9563,7 +9557,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -9583,7 +9577,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -9623,7 +9617,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -9651,7 +9645,7 @@
     ],
     "rccg house of mercy aylesbury": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -9675,7 +9669,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -9693,7 +9687,7 @@
     ],
     "rccg light house assembly hackney": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -9711,7 +9705,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -9725,13 +9719,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "rccg oldbury on the rock": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -9755,13 +9749,13 @@
     ],
     "rccg place of victory for all nations belfast": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "rccg power house": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -9775,7 +9769,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -9807,7 +9801,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -10323,13 +10317,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "re:ignite church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -10517,7 +10511,7 @@
     ],
     "reaching 4 christ": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -10581,7 +10575,7 @@
     ],
     "read cricket & bowling club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -10641,7 +10635,7 @@
     ],
     "reading cricket & hockey club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -10657,7 +10651,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -10685,7 +10679,7 @@
     ],
     "reading hindu centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -10709,7 +10703,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -10745,7 +10739,7 @@
     ],
     "reading rockets": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -11565,7 +11559,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -12139,7 +12133,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -12191,7 +12185,7 @@
     ],
     "red bull racing": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -13007,7 +13001,7 @@
     ],
     "redbridge buddhist cultural centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -13055,7 +13049,7 @@
     ],
     "redcar baptist church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13065,7 +13059,7 @@
     ],
     "redcar borough bears": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13179,7 +13173,7 @@
     ],
     "redditch mosque trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13323,7 +13317,7 @@
     ],
     "redeemed christian church of god rccg central office": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13363,7 +13357,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -13373,7 +13367,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13383,7 +13377,7 @@
     ],
     "redeemed christian church of god emmanuel christian centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13403,13 +13397,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "redeemed christian church of god victory assembly": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13437,7 +13431,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -13449,7 +13443,7 @@
     ],
     "redeemer croydon trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13603,7 +13597,7 @@
     ],
     "redhill islamic centre trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13853,7 +13847,7 @@
     ],
     "redruth cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13930,12 +13924,6 @@
         }
     ],
     "redsquid communications": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "redstar g b": [
         {
             "type": 1,
             "rating": 1
@@ -14451,7 +14439,7 @@
     ],
     "refresh church trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -15193,6 +15181,12 @@
             "rating": 1
         }
     ],
+    "regnology frr": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "regnology": [
         {
             "type": 1,
@@ -15531,7 +15525,7 @@
     ],
     "reigate priory cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -15567,7 +15561,7 @@
     ],
     "reina polo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -15757,7 +15751,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -16231,7 +16225,7 @@
     ],
     "religious of mary immaculate": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -16245,7 +16239,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -16255,7 +16249,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -16459,6 +16453,12 @@
             "rating": 1
         }
     ],
+    "rembrandt hotel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "remedia": [
         {
             "type": 1,
@@ -16567,7 +16567,7 @@
     ],
     "remnant christian network wales": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -17147,7 +17147,7 @@
     ],
     "renfrew cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -18093,6 +18093,12 @@
             "rating": 1
         }
     ],
+    "resolute photonics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "resolution care": [
         {
             "type": 1,
@@ -18563,7 +18569,7 @@
     ],
     "restoration chapel international": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -18587,7 +18593,7 @@
     ],
     "restoration revival fellowship luton": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -18597,7 +18603,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -18623,7 +18629,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -19223,7 +19229,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -19347,7 +19353,7 @@
     ],
     "revelation church manchester": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -19511,7 +19517,7 @@
     ],
     "revival house": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20371,6 +20377,12 @@
             "rating": 1
         }
     ],
+    "rh independent healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rh international": [
         {
             "type": 1,
@@ -20503,7 +20515,7 @@
     ],
     "rhema gospel church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20525,13 +20537,13 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "rhema & ireland": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20989,7 +21001,7 @@
     ],
     "ribblesdale wanderers cricket & bowling club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -21389,7 +21401,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -21633,7 +21645,7 @@
     ],
     "richmondshire cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -21774,6 +21786,12 @@
         }
     ],
     "ricoman": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ricos restaurant": [
         {
             "type": 1,
             "rating": 1
@@ -23507,7 +23525,7 @@
     ],
     "rishton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -24107,7 +24125,7 @@
     ],
     "river church banff": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -24151,7 +24169,7 @@
     ],
     "river hill ministries": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -24191,7 +24209,7 @@
     ],
     "river of life church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -24209,7 +24227,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -24509,7 +24527,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -25141,7 +25159,7 @@
     ],
     "rj jk and tj vaux": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -25313,7 +25331,7 @@
     ],
     "rjsg entertainment": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -26855,7 +26873,7 @@
     ],
     "robert fairley": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -27597,13 +27615,13 @@
     ],
     "rochdale cricket lacrosse and squash club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "rochdale hornets rugby league football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -27879,7 +27897,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -28115,7 +28133,7 @@
     ],
     "rockingham colliery cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -28331,7 +28349,7 @@
     ],
     "rode park and lawton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -28391,7 +28409,7 @@
     ],
     "rodin motorsport": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -28455,7 +28473,7 @@
     ],
     "roe green cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -28497,7 +28515,7 @@
     ],
     "roehampton club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -28829,7 +28847,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -28991,7 +29009,7 @@
     ],
     "rolleston cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -29115,7 +29133,7 @@
     ],
     "roman catholic archdiocese of southwark": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -29129,7 +29147,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -29143,13 +29161,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "roman catholic diocese of argyll and the isles": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -29159,7 +29177,7 @@
     ],
     "roman catholic diocese of dunkeld": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -29173,7 +29191,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -29187,7 +29205,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -29201,7 +29219,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -29267,7 +29285,7 @@
     ],
     "romanian orthodox church bristol": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -29941,7 +29959,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30831,12 +30849,6 @@
             "rating": 1
         }
     ],
-    "roslinct": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rosling king": [
         {
             "type": 1,
@@ -30869,7 +30881,7 @@
     ],
     "ross county football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -31155,13 +31167,13 @@
     ],
     "rotherham titans rugby": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "rotherham united football club rufc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -32183,7 +32195,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -32305,7 +32317,7 @@
     ],
     "royal high corstorphine cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -32511,7 +32523,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -32667,7 +32679,7 @@
     ],
     "royal wootton bassett cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -32895,7 +32907,7 @@
     ],
     "royton cricket bowling tennis & running club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -34879,7 +34891,7 @@
     ],
     "rugby cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -34889,7 +34901,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35175,7 +35187,7 @@
     ],
     "rumney gospel chapel": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -35319,7 +35331,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -35491,7 +35503,7 @@
     ],
     "rushden & higham town cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35721,7 +35733,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -35759,7 +35771,7 @@
     ],
     "rustington cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -36373,7 +36385,7 @@
     ],
     "rye cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -36597,7 +36609,7 @@
     ],
     "ryton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],

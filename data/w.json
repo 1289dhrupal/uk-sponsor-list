@@ -731,13 +731,13 @@
     ],
     "wakefield trinity rlfc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "wakefield trinity wildcats": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -831,7 +831,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -1511,7 +1511,7 @@
     ],
     "wadsley parish church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -1817,7 +1817,7 @@
     ],
     "wakefield thornes cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -2019,7 +2019,7 @@
     ],
     "walkden cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -2257,7 +2257,7 @@
     ],
     "wallasey cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -2333,7 +2333,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -2371,7 +2371,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -2423,7 +2423,7 @@
     ],
     "walmley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -2477,7 +2477,7 @@
     ],
     "walsall cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -2519,7 +2519,7 @@
     ],
     "walsden cricket and bowling club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -2537,7 +2537,7 @@
     ],
     "walshaw sports club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -2697,7 +2697,7 @@
     ],
     "walthamstow cricket tennis & squash club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -2963,7 +2963,7 @@
     ],
     "wanstead and snaresbrook cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -3233,7 +3233,7 @@
     ],
     "wargrave cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -3257,7 +3257,7 @@
     ],
     "waringstown cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -3351,7 +3351,7 @@
     ],
     "warminster cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -3631,7 +3631,7 @@
     ],
     "warrington wolves rugby league football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -3655,7 +3655,7 @@
     ],
     "warriors basketball club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -3747,12 +3747,6 @@
             "rating": 1
         }
     ],
-    "warwick company": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "warwick engineering ni": [
         {
             "type": 1,
@@ -3809,7 +3803,7 @@
     ],
     "warwickshire county cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -3889,7 +3883,7 @@
     ],
     "washington cricket club cic": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -3943,7 +3937,7 @@
     ],
     "wasps": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -4023,13 +4017,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "wat buddharam london": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4047,19 +4041,19 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "wat matchimaram": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "wat mongkhonwararam": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4081,19 +4075,19 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "wat pa tesarangsee": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "wat phra singh": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4111,13 +4105,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "wat sriratanaram temple": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4131,7 +4125,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4665,7 +4659,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -4795,7 +4789,7 @@
     ],
     "watford velmurugan trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4815,13 +4809,13 @@
     ],
     "wath cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "wathnan racing": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -4923,7 +4917,7 @@
     ],
     "watsonian cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -6763,7 +6757,7 @@
     ],
     "wec international": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -6837,7 +6831,7 @@
     ],
     "wedgwood cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -6879,7 +6873,7 @@
     ],
     "wednesday 1867": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -7147,7 +7141,7 @@
     ],
     "welbeck cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -7773,7 +7767,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -7789,7 +7783,7 @@
     ],
     "wellingborough town cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -7831,7 +7825,7 @@
     ],
     "wellington cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8051,7 +8045,7 @@
     ],
     "wellspring church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -8135,7 +8129,7 @@
     ],
     "wels church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -8161,7 +8155,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8177,7 +8171,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8193,7 +8187,7 @@
     ],
     "welsh netball association": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8257,7 +8251,7 @@
     ],
     "welwyn garden city cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8287,7 +8281,7 @@
     ],
     "wem cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8311,7 +8305,7 @@
     ],
     "wembdon cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8321,7 +8315,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -8669,7 +8663,7 @@
     ],
     "werrington cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8931,13 +8925,13 @@
     ],
     "west bridgfordians cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "west bromwich albion fc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -8965,7 +8959,7 @@
     ],
     "west chiltington and thakeham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -9169,6 +9163,12 @@
             "rating": 1
         }
     ],
+    "west granton dental care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "west green food & wine": [
         {
             "type": 1,
@@ -9201,7 +9201,7 @@
     ],
     "west ham united football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -9211,7 +9211,7 @@
     ],
     "west ham united women fc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -9245,7 +9245,7 @@
     ],
     "west herts sports club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -9341,7 +9341,7 @@
     ],
     "west london islamic centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -9557,7 +9557,7 @@
     ],
     "west of scotland cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -10155,7 +10155,7 @@
     ],
     "westcroft park polo club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -10697,7 +10697,7 @@
     ],
     "westhoughton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -10873,7 +10873,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -10893,7 +10893,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -10953,7 +10953,7 @@
     ],
     "westminster roman catholic diocese trustee": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -10973,7 +10973,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -11077,7 +11077,7 @@
     ],
     "weston-super-mare cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -11459,7 +11459,7 @@
     ],
     "weybridge cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -11731,7 +11731,7 @@
     ],
     "whalley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -12145,7 +12145,7 @@
     ],
     "whiston parish church cricket club non postal address": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -12905,19 +12905,19 @@
     ],
     "whitehaven cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "whitehaven rugby league 2010": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "whitehaven trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13119,7 +13119,7 @@
     ],
     "whithorn estate": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -13147,7 +13147,7 @@
     ],
     "whitmore cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13165,7 +13165,7 @@
     ],
     "whitney motorsport racing": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13177,7 +13177,7 @@
     ],
     "whitstable cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13515,7 +13515,7 @@
     ],
     "wickersley old village cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13533,7 +13533,7 @@
     ],
     "wickford cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13669,7 +13669,7 @@
     ],
     "widnes vikings rugby league club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13769,7 +13769,7 @@
     ],
     "wigan athletic afc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -13791,13 +13791,13 @@
     ],
     "wigan rugby league club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "wigan sports club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -14503,13 +14503,13 @@
     ],
     "william emerson": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "william fitzgerald o connor": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -14545,7 +14545,7 @@
     ],
     "william harper": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -14621,7 +14621,7 @@
     ],
     "william millard": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -14723,7 +14723,7 @@
     ],
     "williams grand prix engineering": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -14797,7 +14797,7 @@
     ],
     "willington cc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -15521,7 +15521,7 @@
     ],
     "wimbledon and district synagogue": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -15567,7 +15567,7 @@
     ],
     "wimbledon cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -16519,7 +16519,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -16617,7 +16617,7 @@
     ],
     "winsley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -17057,7 +17057,7 @@
     ],
     "wirksworth & middleton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -17153,7 +17153,7 @@
     ],
     "wisbech town cricket and hockey club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -17619,7 +17619,7 @@
     ],
     "witham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -17821,7 +17821,7 @@
     ],
     "wivenhoe town cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -18407,7 +18407,7 @@
     ],
     "woking and horsell cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -18461,7 +18461,7 @@
     ],
     "wokingham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -18643,7 +18643,7 @@
     ],
     "wollaton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -18713,7 +18713,7 @@
     ],
     "wolverhampton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -18735,7 +18735,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -18821,7 +18821,7 @@
     ],
     "wombourne cricket tennis and bowling club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -19201,7 +19201,7 @@
     ],
     "woodbank cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -19399,7 +19399,7 @@
     ],
     "woodford wells club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -19437,7 +19437,7 @@
     ],
     "woodhall spa cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -19509,7 +19509,7 @@
     ],
     "woodhouse grange cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -19527,7 +19527,7 @@
     ],
     "woodhouses cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -19653,7 +19653,7 @@
     ],
     "woodlands cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -19675,7 +19675,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -20063,7 +20063,7 @@
     ],
     "woodvale cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -20287,7 +20287,7 @@
     ],
     "worcester cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -20353,13 +20353,13 @@
     ],
     "worcestershire county cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "word of hope bible church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20385,7 +20385,7 @@
     ],
     "word of life ministries": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20399,7 +20399,7 @@
     ],
     "word of light international ministries": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20421,7 +20421,7 @@
     ],
     "word practitioners ministry": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20493,7 +20493,7 @@
     ],
     "worfield cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -20753,7 +20753,7 @@
     ],
     "workington cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -20765,7 +20765,7 @@
     ],
     "workington town rlfc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -21111,7 +21111,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -21131,7 +21131,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -21207,7 +21207,7 @@
     ],
     "world mission agency-winners chapel international": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -21291,7 +21291,7 @@
     ],
     "world professional billiards & snooker association": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -21319,7 +21319,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -21333,7 +21333,7 @@
     ],
     "world sport ministries": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -21859,7 +21859,7 @@
     ],
     "worthing thunder cic": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -22223,13 +22223,13 @@
     ],
     "wrenthorpe sports cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "wrexham afc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -22447,7 +22447,7 @@
     ],
     "wru gwent rugby": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -22999,13 +22999,13 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "wycombe tamil community association": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -23021,7 +23021,7 @@
     ],
     "wycombe wanderers football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {

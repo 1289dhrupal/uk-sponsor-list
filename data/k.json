@@ -2221,7 +2221,7 @@
     ],
     "kabaddi sport club southall": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -2371,7 +2371,7 @@
     ],
     "kadampa meditation centre london": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -2381,7 +2381,7 @@
     ],
     "kadampa meditation centre plym": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -2565,7 +2565,7 @@
     ],
     "kahaila": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -4267,7 +4267,7 @@
     ],
     "kanz ul huda": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -4849,7 +4849,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -5051,7 +5051,7 @@
     ],
     "karpaha vinayaga trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -7527,7 +7527,7 @@
     ],
     "kearsley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -7919,12 +7919,6 @@
             "rating": 1
         }
     ],
-    "keetha": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "keeva care": [
         {
             "type": 1,
@@ -8079,13 +8073,13 @@
     ],
     "kelburne cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "kelecyn eventing": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8303,7 +8297,7 @@
     ],
     "kelso cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8587,7 +8581,7 @@
     ],
     "kendal cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8695,7 +8689,7 @@
     ],
     "kenilworth wardens": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -9205,12 +9199,6 @@
             "rating": 1
         }
     ],
-    "kent college": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kent college pembury": [
         {
             "type": 1,
@@ -9249,7 +9237,7 @@
     ],
     "kent county cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -9383,7 +9371,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -9746,12 +9734,6 @@
         }
     ],
     "kerala meat hut": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kerala restaurant": [
         {
             "type": 1,
             "rating": 1
@@ -10153,7 +10135,7 @@
     ],
     "keswick cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -10275,7 +10257,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -10575,7 +10557,7 @@
     ],
     "keyersbridge": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -10631,7 +10613,7 @@
     ],
     "keynsham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -11335,13 +11317,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "khalsa darbar gurdwara sarbat da bhala derby": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -11532,12 +11514,6 @@
         }
     ],
     "khana international": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "khana khazana hospitality": [
         {
             "type": 1,
             "rating": 1
@@ -11851,7 +11827,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -11965,7 +11941,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -12273,7 +12249,7 @@
     ],
     "kian hall polo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -12791,7 +12767,7 @@
     ],
     "killyclooney cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -12815,7 +12791,7 @@
     ],
     "kilmarnock cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -12967,7 +12943,7 @@
     ],
     "kimberley institute cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13228,6 +13204,12 @@
         }
     ],
     "kind regards london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kind solutions": [
         {
             "type": 1,
             "rating": 1
@@ -13617,7 +13599,7 @@
     ],
     "king power polo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13671,13 +13653,13 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "king s church chessington": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13701,7 +13683,7 @@
     ],
     "king s church london": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -13763,7 +13745,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -13773,7 +13755,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13809,7 +13791,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -13881,7 +13863,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13897,7 +13879,7 @@
     ],
     "kingdom faith ministries international": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13929,7 +13911,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13961,7 +13943,7 @@
     ],
     "kingdom mandate centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13985,7 +13967,7 @@
     ],
     "kingdom palace outreach": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -14141,7 +14123,7 @@
     ],
     "kings church kingston": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -14175,7 +14157,7 @@
     ],
     "kings dock sports": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -14263,7 +14245,7 @@
     ],
     "kings lynn speedway": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -14827,7 +14809,7 @@
     ],
     "kingstonian cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -14873,7 +14855,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -15463,7 +15445,7 @@
     ],
     "kirkburton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -15493,7 +15475,7 @@
     ],
     "kirkcaldy central mosque": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -15787,7 +15769,7 @@
     ],
     "kislingbury temperance cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -17337,7 +17319,7 @@
     ],
     "knaresborough cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -17961,7 +17943,7 @@
     ],
     "knowle & dorridge cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -17973,7 +17955,7 @@
     ],
     "knowle cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -18147,7 +18129,7 @@
     ],
     "knypersley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -18705,7 +18687,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -18723,7 +18705,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -18783,7 +18765,7 @@
     ],
     "kokni community luton": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -21213,7 +21195,7 @@
     ],
     "krishna cymru": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -22009,7 +21991,7 @@
     ],
     "ksimc of leeds": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -22027,7 +22009,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -22523,7 +22505,7 @@
     ],
     "kubler racing": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23173,7 +23155,7 @@
     ],
     "kurland park polo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23283,7 +23265,7 @@
     ],
     "kusnacht practice polo team": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -24509,7 +24491,7 @@
     ],
     "kinross polo club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],

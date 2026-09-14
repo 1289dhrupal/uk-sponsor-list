@@ -1677,7 +1677,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -2459,7 +2459,7 @@
     ],
     "bacup cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -2483,7 +2483,7 @@
     ],
     "bad boys polo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -2571,7 +2571,7 @@
     ],
     "badminton association of england": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -2581,7 +2581,7 @@
     ],
     "badminton scotland": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -2793,7 +2793,7 @@
     ],
     "bagnall norton cc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -3111,7 +3111,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -3131,7 +3131,7 @@
     ],
     "bajaj polo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -3689,7 +3689,7 @@
     ],
     "balanz capital": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -3793,7 +3793,7 @@
     ],
     "balderton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -4055,7 +4055,7 @@
     ],
     "ballinamallard united football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -4187,7 +4187,7 @@
     ],
     "ballyspallen cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -4597,7 +4597,7 @@
     ],
     "bamboleo polo team": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -4839,7 +4839,7 @@
     ],
     "banbury muslim mosque society": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -5111,7 +5111,7 @@
     ],
     "bangash polo team": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -5307,7 +5307,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -5376,12 +5376,6 @@
         }
     ],
     "banh mi & pho": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "banh mi leo": [
         {
             "type": 1,
             "rating": 1
@@ -5713,12 +5707,6 @@
             "rating": 1
         }
     ],
-    "bankfield house care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bankfield medical practice": [
         {
             "type": 1,
@@ -5733,7 +5721,7 @@
     ],
     "bankfoot cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -5949,7 +5937,7 @@
     ],
     "banstead cricket & sports club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -6123,7 +6111,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -6137,7 +6125,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -6155,7 +6143,7 @@
     ],
     "baptist union of wales": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -6603,7 +6591,7 @@
     ],
     "bardon polo team": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -6615,7 +6603,7 @@
     ],
     "bardwell sports & community club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -6663,7 +6651,7 @@
     ],
     "barfoot farms": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -7085,7 +7073,7 @@
     ],
     "barkisland cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -7203,7 +7191,7 @@
     ],
     "barnard castle cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -7221,7 +7209,7 @@
     ],
     "barnards green cc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -7383,7 +7371,7 @@
     ],
     "barnoldswick cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -7423,7 +7411,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -7453,7 +7441,7 @@
     ],
     "barnsley woolley miners cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -7465,7 +7453,7 @@
     ],
     "barnt green cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -7693,7 +7681,7 @@
     ],
     "barrow cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -7711,7 +7699,7 @@
     ],
     "barrow rlfc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -7845,7 +7833,7 @@
     ],
     "bartestree and lugwardine cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -7947,7 +7935,7 @@
     ],
     "barton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8173,7 +8161,7 @@
     ],
     "baseballsoftballuk": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -8281,7 +8269,7 @@
     ],
     "basford united football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8433,7 +8421,7 @@
     ],
     "basingstoke bison": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8521,7 +8509,7 @@
     ],
     "basketballscotland": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -8815,7 +8803,7 @@
     ],
     "bath cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8881,7 +8869,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8905,7 +8893,7 @@
             "rating": 2
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8971,7 +8959,7 @@
     ],
     "batley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -9973,7 +9961,7 @@
     ],
     "bbih": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -10159,7 +10147,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -10379,7 +10367,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -11101,7 +11089,7 @@
     ],
     "beacon cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -11627,7 +11615,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -11783,7 +11771,7 @@
     ],
     "beaufort polo club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -12341,7 +12329,7 @@
     ],
     "beckenham sports club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -12377,7 +12365,7 @@
     ],
     "beckhampton stables": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -12447,7 +12435,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -12547,7 +12535,7 @@
     ],
     "bedford blues": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -12671,7 +12659,7 @@
     ],
     "bedminster cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -12749,7 +12737,7 @@
     ],
     "bedworth cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13003,7 +12991,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -13044,12 +13032,6 @@
         }
     ],
     "beechvale nursing home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "beechview developments": [
         {
             "type": 1,
             "rating": 1
@@ -13223,7 +13205,7 @@
     ],
     "bees ice hockey club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13807,7 +13789,7 @@
     ],
     "belfast city vineyard church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13865,7 +13847,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13881,7 +13863,7 @@
     ],
     "belfast star basketball club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -14011,7 +13993,7 @@
     ],
     "belhus cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -14309,7 +14291,7 @@
     ],
     "belle vue speedway 2017": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -14715,7 +14697,7 @@
     ],
     "belper meadows community sports club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -15245,7 +15227,7 @@
     ],
     "benfleet cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -15981,7 +15963,7 @@
     ],
     "benwell hill cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -16301,7 +16283,7 @@
     ],
     "berkhamsted cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -16823,7 +16805,7 @@
     ],
     "berwick speedway promotions": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -18137,7 +18119,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -18659,7 +18641,7 @@
     ],
     "beverley town cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -18767,7 +18749,7 @@
     ],
     "bexley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -19571,7 +19553,7 @@
     ],
     "bhakt bhakti aur bhagwan ashram": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -19685,7 +19667,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -20035,6 +20017,12 @@
             "rating": 1
         }
     ],
+    "bhs-jade": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bhsf": [
         {
             "type": 1,
@@ -20132,12 +20120,6 @@
         }
     ],
     "bi dare solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bi flexi support": [
         {
             "type": 1,
             "rating": 1
@@ -20293,7 +20275,7 @@
     ],
     "biblical counselling": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20403,7 +20385,7 @@
     ],
     "bickley park cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -20467,7 +20449,7 @@
     ],
     "biddestone cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -21173,7 +21155,7 @@
     ],
     "bignall end cricket club & miners welfare institute": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -21465,7 +21447,7 @@
     ],
     "billericay cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -21537,7 +21519,7 @@
     ],
     "billingham synthonia cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -21641,7 +21623,7 @@
     ],
     "billy nelson boxing": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -22975,7 +22957,7 @@
     ],
     "birkby rose hill cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -22993,7 +22975,7 @@
     ],
     "birkenhead park cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23113,7 +23095,7 @@
     ],
     "birmingham buddhist vihara trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -23159,7 +23141,7 @@
     ],
     "birmingham chinese evangelical church bcec": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -23185,7 +23167,7 @@
     ],
     "birmingham city football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -23199,7 +23181,7 @@
     ],
     "birmingham city mission": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -23221,7 +23203,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23293,7 +23275,7 @@
     ],
     "birmingham karma ling": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -23335,7 +23317,7 @@
     ],
     "birmingham panthers": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23353,7 +23335,7 @@
     ],
     "birmingham phoenix": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23385,7 +23367,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -23405,7 +23387,7 @@
     ],
     "birmingham speedway 2022": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23471,7 +23453,7 @@
     ],
     "birstall cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23747,13 +23729,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "bishops stortford cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23781,7 +23763,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -23821,7 +23803,7 @@
     ],
     "bishopston cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -24835,7 +24817,7 @@
     ],
     "black bears polo team": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -24979,7 +24961,7 @@
     ],
     "black flash promotions": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -25287,7 +25269,7 @@
     ],
     "blackburn diocesan board of finance": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -25333,7 +25315,7 @@
     ],
     "blackburn rovers ladies football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -25437,7 +25419,7 @@
     ],
     "blackheath cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -25561,7 +25543,7 @@
     ],
     "blackpool cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -25583,7 +25565,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -25595,7 +25577,7 @@
     ],
     "blackpool pleasure beach": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -25671,7 +25653,7 @@
     ],
     "blackrod cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -26221,7 +26203,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -26505,7 +26487,7 @@
     ],
     "blenheim baptist church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27156,6 +27138,14 @@
         }
     ],
     "bloom&square london": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 3,
             "rating": 1
@@ -29647,7 +29637,7 @@
     ],
     "blythe cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -30055,7 +30045,7 @@
             "rating": 2
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -30725,7 +30715,7 @@
     ],
     "bodhi college": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -30737,7 +30727,7 @@
     ],
     "bodhigyan meditation & cultural centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -30747,7 +30737,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30851,7 +30841,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31013,7 +31003,7 @@
     ],
     "bognor regis cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -31321,7 +31311,7 @@
     ],
     "boldon cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -32073,7 +32063,7 @@
     ],
     "bonds glen cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -32788,6 +32778,12 @@
         }
     ],
     "bora bora": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bora health": [
         {
             "type": 1,
             "rating": 1
@@ -33511,7 +33507,7 @@
     ],
     "boston cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -34063,7 +34059,7 @@
     ],
     "bournemouth cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -34129,7 +34125,7 @@
     ],
     "bourton vale cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -34231,7 +34227,7 @@
     ],
     "bovey tracey cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -34279,7 +34275,7 @@
     ],
     "bow muslim cultural centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -34341,7 +34337,7 @@
     ],
     "bowdon club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -34711,7 +34707,7 @@
     ],
     "boxxer": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -34805,7 +34801,7 @@
     ],
     "boyne hill cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35221,7 +35217,7 @@
     ],
     "bracebridge heath cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35255,7 +35251,7 @@
     ],
     "brackenwood polo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35283,7 +35279,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -35381,7 +35377,7 @@
     ],
     "bradfield cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35393,7 +35389,7 @@
     ],
     "bradford & bingley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35427,7 +35423,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35445,7 +35441,7 @@
     ],
     "bradford city football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -35461,7 +35457,7 @@
     ],
     "bradford dragons": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35515,7 +35511,7 @@
     ],
     "bradford sports & kabaddi club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35597,13 +35593,13 @@
     ],
     "bradninch cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "bradshaw cricket tennis & bowling club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35753,7 +35749,7 @@
     ],
     "brahma kumaris world spiritual university": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -37023,7 +37019,7 @@
     ],
     "bready cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -37051,7 +37047,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -37215,7 +37211,7 @@
     ],
     "breen equestrian": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -37383,7 +37379,7 @@
     ],
     "brent sikh centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -37407,7 +37403,7 @@
     ],
     "brentford fc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -37459,7 +37455,7 @@
     ],
     "brentwood cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -37547,7 +37543,7 @@
     ],
     "brett polo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -38151,7 +38147,7 @@
     ],
     "bridge family church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -38699,7 +38695,7 @@
     ],
     "bridgwater cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -38825,7 +38821,7 @@
     ],
     "brigade cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -39379,7 +39375,7 @@
     ],
     "brighton & hove albion football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -39389,7 +39385,7 @@
     ],
     "brighton & hove albion women s football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -40021,7 +40017,7 @@
     ],
     "brinscall cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -40113,7 +40109,7 @@
     ],
     "brislington cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -40209,7 +40205,7 @@
     ],
     "bristol city football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -40219,7 +40215,7 @@
     ],
     "bristol city women football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -40229,7 +40225,7 @@
     ],
     "bristol cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -40259,7 +40255,7 @@
     ],
     "bristol flyers": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -40361,7 +40357,7 @@
     ],
     "bristol pitbulls": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -40379,13 +40375,13 @@
     ],
     "bristol rovers football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "bristol rugby club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -40943,7 +40939,7 @@
     ],
     "british amateur gymnastics association": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -40953,7 +40949,7 @@
     ],
     "british gymnastics": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -41093,7 +41089,7 @@
     ],
     "british canoeing": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -41137,13 +41133,13 @@
     ],
     "british curling": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "british cycling": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -41183,7 +41179,7 @@
     ],
     "british fencing": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -41227,7 +41223,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -41253,7 +41249,7 @@
     ],
     "british judo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -41321,13 +41317,13 @@
     ],
     "british rowing": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "british shooting": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -41375,7 +41371,7 @@
     ],
     "british swimming": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -41391,7 +41387,7 @@
     ],
     "british triathlon federation": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -41411,7 +41407,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -41431,7 +41427,7 @@
     ],
     "british wheelchair basketball": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -41555,7 +41551,7 @@
     ],
     "brittania hindu shiva temple trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -41649,7 +41645,7 @@
     ],
     "brixham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -41733,7 +41729,7 @@
     ],
     "broad oak cricket & athletic club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -42303,7 +42299,7 @@
     ],
     "bromley common cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -42333,7 +42329,7 @@
     ],
     "bromley fc 95": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -42639,7 +42635,7 @@
     ],
     "brooke and district cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -42843,7 +42839,7 @@
     ],
     "brooklands sports club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -42945,7 +42941,7 @@
     ],
     "brooksbottom cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -43105,7 +43101,7 @@
     ],
     "broseley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -43253,7 +43249,7 @@
     ],
     "brothers of the sacred heart": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -43595,7 +43591,7 @@
     ],
     "brownlee fitness": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -43711,7 +43707,7 @@
     ],
     "broxbourne sports club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -44121,7 +44117,7 @@
     ],
     "bryan smart": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -44771,7 +44767,7 @@
     ],
     "bssn foundation": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -45273,7 +45269,7 @@
     ],
     "buckhurst hill cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -45327,7 +45323,7 @@
     ],
     "buckingham town cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -45553,7 +45549,7 @@
     ],
     "buddha metta society": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -46717,7 +46713,7 @@
     ],
     "burbage & easton royal cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -46979,7 +46975,7 @@
     ],
     "burgess hill cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -47129,7 +47125,7 @@
     ],
     "burndennett cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -47177,7 +47173,7 @@
     ],
     "burnham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -47207,7 +47203,7 @@
     ],
     "burningfold": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -47229,7 +47225,7 @@
     ],
     "burnley fc women": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -47243,7 +47239,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -47255,13 +47251,13 @@
     ],
     "burnmoor cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "burnopfield cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -47439,7 +47435,7 @@
     ],
     "burslem cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -47527,7 +47523,7 @@
     ],
     "burton latimer town cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -47575,7 +47571,7 @@
     ],
     "burwell & exning cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -47635,7 +47631,7 @@
     ],
     "bury st edmunds cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -48487,7 +48483,7 @@
     ],
     "buttermere farms": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -48563,7 +48559,7 @@
     ],
     "buxted park cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -49257,7 +49253,7 @@
     ],
     "byoma kusuma buddhadharma sangha": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -49544,12 +49540,6 @@
         }
     ],
     "bengal cottage": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "butterfly house": [
         {
             "type": 1,
             "rating": 1
@@ -49849,7 +49839,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -50080,12 +50070,6 @@
         }
     ],
     "bridge convenience": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "blair drummond smiddy": [
         {
             "type": 1,
             "rating": 1
@@ -50327,7 +50311,7 @@
     ],
     "big box padel club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],

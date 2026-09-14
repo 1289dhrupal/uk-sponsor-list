@@ -5429,12 +5429,6 @@
             "rating": 1
         }
     ],
-    "aakansha sharma counselling": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "aakash and company": [
         {
             "type": 1,
@@ -5788,6 +5782,12 @@
         }
     ],
     "aaria retail": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "aarijtraders": [
         {
             "type": 1,
             "rating": 1
@@ -6887,6 +6887,10 @@
             "rating": 2
         },
         {
+            "type": 10,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         }
@@ -7090,6 +7094,12 @@
         }
     ],
     "abbey healthcare hamilton": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "abbey healthcare kendal": [
         {
             "type": 1,
             "rating": 1
@@ -7481,7 +7491,7 @@
     ],
     "abbotskerswell cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8165,7 +8175,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8209,7 +8219,7 @@
     ],
     "aberdeen hindu temple trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -8273,7 +8283,7 @@
     ],
     "aberdeenshire cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -9169,7 +9179,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -9837,7 +9847,7 @@
     ],
     "abu zahra foundation": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -9937,7 +9947,7 @@
     ],
     "ac and ja brodie": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -11403,7 +11413,7 @@
     ],
     "accrington cricket & tennis club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -12335,7 +12345,7 @@
     ],
     "ackworth cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -13835,7 +13845,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -14749,7 +14759,7 @@
     ],
     "adam mosque & dawah academy": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -15329,7 +15339,7 @@
     ],
     "addington village cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -15919,7 +15929,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -16247,7 +16257,7 @@
     ],
     "adlington cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -16607,7 +16617,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -16719,7 +16729,7 @@
     ],
     "adrenaline alley": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -19195,7 +19205,7 @@
     ],
     "afc bournemouth": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -19431,7 +19441,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -19535,7 +19545,7 @@
     ],
     "afghan islamic and culture centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20409,7 +20419,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20515,7 +20525,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20541,7 +20551,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -20551,7 +20561,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20999,7 +21009,7 @@
     ],
     "aggregate developments": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -22333,7 +22343,7 @@
     ],
     "ahmadiyya muslim association united kingdom": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -22355,7 +22365,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -23043,7 +23053,7 @@
     ],
     "aigburth community church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -23445,7 +23455,7 @@
     ],
     "ainsdale cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23457,7 +23467,7 @@
     ],
     "ainsley saddlery": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -24053,7 +24063,7 @@
     ],
     "airdrieonians fc": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -24517,7 +24527,7 @@
     ],
     "aish hatorah": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -26667,7 +26677,7 @@
     ],
     "al amaan education trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -26735,7 +26745,7 @@
     ],
     "al arqam": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -26863,7 +26873,7 @@
     ],
     "al fatihah mosque and islamic centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -26889,7 +26899,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -26961,7 +26971,7 @@
     ],
     "al hijrah trust cio": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27365,7 +27375,7 @@
     ],
     "al raza foundation": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27429,7 +27439,7 @@
     ],
     "al sadiq academy": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -27779,7 +27789,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -27831,7 +27841,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -28217,7 +28227,7 @@
     ],
     "alamin spiritual centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -29027,7 +29037,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -29703,7 +29713,7 @@
     ],
     "aldridge cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -29831,7 +29841,7 @@
     ],
     "alegria polo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -29843,7 +29853,7 @@
     ],
     "alem": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -30102,12 +30112,6 @@
         }
     ],
     "alexander house nursery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "alexander hughes executive search": [
         {
             "type": 1,
             "rating": 1
@@ -30541,7 +30545,7 @@
     ],
     "alfie hyde": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -30833,7 +30837,7 @@
     ],
     "alhidaya croydon": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30978,12 +30982,6 @@
         }
     ],
     "ali food store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ali global": [
         {
             "type": 1,
             "rating": 1
@@ -31264,12 +31262,6 @@
         }
     ],
     "alie healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "alielectronics": [
         {
             "type": 1,
             "rating": 1
@@ -31889,7 +31881,7 @@
     ],
     "all england netball association": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -31935,7 +31927,7 @@
     ],
     "all hallows bow": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -32043,7 +32035,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -32057,7 +32049,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -32067,7 +32059,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -32081,7 +32073,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -32095,7 +32087,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -32191,7 +32183,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -32225,7 +32217,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -32335,7 +32327,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -33417,6 +33409,12 @@
             "rating": 1
         }
     ],
+    "allied law chambers solicitors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "allied logistics": [
         {
             "type": 1,
@@ -34093,7 +34091,7 @@
     ],
     "almarkaz ul islami": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -34251,7 +34249,7 @@
     ],
     "alnmouth and lesbury cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -34267,7 +34265,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -34733,7 +34731,7 @@
     ],
     "alpha international": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -35251,7 +35249,7 @@
     ],
     "alpine racing": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -35345,7 +35343,7 @@
     ],
     "alrewas cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35357,7 +35355,7 @@
     ],
     "alridha foundation": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -35445,7 +35443,7 @@
     ],
     "alsager cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -35667,7 +35665,7 @@
     ],
     "altamira polo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -36159,7 +36157,7 @@
     ],
     "alton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -36423,7 +36421,7 @@
     ],
     "alulbayt foundation": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -36624,6 +36622,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "always growing": [
         {
             "type": 1,
             "rating": 1
@@ -37349,7 +37353,7 @@
     ],
     "amana trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -37375,7 +37379,7 @@
     ],
     "amanara polo team": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -37387,7 +37391,7 @@
     ],
     "amanda jane jackson": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -37931,7 +37935,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -39001,7 +39005,7 @@
     ],
     "amersham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -39879,7 +39883,7 @@
     ],
     "ammanford cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -40059,7 +40063,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -40195,7 +40199,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -40451,7 +40455,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -40541,7 +40545,7 @@
     ],
     "ampthill and district community rugby club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -40609,7 +40613,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -41495,7 +41499,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -41507,7 +41511,7 @@
     ],
     "anandam london": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -41965,6 +41969,12 @@
             "rating": 1
         }
     ],
+    "ancoats care homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ancona enterprise": [
         {
             "type": 1,
@@ -42039,7 +42049,7 @@
     ],
     "andalus": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -42263,7 +42273,7 @@
     ],
     "andover cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -42383,7 +42393,7 @@
     ],
     "andrew burke": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -43473,7 +43483,7 @@
     ],
     "anglican consultative council": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -43507,7 +43517,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -44225,13 +44235,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "anjuman raja -e -mustafa": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -44667,7 +44677,7 @@
     ],
     "anningsley park property management": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -44751,7 +44761,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -45159,7 +45169,7 @@
     ],
     "anston cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -45531,7 +45541,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -45765,7 +45775,7 @@
     ],
     "anukampa bhikkhuni project": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -47579,7 +47589,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -47707,7 +47717,7 @@
     ],
     "apperley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -47995,7 +48005,7 @@
     ],
     "appleby frodingham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -49128,12 +49138,6 @@
         }
     ],
     "aqua fresh produce": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "aqua fun": [
         {
             "type": 1,
             "rating": 1
@@ -50295,7 +50299,7 @@
     ],
     "arbroath football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -50313,7 +50317,7 @@
     ],
     "arbroath united cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -50372,6 +50376,12 @@
         }
     ],
     "arc care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "arc club": [
         {
             "type": 1,
             "rating": 1
@@ -50941,7 +50951,7 @@
     ],
     "archbishop of york": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -50963,7 +50973,7 @@
     ],
     "archdiocese of cardiff-menevia": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -50981,7 +50991,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -50991,7 +51001,7 @@
     ],
     "archdiocese of liverpool": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -51005,7 +51015,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -51377,7 +51387,7 @@
     ],
     "archway peterborough table tennis club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -51701,13 +51711,13 @@
     ],
     "arden international motorsport": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "arden motorsport": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -51867,7 +51877,7 @@
     ],
     "ardmore cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -53119,7 +53129,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -54819,7 +54829,7 @@
     ],
     "arsenal football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -54833,7 +54843,7 @@
     ],
     "arsenal women football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -55347,13 +55357,19 @@
             "rating": 1
         }
     ],
-    "arthrex": [
+    "arthington ventures": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "arthrex": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -57931,7 +57947,7 @@
     ],
     "ashburnham christian trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -57975,7 +57991,7 @@
     ],
     "ashby hastings cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -58023,7 +58039,7 @@
     ],
     "ashcombe park cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -58383,7 +58399,7 @@
     ],
     "ashington cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -58635,7 +58651,7 @@
     ],
     "ashmanhaugh & barton wanderers cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -58815,7 +58831,7 @@
     ],
     "ashtead cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -58897,7 +58913,7 @@
     ],
     "ashton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -59409,7 +59425,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -61455,7 +61471,7 @@
     ],
     "association of baptists for world evangelism of the united kingdom of great britain and northern ireland": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -61737,7 +61753,7 @@
     ],
     "astanga yoga london": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -61905,13 +61921,13 @@
     ],
     "astley & tyldesley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "astley bridge cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -62011,7 +62027,7 @@
     ],
     "aston hall cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -62029,7 +62045,7 @@
     ],
     "aston ingham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -62041,7 +62057,7 @@
     ],
     "aston manor cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -62103,7 +62119,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -62119,7 +62135,7 @@
     ],
     "aston villa women s football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -62425,7 +62441,7 @@
     ],
     "astwood bank cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -63349,7 +63365,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -63425,7 +63441,7 @@
     ],
     "atherton cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -63553,7 +63569,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -64833,7 +64849,7 @@
     ],
     "attenborough cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -64955,7 +64971,7 @@
     ],
     "attock community sports and cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -65453,7 +65469,7 @@
     ],
     "audley cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -65641,7 +65657,7 @@
     ],
     "augustinian sisters": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -65651,7 +65667,7 @@
     ],
     "augustinians of the assumption": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -66217,7 +66233,7 @@
     ],
     "austerlands cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -68113,7 +68129,7 @@
     ],
     "avebury cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -68300,6 +68316,12 @@
         }
     ],
     "avenues healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "aveo": [
         {
             "type": 1,
             "rating": 1
@@ -70819,6 +70841,12 @@
             "rating": 1
         }
     ],
+    "ayan foods wholesale": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ayan / da village afghan restaurant": [
         {
             "type": 1,
@@ -71143,7 +71171,7 @@
     ],
     "ayr cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -71161,7 +71189,7 @@
     ],
     "ayr united football & athletic club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -72039,7 +72067,7 @@
     ],
     "aztecs cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -73463,12 +73491,6 @@
             "rating": 1
         }
     ],
-    "atholl arms hotel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "amigos burgers and shakes harlesden": [
         {
             "type": 1,
@@ -73851,7 +73873,7 @@
     ],
     "athletics": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {

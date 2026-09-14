@@ -915,7 +915,7 @@
     ],
     "g wooldridge": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -1653,16 +1653,6 @@
             "rating": 1
         }
     ],
-    "gaat international": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "gab outsourcing": [
         {
             "type": 1,
@@ -1743,7 +1733,7 @@
     ],
     "gabriel insulation": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -2185,7 +2175,7 @@
     ],
     "gaia house trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -2351,7 +2341,7 @@
     ],
     "gala cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -3563,7 +3553,7 @@
     ],
     "garboldisham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -4047,7 +4037,7 @@
     ],
     "garstang cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -4311,7 +4301,7 @@
     ],
     "gate church international scio": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4421,7 +4411,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -4459,7 +4449,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -4493,7 +4483,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -4567,7 +4557,7 @@
     ],
     "gateway ministries": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4577,7 +4567,7 @@
     ],
     "gateway chapel": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4673,7 +4663,7 @@
     ],
     "gatwick bangladeshi islamic and community association": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -4715,7 +4705,7 @@
     ],
     "gaudiya mission": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -4727,7 +4717,7 @@
     ],
     "gaur govinda trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -5231,7 +5221,7 @@
     ],
     "gb srs brundavan": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -6013,7 +6003,7 @@
     ],
     "gedling & sherwood cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -6025,7 +6015,7 @@
     ],
     "gedling colliery cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -6130,6 +6120,12 @@
         }
     ],
     "geist pilates": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "geku": [
         {
             "type": 1,
             "rating": 1
@@ -6503,6 +6499,12 @@
             "rating": 1
         }
     ],
+    "gen zeal": [
+        {
+            "type": 9,
+            "rating": 2
+        }
+    ],
     "gen-c": [
         {
             "type": 1,
@@ -6835,7 +6837,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -8047,7 +8049,7 @@
     ],
     "george meyrick": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -8975,11 +8977,11 @@
     ],
     "gfa world": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 9,
             "rating": 2
         },
         {
@@ -9977,7 +9979,7 @@
     ],
     "gidea park & romford cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -10027,7 +10029,7 @@
     ],
     "giffnock newton mearns synagogue": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -10209,7 +10211,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -10417,7 +10419,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -10639,7 +10641,7 @@
     ],
     "gillingham football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -11787,7 +11789,7 @@
     ],
     "glamorgan cricket": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -11927,7 +11929,7 @@
     ],
     "glasgow academical sports club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -11955,7 +11957,7 @@
     ],
     "glasgow city football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -12059,7 +12061,7 @@
     ],
     "glasgow tigers speedway": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -12653,7 +12655,7 @@
     ],
     "glendale church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -12677,7 +12679,7 @@
     ],
     "glendermott cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -12861,7 +12863,7 @@
     ],
     "glenn sherriff": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -12903,7 +12905,7 @@
     ],
     "glenrothes baptist church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13983,7 +13985,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -14097,7 +14099,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -14599,7 +14601,7 @@
     ],
     "global prophetic alliance": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -15525,7 +15527,7 @@
     ],
     "glodwick cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -15597,7 +15599,7 @@
     ],
     "glorious king s ministries": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -15671,7 +15673,7 @@
     ],
     "glory international christian centre": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -15721,7 +15723,7 @@
     ],
     "glossop cricket & bowling club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -15755,7 +15757,7 @@
     ],
     "gloucester circket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -15779,7 +15781,7 @@
     ],
     "gloucester rugby": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -15815,7 +15817,7 @@
     ],
     "gloucestershire county cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -16525,7 +16527,7 @@
     ],
     "gnd united kabaddi club erith and belvedere": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -16555,7 +16557,7 @@
     ],
     "gng kabaddi club smethwick b ham": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -17051,7 +17053,7 @@
     ],
     "goatacre cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -17081,7 +17083,7 @@
     ],
     "gobind marg": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -17151,7 +17153,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -17169,7 +17171,7 @@
     ],
     "god city london": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -17179,7 +17181,7 @@
     ],
     "god is faithful baptist church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -17199,7 +17201,7 @@
     ],
     "god s kingdom society church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -17379,7 +17381,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -17707,7 +17709,7 @@
     ],
     "golcar cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -17815,7 +17817,7 @@
     ],
     "gold hill baptist church": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -18347,29 +18349,13 @@
     ],
     "golden hill cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "golden hinde": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "golden home care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "golden home care solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -19171,7 +19157,7 @@
     ],
     "gomersal cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -19505,7 +19491,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -19837,7 +19823,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -19847,7 +19833,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20019,7 +20005,7 @@
     ],
     "goodwin table tennis club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -20063,7 +20049,7 @@
     ],
     "goole town cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -20513,7 +20499,7 @@
     ],
     "gospel baptist mission": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -20527,7 +20513,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -21289,7 +21275,7 @@
     ],
     "grace and compassion benedictines cio": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -21307,7 +21293,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -21335,7 +21321,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -21361,7 +21347,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -21389,7 +21375,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -21401,7 +21387,7 @@
     ],
     "grace evangelistic ministries europe": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -21463,7 +21449,7 @@
     ],
     "grace international foundation liverpool": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -21517,7 +21503,7 @@
     ],
     "grace of mercy prayer mountain": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -21559,7 +21545,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -21653,7 +21639,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -22207,7 +22193,7 @@
     ],
     "grampound road cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -22911,7 +22897,7 @@
     ],
     "grantham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23247,7 +23233,7 @@
     ],
     "gravesend cricket lawn tennis and bowlingclub 1960": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23619,7 +23605,7 @@
     ],
     "great ayton cricket & football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23647,7 +23633,7 @@
     ],
     "great brickhill cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23677,7 +23663,7 @@
     ],
     "great britain wheelchair rugby": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23827,7 +23813,7 @@
     ],
     "great harwood sports and social club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -23963,7 +23949,7 @@
     ],
     "great oaks polo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -24051,7 +24037,7 @@
     ],
     "great trippetts polo club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -24135,7 +24121,7 @@
     ],
     "greater europe mission": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -24221,7 +24207,7 @@
     ],
     "greater manchester community basketball": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -24333,7 +24319,7 @@
     ],
     "greek orthodox cathedral of the dormition of theotokos and saint andrew": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -24419,6 +24405,12 @@
             "rating": 1
         }
     ],
+    "green & peter": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "green 13 solutions": [
         {
             "type": 1,
@@ -24487,7 +24479,7 @@
     ],
     "green ball polo": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -24643,7 +24635,7 @@
     ],
     "green dome mosque": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -24773,7 +24765,7 @@
     ],
     "green gates polo team": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -24929,7 +24921,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -25501,7 +25493,7 @@
     ],
     "greencroft farms": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -25591,7 +25583,7 @@
     ],
     "greenfield cricket & social club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -25915,7 +25907,7 @@
     ],
     "greenmount cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -25927,7 +25919,7 @@
     ],
     "greenock cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -25939,7 +25931,7 @@
     ],
     "greenock morton football club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -26351,7 +26343,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -26983,7 +26975,7 @@
     ],
     "greywell ventures": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
@@ -27317,7 +27309,7 @@
     ],
     "grimsby town cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -27459,7 +27451,7 @@
     ],
     "grit performance": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -29075,7 +29067,7 @@
     ],
     "gt witchingham cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -29515,7 +29507,7 @@
     ],
     "guards polo club holdings": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -29811,7 +29803,7 @@
     ],
     "guildford cricket club": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -29925,7 +29917,7 @@
     ],
     "gujarat hindu society": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -30201,7 +30193,7 @@
     ],
     "gulzare madina islamic welfare trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30441,7 +30433,7 @@
     ],
     "gurdwara amrit parchar dharmik diwan bradford": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30451,7 +30443,7 @@
     ],
     "gurdwara amrit parchar dharmik diwan birmingham": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30461,7 +30453,7 @@
     ],
     "gurdwara baba buddha sahib ji": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -30471,19 +30463,19 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "gurdwara dasmesh darbar": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "gurdwara dukh nirwaran sahib": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30501,13 +30493,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "gurdwara guru hargobind sahib": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30521,7 +30513,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -30531,13 +30523,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "gurdwara leamington and warwick": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30551,7 +30543,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -30561,7 +30553,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -30571,13 +30563,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "gurdwara shaheed baba deep singh ji": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30591,13 +30583,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "gurdwara singh sabha": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30607,7 +30599,7 @@
     ],
     "gurdwara siri guru gobind singh ji": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30617,7 +30609,7 @@
     ],
     "gurdwara siri guru singh sabha": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30635,7 +30627,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30649,7 +30641,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -30659,7 +30651,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30673,13 +30665,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "gurdwara tegh bahadur sahib": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -30705,7 +30697,7 @@
     ],
     "gurjar hindu union": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -30971,7 +30963,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -31035,13 +31027,13 @@
     ],
     "guru arjan dev gurdwara": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "guru arjan dev gurdwara kabaddi club derby": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -31069,13 +31061,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "guru gobind singh sikh temple": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31131,13 +31123,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "guru nanak durbar sikh temple": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31151,7 +31143,7 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -31167,13 +31159,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "guru nanak gurdwara bedford": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31187,37 +31179,37 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "guru nanak gurdwara kabaddi club gravesend": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
     "guru nanak gurdwara of hull": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "guru nanak gurdwara south birmingham": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "guru nanak gurudwara sikh temple": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "guru nanak nishkam sewak jatha": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31231,19 +31223,19 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "guru nanak parkash gurdwara": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "guru nanak satsang sabha karamsar": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31257,13 +31249,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "guru nanak sikh organisation": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -31273,13 +31265,13 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "guru nanak sikhtemple": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31289,7 +31281,7 @@
     ],
     "guru nanak singh sabha gurdwara sikh temple": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31343,17 +31335,17 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
     "guru tegh bahadur gurdwara": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -31377,7 +31369,7 @@
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
@@ -32491,7 +32483,7 @@
     ],
     "guildford flames": [
         {
-            "type": 10,
+            "type": 11,
             "rating": 1
         }
     ],
