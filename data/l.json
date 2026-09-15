@@ -8475,12 +8475,6 @@
             "rating": 1
         }
     ],
-    "learn 2 earn": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "learn french with alexa": [
         {
             "type": 1,
@@ -17034,6 +17028,10 @@
     "lister house surgery": [
         {
             "type": 1,
+            "rating": 4
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -23014,6 +23012,12 @@
         }
     ],
     "london learning consortium": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "london legacyuk": [
         {
             "type": 1,
             "rating": 1

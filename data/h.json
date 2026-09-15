@@ -11405,10 +11405,6 @@
     ],
     "haymarket media": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 1,
             "rating": 1
         }
@@ -29621,12 +29617,6 @@
             "rating": 1
         }
     ],
-    "hrb contractors": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hrb hotel company": [
         {
             "type": 1,
@@ -30730,7 +30720,7 @@
     "hudson harbour residential": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "hudson lorne": [
@@ -33664,6 +33654,16 @@
         }
     ],
     "hyperion industries": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hyperion robotics": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

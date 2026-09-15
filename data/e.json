@@ -3797,6 +3797,18 @@
             "rating": 1
         }
     ],
+    "easy care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "easy pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "easy care solutions": [
         {
             "type": 1,
@@ -11793,6 +11805,12 @@
             "rating": 1
         }
     ],
+    "electryone ai": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "electus healthcare 1": [
         {
             "type": 1,
@@ -19367,6 +19385,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "enjoy church": [
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "enjoy designs": [
@@ -27658,12 +27682,6 @@
         }
     ],
     "evans canlines": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "evans hart": [
         {
             "type": 1,
             "rating": 1

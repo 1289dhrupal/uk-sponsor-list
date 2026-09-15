@@ -2775,12 +2775,6 @@
             "rating": 1
         }
     ],
-    "r983 live test": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ra & a accountants": [
         {
             "type": 1,
@@ -3069,12 +3063,6 @@
             "rating": 1
         }
     ],
-    "rabeya constructions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rabm facility management co": [
         {
             "type": 1,
@@ -3098,12 +3086,6 @@
         }
     ],
     "raby cross convenience store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "rac engineering company": [
         {
             "type": 1,
             "rating": 1
@@ -4961,12 +4943,6 @@
             "rating": 1
         }
     ],
-    "raisa kitchen": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "raisa thai foods": [
         {
             "type": 1,
@@ -5390,12 +5366,6 @@
         }
     ],
     "raja pizza bradford": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "raja saeen": [
         {
             "type": 1,
             "rating": 1
@@ -11299,12 +11269,6 @@
             "rating": 1
         }
     ],
-    "realrippers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "realstar management": [
         {
             "type": 1,
@@ -11728,6 +11692,12 @@
         }
     ],
     "recon waste management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "reconciling leaders network": [
         {
             "type": 1,
             "rating": 1
@@ -28031,6 +28001,12 @@
             "rating": 1
         }
     ],
+    "rocket rights booster": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rocket saas": [
         {
             "type": 1,
@@ -32173,14 +32149,24 @@
             "rating": 1
         }
     ],
-    "royal college of surgeons of england": [
+    "royal college of pharmacy": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "royal college of surgeons of england": [
+        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "royal college of veterinary surgeons": [
@@ -32486,16 +32472,6 @@
     "royal park nursing home": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "royal pharmaceutical society": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -35373,6 +35349,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "runwell energy": [
+        {
+            "type": 3,
+            "rating": 3
         }
     ],
     "runwood homes": [

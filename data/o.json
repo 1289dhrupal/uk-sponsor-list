@@ -2007,12 +2007,6 @@
             "rating": 1
         }
     ],
-    "oate 2006": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oathall veterinary": [
         {
             "type": 1,
@@ -2999,6 +2993,16 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "ochil tower school": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "ochiltree stores": [
@@ -5586,6 +5590,12 @@
         }
     ],
     "olive s cypriot street food": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "oliveheal healthcare": [
         {
             "type": 1,
             "rating": 1

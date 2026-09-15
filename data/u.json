@@ -1561,12 +1561,6 @@
             "rating": 1
         }
     ],
-    "ukcb": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "uke electric service": [
         {
             "type": 1,
@@ -5618,6 +5612,12 @@
         }
     ],
     "unity media midlands": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "unity one care solution": [
         {
             "type": 1,
             "rating": 1

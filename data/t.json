@@ -941,6 +941,12 @@
             "rating": 1
         }
     ],
+    "trustful hands": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the enniskillen hotel": [
         {
             "type": 1,
@@ -17476,12 +17482,6 @@
     "thames town": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "thames valley cavaliers": [
-        {
-            "type": 11,
             "rating": 1
         }
     ],
@@ -36359,12 +36359,6 @@
             "rating": 1
         }
     ],
-    "the riverside public house": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the riverside surgery": [
         {
             "type": 1,
@@ -41587,6 +41581,16 @@
             "rating": 1
         }
     ],
+    "therme north": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "thermeon": [
         {
             "type": 1,
@@ -41812,6 +41816,12 @@
         }
     ],
     "thiara construction": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "thieme gb": [
         {
             "type": 1,
             "rating": 1
@@ -49403,12 +49413,6 @@
             "rating": 1
         }
     ],
-    "top notch support": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "top notch tyres": [
         {
             "type": 1,
@@ -52073,6 +52077,12 @@
             "rating": 1
         }
     ],
+    "tp legal": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tp manufacturing t/t pendock": [
         {
             "type": 1,
@@ -53620,12 +53630,6 @@
         }
     ],
     "transformcx": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "transformer systems": [
         {
             "type": 1,
             "rating": 1
