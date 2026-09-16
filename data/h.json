@@ -520,7 +520,7 @@
     "home instead greenwich & bexley": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "h & s builders merchants": [
@@ -4723,7 +4723,15 @@
     ],
     "hammertech software": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 3,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12484,6 +12492,18 @@
         }
     ],
     "hdl executive search": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hdl lab": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "h d l dental laboratory": [
         {
             "type": 1,
             "rating": 1
@@ -21889,6 +21909,12 @@
             "rating": 1
         }
     ],
+    "hitech construction africa": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hitech ems": [
         {
             "type": 1,
@@ -29665,6 +29691,12 @@
             "rating": 1
         }
     ],
+    "hridha": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hrini": [
         {
             "type": 1,
@@ -29691,12 +29723,12 @@
     ],
     "hrmny": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 12,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "hrn enterprises": [

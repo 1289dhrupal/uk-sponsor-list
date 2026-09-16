@@ -6121,12 +6121,12 @@
     ],
     "baptist mid-mission of the united kingdom of great britain and northern ireland": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 10,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "baptist missionary society": [
@@ -10704,26 +10704,6 @@
         }
     ],
     "bdr2": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bdrc continental": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bva bdrc": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -27132,12 +27112,6 @@
         }
     ],
     "bloom unlimited": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bloom wellness": [
         {
             "type": 1,
             "rating": 1

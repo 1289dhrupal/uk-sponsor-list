@@ -7683,6 +7683,12 @@
             "rating": 1
         }
     ],
+    "genuine restaurants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "genuine technologies": [
         {
             "type": 1,
@@ -8568,6 +8574,12 @@
         }
     ],
     "gers power": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gershiels": [
         {
             "type": 1,
             "rating": 1
@@ -13589,6 +13601,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "global diabetes initiates": [
+        {
+            "type": 9,
+            "rating": 2
         }
     ],
     "global digital express": [
@@ -26314,7 +26332,7 @@
     "greenwich care": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "greenwich film studios": [

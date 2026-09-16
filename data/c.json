@@ -1227,6 +1227,12 @@
             "rating": 1
         }
     ],
+    "c&w family office": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "c&w transport": [
         {
             "type": 1,
@@ -15007,6 +15013,12 @@
             "rating": 1
         }
     ],
+    "cb digital marketing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cb electrical & mechanical": [
         {
             "type": 1,
@@ -23227,6 +23239,10 @@
     ],
     "chelmsford srinivasa perumal temple": [
         {
+            "type": 10,
+            "rating": 2
+        },
+        {
             "type": 2,
             "rating": 1
         }
@@ -23416,6 +23432,12 @@
         }
     ],
     "chelsfield pharm": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "chelsom": [
         {
             "type": 1,
             "rating": 1
@@ -24884,6 +24906,12 @@
         }
     ],
     "chichester specsavers hearcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "chichester staff": [
         {
             "type": 1,
             "rating": 1
@@ -29715,13 +29743,19 @@
             "rating": 1
         }
     ],
+    "cil pearson ham": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cil strategy consultants": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -34118,6 +34152,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "clear solutions": [
         {
             "type": 1,
             "rating": 1
@@ -41512,6 +41552,12 @@
         }
     ],
     "commercial property finance": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "commercial design": [
         {
             "type": 1,
             "rating": 1
@@ -54799,12 +54845,6 @@
             "rating": 1
         }
     ],
-    "crispy buns": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "crispy dosa hounslow": [
         {
             "type": 1,
@@ -61964,12 +62004,6 @@
         }
     ],
     "clifton chippy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "chennai silks": [
         {
             "type": 1,
             "rating": 1

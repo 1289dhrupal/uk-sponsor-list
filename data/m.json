@@ -10160,7 +10160,7 @@
     "manage care homes": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "managed healthcare": [
@@ -33223,7 +33223,7 @@
             "rating": 1
         }
     ],
-    "mighty protection": [
+    "mighty recruitment": [
         {
             "type": 1,
             "rating": 1
@@ -47251,6 +47251,12 @@
             "rating": 1
         }
     ],
+    "move direct": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "move right express birmingham": [
         {
             "type": 1,
@@ -54317,6 +54323,12 @@
             "rating": 1
         }
     ],
+    "music action international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "music beyond mainstream": [
         {
             "type": 4,
@@ -55228,12 +55240,6 @@
         }
     ],
     "my care grampian": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "my care choice": [
         {
             "type": 1,
             "rating": 1
