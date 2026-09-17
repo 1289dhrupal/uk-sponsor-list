@@ -751,6 +751,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 18,
+            "rating": 1
         }
     ],
     "washington mayfair hotel": [
@@ -3299,12 +3303,6 @@
         {
             "type": 9,
             "rating": 2
-        }
-    ],
-    "warm life": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "warm": [

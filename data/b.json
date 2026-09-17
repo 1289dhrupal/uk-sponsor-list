@@ -6835,6 +6835,12 @@
             "rating": 1
         }
     ],
+    "barhouse": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bari bari": [
         {
             "type": 1,
@@ -7970,12 +7976,6 @@
         }
     ],
     "barton huxley management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "barton legal": [
         {
             "type": 1,
             "rating": 1
@@ -15259,12 +15259,6 @@
             "rating": 1
         }
     ],
-    "bengal brasserie yorkshire": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bengal chaa": [
         {
             "type": 1,
@@ -15838,6 +15832,12 @@
         }
     ],
     "bentley fish bar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bentley health": [
         {
             "type": 1,
             "rating": 1
@@ -17600,6 +17600,12 @@
         }
     ],
     "best quality watches": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "best recruitment agency": [
         {
             "type": 1,
             "rating": 1
@@ -22062,6 +22068,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "bio products validation": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27275,6 +27287,12 @@
             "rating": 1
         }
     ],
+    "bloomsbury institute": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bloomsbury kg": [
         {
             "type": 1,
@@ -30010,6 +30028,10 @@
         }
     ],
     "bmt legals": [
+        {
+            "type": 4,
+            "rating": 2
+        },
         {
             "type": 1,
             "rating": 1
@@ -37713,6 +37735,12 @@
             "rating": 1
         }
     ],
+    "brian macentee architecture & design": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "brian mackenow & co": [
         {
             "type": 1,
@@ -41777,12 +41805,6 @@
             "rating": 1
         }
     ],
-    "broadlands care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "broadlands hall": [
         {
             "type": 1,
@@ -41790,6 +41812,12 @@
         }
     ],
     "broadlands residential care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "broadlands care home": [
         {
             "type": 1,
             "rating": 1

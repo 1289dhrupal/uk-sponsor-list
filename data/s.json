@@ -12065,6 +12065,12 @@
             "rating": 1
         }
     ],
+    "sandbox ventures": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sandbrick developments": [
         {
             "type": 1,
@@ -19437,12 +19443,6 @@
             "rating": 1
         }
     ],
-    "scottish sirens": [
-        {
-            "type": 11,
-            "rating": 1
-        }
-    ],
     "scottish squash": [
         {
             "type": 11,
@@ -22955,12 +22955,6 @@
             "rating": 1
         }
     ],
-    "selective care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "selectline solutions": [
         {
             "type": 1,
@@ -25113,12 +25107,6 @@
             "rating": 1
         }
     ],
-    "served": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "serveo industria": [
         {
             "type": 5,
@@ -26229,12 +26217,6 @@
             "rating": 1
         }
     ],
-    "seylan foods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "seylon traders": [
         {
             "type": 1,
@@ -26696,7 +26678,7 @@
     "sgcs care": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "sgd restaurants": [
@@ -31133,12 +31115,6 @@
             "rating": 1
         }
     ],
-    "sherrington nursing home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sherry s wholesale": [
         {
             "type": 1,
@@ -32981,20 +32957,6 @@
             "rating": 1
         }
     ],
-    "shofar christian church": [
-        {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 10,
-            "rating": 2
-        }
-    ],
     "shokall nest": [
         {
             "type": 1,
@@ -33949,6 +33911,10 @@
         {
             "type": 10,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "shree krishna enterprises": [
@@ -37721,12 +37687,6 @@
             "rating": 1
         }
     ],
-    "silverbirch healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "silverbirch lodge": [
         {
             "type": 1,
@@ -37898,6 +37858,12 @@
         }
     ],
     "silvermoon global": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "silveroak housing": [
         {
             "type": 1,
             "rating": 1
@@ -50479,19 +50445,13 @@
             "rating": 1
         }
     ],
-    "soid": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "soil machine dynamics": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -51718,6 +51678,12 @@
         }
     ],
     "solutionsdotnet": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "solux tech": [
         {
             "type": 1,
             "rating": 1
@@ -57222,6 +57188,10 @@
         },
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 18,
             "rating": 1
         }
     ],
@@ -71599,6 +71569,16 @@
             "rating": 1
         }
     ],
+    "stevenage football club": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 1
+        }
+    ],
     "stevenage laundry": [
         {
             "type": 1,
@@ -79868,6 +79848,10 @@
     "sunquest homes": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 18,
             "rating": 1
         }
     ],

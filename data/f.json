@@ -5737,12 +5737,6 @@
             "rating": 1
         }
     ],
-    "fatima cafe s": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fatima enterprise": [
         {
             "type": 1,
@@ -11460,7 +11454,7 @@
     "first connect healthcare": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "first contact property": [
@@ -24222,6 +24216,10 @@
         },
         {
             "type": 17,
+            "rating": 1
+        },
+        {
+            "type": 18,
             "rating": 1
         }
     ],

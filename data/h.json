@@ -9149,12 +9149,6 @@
             "rating": 1
         }
     ],
-    "hartline": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hartnell brede motors": [
         {
             "type": 1,
@@ -24695,12 +24689,12 @@
     ],
     "holy ghost missionary congregation": [
         {
-            "type": 10,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "holy ghost power chapel": [

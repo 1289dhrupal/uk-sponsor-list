@@ -233,12 +233,6 @@
             "rating": 1
         }
     ],
-    "visiting angels essex south": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vrindavan vatika": [
         {
             "type": 1,
@@ -8022,6 +8016,10 @@
     "vibhs financial": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 18,
             "rating": 1
         }
     ],

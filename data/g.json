@@ -2781,6 +2781,12 @@
             "rating": 1
         }
     ],
+    "gallardo securities": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "galldris": [
         {
             "type": 1,
@@ -7552,6 +7558,10 @@
     "gentec energy": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 18,
             "rating": 1
         }
     ],
@@ -26725,12 +26735,6 @@
             "rating": 1
         }
     ],
-    "grey and black": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "grey chilli": [
         {
             "type": 1,
@@ -28062,6 +28066,12 @@
         }
     ],
     "grovewell estates": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "grow engineering": [
         {
             "type": 1,
             "rating": 1
@@ -29799,6 +29809,12 @@
         {
             "type": 4,
             "rating": 2
+        }
+    ],
+    "guild healthcare": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "guild living": [

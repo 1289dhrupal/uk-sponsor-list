@@ -20579,6 +20579,12 @@
             "rating": 1
         }
     ],
+    "the bridge rtm co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the bridge surgery": [
         {
             "type": 1,
@@ -49485,12 +49491,6 @@
             "rating": 1
         }
     ],
-    "top rock international": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "top sarv consultancy": [
         {
             "type": 1,
@@ -52869,6 +52869,12 @@
             "rating": 1
         }
     ],
+    "trading experts": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "trading science": [
         {
             "type": 1,
@@ -54385,11 +54391,11 @@
     ],
     "travelex central": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -59112,12 +59118,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "tsk it solutions": [
         {
             "type": 1,
             "rating": 1

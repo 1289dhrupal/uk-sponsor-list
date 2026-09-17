@@ -13011,12 +13011,6 @@
             "rating": 1
         }
     ],
-    "elite care & comfort": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "elite care and comfort": [
         {
             "type": 1,
@@ -28302,6 +28296,12 @@
         }
     ],
     "everest taxis": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "everest": [
         {
             "type": 1,
             "rating": 1
