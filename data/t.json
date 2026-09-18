@@ -2077,12 +2077,6 @@
             "rating": 1
         }
     ],
-    "the global recruitment": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the green veterinary surgery": [
         {
             "type": 1,
@@ -17240,7 +17234,7 @@
     "thali & tandoor": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "thali tray": [
@@ -20011,6 +20005,12 @@
             "rating": 1
         }
     ],
+    "the birches nursing home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the birchman": [
         {
             "type": 1,
@@ -22581,16 +22581,6 @@
         {
             "type": 5,
             "rating": 1
-        }
-    ],
-    "the columbo": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "the colworth stores": [
@@ -40643,12 +40633,6 @@
             "rating": 1
         }
     ],
-    "the woodlands residential home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the woodlarks centre": [
         {
             "type": 1,
@@ -51907,6 +51891,12 @@
             "rating": 1
         }
     ],
+    "toynbee hall": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "toyota": [
         {
             "type": 1,
@@ -58704,12 +58694,6 @@
         }
     ],
     "truth hospitality": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "truth recruitment": [
         {
             "type": 1,
             "rating": 1

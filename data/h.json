@@ -26671,6 +26671,12 @@
             "rating": 1
         }
     ],
+    "hope for future care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hope for justice": [
         {
             "type": 1,
@@ -28584,16 +28590,6 @@
     "house of love care": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "house of mercy christian assembly": [
-        {
-            "type": 10,
-            "rating": 2
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],

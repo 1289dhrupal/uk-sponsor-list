@@ -2533,6 +2533,12 @@
             "rating": 1
         }
     ],
+    "valyu network": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vama brows": [
         {
             "type": 1,
@@ -12822,6 +12828,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "vivo health": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

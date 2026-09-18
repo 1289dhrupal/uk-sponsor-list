@@ -1359,6 +1359,12 @@
             "rating": 1
         }
     ],
+    "b2b motors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "b2b projects": [
         {
             "type": 1,
@@ -13323,11 +13329,11 @@
     ],
     "beggars": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15923,12 +15929,6 @@
             "rating": 1
         }
     ],
-    "benton care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "benton retail": [
         {
             "type": 1,
@@ -17204,12 +17204,6 @@
         }
     ],
     "best building work": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "best buy cars": [
         {
             "type": 1,
             "rating": 1
@@ -25431,6 +25425,16 @@
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "blackheath rugby": [
+        {
+            "type": 11,
+            "rating": 1
         },
         {
             "type": 1,
@@ -35407,12 +35411,6 @@
             "rating": 1
         }
     ],
-    "bradford auto care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bradford bulls 2017": [
         {
             "type": 1,
@@ -35437,11 +35435,11 @@
     ],
     "bradford city football club": [
         {
-            "type": 11,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -39285,6 +39283,12 @@
             "rating": 1
         }
     ],
+    "brighter living care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "brighter pathways nw": [
         {
             "type": 1,
@@ -41761,11 +41765,11 @@
     ],
     "broadcom europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

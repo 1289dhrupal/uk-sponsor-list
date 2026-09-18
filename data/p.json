@@ -24771,12 +24771,6 @@
             "rating": 1
         }
     ],
-    "plus care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "plus education": [
         {
             "type": 1,
@@ -30870,12 +30864,6 @@
         }
     ],
     "prem indian restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "premald care": [
         {
             "type": 1,
             "rating": 1
@@ -37062,6 +37050,12 @@
         }
     ],
     "profix builders": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "profone": [
         {
             "type": 1,
             "rating": 1

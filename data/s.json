@@ -913,12 +913,6 @@
             "rating": 1
         }
     ],
-    "shapins clinic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sizwim home care": [
         {
             "type": 1,
@@ -6766,12 +6760,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "safeside supported living": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -26868,7 +26856,7 @@
     "sh care": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "sh children s home": [
@@ -33717,6 +33705,12 @@
             "rating": 1
         }
     ],
+    "shree ashapura enterprise": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "shree bharatiya mandal indian association-tameside indian community centre": [
         {
             "type": 10,
@@ -36829,12 +36823,6 @@
             "rating": 1
         }
     ],
-    "signintech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "signode": [
         {
             "type": 1,
@@ -36860,12 +36848,6 @@
         }
     ],
     "signs base": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "signs plus ea": [
         {
             "type": 1,
             "rating": 1
@@ -40127,12 +40109,6 @@
             "rating": 1
         }
     ],
-    "sipay": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sipco healthcare": [
         {
             "type": 1,
@@ -40448,12 +40424,6 @@
         }
     ],
     "sirona care & health": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sirona medical": [
         {
             "type": 1,
             "rating": 1
@@ -81831,6 +81801,12 @@
             "rating": 1
         }
     ],
+    "supremeindiankitchen 2": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "suprim trading": [
         {
             "type": 1,
@@ -88186,6 +88162,12 @@
         }
     ],
     "sitehoarding": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "skills supply": [
         {
             "type": 1,
             "rating": 1

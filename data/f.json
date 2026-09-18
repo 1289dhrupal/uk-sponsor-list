@@ -2007,6 +2007,12 @@
             "rating": 1
         }
     ],
+    "faircross care home london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "faircross launderette": [
         {
             "type": 1,
@@ -9861,12 +9867,12 @@
     ],
     "fine point films": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "fine point glass london": [
@@ -24998,12 +25004,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ftl management": [
         {
             "type": 1,
             "rating": 1
