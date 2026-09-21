@@ -2647,6 +2647,12 @@
             "rating": 1
         }
     ],
+    "jacksons leisure supplies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "jacksons news and off-licence": [
         {
             "type": 1,
@@ -6925,11 +6931,11 @@
     ],
     "jbs global": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

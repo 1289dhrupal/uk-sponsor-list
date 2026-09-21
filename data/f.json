@@ -1747,6 +1747,12 @@
             "rating": 1
         }
     ],
+    "fagerhult lighting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fags & mags": [
         {
             "type": 1,
@@ -3814,12 +3820,6 @@
         }
     ],
     "famly": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fammart": [
         {
             "type": 1,
             "rating": 1
@@ -7307,6 +7307,16 @@
             "rating": 1
         }
     ],
+    "fenris creations": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fens heahcare and recruitment": [
         {
             "type": 1,
@@ -9692,20 +9702,6 @@
     "findeven": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "findhorn foundation": [
-        {
-            "type": 9,
-            "rating": 2
-        },
-        {
-            "type": 10,
-            "rating": 2
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],
@@ -27122,7 +27118,7 @@
     "futures care": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "futures first": [

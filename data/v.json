@@ -3179,12 +3179,6 @@
             "rating": 1
         }
     ],
-    "vantagerise": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vantec europe": [
         {
             "type": 1,
@@ -5180,12 +5174,6 @@
         }
     ],
     "velji bhovan and sons trading": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "velloni": [
         {
             "type": 1,
             "rating": 1
@@ -8417,18 +8405,6 @@
             "rating": 1
         }
     ],
-    "victoria house wallasey": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "victoria house residential care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "victoria kitchen": [
         {
             "type": 1,
@@ -10709,19 +10685,13 @@
             "rating": 1
         }
     ],
-    "virocell biologics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "virocell holdings": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

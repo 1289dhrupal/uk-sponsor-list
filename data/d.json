@@ -3661,6 +3661,12 @@
             "rating": 1
         }
     ],
+    "danliv leisure": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "danly": [
         {
             "type": 1,
@@ -10535,11 +10541,11 @@
     ],
     "delta lighting design": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12778,6 +12784,12 @@
         }
     ],
     "desi curry palace": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "desi daru": [
         {
             "type": 1,
             "rating": 1
@@ -16109,12 +16121,6 @@
             "rating": 1
         }
     ],
-    "diamond accounts": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "diamond auto repairs": [
         {
             "type": 1,
@@ -16958,6 +16964,12 @@
         }
     ],
     "digicom360": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "digident laboratories": [
         {
             "type": 1,
             "rating": 1
@@ -25167,12 +25179,6 @@
             "rating": 1
         }
     ],
-    "dprs east riding": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dprs liverpool ta domino s pizza": [
         {
             "type": 1,
@@ -27916,6 +27922,10 @@
     "drug development solutions": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

@@ -1675,6 +1675,12 @@
             "rating": 1
         }
     ],
+    "la meena cafe": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "la melanzana": [
         {
             "type": 1,
@@ -8512,12 +8518,6 @@
         }
     ],
     "learndirect": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "learning and development bureau": [
         {
             "type": 1,
             "rating": 1
@@ -24558,7 +24558,7 @@
     "longboat special education": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "longborough festival opera": [
@@ -31394,12 +31394,6 @@
         }
     ],
     "locharwoods of birkdale": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lanton strategies international": [
         {
             "type": 1,
             "rating": 1

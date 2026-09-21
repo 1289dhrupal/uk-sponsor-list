@@ -3013,12 +3013,6 @@
             "rating": 1
         }
     ],
-    "gambleaware": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gamcare": [
         {
             "type": 1,
@@ -4319,13 +4313,19 @@
             "rating": 1
         }
     ],
+    "gate cottage rest home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gate gourmet london": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13205,12 +13205,6 @@
             "rating": 1
         }
     ],
-    "globacap technology": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "global 1st": [
         {
             "type": 1,
@@ -14694,6 +14688,12 @@
         }
     ],
     "global reach technology emea": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "global reach transport": [
         {
             "type": 1,
             "rating": 1
@@ -21675,6 +21675,16 @@
             "rating": 1
         }
     ],
+    "gracestreams church": [
+        {
+            "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "gracewell staffing": [
         {
             "type": 1,
@@ -26718,6 +26728,16 @@
         }
     ],
     "grewal scaffolding": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "grey advertising": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -31776,6 +31796,12 @@
         }
     ],
     "gwd international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gwdm": [
         {
             "type": 1,
             "rating": 1

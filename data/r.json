@@ -2781,12 +2781,6 @@
             "rating": 1
         }
     ],
-    "r983 test v3": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ra & a accountants": [
         {
             "type": 1,
@@ -9691,29 +9685,33 @@
     ],
     "rccg living faith south shields": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
             "type": 10,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "rccg oldbury on the rock": [
-        {
-            "type": 10,
-            "rating": 2
-        },
         {
             "type": 9,
             "rating": 2
         },
         {
-            "type": 2,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         },
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -21119,6 +21117,10 @@
     ],
     "rich ocean": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 3,
             "rating": 1
         },
@@ -21129,11 +21131,11 @@
     ],
     "rich products": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -32494,6 +32496,12 @@
         }
     ],
     "royal sanders": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "royal school for the deaf derby": [
         {
             "type": 1,
             "rating": 1

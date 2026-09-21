@@ -5167,12 +5167,6 @@
             "rating": 1
         }
     ],
-    "han pizza": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "han residential": [
         {
             "type": 1,
@@ -13065,6 +13059,12 @@
             "rating": 1
         }
     ],
+    "health partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "health personnel": [
         {
             "type": 1,
@@ -19609,6 +19609,12 @@
             "rating": 1
         }
     ],
+    "highmead house": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "highparks medical practice": [
         {
             "type": 1,
@@ -23554,16 +23560,6 @@
     "hokkaido sushi": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "hokodo work life olld street": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],

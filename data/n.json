@@ -12843,6 +12843,12 @@
             "rating": 1
         }
     ],
+    "newhills medical practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "newholme dental practice": [
         {
             "type": 1,
@@ -14235,16 +14241,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "nextatlantic": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "nextdoor europe": [

@@ -9529,6 +9529,12 @@
             "rating": 1
         }
     ],
+    "bayith rest home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bayleaf lake": [
         {
             "type": 1,
@@ -10412,6 +10418,16 @@
         }
     ],
     "bcp consulting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bcp securities": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -18192,6 +18208,12 @@
         },
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "bethel community church": [
+        {
+            "type": 2,
             "rating": 1
         }
     ],
@@ -28133,6 +28155,12 @@
             "rating": 1
         }
     ],
+    "blue line foods": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "blue lion haulage": [
         {
             "type": 1,
@@ -30887,16 +30915,16 @@
     ],
     "boehringer ingelheim": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 13,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "boeing defence": [
@@ -35209,6 +35237,12 @@
             "rating": 1
         }
     ],
+    "braceborough hall care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "braceborough hall retirement home": [
         {
             "type": 1,
@@ -35960,6 +35994,12 @@
         }
     ],
     "braithwate": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "braj care solutions": [
         {
             "type": 1,
             "rating": 1
@@ -36994,6 +37034,12 @@
         }
     ],
     "bread spread": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "breadstall pizza": [
         {
             "type": 1,
             "rating": 1
@@ -42300,12 +42346,6 @@
     "bromley common cricket club": [
         {
             "type": 11,
-            "rating": 1
-        }
-    ],
-    "bromley common vets": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],

@@ -525,12 +525,6 @@
             "rating": 1
         }
     ],
-    "u z a k trading": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "u2k foods": [
         {
             "type": 1,
@@ -8347,6 +8341,12 @@
             "rating": 1
         }
     ],
+    "urban care systems": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "urban choola ta urban choola": [
         {
             "type": 1,
@@ -8355,12 +8355,12 @@
     ],
     "urban circle newport": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "urban concept design & build": [
@@ -9154,12 +9154,6 @@
         }
     ],
     "usman supermarket": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "usman s kitchen": [
         {
             "type": 1,
             "rating": 1

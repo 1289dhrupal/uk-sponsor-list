@@ -19227,12 +19227,6 @@
             "rating": 1
         }
     ],
-    "woodborough retail stores": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "woodbridge dental surgery": [
         {
             "type": 1,
@@ -21667,20 +21661,14 @@
             "rating": 1
         }
     ],
-    "worldwide online": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "worldwide production agency": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
