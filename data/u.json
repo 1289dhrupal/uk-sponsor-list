@@ -497,12 +497,6 @@
             "rating": 1
         }
     ],
-    "u k implant manufacturing co": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "u k massala mix": [
         {
             "type": 1,
@@ -2624,12 +2618,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "umika trading": [
         {
             "type": 1,
             "rating": 1
@@ -5768,6 +5756,12 @@
     "universal components": [
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "universal conceirge": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

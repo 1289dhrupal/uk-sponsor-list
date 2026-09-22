@@ -11869,6 +11869,12 @@
             "rating": 1
         }
     ],
+    "carmondean medical": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "carmoola corporate": [
         {
             "type": 1,
@@ -37923,6 +37929,12 @@
             "rating": 1
         }
     ],
+    "coaching for christ": [
+        {
+            "type": 9,
+            "rating": 2
+        }
+    ],
     "coadjute": [
         {
             "type": 1,
@@ -38574,7 +38586,7 @@
     "cocone": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "coconut island": [
@@ -44079,12 +44091,6 @@
             "rating": 1
         }
     ],
-    "conductor capital": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "conductor founders": [
         {
             "type": 5,
@@ -47261,12 +47267,6 @@
             "rating": 1
         }
     ],
-    "cooperate home healthcare-": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cooperative ai foundation": [
         {
             "type": 1,
@@ -47321,11 +47321,11 @@
     ],
     "coople": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

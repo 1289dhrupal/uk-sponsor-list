@@ -891,6 +891,12 @@
             "rating": 1
         }
     ],
+    "b&m design & build": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "b&m exotic fruits & veg": [
         {
             "type": 1,
@@ -9547,6 +9553,12 @@
             "rating": 1
         }
     ],
+    "bayleaf facilities management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bayleaf restaurant": [
         {
             "type": 1,
@@ -10108,6 +10120,12 @@
         }
     ],
     "bc chesterfield": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bc engines & gearboxes": [
         {
             "type": 1,
             "rating": 1
@@ -12309,11 +12327,11 @@
     ],
     "beck & pollitzer engineering": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17262,12 +17280,6 @@
         }
     ],
     "best care 4 u": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "best care liverpool": [
         {
             "type": 1,
             "rating": 1
@@ -25152,6 +25164,12 @@
         }
     ],
     "black tomato": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "black volta ventures": [
         {
             "type": 1,
             "rating": 1

@@ -4246,7 +4246,7 @@
     "water engineering industrial equipment 16652955": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "water environmental treatment": [
@@ -12335,6 +12335,12 @@
             "rating": 1
         }
     ],
+    "white falcon 11": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "white feather trading": [
         {
             "type": 1,
@@ -16815,12 +16821,6 @@
             "rating": 1
         }
     ],
-    "winterflood securities": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "wintergreen advisors t/a trotter": [
         {
             "type": 1,
@@ -20705,11 +20705,11 @@
     ],
     "workfox": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22842,12 +22842,6 @@
     "ww norton & company": [
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "wwac automotive": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],

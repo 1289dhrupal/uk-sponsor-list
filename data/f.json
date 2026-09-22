@@ -24951,11 +24951,11 @@
     ],
     "ftai airopco": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -25843,11 +25843,11 @@
     ],
     "fundapps": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -28224,12 +28224,6 @@
         }
     ],
     "farmer brothers and j d beardmore": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "flame o": [
         {
             "type": 1,
             "rating": 1

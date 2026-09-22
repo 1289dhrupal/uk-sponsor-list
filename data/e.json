@@ -7105,6 +7105,12 @@
             "rating": 1
         }
     ],
+    "edesia collection": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "edexa academy": [
         {
             "type": 1,
@@ -7426,12 +7432,6 @@
         }
     ],
     "edgware accountants & tax advisors t/as edgware associates": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "edgware fish": [
         {
             "type": 1,
             "rating": 1
@@ -12125,11 +12125,11 @@
     ],
     "element six": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24022,6 +24022,12 @@
         }
     ],
     "essa news": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "essandore": [
         {
             "type": 1,
             "rating": 1

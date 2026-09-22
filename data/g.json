@@ -10167,12 +10167,12 @@
     ],
     "gig facades": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 5,
@@ -24261,6 +24261,12 @@
             "rating": 1
         }
     ],
+    "greaterthan": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "greatpride care": [
         {
             "type": 1,
@@ -26661,12 +26667,6 @@
             "rating": 1
         }
     ],
-    "gresham northhill": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gresham oaklands": [
         {
             "type": 1,
@@ -28296,12 +28296,6 @@
         }
     ],
     "growup farms": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "growup": [
         {
             "type": 1,
             "rating": 1

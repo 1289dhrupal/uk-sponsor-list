@@ -5149,12 +5149,6 @@
             "rating": 1
         }
     ],
-    "han dian": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "han food": [
         {
             "type": 1,
@@ -15091,6 +15085,12 @@
             "rating": 1
         }
     ],
+    "helentours concierge management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "heler foods packing": [
         {
             "type": 1,
@@ -16423,14 +16423,20 @@
             "rating": 1
         }
     ],
-    "herbert smith freehills kramer": [
+    "herbert pharmacy": [
         {
             "type": 1,
-            "rating": 1
-        },
+            "rating": 4
+        }
+    ],
+    "herbert smith freehills kramer": [
         {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,

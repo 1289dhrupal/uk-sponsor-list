@@ -6353,14 +6353,20 @@
             "rating": 2
         }
     ],
-    "ramgarhia sikh temple": [
-        {
-            "type": 10,
-            "rating": 2
-        },
+    "ramgarhia sikh society bedford": [
         {
             "type": 2,
             "rating": 1
+        }
+    ],
+    "ramgarhia sikh temple": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "ramgharia sabha": [
@@ -11168,12 +11174,6 @@
         }
     ],
     "realisable software": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "realistic resolutions": [
         {
             "type": 1,
             "rating": 1
@@ -20753,6 +20753,12 @@
             "rating": 1
         }
     ],
+    "rhosus management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rhosyn care": [
         {
             "type": 1,
@@ -21438,6 +21444,12 @@
         }
     ],
     "richmond court residential home trading name of dp & s sahni": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "richmond defence systems": [
         {
             "type": 1,
             "rating": 1
@@ -22488,12 +22500,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "right trust care": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -36468,12 +36474,6 @@
         }
     ],
     "ryhn consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ryk autos": [
         {
             "type": 1,
             "rating": 1

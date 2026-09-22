@@ -8215,12 +8215,6 @@
             "rating": 1
         }
     ],
-    "leadwood care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "leaf linking environment and farming": [
         {
             "type": 1,
@@ -10690,6 +10684,12 @@
     "lennox evangelical church": [
         {
             "type": 2,
+            "rating": 1
+        }
+    ],
+    "lennox executive travel": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26747,6 +26747,12 @@
             "rating": 1
         }
     ],
+    "lowlu": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lowman foods": [
         {
             "type": 1,
@@ -28640,6 +28646,16 @@
         }
     ],
     "luminaire": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "luminal": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

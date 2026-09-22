@@ -1879,12 +1879,6 @@
             "rating": 1
         }
     ],
-    "shedfield lodge residential care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "south view stores": [
         {
             "type": 1,
@@ -2394,12 +2388,6 @@
         }
     ],
     "subway restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "support solutions": [
         {
             "type": 1,
             "rating": 1
@@ -5422,12 +5410,6 @@
         }
     ],
     "saba thai restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sabah icr international client relations": [
         {
             "type": 1,
             "rating": 1
@@ -9649,12 +9631,6 @@
             "rating": 1
         }
     ],
-    "salford city reds 2013": [
-        {
-            "type": 11,
-            "rating": 1
-        }
-    ],
     "salford dental practice": [
         {
             "type": 1,
@@ -10968,6 +10944,12 @@
         }
     ],
     "sammun": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sammy labs": [
         {
             "type": 1,
             "rating": 1
@@ -24257,6 +24239,14 @@
     ],
     "seoul money brokerage london representative office": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 3,
             "rating": 1
         }
@@ -29252,12 +29242,6 @@
         }
     ],
     "sharma garages": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sharma of businesses": [
         {
             "type": 1,
             "rating": 1
@@ -40622,12 +40606,6 @@
         }
     ],
     "sister jane": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sisters for life sfl healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -57673,12 +57651,6 @@
             "rating": 1
         }
     ],
-    "speedy glass works": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "speedy haulage": [
         {
             "type": 1,
@@ -62461,6 +62433,16 @@
             "rating": 1
         }
     ],
+    "sri venkateswara balaji temple": [
+        {
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "sri vinayaka healthcare": [
         {
             "type": 1,
@@ -65792,6 +65774,16 @@
         }
     ],
     "st michael le belfrey pcc": [
+        {
+            "type": 10,
+            "rating": 2
+        }
+    ],
+    "st michael s abbey charitable trust": [
+        {
+            "type": 2,
+            "rating": 1
+        },
         {
             "type": 10,
             "rating": 2
@@ -75181,16 +75173,6 @@
             "rating": 1
         }
     ],
-    "stronghold companies u k": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "strongrock capital": [
         {
             "type": 1,
@@ -76666,12 +76648,6 @@
         }
     ],
     "sub feast": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sub feast ta subway": [
         {
             "type": 1,
             "rating": 1
