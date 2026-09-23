@@ -21103,16 +21103,6 @@
             "rating": 1
         }
     ],
-    "the cambridge mosque trust": [
-        {
-            "type": 9,
-            "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the cambridge oven": [
         {
             "type": 1,
@@ -26911,11 +26901,11 @@
     ],
     "the grimsby town football club": [
         {
-            "type": 11,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 11,
             "rating": 1
         }
     ],
@@ -51907,12 +51897,6 @@
             "rating": 1
         }
     ],
-    "toys and stuff": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "toys master": [
         {
             "type": 1,
@@ -55032,6 +55016,12 @@
         }
     ],
     "trek logistics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "trekhops": [
         {
             "type": 1,
             "rating": 1

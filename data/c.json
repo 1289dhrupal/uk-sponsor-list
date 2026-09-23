@@ -9197,12 +9197,6 @@
             "rating": 1
         }
     ],
-    "care 365": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "care 4 all": [
         {
             "type": 1,
@@ -9432,6 +9426,12 @@
         }
     ],
     "care choice+": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "care circle": [
         {
             "type": 1,
             "rating": 1
@@ -10216,6 +10216,12 @@
         }
     ],
     "care total": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "care trusters": [
         {
             "type": 1,
             "rating": 1
@@ -34241,12 +34247,6 @@
             "rating": 1
         }
     ],
-    "clearblue enterprise": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "clearbridge housing": [
         {
             "type": 1,
@@ -38583,12 +38583,6 @@
             "rating": 1
         }
     ],
-    "cocone": [
-        {
-            "type": 3,
-            "rating": 1
-        }
-    ],
     "coconut island": [
         {
             "type": 1,
@@ -42510,12 +42504,6 @@
         }
     ],
     "company watch": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "company4you co": [
         {
             "type": 1,
             "rating": 1
@@ -59386,6 +59374,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "curve workplaces": [
         {
             "type": 1,
             "rating": 1

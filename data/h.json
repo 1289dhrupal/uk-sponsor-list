@@ -13985,12 +13985,6 @@
             "rating": 1
         }
     ],
-    "heath court": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "heath hayes health centre": [
         {
             "type": 1,
@@ -24674,6 +24668,12 @@
         }
     ],
     "holy cross preparatory school kingston": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "holy family catholic primary school": [
         {
             "type": 1,
             "rating": 1

@@ -25597,12 +25597,6 @@
             "rating": 1
         }
     ],
-    "mega mart bolton": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "mega mart pvt": [
         {
             "type": 1,
@@ -31312,6 +31306,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "mic healthcare solutions": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -40903,6 +40903,12 @@
         {
             "type": 4,
             "rating": 2
+        }
+    ],
+    "modem intelligence": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "moderate academy and training centre": [

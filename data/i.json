@@ -9025,12 +9025,6 @@
             "rating": 1
         }
     ],
-    "indian dinners": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "indian empire": [
         {
             "type": 1,
@@ -16280,12 +16274,6 @@
         }
     ],
     "interlink software": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "interlink venter": [
         {
             "type": 1,
             "rating": 1
@@ -23637,6 +23625,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "ivo ai": [
+        {
+            "type": 3,
+            "rating": 3
         }
     ],
     "ivo carew architects": [

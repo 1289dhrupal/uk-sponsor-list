@@ -8815,12 +8815,6 @@
             "rating": 1
         }
     ],
-    "ees solutions kmd": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "eesentia": [
         {
             "type": 1,
@@ -13579,12 +13573,6 @@
             "rating": 1
         }
     ],
-    "elite x": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "elitebest": [
         {
             "type": 1,
@@ -14938,6 +14926,12 @@
         }
     ],
     "elysejae": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "elyseum real estate": [
         {
             "type": 1,
             "rating": 1
@@ -18425,12 +18419,6 @@
             "rating": 1
         }
     ],
-    "energylab consulting": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "energypeople": [
         {
             "type": 1,
@@ -19821,6 +19809,12 @@
             "rating": 1
         }
     ],
+    "ensapia london": [
+        {
+            "type": 3,
+            "rating": 1
+        }
+    ],
     "ensco 1399": [
         {
             "type": 1,
@@ -20222,12 +20216,6 @@
         }
     ],
     "enticing foods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "entire houze": [
         {
             "type": 1,
             "rating": 1
@@ -21989,6 +21977,12 @@
             "rating": 1
         }
     ],
+    "equals collective": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "equals consulting": [
         {
             "type": 1,
@@ -23211,12 +23205,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "esas tourism": [
-        {
-            "type": 3,
-            "rating": 3
         }
     ],
     "esatto projects": [
@@ -29803,26 +29791,6 @@
             "rating": 1
         }
     ],
-    "exabeam": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "exabel": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "exacon constructions": [
         {
             "type": 1,
@@ -31351,6 +31319,12 @@
             "rating": 1
         }
     ],
+    "expedition ai": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "expedition growth capital": [
         {
             "type": 1,
@@ -32597,13 +32571,19 @@
             "rating": 1
         }
     ],
-    "eyre hotels": [
+    "eyoto": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "eyre hotels": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

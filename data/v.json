@@ -185,6 +185,12 @@
             "rating": 1
         }
     ],
+    "volter": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "village tandoori": [
         {
             "type": 1,
@@ -5827,12 +5833,6 @@
             "rating": 1
         }
     ],
-    "ventusventures holding": [
-        {
-            "type": 3,
-            "rating": 3
-        }
-    ],
     "venue @ the clock house": [
         {
             "type": 1,
@@ -6907,12 +6907,6 @@
             "rating": 1
         }
     ],
-    "vertex sales": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vertex": [
         {
             "type": 1,
@@ -6926,12 +6920,6 @@
         }
     ],
     "vertexcore solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "vertexon innovations": [
         {
             "type": 1,
             "rating": 1
@@ -6951,7 +6939,7 @@
     ],
     "vertical aerospace": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
@@ -6959,7 +6947,7 @@
             "rating": 2
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -15150,6 +15138,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vsourz": [
         {
             "type": 1,
             "rating": 1

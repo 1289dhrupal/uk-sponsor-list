@@ -3987,6 +3987,12 @@
             "rating": 1
         }
     ],
+    "your patient choice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "your perfect mate": [
         {
             "type": 1,
@@ -5160,12 +5166,6 @@
         }
     ],
     "yuv beauty": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "yuva dining room": [
         {
             "type": 1,
             "rating": 1

@@ -11211,12 +11211,6 @@
             "rating": 1
         }
     ],
-    "opto-e tech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "optometric technology": [
         {
             "type": 1,
@@ -15436,6 +15430,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "outright care": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

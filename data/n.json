@@ -9118,7 +9118,7 @@
     "network healthcare professionals": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "network heating & gas": [
@@ -13793,12 +13793,6 @@
             "rating": 1
         }
     ],
-    "nexa ads": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "nexa properties": [
         {
             "type": 1,
@@ -14120,6 +14114,12 @@
         }
     ],
     "next noor": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "next reach": [
         {
             "type": 1,
             "rating": 1
@@ -23928,12 +23928,6 @@
         }
     ],
     "nova care solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "nova care staffing and recruitment": [
         {
             "type": 1,
             "rating": 1

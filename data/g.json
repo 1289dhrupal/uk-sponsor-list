@@ -4131,6 +4131,12 @@
             "rating": 1
         }
     ],
+    "gary clarke company": [
+        {
+            "type": 4,
+            "rating": 2
+        }
+    ],
     "gary transport": [
         {
             "type": 1,
@@ -8898,6 +8904,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "getvolter": [
         {
             "type": 1,
             "rating": 1

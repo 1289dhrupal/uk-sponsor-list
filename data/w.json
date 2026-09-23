@@ -5179,6 +5179,12 @@
             "rating": 1
         }
     ],
+    "waxham house": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "waxman energy": [
         {
             "type": 1,
@@ -10475,19 +10481,15 @@
     ],
     "westfield europe": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 8,
             "rating": 2
         },
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16056,6 +16058,12 @@
         }
     ],
     "windsar care centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "windsar care": [
         {
             "type": 1,
             "rating": 1

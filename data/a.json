@@ -11987,13 +11987,19 @@
             "rating": 1
         }
     ],
+    "acer health care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "acer international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23195,12 +23201,6 @@
             "rating": 1
         }
     ],
-    "aim engineering & fabrication": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "aim engineers": [
         {
             "type": 1,
@@ -26049,11 +26049,11 @@
     ],
     "akin gump strauss hauer & feld": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -34717,6 +34717,12 @@
             "rating": 1
         }
     ],
+    "alpha health & social care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "alpha health care": [
         {
             "type": 1,
@@ -41982,12 +41988,6 @@
         }
     ],
     "ancoats care homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ancona enterprise": [
         {
             "type": 1,
             "rating": 1
@@ -50597,16 +50597,6 @@
             "rating": 1
         }
     ],
-    "arcadian loungue": [
-        {
-            "type": 4,
-            "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "arcadis human resources": [
         {
             "type": 5,
@@ -50826,6 +50816,12 @@
         }
     ],
     "arch nine international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "arch rivals brewing company": [
         {
             "type": 1,
             "rating": 1
@@ -53070,12 +53066,6 @@
         }
     ],
     "ark global": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ark global solutions": [
         {
             "type": 1,
             "rating": 1
@@ -63294,12 +63284,6 @@
         }
     ],
     "athena healthcare oxford road": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "athena healthcare snr": [
         {
             "type": 1,
             "rating": 1
