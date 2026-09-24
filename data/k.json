@@ -5965,6 +5965,12 @@
             "rating": 1
         }
     ],
+    "katartizo": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "katch investment management": [
         {
             "type": 1,
@@ -15505,12 +15511,6 @@
             "rating": 1
         }
     ],
-    "kirkgate curry house": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kirkgate off licence & news agent": [
         {
             "type": 1,
@@ -22202,7 +22202,7 @@
     "ksure london representative office": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "ksya": [

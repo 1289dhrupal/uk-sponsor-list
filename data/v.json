@@ -1321,12 +1321,6 @@
             "rating": 1
         }
     ],
-    "vader sports": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vaeraz": [
         {
             "type": 1,
@@ -11301,12 +11295,6 @@
             "rating": 1
         }
     ],
-    "vision design & build": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vision design and print": [
         {
             "type": 1,
@@ -11943,11 +11931,11 @@
     ],
     "visual data media": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

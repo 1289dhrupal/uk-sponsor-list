@@ -10389,12 +10389,6 @@
             "rating": 1
         }
     ],
-    "new farm produce": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "new farnley cricket club": [
         {
             "type": 11,
@@ -11080,12 +11074,6 @@
         }
     ],
     "new look stairs": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "new luxury travels": [
         {
             "type": 1,
             "rating": 1
@@ -16965,12 +16953,6 @@
             "rating": 1
         }
     ],
-    "nine food": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "nine heathrow ventures": [
         {
             "type": 1,
@@ -20778,7 +20760,7 @@
     "normanton lodge care t/as normanton lodge care home": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "normanton lodge": [
@@ -23803,6 +23785,12 @@
             "rating": 1
         }
     ],
+    "notts pharma": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "notun spice corner": [
         {
             "type": 1,
@@ -23976,6 +23964,12 @@
         }
     ],
     "nova innovation": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "nova maven": [
         {
             "type": 1,
             "rating": 1
@@ -25186,6 +25180,12 @@
         }
     ],
     "ns auto trading": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ns care": [
         {
             "type": 1,
             "rating": 1

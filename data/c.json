@@ -9909,6 +9909,12 @@
             "rating": 1
         }
     ],
+    "care one 2 one": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "care opportunities": [
         {
             "type": 1,
@@ -10942,6 +10948,12 @@
         }
     ],
     "caressa kahn manufacturing company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "carestaff solutions": [
         {
             "type": 1,
             "rating": 1
@@ -17950,6 +17962,12 @@
         }
     ],
     "centre for alternative dispute resolution experts cadre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "centre for british progress": [
         {
             "type": 1,
             "rating": 1
@@ -27248,6 +27266,20 @@
         }
     ],
     "chopstix express": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "chopstix restaurant": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
+        },
         {
             "type": 1,
             "rating": 1
@@ -54859,12 +54891,6 @@
             "rating": 1
         }
     ],
-    "crispy s chicken": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "crispydosawoodgreen": [
         {
             "type": 1,
@@ -62794,6 +62820,12 @@
         }
     ],
     "charm thai dining": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "calshot": [
         {
             "type": 1,
             "rating": 1

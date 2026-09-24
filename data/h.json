@@ -3477,12 +3477,6 @@
             "rating": 1
         }
     ],
-    "halcyon living": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "halcyon london international school": [
         {
             "type": 1,
@@ -8065,6 +8059,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
         }
     ],
     "harnam engineering works": [
@@ -10996,6 +10994,12 @@
         }
     ],
     "hawthorne care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hawthorne forest products": [
         {
             "type": 1,
             "rating": 1
@@ -27475,11 +27479,11 @@
     ],
     "horse powertrain": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -34841,12 +34845,6 @@
             "rating": 1
         }
     ],
-    "homecare matters": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hunt smartphones": [
         {
             "type": 1,
@@ -35046,12 +35044,6 @@
         }
     ],
     "halal foods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "health care agency": [
         {
             "type": 1,
             "rating": 1

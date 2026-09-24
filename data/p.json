@@ -8607,12 +8607,6 @@
             "rating": 1
         }
     ],
-    "patchwork it": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "patchworks media": [
         {
             "type": 1,
@@ -14585,12 +14579,6 @@
             "rating": 1
         }
     ],
-    "peritus corporate finance": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "peritus international": [
         {
             "type": 5,
@@ -20218,12 +20206,6 @@
         }
     ],
     "pinboard consulting": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pinchuan": [
         {
             "type": 1,
             "rating": 1
@@ -30129,12 +30111,6 @@
             "rating": 1
         }
     ],
-    "prasanth": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "prasath": [
         {
             "type": 1,
@@ -30340,6 +30316,12 @@
         }
     ],
     "prc infortech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "prco public relations": [
         {
             "type": 1,
             "rating": 1
@@ -33324,6 +33306,12 @@
         }
     ],
     "primacare surgeries": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "primacy homecare": [
         {
             "type": 1,
             "rating": 1
@@ -37502,7 +37490,7 @@
     "projects bulk piping": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "projects dg": [
@@ -40870,7 +40858,7 @@
     "pulmuone foods": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "pulp-tec": [

@@ -3377,12 +3377,6 @@
             "rating": 1
         }
     ],
-    "danforth care partners": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "danfoss": [
         {
             "type": 5,
@@ -13242,6 +13236,12 @@
         }
     ],
     "designlogic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "designo doors": [
         {
             "type": 1,
             "rating": 1

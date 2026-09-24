@@ -1723,12 +1723,6 @@
             "rating": 1
         }
     ],
-    "a rated homecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "a rated windows door and conservatories": [
         {
             "type": 1,
@@ -16505,12 +16499,6 @@
             "rating": 1
         }
     ],
-    "adnan s stores": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "adnans hyde": [
         {
             "type": 1,
@@ -18122,12 +18110,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "adwani motors": [
         {
             "type": 1,
             "rating": 1
@@ -27398,7 +27380,7 @@
     "al rehab al arabi bldg contracting": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "al rehman butchers": [
@@ -36429,11 +36411,11 @@
     ],
     "alula technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -43036,6 +43018,12 @@
         }
     ],
     "angel shop": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "angel smile and ortho": [
         {
             "type": 1,
             "rating": 1
@@ -50757,6 +50745,12 @@
             "rating": 1
         }
     ],
+    "arch community": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "arch emerging markets partners": [
         {
             "type": 1,
@@ -50770,12 +50764,6 @@
         }
     ],
     "arch global": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "arch healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -53119,6 +53107,12 @@
             "rating": 1
         }
     ],
+    "ark malik foods": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ark mission church bradford revival centre": [
         {
             "type": 2,
@@ -55096,6 +55090,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "artaml": [
         {
             "type": 1,
             "rating": 1
@@ -66241,21 +66241,21 @@
     ],
     "australia & new zealand banking": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "australia post global ecommerce solutions": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
