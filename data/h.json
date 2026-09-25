@@ -9219,12 +9219,6 @@
             "rating": 1
         }
     ],
-    "hartshill care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hartshorne motor": [
         {
             "type": 1,
@@ -9814,12 +9808,6 @@
         }
     ],
     "hasp pcn": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hass embassy": [
         {
             "type": 1,
             "rating": 1
@@ -14629,6 +14617,16 @@
             "rating": 1
         }
     ],
+    "heavy haul rail": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "heb commercial": [
         {
             "type": 1,
@@ -18611,6 +18609,12 @@
         {
             "type": 4,
             "rating": 2
+        }
+    ],
+    "hiddenwell": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "hiden japanese curry lab": [

@@ -7517,12 +7517,6 @@
             "rating": 1
         }
     ],
-    "barons eden": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "barons pharmacy": [
         {
             "type": 1,
@@ -10038,12 +10032,6 @@
         }
     ],
     "bbq hut brum": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bbq shack": [
         {
             "type": 1,
             "rating": 1
@@ -24979,6 +24967,12 @@
             "rating": 1
         }
     ],
+    "black highlands": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "black isle timber harvesting": [
         {
             "type": 1,
@@ -27374,12 +27368,6 @@
         }
     ],
     "blossom beauty salon pvt": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "blossom britain": [
         {
             "type": 1,
             "rating": 1
@@ -30909,12 +30897,12 @@
     ],
     "boehringer ingelheim": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 13,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -39989,6 +39977,10 @@
         {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         }
     ],
     "bring me groceries": [

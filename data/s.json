@@ -11671,12 +11671,6 @@
             "rating": 1
         }
     ],
-    "san int trading": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "san it consultancy": [
         {
             "type": 1,
@@ -46759,6 +46753,12 @@
             "rating": 1
         }
     ],
+    "smb solicitors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "smbc bank international": [
         {
             "type": 5,
@@ -67715,6 +67715,12 @@
             "rating": 1
         }
     ],
+    "stanford education & cultural association": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "stanford industrial concrete flooring": [
         {
             "type": 1,
@@ -68057,12 +68063,6 @@
             "rating": 1
         }
     ],
-    "star advertising sales": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "star amusements": [
         {
             "type": 1,
@@ -68248,12 +68248,6 @@
         }
     ],
     "star fitters": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "star forecourts": [
         {
             "type": 1,
             "rating": 1
@@ -70132,6 +70126,12 @@
         }
     ],
     "steel force": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "steel guard": [
         {
             "type": 1,
             "rating": 1
@@ -74752,6 +74752,12 @@
         }
     ],
     "streetfood packaging": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "streetfood srilanka": [
         {
             "type": 1,
             "rating": 1
@@ -84127,12 +84133,6 @@
             "rating": 1
         }
     ],
-    "swan spice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "swan street global": [
         {
             "type": 1,
@@ -86196,6 +86196,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sygal": [
         {
             "type": 1,
             "rating": 1

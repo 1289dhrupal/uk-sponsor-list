@@ -227,12 +227,6 @@
             "rating": 1
         }
     ],
-    "a & g mobile repairs": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "a & g pet medical": [
         {
             "type": 1,
@@ -30987,12 +30981,6 @@
             "rating": 1
         }
     ],
-    "ali halal butchers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ali halal meat & fish": [
         {
             "type": 1,
@@ -33564,6 +33552,12 @@
         }
     ],
     "allison brothers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "allison farming": [
         {
             "type": 1,
             "rating": 1
@@ -37016,7 +37010,7 @@
     "am2pm quality care": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "am3 electricals": [
@@ -60305,13 +60299,19 @@
             "rating": 1
         }
     ],
-    "aspecto power engineering": [
+    "aspect4 construction": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "aspecto power engineering": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

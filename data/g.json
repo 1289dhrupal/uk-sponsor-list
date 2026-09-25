@@ -895,12 +895,6 @@
             "rating": 1
         }
     ],
-    "g tyres": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "g whitfield": [
         {
             "type": 1,
@@ -5048,6 +5042,12 @@
         }
     ],
     "gb drinks": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gb electrical engineering": [
         {
             "type": 1,
             "rating": 1
@@ -10233,6 +10233,12 @@
             "rating": 1
         }
     ],
+    "gigaton technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gigbridge": [
         {
             "type": 1,
@@ -10590,6 +10596,12 @@
         }
     ],
     "gill jennings & every": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gill logistics": [
         {
             "type": 1,
             "rating": 1
@@ -21649,6 +21661,12 @@
             "rating": 2
         }
     ],
+    "graceguard [t/a] seasoned hands care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gracehill": [
         {
             "type": 1,
@@ -23210,6 +23228,12 @@
         }
     ],
     "grappolo": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "grasmere care home": [
         {
             "type": 1,
             "rating": 1
@@ -26326,12 +26350,6 @@
         }
     ],
     "greenways": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "greenways live-in care": [
         {
             "type": 1,
             "rating": 1

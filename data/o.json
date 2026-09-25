@@ -3865,6 +3865,12 @@
             "rating": 1
         }
     ],
+    "office of rail and road": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "office of the agent general": [
         {
             "type": 6,
@@ -3877,11 +3883,11 @@
     ],
     "office of the free state of bavaria in the united kingdom": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5572,6 +5578,12 @@
         }
     ],
     "olive tree takeaway glasgow": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "olive tree veterinary surgery": [
         {
             "type": 1,
             "rating": 1
@@ -13803,12 +13815,6 @@
             "rating": 1
         }
     ],
-    "ortho": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ortho-clinical diagnostics": [
         {
             "type": 5,
@@ -15550,12 +15556,6 @@
         }
     ],
     "ouvra": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ouyue": [
         {
             "type": 1,
             "rating": 1
@@ -17355,12 +17355,6 @@
         {
             "type": 4,
             "rating": 2
-        }
-    ],
-    "oz tottenham supermarket": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "oza design": [

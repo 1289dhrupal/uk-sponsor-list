@@ -4181,12 +4181,6 @@
             "rating": 1
         }
     ],
-    "unique legal consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "unique marble": [
         {
             "type": 1,
@@ -4302,6 +4296,12 @@
         }
     ],
     "unique therapy studio": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "unique trader and retailersltd": [
         {
             "type": 1,
             "rating": 1
@@ -8481,6 +8481,20 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "urban key london": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 9,
+            "rating": 2
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "urban kohinoor": [
