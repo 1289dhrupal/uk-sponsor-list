@@ -5759,11 +5759,11 @@
     ],
     "sabre global technologies": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -68412,12 +68412,6 @@
         }
     ],
     "star mobile": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "star motors and autos": [
         {
             "type": 1,
             "rating": 1

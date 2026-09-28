@@ -1267,12 +1267,6 @@
             "rating": 1
         }
     ],
-    "zallycakes and edibles": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "zalone": [
         {
             "type": 1,
@@ -3147,19 +3141,13 @@
             "rating": 1
         }
     ],
-    "zentia": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "zentiva pharma": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

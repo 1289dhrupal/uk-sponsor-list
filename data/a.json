@@ -744,7 +744,7 @@
     "a better carehome t/as breton court": [
         {
             "type": 1,
-            "rating": 4
+            "rating": 1
         }
     ],
     "a bite": [
@@ -17447,11 +17447,11 @@
     ],
     "advanced logistics for aerospace": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -43088,12 +43088,6 @@
         }
     ],
     "angel s care support": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "angel1ca": [
         {
             "type": 1,
             "rating": 1

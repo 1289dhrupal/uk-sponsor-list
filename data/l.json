@@ -7861,12 +7861,6 @@
             "rating": 1
         }
     ],
-    "le soleil enterprises": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "le talent": [
         {
             "type": 1,
@@ -13583,12 +13577,6 @@
             "rating": 1
         }
     ],
-    "lifecome care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lifecycle sourcing": [
         {
             "type": 1,
@@ -13609,7 +13597,7 @@
     ],
     "lifegate church": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 2
         },
         {
@@ -13617,7 +13605,7 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 9,
             "rating": 2
         }
     ],
