@@ -4765,12 +4765,6 @@
             "rating": 1
         }
     ],
-    "banana island bar and restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "banana leaf restaurant": [
         {
             "type": 1,
@@ -47344,6 +47338,12 @@
         }
     ],
     "burntwood lodge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "burntwood trust": [
         {
             "type": 1,
             "rating": 1

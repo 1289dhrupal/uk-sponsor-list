@@ -34589,12 +34589,6 @@
             "rating": 2
         }
     ],
-    "cleasbys engine motor factors": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cleator cricket club": [
         {
             "type": 11,
@@ -46248,6 +46242,18 @@
         }
     ],
     "continental freight": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "continental ice cream foods": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "continental dairy": [
         {
             "type": 1,
             "rating": 1

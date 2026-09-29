@@ -16651,12 +16651,6 @@
             "rating": 1
         }
     ],
-    "phare health": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "pharm medica": [
         {
             "type": 1,
@@ -33807,6 +33801,12 @@
             "rating": 1
         }
     ],
+    "prime land property": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "prime late shop": [
         {
             "type": 1,
@@ -41360,12 +41360,6 @@
         }
     ],
     "purcell architecture": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "purdex": [
         {
             "type": 1,
             "rating": 1
