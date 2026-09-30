@@ -3429,11 +3429,11 @@
     ],
     "eastern pacific shipping": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13906,6 +13906,12 @@
         }
     ],
     "ellerash": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ellerbeck jerseys": [
         {
             "type": 1,
             "rating": 1
@@ -25424,6 +25430,12 @@
         }
     ],
     "ethos invest": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ethos jiujitsu barnet": [
         {
             "type": 1,
             "rating": 1

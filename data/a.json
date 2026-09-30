@@ -865,12 +865,6 @@
             "rating": 1
         }
     ],
-    "a e bishop": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "a e hewison": [
         {
             "type": 1,
@@ -6144,12 +6138,6 @@
             "type": 4,
             "rating": 2
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "aashni&asvin": [
         {
             "type": 1,
             "rating": 1
@@ -32021,11 +32009,11 @@
     ],
     "all nations christian college": [
         {
-            "type": 9,
+            "type": 10,
             "rating": 2
         },
         {
-            "type": 10,
+            "type": 9,
             "rating": 2
         }
     ],
@@ -38200,12 +38188,6 @@
         }
     ],
     "ambient care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ambient consultants": [
         {
             "type": 1,
             "rating": 1

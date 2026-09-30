@@ -14401,12 +14401,6 @@
             "rating": 1
         }
     ],
-    "lightsky": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lightsky operations": [
         {
             "type": 1,
@@ -16246,6 +16240,12 @@
         }
     ],
     "linkstar tech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "linkswood veterinary centre": [
         {
             "type": 1,
             "rating": 1
@@ -28551,6 +28551,12 @@
             "rating": 1
         }
     ],
+    "lumident": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lumiere consultancy": [
         {
             "type": 1,
@@ -29922,7 +29928,7 @@
     "luxurycare eagles mount": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "luxurycare kingsman house": [

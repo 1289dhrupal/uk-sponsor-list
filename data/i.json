@@ -10595,12 +10595,6 @@
             "rating": 1
         }
     ],
-    "infinity medical innovations": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "infinity nation": [
         {
             "type": 1,
@@ -22951,6 +22945,12 @@
         {
             "type": 4,
             "rating": 2
+        }
+    ],
+    "ithacus": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "ithink 365": [

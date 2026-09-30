@@ -2845,6 +2845,12 @@
             "rating": 1
         }
     ],
+    "kajaine kafton": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kajan sivasuthan": [
         {
             "type": 1,
@@ -3384,12 +3390,6 @@
         }
     ],
     "kam freight": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kam project consultants": [
         {
             "type": 1,
             "rating": 1
@@ -4634,6 +4634,12 @@
         }
     ],
     "karali mu": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "karali qsr": [
         {
             "type": 1,
             "rating": 1
@@ -13117,11 +13123,11 @@
     ],
     "kin&co enterprises": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

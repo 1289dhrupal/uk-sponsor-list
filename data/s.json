@@ -453,6 +453,12 @@
             "rating": 1
         }
     ],
+    "stakemate": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "smiths pharmacy": [
         {
             "type": 1,
@@ -7157,6 +7163,12 @@
             "rating": 1
         }
     ],
+    "safran actuation systems": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "safran aerosystems": [
         {
             "type": 5,
@@ -11724,6 +11736,12 @@
         }
     ],
     "san art": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sana bana": [
         {
             "type": 1,
             "rating": 1
@@ -23509,6 +23527,12 @@
             "rating": 1
         }
     ],
+    "sendmarc": [
+        {
+            "type": 3,
+            "rating": 3
+        }
+    ],
     "sendspend": [
         {
             "type": 1,
@@ -23523,11 +23547,11 @@
     ],
     "seneca international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -39551,12 +39575,6 @@
             "rating": 1
         }
     ],
-    "singh concrete": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "singh concrete pumps": [
         {
             "type": 1,
@@ -46723,12 +46741,6 @@
             "rating": 1
         }
     ],
-    "smb": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "smb solicitors": [
         {
             "type": 1,
@@ -50363,6 +50375,12 @@
             "rating": 1
         }
     ],
+    "soits tech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sojern": [
         {
             "type": 5,
@@ -50375,12 +50393,12 @@
     ],
     "sojitz aerospace corporation": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -60390,6 +60408,12 @@
         }
     ],
     "spring hall practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "spring hill pharma": [
         {
             "type": 1,
             "rating": 1
@@ -70688,6 +70712,12 @@
         }
     ],
     "step ladder solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "step next": [
         {
             "type": 1,
             "rating": 1
@@ -84718,12 +84748,6 @@
         }
     ],
     "sweet express": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sweet hall": [
         {
             "type": 1,
             "rating": 1
