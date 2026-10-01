@@ -2799,12 +2799,6 @@
             "rating": 1
         }
     ],
-    "east midlands care agency service": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "east midlands chamber derbyshire nottinghamshire leicestershire": [
         {
             "type": 1,
@@ -3003,6 +2997,12 @@
         {
             "type": 4,
             "rating": 2
+        }
+    ],
+    "east stuff": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "east suffolk and north essex nhs foundation trust": [
@@ -15633,6 +15633,12 @@
             "rating": 1
         }
     ],
+    "emcas lincolnshire": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "emcee associates": [
         {
             "type": 1,
@@ -22393,6 +22399,12 @@
             "rating": 1
         }
     ],
+    "equity management & investments": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "equity2develop": [
         {
             "type": 1,
@@ -24518,12 +24530,6 @@
         }
     ],
     "essex shopfitters": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "essex spice": [
         {
             "type": 1,
             "rating": 1
@@ -28742,6 +28748,12 @@
         }
     ],
     "eversley rest home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "eversure": [
         {
             "type": 1,
             "rating": 1

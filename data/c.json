@@ -17859,12 +17859,6 @@
             "rating": 1
         }
     ],
-    "central staffing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "central stores": [
         {
             "type": 1,
@@ -24831,12 +24825,6 @@
             "rating": 1
         }
     ],
-    "chi street food": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "chi technology": [
         {
             "type": 1,
@@ -26757,16 +26745,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "chiswick tattoo": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "chiswick-physio": [
@@ -44995,6 +44973,12 @@
             "rating": 1
         }
     ],
+    "connor associates": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "connor clark & lunn": [
         {
             "type": 5,
@@ -56986,6 +56970,12 @@
         }
     ],
     "crystal business solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "crystal care homes 2": [
         {
             "type": 1,
             "rating": 1

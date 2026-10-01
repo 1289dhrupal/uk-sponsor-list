@@ -2095,16 +2095,6 @@
             "rating": 1
         }
     ],
-    "daily mail and general trust": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "daily needs food and wine": [
         {
             "type": 1,
@@ -4700,6 +4690,12 @@
         }
     ],
     "das consultancy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "das fire": [
         {
             "type": 1,
             "rating": 1
@@ -7600,12 +7596,6 @@
             "type": 4,
             "rating": 2
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dd foodservice": [
         {
             "type": 1,
             "rating": 1
@@ -19057,12 +19047,6 @@
             "rating": 1
         }
     ],
-    "direct line insurance": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "direct line supplies": [
         {
             "type": 1,
@@ -27310,6 +27294,12 @@
         }
     ],
     "drift limits": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "driftrock": [
         {
             "type": 1,
             "rating": 1

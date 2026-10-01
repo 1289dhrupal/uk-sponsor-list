@@ -3631,6 +3631,12 @@
             "rating": 1
         }
     ],
+    "young futures social care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "young giants": [
         {
             "type": 1,
@@ -3645,16 +3651,16 @@
     ],
     "young life international": [
         {
-            "type": 2,
-            "rating": 1
+            "type": 9,
+            "rating": 2
         },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 9,
-            "rating": 2
+            "type": 2,
+            "rating": 1
         }
     ],
     "young living europe": [

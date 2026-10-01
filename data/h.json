@@ -1423,12 +1423,6 @@
             "rating": 1
         }
     ],
-    "h&n building construction": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "h&n popat": [
         {
             "type": 1,
@@ -11769,6 +11763,16 @@
             "rating": 1
         }
     ],
+    "hazen and sawyer": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hazera seeds": [
         {
             "type": 1,
@@ -14594,6 +14598,12 @@
         }
     ],
     "heavenly touch care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "heavers farm primary school": [
         {
             "type": 1,
             "rating": 1
@@ -20117,6 +20127,12 @@
             "rating": 1
         }
     ],
+    "hillbank health centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hillbarn": [
         {
             "type": 1,
@@ -23406,12 +23422,6 @@
         }
     ],
     "hodge and huggett": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hodge and wilson": [
         {
             "type": 1,
             "rating": 1
@@ -32526,12 +32536,6 @@
         }
     ],
     "hutchings & hill developments": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hutchins and co solicitors": [
         {
             "type": 1,
             "rating": 1

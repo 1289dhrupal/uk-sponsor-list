@@ -1231,12 +1231,6 @@
             "rating": 1
         }
     ],
-    "ufk trading": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "uflex europe": [
         {
             "type": 5,
@@ -9674,6 +9668,12 @@
         }
     ],
     "uy accountants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "uyccc": [
         {
             "type": 1,
             "rating": 1

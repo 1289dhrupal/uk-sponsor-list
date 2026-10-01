@@ -4821,12 +4821,6 @@
             "rating": 2
         }
     ],
-    "raindrops consulting": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "raine advisors": [
         {
             "type": 5,
@@ -6914,6 +6908,12 @@
         }
     ],
     "ranet": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rang trading": [
         {
             "type": 1,
             "rating": 1
@@ -13106,12 +13106,6 @@
         }
     ],
     "reddish foods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "reddish home care": [
         {
             "type": 1,
             "rating": 1
@@ -22119,6 +22113,12 @@
             "rating": 1
         }
     ],
+    "rig intelligence": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rig tubulars": [
         {
             "type": 1,
@@ -25872,6 +25872,12 @@
         }
     ],
     "rmd cams": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rmd global marketing": [
         {
             "type": 1,
             "rating": 1
@@ -31099,6 +31105,12 @@
             "rating": 1
         }
     ],
+    "rotherfield farms": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rotherham doncaster and south humber nhs foundation trust": [
         {
             "type": 1,
@@ -32069,7 +32081,7 @@
             "rating": 2
         }
     ],
-    "royal british legion industries": [
+    "royal british veterans enterprise": [
         {
             "type": 1,
             "rating": 1
@@ -32099,12 +32111,12 @@
     ],
     "royal college of music": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "royal college of nursing": [

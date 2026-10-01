@@ -161,12 +161,6 @@
             "rating": 1
         }
     ],
-    "vojan restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "volcano coffee works": [
         {
             "type": 1,
@@ -13333,21 +13327,17 @@
             "rating": 1
         }
     ],
-    "vml": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
-        },
+    "vml techno solutions": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "vml techno solutions": [
+    "vml": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
