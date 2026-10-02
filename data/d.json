@@ -2151,6 +2151,12 @@
             "rating": 1
         }
     ],
+    "dainin bc": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "daira s personnel": [
         {
             "type": 1,
@@ -7437,6 +7443,12 @@
             "rating": 1
         }
     ],
+    "dcc 2": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dcc holdings": [
         {
             "type": 8,
@@ -8425,11 +8437,11 @@
     ],
     "decagon ai": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8450,12 +8462,6 @@
         }
     ],
     "decca": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "deccan fuels": [
         {
             "type": 1,
             "rating": 1
@@ -18187,6 +18193,16 @@
             "rating": 1
         }
     ],
+    "dimalnox": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dimark": [
         {
             "type": 1,
@@ -22932,6 +22948,12 @@
         }
     ],
     "doms power": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "domu brands": [
         {
             "type": 1,
             "rating": 1

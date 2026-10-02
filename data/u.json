@@ -437,12 +437,6 @@
             "rating": 1
         }
     ],
-    "u-blox cambridge": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "u-blox luton": [
         {
             "type": 1,
@@ -5560,7 +5554,7 @@
     "unity homes": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "unity housing support": [

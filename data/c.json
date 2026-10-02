@@ -5447,12 +5447,6 @@
             "rating": 1
         }
     ],
-    "camelot castle hotel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "camelot chilled foods": [
         {
             "type": 1,
@@ -42250,6 +42244,12 @@
         }
     ],
     "community places": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "community power solutions": [
         {
             "type": 1,
             "rating": 1

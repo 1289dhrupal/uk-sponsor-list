@@ -14387,6 +14387,12 @@
             "rating": 1
         }
     ],
+    "fletchers solicitors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fletcherwilson": [
         {
             "type": 1,
@@ -18862,6 +18868,12 @@
         }
     ],
     "form clinics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "form furniture solutions": [
         {
             "type": 1,
             "rating": 1

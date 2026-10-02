@@ -95,12 +95,6 @@
             "rating": 1
         }
     ],
-    "jrc global buffet": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "junction pharmacy": [
         {
             "type": 1,
@@ -136,6 +130,12 @@
         }
     ],
     "just eat for business": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jrc global buffet": [
         {
             "type": 1,
             "rating": 1
@@ -11695,12 +11695,6 @@
             "rating": 1
         }
     ],
-    "jogabrar": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "jogmec japan organization for metals and energy security": [
         {
             "type": 6,
@@ -15971,12 +15965,6 @@
         {
             "type": 4,
             "rating": 2
-        }
-    ],
-    "jungle dwellers": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "jungle grill": [

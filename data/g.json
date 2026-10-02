@@ -8017,12 +8017,6 @@
             "rating": 1
         }
     ],
-    "george in rye": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "george laing fencing": [
         {
             "type": 1,
@@ -8053,13 +8047,19 @@
             "rating": 1
         }
     ],
+    "george on rye": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "george p johnson united kingdom": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -11746,12 +11746,6 @@
         }
     ],
     "gladstone capital management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gladstone garage": [
         {
             "type": 1,
             "rating": 1

@@ -21651,12 +21651,6 @@
             "rating": 1
         }
     ],
-    "pitsa": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "pitsboj": [
         {
             "type": 1,
@@ -22598,6 +22592,12 @@
         }
     ],
     "pjz rayleigh": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pk & brothers": [
         {
             "type": 1,
             "rating": 1
@@ -28799,6 +28799,12 @@
             "rating": 1
         }
     ],
+    "power cable": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "power cms technology": [
         {
             "type": 1,
@@ -30208,6 +30214,12 @@
         }
     ],
     "prax physio": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "praxic": [
         {
             "type": 1,
             "rating": 1
@@ -32269,12 +32281,6 @@
             "rating": 1
         }
     ],
-    "prestige care holdings": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "prestige care": [
         {
             "type": 1,
@@ -32307,11 +32313,11 @@
     ],
     "prestige constructions international": [
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -40421,6 +40427,12 @@
             "rating": 1
         }
     ],
+    "ptb scot t/athe plaice to be": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ptfg": [
         {
             "type": 1,
@@ -41580,12 +41592,6 @@
         }
     ],
     "pure medical clinic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pure moments": [
         {
             "type": 1,
             "rating": 1

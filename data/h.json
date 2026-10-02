@@ -1484,7 +1484,7 @@
     "h&s direct solutions": [
         {
             "type": 1,
-            "rating": 4
+            "rating": 1
         }
     ],
     "h&s facilities management": [
@@ -12429,13 +12429,13 @@
             "rating": 1
         }
     ],
-    "hd2 care support": [
+    "hd york": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "hd23 hanover dental practice": [
+    "hd2 care support": [
         {
             "type": 1,
             "rating": 1
@@ -24439,12 +24439,6 @@
             "rating": 1
         }
     ],
-    "holmesterne farm co": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "holmewood house school": [
         {
             "type": 9,
@@ -26249,11 +26243,11 @@
     ],
     "honeywell aerospace co": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29035,6 +29029,12 @@
             "rating": 1
         }
     ],
+    "howarths hr and employment law": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "howat rearing": [
         {
             "type": 1,
@@ -31498,12 +31498,6 @@
         }
     ],
     "humber distribution & logistics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "humber doors": [
         {
             "type": 1,
             "rating": 1

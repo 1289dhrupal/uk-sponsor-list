@@ -6427,6 +6427,12 @@
             "rating": 1
         }
     ],
+    "ecosurety": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ecotax": [
         {
             "type": 1,
@@ -6764,6 +6770,12 @@
         }
     ],
     "edds construction": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "eddy food centre": [
         {
             "type": 1,
             "rating": 1
@@ -16522,6 +16534,12 @@
         }
     ],
     "emp facility management service": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "empactis": [
         {
             "type": 1,
             "rating": 1

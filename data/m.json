@@ -5169,6 +5169,12 @@
             "rating": 1
         }
     ],
+    "macmillan spirits co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "macomics": [
         {
             "type": 1,
@@ -19836,12 +19842,6 @@
         }
     ],
     "may residential homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "may29 healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -41251,6 +41251,12 @@
             "rating": 1
         }
     ],
+    "moelam": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "moelis & company": [
         {
             "type": 1,
@@ -47835,11 +47841,11 @@
     ],
     "mpower plus": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -51492,6 +51498,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "msl oilfield": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -55822,12 +55834,6 @@
         }
     ],
     "my uniform": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "my veri peri online": [
         {
             "type": 1,
             "rating": 1
