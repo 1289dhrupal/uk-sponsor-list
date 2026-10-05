@@ -4467,12 +4467,6 @@
             "rating": 1
         }
     ],
-    "baltic xpress": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "baltic pets": [
         {
             "type": 1,
@@ -5888,12 +5882,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "banque transatlantique s a": [
         {
             "type": 1,
             "rating": 1
@@ -9737,7 +9725,7 @@
             "rating": 1
         }
     ],
-    "bb accounting solution": [
+    "bb accounting solutions": [
         {
             "type": 1,
             "rating": 1
@@ -15603,6 +15591,12 @@
             "rating": 1
         }
     ],
+    "bennamor": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bennbridge": [
         {
             "type": 1,
@@ -16630,12 +16624,6 @@
         }
     ],
     "berry drive stores": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "berry gardens and berry gardens growers": [
         {
             "type": 1,
             "rating": 1
@@ -43261,20 +43249,14 @@
             "rating": 1
         }
     ],
-    "brothers of charity": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "brothers of the sacred heart": [
-        {
-            "type": 10,
-            "rating": 2
-        },
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "brothers pan corner": [
@@ -50306,6 +50288,12 @@
         }
     ],
     "brooklands nursing and residential home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bermondsey bierkeller": [
         {
             "type": 1,
             "rating": 1

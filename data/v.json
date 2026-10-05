@@ -1267,12 +1267,6 @@
             "rating": 1
         }
     ],
-    "vaayu tech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "vabel construction 8": [
         {
             "type": 1,
@@ -4501,6 +4495,12 @@
             "rating": 1
         }
     ],
+    "vector holdings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vector managed": [
         {
             "type": 1,
@@ -5782,7 +5782,7 @@
     "venturi healthcare": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "venturion private club": [

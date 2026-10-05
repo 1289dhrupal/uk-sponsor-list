@@ -1833,11 +1833,11 @@
     ],
     "fair consulting": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
@@ -5744,12 +5744,6 @@
         }
     ],
     "fat fox pizza den": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fatima cafe bristol 1": [
         {
             "type": 1,
             "rating": 1
@@ -14511,6 +14505,12 @@
             "rating": 1
         }
     ],
+    "flexi healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "flexibeau care": [
         {
             "type": 1,
@@ -16580,6 +16580,12 @@
         }
     ],
     "foers engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fogap consulting": [
         {
             "type": 1,
             "rating": 1
@@ -18983,15 +18989,15 @@
             "rating": 1
         }
     ],
-    "formax credit": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "formby cricket club": [
         {
             "type": 11,
+            "rating": 1
+        }
+    ],
+    "formby injury and rehab clinic": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20081,12 +20087,6 @@
             "rating": 1
         }
     ],
-    "fossil beauty": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fossil consultancy": [
         {
             "type": 1,
@@ -20463,6 +20463,12 @@
             "rating": 1
         }
     ],
+    "fountain partnership": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fountain": [
         {
             "type": 1,
@@ -20528,12 +20534,6 @@
         }
     ],
     "four capital": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "four chic beauty": [
         {
             "type": 1,
             "rating": 1
@@ -26892,6 +26892,12 @@
         }
     ],
     "future health and social care association cic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "future health intelligence": [
         {
             "type": 1,
             "rating": 1

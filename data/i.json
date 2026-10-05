@@ -223,12 +223,6 @@
             "rating": 1
         }
     ],
-    "ipc emea": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "irepair": [
         {
             "type": 1,
@@ -6392,12 +6386,6 @@
         }
     ],
     "immersive gamebox": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "immersive gaming": [
         {
             "type": 1,
             "rating": 1
@@ -12739,6 +12727,12 @@
             "rating": 1
         }
     ],
+    "innovia films": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "innovia holding 3": [
         {
             "type": 5,
@@ -14041,6 +14035,12 @@
             "rating": 1
         }
     ],
+    "installio": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "instance save": [
         {
             "type": 1,
@@ -14555,12 +14555,6 @@
             "rating": 1
         }
     ],
-    "insurestreet": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "insurity europe": [
         {
             "type": 5,
@@ -14998,12 +14992,6 @@
         }
     ],
     "integrated environmental solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "integrated estate management": [
         {
             "type": 1,
             "rating": 1
@@ -18287,24 +18275,14 @@
             "rating": 1
         }
     ],
-    "invenergy": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "invenics": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,

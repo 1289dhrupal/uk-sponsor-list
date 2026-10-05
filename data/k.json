@@ -9895,16 +9895,6 @@
             "rating": 2
         }
     ],
-    "kerry logistics": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kerryhill engineers": [
         {
             "type": 1,
@@ -11442,6 +11432,12 @@
         }
     ],
     "khan newsagents": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "khan pharma leeds": [
         {
             "type": 1,
             "rating": 1
@@ -14998,6 +14994,12 @@
         }
     ],
     "kinik trends": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kinisi industries": [
         {
             "type": 1,
             "rating": 1
@@ -23399,6 +23401,12 @@
             "rating": 1
         }
     ],
+    "kw designed solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kw motors": [
         {
             "type": 1,
@@ -23676,6 +23684,12 @@
         }
     ],
     "kyati": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kyati t/as jays pharmacy": [
         {
             "type": 1,
             "rating": 1

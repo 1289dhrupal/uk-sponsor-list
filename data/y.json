@@ -1667,16 +1667,6 @@
             "rating": 1
         }
     ],
-    "yell": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "yellow atlas consulting": [
         {
             "type": 1,
@@ -3495,6 +3485,12 @@
             "rating": 2
         }
     ],
+    "you are my sunshine": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "you before me care": [
         {
             "type": 1,
@@ -4473,6 +4469,12 @@
         {
             "type": 10,
             "rating": 2
+        }
+    ],
+    "youthstar w": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "youtility solutions private": [

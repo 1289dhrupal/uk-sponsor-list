@@ -4291,6 +4291,12 @@
             "rating": 1
         }
     ],
+    "pama retail": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pamarco europe": [
         {
             "type": 1,
@@ -6286,6 +6292,12 @@
         }
     ],
     "parcliffe medical centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "parcor": [
         {
             "type": 1,
             "rating": 1
@@ -10212,6 +10224,12 @@
         }
     ],
     "paysafe financial": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "paysafe holdings": [
         {
             "type": 1,
             "rating": 1
@@ -17312,6 +17330,18 @@
         }
     ],
     "phi property acquisitions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "phi102": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "phi clinic": [
         {
             "type": 1,
             "rating": 1
@@ -28119,6 +28149,16 @@
             "rating": 1
         }
     ],
+    "posco international deutschland gmbh": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pose ar": [
         {
             "type": 1,
@@ -29844,12 +29884,6 @@
         }
     ],
     "pradom global": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "praemia reim": [
         {
             "type": 1,
             "rating": 1
@@ -32281,12 +32315,6 @@
             "rating": 1
         }
     ],
-    "prestige care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "prestige care management system": [
         {
             "type": 1,
@@ -34541,16 +34569,16 @@
     ],
     "princes": [
         {
-            "type": 8,
-            "rating": 2
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
             "rating": 1
         },
         {
-            "type": 5,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         }
     ],
     "princes street dental care": [
@@ -39308,6 +39336,12 @@
         }
     ],
     "proven acknowledged trades": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "proven project district heating": [
         {
             "type": 1,
             "rating": 1

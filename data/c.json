@@ -6173,6 +6173,12 @@
             "rating": 1
         }
     ],
+    "canavan joinery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "canbury insights": [
         {
             "type": 1,
@@ -7985,11 +7991,11 @@
     ],
     "capspire": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10042,12 +10048,6 @@
         }
     ],
     "care property management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "care provision healthcare t/as philia lodge rest home": [
         {
             "type": 1,
             "rating": 1
@@ -14857,12 +14857,6 @@
             "rating": 1
         }
     ],
-    "cavens arms": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cavern city tours": [
         {
             "type": 4,
@@ -17234,6 +17228,12 @@
         }
     ],
     "cen-esg": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cenata": [
         {
             "type": 1,
             "rating": 1
@@ -20168,6 +20168,12 @@
         }
     ],
     "chameleon technology": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "chamkani pharma": [
         {
             "type": 1,
             "rating": 1
@@ -32590,12 +32596,6 @@
         }
     ],
     "claimwise ai": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "claires court schools": [
         {
             "type": 1,
             "rating": 1
@@ -45351,6 +45351,12 @@
             "rating": 1
         }
     ],
+    "consolidis": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "consortium maritime trading": [
         {
             "type": 1,
@@ -46362,6 +46368,12 @@
         }
     ],
     "continuous": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "continuous intelligence": [
         {
             "type": 1,
             "rating": 1
@@ -48383,6 +48395,16 @@
             "rating": 1
         }
     ],
+    "corient": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "corilla plastics bridgend": [
         {
             "type": 1,
@@ -48667,6 +48689,12 @@
         {
             "type": 10,
             "rating": 2
+        }
+    ],
+    "cornerstone grg": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "cornerstone healthcare midco": [
@@ -52907,12 +52935,6 @@
             "rating": 2
         }
     ],
-    "crawfords homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "crawfordsburn scout centre": [
         {
             "type": 9,
@@ -55204,6 +55226,12 @@
         }
     ],
     "cafe masala": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "crofton & co walton-on-thames": [
         {
             "type": 1,
             "rating": 1

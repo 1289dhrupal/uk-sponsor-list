@@ -16081,12 +16081,6 @@
             "rating": 1
         }
     ],
-    "eminence by gtx": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "eminence care service broomfield": [
         {
             "type": 1,
@@ -18863,6 +18857,12 @@
             "rating": 1
         }
     ],
+    "engine reborn": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "enginecheck": [
         {
             "type": 1,
@@ -18992,12 +18992,6 @@
         }
     ],
     "engineering techniques": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "engineering technology": [
         {
             "type": 1,
             "rating": 1
@@ -24169,12 +24163,6 @@
             "rating": 1
         }
     ],
-    "essence of elegance": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "essence of life": [
         {
             "type": 1,
@@ -26543,13 +26531,19 @@
             "rating": 1
         }
     ],
-    "eurofins food testing": [
+    "eurofins electrical and electronic": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "eurofins food testing": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27068,12 +27062,6 @@
         }
     ],
     "european freight": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "european independent purchasing company": [
         {
             "type": 1,
             "rating": 1
@@ -30426,6 +30414,12 @@
         }
     ],
     "excent": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "exception capital": [
         {
             "type": 1,
             "rating": 1

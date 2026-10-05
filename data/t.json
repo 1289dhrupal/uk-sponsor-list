@@ -5953,16 +5953,6 @@
             "rating": 1
         }
     ],
-    "talan consulting": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "talan & ireland": [
         {
             "type": 1,
@@ -6158,6 +6148,12 @@
         }
     ],
     "talent nexus": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "talent republic": [
         {
             "type": 1,
             "rating": 1
@@ -6894,12 +6890,6 @@
         }
     ],
     "tamworth business": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "tamworth chiropractic clinic": [
         {
             "type": 1,
             "rating": 1
@@ -14585,12 +14575,6 @@
             "rating": 1
         }
     ],
-    "tender care and support": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tender hands": [
         {
             "type": 1,
@@ -16790,6 +16774,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "thaa architects": [
         {
             "type": 1,
             "rating": 1
@@ -24585,7 +24575,7 @@
             "rating": 1
         }
     ],
-    "the english region of the daughters of joseph and mary": [
+    "the english region of the daughters of mary and joseph": [
         {
             "type": 10,
             "rating": 2
@@ -32165,20 +32155,14 @@
             "rating": 1
         }
     ],
-    "the new taj balti house": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the new testament gospel church": [
-        {
-            "type": 10,
-            "rating": 2
-        },
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "the new wolsey theatre company": [
@@ -35262,6 +35246,12 @@
         },
         {
             "type": 2,
+            "rating": 1
+        }
+    ],
+    "the really fit company": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -40899,6 +40889,10 @@
     ],
     "the team: sme music": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 4,
             "rating": 2
         }
@@ -44627,6 +44621,12 @@
             "rating": 1
         }
     ],
+    "tier one property management advisory": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tier operations": [
         {
             "type": 1,
@@ -46028,6 +46028,12 @@
         }
     ],
     "tipografic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tips4interior": [
         {
             "type": 1,
             "rating": 1
@@ -47752,12 +47758,6 @@
         }
     ],
     "todd longstaffe-gowan": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "toddington dental practice": [
         {
             "type": 1,
             "rating": 1

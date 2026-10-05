@@ -2029,12 +2029,6 @@
             "rating": 1
         }
     ],
-    "lab metal and steel art": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lab works engineering": [
         {
             "type": 1,
@@ -4635,6 +4629,12 @@
             "rating": 1
         }
     ],
+    "lang & hughes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lang s restaurant": [
         {
             "type": 1,
@@ -7053,12 +7053,6 @@
             "rating": 1
         }
     ],
-    "lawyers for justice in libya": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lawyers on demand": [
         {
             "type": 5,
@@ -8378,6 +8372,12 @@
         }
     ],
     "leap networks global": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "leap productions": [
         {
             "type": 1,
             "rating": 1
@@ -18471,12 +18471,6 @@
             "rating": 1
         }
     ],
-    "liverpool school of english": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "liverpool school of tropical medicine": [
         {
             "type": 1,
@@ -20855,12 +20849,6 @@
             "rating": 1
         }
     ],
-    "logicel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "logicgate": [
         {
             "type": 5,
@@ -21919,6 +21907,12 @@
             "rating": 1
         }
     ],
+    "london bridge hospitality": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "london brookes college": [
         {
             "type": 1,
@@ -22932,6 +22926,10 @@
         },
         {
             "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30196,6 +30194,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "lxs consultancy": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
