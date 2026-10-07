@@ -35544,7 +35544,7 @@
     "clinch international 16900283": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "clinchoice": [
@@ -49689,6 +49689,12 @@
             "rating": 1
         }
     ],
+    "cosmic code consulting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cosmic healthcare": [
         {
             "type": 1,
@@ -59702,6 +59708,12 @@
         }
     ],
     "cutler and gross": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cutmaster barber shop": [
         {
             "type": 1,
             "rating": 1

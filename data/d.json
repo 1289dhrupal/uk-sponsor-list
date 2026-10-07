@@ -1957,13 +1957,13 @@
             "rating": 1
         }
     ],
-    "daifuku logan": [
+    "daifuku airport": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -7291,6 +7291,12 @@
             "rating": 1
         }
     ],
+    "dbr tools": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dbs bank london branch": [
         {
             "type": 1,
@@ -11825,6 +11831,12 @@
             "rating": 1
         }
     ],
+    "dentistry on gipsy hill": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dentistryatbd4": [
         {
             "type": 1,
@@ -14356,6 +14368,12 @@
         }
     ],
     "devon ultrasound": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "devono property": [
         {
             "type": 1,
             "rating": 1
@@ -28141,6 +28159,12 @@
             "rating": 1
         }
     ],
+    "drybrook care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dryclough grocery store": [
         {
             "type": 1,
@@ -31011,6 +31035,12 @@
             "rating": 1
         }
     ],
+    "dxb perfume retail": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dxb retail": [
         {
             "type": 1,
@@ -32070,12 +32100,6 @@
         }
     ],
     "drip hydration": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "doctor scooter": [
         {
             "type": 1,
             "rating": 1

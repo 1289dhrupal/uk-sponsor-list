@@ -633,6 +633,12 @@
             "rating": 1
         }
     ],
+    "b owner": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "b r m jewel craft": [
         {
             "type": 1,
@@ -4537,14 +4543,20 @@
             "rating": 1
         }
     ],
-    "bam construct & ventures": [
+    "bam bam agency": [
         {
-            "type": 1,
-            "rating": 1
-        },
+            "type": 4,
+            "rating": 2
+        }
+    ],
+    "bam construct & ventures": [
         {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -12579,6 +12591,10 @@
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "bedford phone repairs": [
@@ -24166,6 +24182,12 @@
         }
     ],
     "bivora": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bixely independent living": [
         {
             "type": 1,
             "rating": 1
@@ -37863,6 +37885,12 @@
             "rating": 1
         }
     ],
+    "briarwood medical centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bric management nw": [
         {
             "type": 1,
@@ -38744,6 +38772,10 @@
         }
     ],
     "bridor": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -49212,12 +49244,6 @@
     "byfords": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "byggfakta": [
-        {
-            "type": 5,
             "rating": 1
         }
     ],

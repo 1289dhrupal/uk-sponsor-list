@@ -2553,11 +2553,11 @@
     ],
     "r l polk": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -14548,7 +14548,7 @@
     "regal care trading": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "regal choice": [
@@ -21642,6 +21642,12 @@
         }
     ],
     "richy electrical": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "richy hair boutique": [
         {
             "type": 1,
             "rating": 1
@@ -32872,12 +32878,6 @@
         }
     ],
     "royton": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "royza london": [
         {
             "type": 1,
             "rating": 1

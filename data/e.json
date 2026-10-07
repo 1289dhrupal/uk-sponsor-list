@@ -3743,12 +3743,6 @@
             "rating": 1
         }
     ],
-    "eastwood investment": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "eastwood lodge": [
         {
             "type": 1,
@@ -11440,12 +11434,6 @@
         }
     ],
     "electiva hospitals glasgow": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "electiva hospitals manchester": [
         {
             "type": 1,
             "rating": 1
@@ -27211,6 +27199,12 @@
         {
             "type": 6,
             "rating": 2
+        }
+    ],
+    "european waterways": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "europi property": [

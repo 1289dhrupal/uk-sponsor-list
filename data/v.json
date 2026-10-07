@@ -8823,6 +8823,16 @@
             "rating": 1
         }
     ],
+    "videndum": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "video cafe": [
         {
             "type": 1,
@@ -12769,6 +12779,12 @@
             "rating": 1
         }
     ],
+    "vivo sports gym": [
+        {
+            "type": 12,
+            "rating": 1
+        }
+    ],
     "vivobarefoot": [
         {
             "type": 1,
@@ -13408,12 +13424,6 @@
         }
     ],
     "vnc automotive": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "vnd": [
         {
             "type": 1,
             "rating": 1
@@ -14690,6 +14700,12 @@
         }
     ],
     "vpd stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vpg systems": [
         {
             "type": 1,
             "rating": 1

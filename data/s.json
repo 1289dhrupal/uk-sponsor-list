@@ -8379,12 +8379,6 @@
             "rating": 1
         }
     ],
-    "sai s bargains": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sai s corner": [
         {
             "type": 1,
@@ -16183,13 +16177,19 @@
             "rating": 1
         }
     ],
-    "savvy advisory": [
+    "savtax accountants": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "savvy advisory": [
         {
             "type": 3,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24525,6 +24525,12 @@
             "rating": 1
         }
     ],
+    "seraphus": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "serapid": [
         {
             "type": 5,
@@ -26278,6 +26284,12 @@
         }
     ],
     "sf cars and commercials": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sf collection": [
         {
             "type": 1,
             "rating": 1
@@ -29432,12 +29444,6 @@
         }
     ],
     "sharpak yate": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sharpcloud software": [
         {
             "type": 1,
             "rating": 1
@@ -36742,6 +36748,12 @@
         }
     ],
     "signet corporation": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "signet healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -45671,6 +45683,12 @@
             "rating": 1
         }
     ],
+    "smart logistical solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "smart look london": [
         {
             "type": 1,
@@ -48884,6 +48902,12 @@
         }
     ],
     "sns local - leytonstone": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sns properties & investments": [
         {
             "type": 1,
             "rating": 1
@@ -70369,6 +70393,12 @@
             "rating": 1
         }
     ],
+    "stelia": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "stella enterprises": [
         {
             "type": 1,
@@ -74281,6 +74311,12 @@
             "rating": 1
         }
     ],
+    "stratford upon avon school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "stratford village dental practice": [
         {
             "type": 1,
@@ -77236,12 +77272,6 @@
         }
     ],
     "suda": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "suda security": [
         {
             "type": 1,
             "rating": 1
@@ -86017,12 +86047,12 @@
     ],
     "sycamore church rccg": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 10,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "sycamore process engineering": [

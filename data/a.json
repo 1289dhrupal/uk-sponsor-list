@@ -13467,6 +13467,12 @@
             "rating": 2
         }
     ],
+    "active adult": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "active care & support": [
         {
             "type": 1,
@@ -18371,12 +18377,12 @@
     ],
     "aegiq": [
         {
-            "type": 13,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 13,
+            "rating": 2
         }
     ],
     "aegis care solutions": [
@@ -34295,6 +34301,12 @@
             "rating": 1
         }
     ],
+    "aloha": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "alohomora": [
         {
             "type": 1,
@@ -35154,6 +35166,12 @@
         }
     ],
     "alpine building": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "alpine care": [
         {
             "type": 1,
             "rating": 1
@@ -41458,6 +41476,12 @@
         }
     ],
     "anand international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "anand nand": [
         {
             "type": 1,
             "rating": 1
@@ -52229,13 +52253,19 @@
             "rating": 1
         }
     ],
-    "argenta syndicate management": [
+    "argenta projects": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "argenta syndicate management": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -64888,6 +64918,12 @@
         }
     ],
     "attentive fire": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "attentive housing": [
         {
             "type": 1,
             "rating": 1

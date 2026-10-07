@@ -3973,12 +3973,6 @@
             "rating": 1
         }
     ],
-    "lancashire light": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lancashire malik catering": [
         {
             "type": 1,
@@ -10448,16 +10442,6 @@
     "lemonade dolls": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "lemonade lemonica": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -17333,6 +17317,12 @@
             "rating": 1
         }
     ],
+    "little emperors & co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "little explorers childcare": [
         {
             "type": 1,
@@ -19733,11 +19723,11 @@
     ],
     "lmtd emea": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24560,6 +24550,16 @@
         }
     ],
     "longbridge deverill house and nursing home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "longbrook servco": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -29600,12 +29600,6 @@
         }
     ],
     "lux rhaan": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "luxatti homes": [
         {
             "type": 1,
             "rating": 1

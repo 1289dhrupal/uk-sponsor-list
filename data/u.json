@@ -4505,6 +4505,12 @@
             "rating": 1
         }
     ],
+    "unit technology": [
+        {
+            "type": 3,
+            "rating": 3
+        }
+    ],
     "unit tv": [
         {
             "type": 1,

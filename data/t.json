@@ -42559,16 +42559,6 @@
             "rating": 1
         }
     ],
-    "thomas miller & co": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "thomas miller holdings company": [
         {
             "type": 5,
@@ -46068,6 +46058,12 @@
         }
     ],
     "tir giffnock": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tir": [
         {
             "type": 1,
             "rating": 1
