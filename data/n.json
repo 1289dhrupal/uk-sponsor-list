@@ -3739,6 +3739,12 @@
             "rating": 1
         }
     ],
+    "nat tech holdings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "nat s tutorial": [
         {
             "type": 1,
@@ -13852,7 +13858,7 @@
     "nexen tyre u k": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "nexeon": [
@@ -17602,7 +17608,7 @@
     "nisacraftcare": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "nisanthan rasu": [
@@ -18580,7 +18586,7 @@
     "nm software solutions": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "nm tavy": [
@@ -26522,6 +26528,12 @@
         }
     ],
     "nurturecare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "nurtured prime health": [
         {
             "type": 1,
             "rating": 1

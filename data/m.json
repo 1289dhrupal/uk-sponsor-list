@@ -1893,6 +1893,12 @@
             "rating": 1
         }
     ],
+    "m connect": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "m d j french & co t/as caremark weymouth & west dorset": [
         {
             "type": 1,
@@ -19508,12 +19514,6 @@
     "mf polo": [
         {
             "type": 12,
-            "rating": 1
-        }
-    ],
-    "maximo moto sl": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],

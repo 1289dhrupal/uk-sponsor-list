@@ -3641,6 +3641,12 @@
             "rating": 1
         }
     ],
+    "eastmoor health centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "easton jamia masjid cio": [
         {
             "type": 2,
@@ -10013,16 +10019,6 @@
             "rating": 1
         }
     ],
-    "eigen": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "eigen software": [
         {
             "type": 1,
@@ -12420,6 +12416,12 @@
         }
     ],
     "elevate legal": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "elevate philanthropy": [
         {
             "type": 1,
             "rating": 1
@@ -26245,6 +26247,12 @@
             "rating": 1
         }
     ],
+    "euro stairs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "euro stars widnes": [
         {
             "type": 1,
@@ -30174,12 +30182,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "excelity": [
         {
             "type": 1,
             "rating": 1

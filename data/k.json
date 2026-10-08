@@ -9931,12 +9931,6 @@
             "rating": 1
         }
     ],
-    "kers engineering consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kerse consultancy": [
         {
             "type": 1,
@@ -16595,6 +16589,12 @@
             "rating": 1
         }
     ],
+    "klaris ai": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "klarna bank ab branch": [
         {
             "type": 1,
@@ -18289,11 +18289,11 @@
     ],
     "koch engineered solutions": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23566,12 +23566,6 @@
         }
     ],
     "kwik kleen": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kwik klik": [
         {
             "type": 1,
             "rating": 1

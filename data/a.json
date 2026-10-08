@@ -10445,6 +10445,12 @@
             "rating": 1
         }
     ],
+    "accelar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "accelerate": [
         {
             "type": 1,
@@ -27082,6 +27088,10 @@
         }
     ],
     "al majid welfare trust": [
+        {
+            "type": 11,
+            "rating": 2
+        },
         {
             "type": 2,
             "rating": 1
@@ -50567,6 +50577,10 @@
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "arcadia care homes": [
@@ -64181,12 +64195,6 @@
             "rating": 1
         }
     ],
-    "atlas holdings b v": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "atlas ics": [
         {
             "type": 1,
@@ -66500,12 +66508,6 @@
         }
     ],
     "authentic spice north west": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "authentic spicy cuisine": [
         {
             "type": 1,
             "rating": 1
@@ -70960,6 +70962,12 @@
         }
     ],
     "ayda deniz -": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "aydan smith accountancy": [
         {
             "type": 1,
             "rating": 1

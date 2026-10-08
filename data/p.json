@@ -16671,6 +16671,12 @@
             "rating": 1
         }
     ],
+    "phare health": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pharm medica": [
         {
             "type": 1,
@@ -35993,12 +35999,6 @@
             "rating": 1
         }
     ],
-    "proactive medicare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "proactive resource": [
         {
             "type": 1,
@@ -40676,16 +40676,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "publieurope": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],

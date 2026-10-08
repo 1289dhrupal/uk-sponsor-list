@@ -11053,6 +11053,12 @@
             "rating": 1
         }
     ],
+    "viscount": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "visdom consulting": [
         {
             "type": 1,
@@ -13847,11 +13853,11 @@
     ],
     "volition diagnostics": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

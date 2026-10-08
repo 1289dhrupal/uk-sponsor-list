@@ -6277,6 +6277,12 @@
             "rating": 1
         }
     ],
+    "gem&co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gemba finance": [
         {
             "type": 5,
@@ -8293,19 +8299,13 @@
             "rating": 1
         }
     ],
-    "geosight": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "geoslam": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13883,6 +13883,12 @@
             "rating": 1
         }
     ],
+    "global foods international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "global foods sot": [
         {
             "type": 1,
@@ -14222,12 +14228,6 @@
             "type": 10,
             "rating": 2
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "global law solicitors": [
         {
             "type": 1,
             "rating": 1
@@ -26428,6 +26428,12 @@
         }
     ],
     "greenwish one": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "greenwize": [
         {
             "type": 1,
             "rating": 1

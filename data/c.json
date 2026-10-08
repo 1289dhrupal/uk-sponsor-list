@@ -7167,6 +7167,12 @@
             "rating": 1
         }
     ],
+    "capient": [
+        {
+            "type": 3,
+            "rating": 3
+        }
+    ],
     "capillary technologies europe": [
         {
             "type": 1,
@@ -48045,6 +48051,12 @@
             "rating": 1
         }
     ],
+    "core cognitics solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "core communication retail": [
         {
             "type": 1,
@@ -50857,19 +50869,13 @@
             "rating": 1
         }
     ],
-    "coursentia": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "coursera": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -51817,6 +51823,12 @@
             "rating": 1
         }
     ],
+    "cpa australia": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cpb educational": [
         {
             "type": 1,
@@ -52440,12 +52452,6 @@
         }
     ],
     "craigarran care home with nursing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "craigavon tv service centre": [
         {
             "type": 1,
             "rating": 1

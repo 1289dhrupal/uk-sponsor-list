@@ -6411,12 +6411,6 @@
             "rating": 1
         }
     ],
-    "safe haven": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "safe haven training": [
         {
             "type": 1,
@@ -9777,12 +9771,6 @@
             "rating": 1
         }
     ],
-    "salisbury care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "salisbury cathedral school": [
         {
             "type": 10,
@@ -12302,12 +12290,6 @@
         }
     ],
     "sandhu": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sandhurst food & wine": [
         {
             "type": 1,
             "rating": 1
@@ -28351,16 +28333,6 @@
             "rating": 1
         }
     ],
-    "shams britvisa lawyers": [
-        {
-            "type": 4,
-            "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shams enterprises": [
         {
             "type": 1,
@@ -33471,13 +33443,19 @@
             "rating": 1
         }
     ],
+    "shottery hospitality": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "shotton mill": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -49129,6 +49107,12 @@
             "rating": 1
         }
     ],
+    "soas": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sobell rhodes": [
         {
             "type": 1,
@@ -55814,12 +55798,6 @@
         }
     ],
     "space ape games": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "space ape": [
         {
             "type": 1,
             "rating": 1
@@ -84846,6 +84824,12 @@
         }
     ],
     "sweet kitchen weymouth": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sweet lounge": [
         {
             "type": 1,
             "rating": 1
