@@ -6619,12 +6619,6 @@
             "rating": 1
         }
     ],
-    "bare hall quality carers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bare skyn aesthetics": [
         {
             "type": 1,
@@ -14800,6 +14794,12 @@
         }
     ],
     "belton & duffey west norfolk": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "beltran milne & associate": [
         {
             "type": 1,
             "rating": 1
@@ -27735,12 +27735,6 @@
             "rating": 1
         }
     ],
-    "blue beans": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "blue bear systems research": [
         {
             "type": 1,
@@ -29128,12 +29122,6 @@
         }
     ],
     "bluelight healthcare recruitment": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "blueline healthcare solutions": [
         {
             "type": 1,
             "rating": 1
@@ -39761,6 +39749,12 @@
             "rating": 1
         }
     ],
+    "brightwells": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "brigit s afternoon tea": [
         {
             "type": 1,
@@ -47223,6 +47217,12 @@
             "rating": 1
         }
     ],
+    "burngreave learning": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "burngreave surgery": [
         {
             "type": 1,
@@ -48705,6 +48705,12 @@
             "rating": 1
         }
     ],
+    "buyapowa": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "buybox": [
         {
             "type": 1,
@@ -49724,6 +49730,16 @@
         }
     ],
     "bamber education": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "butternut box": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

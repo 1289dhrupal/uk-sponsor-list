@@ -5901,12 +5901,6 @@
             "rating": 1
         }
     ],
-    "daura": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dauti lifts": [
         {
             "type": 1,
@@ -12496,6 +12490,16 @@
     "deriv technologies": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "derivco holdings": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22005,6 +22009,12 @@
             "rating": 1
         }
     ],
+    "docan": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "docan solutions": [
         {
             "type": 1,
@@ -22034,6 +22044,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "dock & bay": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22350,6 +22366,10 @@
     "dogmates": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

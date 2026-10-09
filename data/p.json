@@ -23479,12 +23479,6 @@
             "rating": 1
         }
     ],
-    "plas madryn": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "plas newydd care": [
         {
             "type": 1,
@@ -26402,6 +26396,12 @@
         }
     ],
     "polygon public house": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "polyhealth": [
         {
             "type": 1,
             "rating": 1
@@ -34841,6 +34841,12 @@
             "rating": 1
         }
     ],
+    "printpond": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "printronix": [
         {
             "type": 1,
@@ -42208,6 +42214,12 @@
         }
     ],
     "purple quill": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "purple rose care": [
         {
             "type": 1,
             "rating": 1

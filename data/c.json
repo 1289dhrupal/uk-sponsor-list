@@ -10017,12 +10017,6 @@
             "rating": 1
         }
     ],
-    "care plus recruitment agency": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "care precious t/as caremark {east riding }": [
         {
             "type": 1,
@@ -11472,6 +11466,12 @@
         }
     ],
     "caring with dignity": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "caring@home": [
         {
             "type": 1,
             "rating": 1
@@ -23562,12 +23562,6 @@
         }
     ],
     "chemdose": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "chemetall": [
         {
             "type": 1,
             "rating": 1
@@ -36661,6 +36655,12 @@
             "rating": 1
         }
     ],
+    "cloudwater brew co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cloudwday": [
         {
             "type": 1,
@@ -40297,7 +40297,7 @@
             "rating": 1
         }
     ],
-    "collett holdings": [
+    "collett & sons": [
         {
             "type": 1,
             "rating": 1
@@ -51448,6 +51448,16 @@
     "coverwise holdings": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "coverys": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

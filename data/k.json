@@ -13987,12 +13987,6 @@
             "rating": 1
         }
     ],
-    "kingdom technologies": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kingdom traders": [
         {
             "type": 1,
@@ -14074,6 +14068,12 @@
         }
     ],
     "kinglike": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kingly care partnership": [
         {
             "type": 1,
             "rating": 1

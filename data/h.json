@@ -10893,12 +10893,6 @@
             "rating": 1
         }
     ],
-    "hawkshaw": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hawksley & sons": [
         {
             "type": 1,
@@ -13594,12 +13588,6 @@
         }
     ],
     "hear & sons": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "high wycombe post office": [
         {
             "type": 1,
             "rating": 1
@@ -18067,6 +18055,12 @@
             "rating": 1
         }
     ],
+    "hgg london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hgh eins": [
         {
             "type": 1,
@@ -21974,6 +21968,10 @@
         }
     ],
     "hitecvision advisory": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
