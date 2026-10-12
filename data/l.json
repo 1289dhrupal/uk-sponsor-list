@@ -2701,12 +2701,12 @@
     ],
     "lagan s foundation": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 10,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "lagardere travel retail": [
@@ -6351,12 +6351,6 @@
             "rating": 1
         }
     ],
-    "laundry room bangor t/as late shop": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "laundryrepublic": [
         {
             "type": 1,
@@ -6742,12 +6736,6 @@
         }
     ],
     "lavo": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lavval restaurants": [
         {
             "type": 1,
             "rating": 1
@@ -9145,6 +9133,12 @@
             "rating": 1
         }
     ],
+    "leeds hockey club": [
+        {
+            "type": 12,
+            "rating": 1
+        }
+    ],
     "leeds hospitals charity": [
         {
             "type": 1,
@@ -10352,12 +10346,6 @@
         }
     ],
     "lely atlantic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lem health care": [
         {
             "type": 1,
             "rating": 1
@@ -13427,12 +13415,6 @@
             "rating": 1
         }
     ],
-    "life science people": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "life shed": [
         {
             "type": 1,
@@ -14515,12 +14497,6 @@
             "rating": 1
         }
     ],
-    "lili h": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lili italia": [
         {
             "type": 1,
@@ -14570,12 +14546,6 @@
         }
     ],
     "lillibet healthcare2": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lillibet house": [
         {
             "type": 1,
             "rating": 1
@@ -20909,12 +20879,6 @@
             "rating": 1
         }
     ],
-    "logifuture": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "logifuture tech": [
         {
             "type": 1,
@@ -20946,6 +20910,12 @@
         }
     ],
     "logini castleford care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "logini croft": [
         {
             "type": 1,
             "rating": 1
@@ -20988,6 +20958,12 @@
     "logisteed europe b v": [
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "logisteed": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -27181,12 +27157,6 @@
             "rating": 1
         }
     ],
-    "lrg corporation": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lrg employees": [
         {
             "type": 1,
@@ -30274,12 +30244,6 @@
         }
     ],
     "lydia capital management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lydia digital": [
         {
             "type": 1,
             "rating": 1

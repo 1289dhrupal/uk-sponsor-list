@@ -1819,6 +1819,12 @@
             "rating": 1
         }
     ],
+    "k2 fast foods": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "k2 holdings": [
         {
             "type": 5,
@@ -1848,16 +1854,6 @@
         }
     ],
     "k2 intelligence": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "k2 management renewables": [
         {
             "type": 5,
             "rating": 1
@@ -8941,12 +8937,6 @@
             "rating": 1
         }
     ],
-    "kensa health analytics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kensa health home care": [
         {
             "type": 1,
@@ -9078,12 +9068,6 @@
         }
     ],
     "kensington medical clinic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kensington medical consultancy": [
         {
             "type": 1,
             "rating": 1
@@ -9878,6 +9862,12 @@
         }
     ],
     "kerr s tyres & auto": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kerr-care at home": [
         {
             "type": 1,
             "rating": 1
@@ -20326,7 +20316,7 @@
     "kp london": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         },
         {
             "type": 4,
@@ -20487,13 +20477,19 @@
             "rating": 1
         }
     ],
-    "kpit technologies": [
+    "kpi partners private": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "kpit technologies": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

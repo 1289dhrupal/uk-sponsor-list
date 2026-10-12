@@ -9845,12 +9845,6 @@
             "rating": 1
         }
     ],
-    "indus": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "indus textiles": [
         {
             "type": 1,
@@ -13028,12 +13022,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "inp engineering &": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],

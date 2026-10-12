@@ -2275,6 +2275,16 @@
             "rating": 1
         }
     ],
+    "sokin": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "stanley wine & british news": [
         {
             "type": 1,
@@ -9619,6 +9629,18 @@
             "rating": 1
         }
     ],
+    "saley`s": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "saley s pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "salford city college": [
         {
             "type": 1,
@@ -16717,6 +16739,12 @@
             "rating": 1
         }
     ],
+    "sb heritage": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sb homecare": [
         {
             "type": 1,
@@ -22543,16 +22571,6 @@
             "rating": 1
         }
     ],
-    "seimaf": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "seir": [
         {
             "type": 1,
@@ -25953,16 +25971,6 @@
             "rating": 1
         }
     ],
-    "sevenrooms": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "sevenshoots": [
         {
             "type": 1,
@@ -26502,6 +26510,10 @@
         }
     ],
     "sg analytics": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -27560,12 +27572,6 @@
         }
     ],
     "shaheen exchange & travels": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "shaheen express removals": [
         {
             "type": 1,
             "rating": 1
@@ -31919,12 +31925,6 @@
             "rating": 1
         }
     ],
-    "shining stars day nursery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shining stars fostering agency": [
         {
             "type": 1,
@@ -33276,6 +33276,12 @@
         }
     ],
     "shopping at fitzalan": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "shopping centre": [
         {
             "type": 1,
             "rating": 1
@@ -44043,13 +44049,19 @@
             "rating": 1
         }
     ],
-    "slater & gordon 1": [
+    "slateford": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "slater & gordon 1": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -55782,7 +55794,7 @@
     "space & place properties": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "space 48": [
@@ -61998,6 +62010,12 @@
         }
     ],
     "sreya solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sreyas global": [
         {
             "type": 1,
             "rating": 1
@@ -76087,6 +76105,12 @@
             "rating": 1
         }
     ],
+    "studio stamos architects": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "studio tim fu": [
         {
             "type": 1,
@@ -81141,6 +81165,12 @@
             "rating": 1
         }
     ],
+    "supernova power operations": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "supernova real estate": [
         {
             "type": 1,
@@ -81662,12 +81692,6 @@
         }
     ],
     "supreme facilities management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "supreme force": [
         {
             "type": 1,
             "rating": 1
@@ -82590,12 +82614,6 @@
         }
     ],
     "susans road premier": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "susash blackpool": [
         {
             "type": 1,
             "rating": 1
