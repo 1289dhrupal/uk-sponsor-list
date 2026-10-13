@@ -11539,6 +11539,12 @@
             "rating": 1
         }
     ],
+    "manna grato": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "manna housing": [
         {
             "type": 1,
@@ -38743,12 +38749,6 @@
             "rating": 1
         }
     ],
-    "mk hospital@home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "mk hospitality & catering": [
         {
             "type": 1,
@@ -43173,11 +43173,11 @@
     ],
     "monopo london": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -51391,6 +51391,12 @@
             "rating": 1
         }
     ],
+    "msh healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "msi computer": [
         {
             "type": 5,
@@ -55492,6 +55498,12 @@
         }
     ],
     "my health & wellbeing clinics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "my health care support": [
         {
             "type": 1,
             "rating": 1

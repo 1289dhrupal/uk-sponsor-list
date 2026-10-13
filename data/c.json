@@ -9041,6 +9041,12 @@
             "rating": 1
         }
     ],
+    "cardinal care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cardinal engineering": [
         {
             "type": 1,
@@ -21352,6 +21358,12 @@
         }
     ],
     "charles andrews": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "charles barclay architects": [
         {
             "type": 1,
             "rating": 1
@@ -36469,6 +36481,12 @@
             "rating": 1
         }
     ],
+    "cloudista": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cloudit solutions": [
         {
             "type": 1,
@@ -48305,11 +48323,11 @@
     ],
     "coreweave": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -51137,15 +51155,19 @@
     ],
     "covenant players trust": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "covenant restoration chapel international": [
+        {
+            "type": 10,
+            "rating": 2
+        },
         {
             "type": 4,
             "rating": 2
@@ -51157,10 +51179,6 @@
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 10,
-            "rating": 2
         }
     ],
     "covent garden dragon hall trust": [
@@ -54264,12 +54282,6 @@
         }
     ],
     "crescent medical": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "crescent meditours": [
         {
             "type": 1,
             "rating": 1

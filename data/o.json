@@ -1847,12 +1847,6 @@
             "rating": 1
         }
     ],
-    "oasis forte healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oasis good games": [
         {
             "type": 1,
@@ -10259,12 +10253,6 @@
             "rating": 1
         }
     ],
-    "oplyse holdings": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "opm universal solutions": [
         {
             "type": 1,
@@ -13132,6 +13120,10 @@
         }
     ],
     "original travel company": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

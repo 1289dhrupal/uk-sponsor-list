@@ -7581,6 +7581,12 @@
             "rating": 1
         }
     ],
+    "barratt equestrian": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "barratt foods": [
         {
             "type": 1,
@@ -14440,12 +14446,6 @@
         }
     ],
     "bells of lazonby": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bells power": [
         {
             "type": 1,
             "rating": 1
@@ -26756,6 +26756,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "blink photo": [
         {
             "type": 1,
             "rating": 1

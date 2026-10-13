@@ -34155,6 +34155,12 @@
             "rating": 1
         }
     ],
+    "primeast": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "primecare health": [
         {
             "type": 1,
@@ -35794,6 +35800,12 @@
         }
     ],
     "pro health pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pro help": [
         {
             "type": 1,
             "rating": 1
@@ -38615,12 +38627,6 @@
             "rating": 1
         }
     ],
-    "prospect health living care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "prospect childcare": [
         {
             "type": 1,
@@ -39346,12 +39352,6 @@
         }
     ],
     "proven project district heating": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "proven project construction": [
         {
             "type": 1,
             "rating": 1
