@@ -5175,6 +5175,12 @@
             "rating": 1
         }
     ],
+    "fast freight forward": [
+        {
+            "type": 1,
+            "rating": 4
+        }
+    ],
     "fast fry west boldon": [
         {
             "type": 1,
@@ -18320,12 +18326,6 @@
         }
     ],
     "forest hall mini market": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "forest hill golf club": [
         {
             "type": 1,
             "rating": 1

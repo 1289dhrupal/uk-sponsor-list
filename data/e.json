@@ -18205,6 +18205,12 @@
             "rating": 1
         }
     ],
+    "energy ark": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "energy aspects": [
         {
             "type": 1,
@@ -30841,12 +30847,6 @@
             "rating": 1
         }
     ],
-    "exertis": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "exeter aerospace": [
         {
             "type": 1,
@@ -32582,6 +32582,12 @@
         }
     ],
     "eyesto education": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "eyev": [
         {
             "type": 1,
             "rating": 1

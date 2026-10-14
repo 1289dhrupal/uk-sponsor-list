@@ -11585,6 +11585,10 @@
     ],
     "ingeteam": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -20431,6 +20435,10 @@
     ],
     "irara": [
         {
+            "type": 13,
+            "rating": 2
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -24452,6 +24460,12 @@
         }
     ],
     "iro sushi opington": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "iro sushi orpington": [
         {
             "type": 1,
             "rating": 1

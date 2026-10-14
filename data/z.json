@@ -1107,11 +1107,11 @@
     ],
     "zaizi": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3650,12 +3650,6 @@
         }
     ],
     "zeus labs": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "zeus tech solutions": [
         {
             "type": 1,
             "rating": 1

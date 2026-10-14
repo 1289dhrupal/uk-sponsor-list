@@ -9367,6 +9367,12 @@
             "rating": 1
         }
     ],
+    "rbr building": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rbs accountants": [
         {
             "type": 1,
@@ -12415,11 +12421,11 @@
     ],
     "red light management": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -30385,12 +30391,6 @@
             "rating": 1
         }
     ],
-    "rosehill house residential home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rosehill pharmacy": [
         {
             "type": 1,
@@ -30732,6 +30732,12 @@
         }
     ],
     "roshon banqueting hall ta roshon banqueting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rosiah": [
         {
             "type": 1,
             "rating": 1
@@ -34508,6 +34514,12 @@
         }
     ],
     "rubisan hotels london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rubix data centers": [
         {
             "type": 1,
             "rating": 1

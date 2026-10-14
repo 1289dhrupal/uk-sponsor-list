@@ -24775,12 +24775,6 @@
             "rating": 1
         }
     ],
-    "serenity homecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "serenity homes": [
         {
             "type": 1,
@@ -28448,12 +28442,6 @@
         }
     ],
     "shan smart": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "shan super market": [
         {
             "type": 1,
             "rating": 1
@@ -38239,12 +38227,6 @@
             "rating": 1
         }
     ],
-    "simla blandford": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "simla paradise": [
         {
             "type": 1,
@@ -44751,12 +44733,6 @@
             "rating": 1
         }
     ],
-    "sm balti house": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sm building works": [
         {
             "type": 1,
@@ -48318,12 +48294,6 @@
     "snakatak crieff": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "snake bite polo team": [
-        {
-            "type": 12,
             "rating": 1
         }
     ],
@@ -55868,6 +55838,12 @@
         }
     ],
     "space of architects": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "space haven": [
         {
             "type": 1,
             "rating": 1
@@ -82253,12 +82229,6 @@
             "rating": 1
         }
     ],
-    "surma beaumaris": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "surma curry house": [
         {
             "type": 1,
@@ -86674,6 +86644,10 @@
         }
     ],
     "symprove": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

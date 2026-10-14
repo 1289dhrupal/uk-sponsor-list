@@ -16857,12 +16857,6 @@
             "rating": 1
         }
     ],
-    "masala bazaar perry barr": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "masala bazaar small heath": [
         {
             "type": 1,
@@ -19718,7 +19712,7 @@
     "maxtoke": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "maxton design": [
@@ -26848,12 +26842,6 @@
         }
     ],
     "mental health foundation": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "mental health innovations": [
         {
             "type": 1,
             "rating": 1
@@ -34966,6 +34954,12 @@
         }
     ],
     "mimi miesi": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "mimi nails & hair": [
         {
             "type": 1,
             "rating": 1
@@ -47807,12 +47801,12 @@
     ],
     "mpl communications": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "mplogic": [
@@ -51428,6 +51422,12 @@
         }
     ],
     "msi stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "msi-forks": [
         {
             "type": 1,
             "rating": 1

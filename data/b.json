@@ -6451,12 +6451,12 @@
     ],
     "barca-leeds": [
         {
-            "type": 10,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "barcant beardon": [
@@ -26327,6 +26327,12 @@
             "rating": 1
         }
     ],
+    "blast global media": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "blast loudspeakers": [
         {
             "type": 1,
@@ -31693,6 +31699,12 @@
             "rating": 1
         }
     ],
+    "boltx logistics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "boltz": [
         {
             "type": 1,
@@ -31952,6 +31964,12 @@
         }
     ],
     "bon bon bean": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bon bride": [
         {
             "type": 1,
             "rating": 1
@@ -35155,6 +35173,12 @@
             "rating": 1
         }
     ],
+    "br pitlochry": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "br spices": [
         {
             "type": 1,
@@ -36104,6 +36128,12 @@
         }
     ],
     "bramerton trading company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bramfitt technology labs": [
         {
             "type": 1,
             "rating": 1

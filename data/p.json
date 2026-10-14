@@ -2723,11 +2723,11 @@
     ],
     "pacific life re": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -21867,6 +21867,12 @@
             "rating": 1
         }
     ],
+    "pixel coding": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pixel direct": [
         {
             "type": 1,
@@ -32206,12 +32212,6 @@
         }
     ],
     "presidency london college": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "presidential care": [
         {
             "type": 1,
             "rating": 1

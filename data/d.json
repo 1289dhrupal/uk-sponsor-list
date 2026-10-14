@@ -4005,12 +4005,6 @@
             "rating": 2
         }
     ],
-    "darabara business": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "darag europe": [
         {
             "type": 1,
@@ -4270,6 +4264,12 @@
         }
     ],
     "darlami food": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "darlaston builders merchants": [
         {
             "type": 1,
             "rating": 1
@@ -5914,6 +5914,12 @@
         }
     ],
     "dav & son co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "davack": [
         {
             "type": 1,
             "rating": 1
@@ -14511,6 +14517,12 @@
             "rating": 1
         }
     ],
+    "devro scotland": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "devs dental practice": [
         {
             "type": 1,
@@ -17947,7 +17959,7 @@
             "rating": 1
         }
     ],
-    "dignity community care": [
+    "dignity complex care": [
         {
             "type": 1,
             "rating": 4
@@ -25024,6 +25036,12 @@
         }
     ],
     "downton": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "downtown constructions": [
         {
             "type": 1,
             "rating": 1
