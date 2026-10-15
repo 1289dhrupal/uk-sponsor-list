@@ -8747,7 +8747,7 @@
             "rating": 1
         }
     ],
-    "abingdon school": [
+    "abingdon schools": [
         {
             "type": 10,
             "rating": 2
@@ -15481,6 +15481,18 @@
             "rating": 1
         }
     ],
+    "address robotics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "all3": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "addsecure": [
         {
             "type": 1,
@@ -16440,12 +16452,6 @@
         }
     ],
     "admire care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "admire consultancy": [
         {
             "type": 1,
             "rating": 1
@@ -22700,12 +22706,6 @@
         }
     ],
     "apply ai": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ai beauty": [
         {
             "type": 1,
             "rating": 1
@@ -41082,12 +41082,6 @@
         }
     ],
     "amygda labs": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "amyn hotels": [
         {
             "type": 1,
             "rating": 1

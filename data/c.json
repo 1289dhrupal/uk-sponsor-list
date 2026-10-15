@@ -9683,6 +9683,12 @@
             "rating": 1
         }
     ],
+    "care for independence": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "care for veterans": [
         {
             "type": 1,
@@ -14737,6 +14743,12 @@
         {
             "type": 11,
             "rating": 2
+        }
+    ],
+    "causeway creative": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "causeway green surgery": [
@@ -26640,7 +26652,7 @@
     "chipstone technologies": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "chiro health": [
@@ -37759,6 +37771,12 @@
             "rating": 1
         }
     ],
+    "cnooc gas and power trading": [
+        {
+            "type": 3,
+            "rating": 3
+        }
+    ],
     "cnooc petroleum europe": [
         {
             "type": 5,
@@ -42010,12 +42028,6 @@
         }
     ],
     "community care investment": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "community care worker": [
         {
             "type": 1,
             "rating": 1
@@ -58677,16 +58689,16 @@
     ],
     "cummins": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         },
         {
             "type": 8,
             "rating": 2
-        },
-        {
-            "type": 5,
-            "rating": 1
         }
     ],
     "cumrue farming partnership": [
@@ -60646,12 +60658,6 @@
         }
     ],
     "cygnet care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cygnet health care": [
         {
             "type": 1,
             "rating": 1

@@ -19255,12 +19255,6 @@
             "rating": 1
         }
     ],
-    "gong cha": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gong cha global": [
         {
             "type": 1,
@@ -26219,6 +26213,10 @@
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "greenswan consultants": [
@@ -27327,12 +27325,6 @@
             "rating": 1
         }
     ],
-    "grillporium t/as grill porium": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "grills & curries": [
         {
             "type": 1,
@@ -27908,12 +27900,6 @@
         }
     ],
     "grouped": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "groupme": [
         {
             "type": 1,
             "rating": 1
@@ -29318,12 +29304,6 @@
         }
     ],
     "guanxi": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "guapo master": [
         {
             "type": 1,
             "rating": 1

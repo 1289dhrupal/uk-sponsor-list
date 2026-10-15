@@ -1509,12 +1509,6 @@
             "rating": 1
         }
     ],
-    "saffron summer": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "stanley street food and wine": [
         {
             "type": 1,
@@ -5330,16 +5324,6 @@
     "saastha minimart": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "saatchi & saatchi": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -15643,6 +15627,12 @@
             "rating": 1
         }
     ],
+    "saunders partnership": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "saunders solicitors": [
         {
             "type": 1,
@@ -19387,12 +19377,6 @@
             "rating": 2
         }
     ],
-    "scottish qualifications authority": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "scottish refugee council": [
         {
             "type": 1,
@@ -20292,12 +20276,6 @@
         }
     ],
     "sea air and land forwarding": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sea and land project engineering": [
         {
             "type": 1,
             "rating": 1
@@ -33859,6 +33837,12 @@
             "rating": 1
         }
     ],
+    "shree krishna resource centre of leamington and warwick": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "shree krishna stores": [
         {
             "type": 1,
@@ -36941,12 +36925,6 @@
             "rating": 1
         }
     ],
-    "sikder enterprise": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sikh academies trust": [
         {
             "type": 1,
@@ -38528,6 +38506,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "simple online healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -43087,12 +43071,6 @@
             "rating": 1
         }
     ],
-    "sky food": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sky hairdressers": [
         {
             "type": 1,
@@ -44628,6 +44606,12 @@
         }
     ],
     "slow touch": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "slpe": [
         {
             "type": 1,
             "rating": 1
@@ -53688,12 +53672,6 @@
         }
     ],
     "south central fleet": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "south cheshire senior care": [
         {
             "type": 1,
             "rating": 1
@@ -71627,13 +71605,19 @@
             "rating": 1
         }
     ],
+    "stewart morris partnership": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "stewart title": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -71914,6 +71898,12 @@
         }
     ],
     "stillcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "stillman reserve": [
         {
             "type": 1,
             "rating": 1

@@ -829,6 +829,12 @@
             "rating": 1
         }
     ],
+    "e-careers education": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "e-careers": [
         {
             "type": 1,
@@ -17943,13 +17949,19 @@
             "rating": 1
         }
     ],
-    "endress+hauser": [
+    "endra": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "endress+hauser": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

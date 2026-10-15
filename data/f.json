@@ -5281,12 +5281,6 @@
             "rating": 1
         }
     ],
-    "fast supporting": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fast technologies": [
         {
             "type": 1,
@@ -8243,6 +8237,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "fiable technologies": [
+        {
+            "type": 3,
+            "rating": 3
         }
     ],
     "fiamm": [

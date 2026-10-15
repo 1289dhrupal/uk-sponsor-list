@@ -8839,6 +8839,12 @@
             "rating": 1
         }
     ],
+    "making science": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "makintha kantharupan": [
         {
             "type": 1,
@@ -23841,6 +23847,12 @@
             "rating": 1
         }
     ],
+    "media concierge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "media finance capital": [
         {
             "type": 1,
@@ -33976,12 +33988,6 @@
         }
     ],
     "mill hill newsagents": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "mill hill school foundation": [
         {
             "type": 1,
             "rating": 1
@@ -47249,19 +47255,13 @@
             "rating": 1
         }
     ],
-    "mova lifts": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "movable": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -47284,6 +47284,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "move & do consultancy & trading": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

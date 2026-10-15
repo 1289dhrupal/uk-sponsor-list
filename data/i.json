@@ -10219,6 +10219,12 @@
             "rating": 1
         }
     ],
+    "infact systems": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "infarm indoor urban farming": [
         {
             "type": 5,
@@ -12809,11 +12815,11 @@
     ],
     "innovo holding": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -16947,16 +16953,12 @@
     ],
     "international management": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 5,
             "rating": 1
         },
         {
-            "type": 4,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "international management - fashion representation": [
