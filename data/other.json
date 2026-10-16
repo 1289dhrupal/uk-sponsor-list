@@ -1523,6 +1523,12 @@
             "rating": 1
         }
     ],
+    "23 architecture and interiors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "23 architecture": [
         {
             "type": 1,
@@ -1604,6 +1610,12 @@
     "24-7 prayer": [
         {
             "type": 2,
+            "rating": 1
+        }
+    ],
+    "24-7 steller packing": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

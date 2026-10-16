@@ -14537,6 +14537,12 @@
             "rating": 1
         }
     ],
+    "adage digital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "adagio hotels": [
         {
             "type": 1,
@@ -18628,6 +18634,12 @@
         }
     ],
     "aequitas accountants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "aequitas capital partners": [
         {
             "type": 1,
             "rating": 1
@@ -32733,11 +32745,11 @@
     ],
     "allegion": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -58139,6 +58151,16 @@
             "rating": 1
         }
     ],
+    "ashby technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "ashby turn primary care centre": [
         {
             "type": 1,
@@ -63979,13 +64001,19 @@
             "rating": 1
         }
     ],
+    "atlantic pools & fountains -15479617": [
+        {
+            "type": 3,
+            "rating": 3
+        }
+    ],
     "atlantic projects company": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

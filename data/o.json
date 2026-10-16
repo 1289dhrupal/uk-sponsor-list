@@ -1258,7 +1258,7 @@
     "oaklands care hove": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "oaklands care": [
@@ -10792,6 +10792,12 @@
         }
     ],
     "optimal technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "optimal therapy": [
         {
             "type": 1,
             "rating": 1

@@ -4531,11 +4531,11 @@
     ],
     "ebay": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17837,6 +17837,16 @@
             "rating": 1
         }
     ],
+    "endel gb": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "endental": [
         {
             "type": 1,
@@ -23375,12 +23385,6 @@
             "rating": 1
         }
     ],
-    "escoben care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "escon construction": [
         {
             "type": 1,
@@ -23438,6 +23442,12 @@
         }
     ],
     "esebike": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "esellerater": [
         {
             "type": 1,
             "rating": 1

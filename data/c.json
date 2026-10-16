@@ -11411,6 +11411,12 @@
             "rating": 1
         }
     ],
+    "caring hands east london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "caring hands home care": [
         {
             "type": 1,
@@ -18956,6 +18962,12 @@
         }
     ],
     "certua": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "certus card": [
         {
             "type": 1,
             "rating": 1
@@ -60354,16 +60366,6 @@
     "cyber strategies": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "cyber-ark software": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],

@@ -22363,11 +22363,11 @@
     ],
     "biomet healthcare": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -46397,12 +46397,6 @@
             "rating": 1
         }
     ],
-    "bulletproof cyber": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bulletproof design": [
         {
             "type": 1,
@@ -50630,6 +50624,12 @@
         }
     ],
     "burleigh court hotel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "birchgrove dental": [
         {
             "type": 1,
             "rating": 1

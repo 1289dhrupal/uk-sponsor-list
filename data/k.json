@@ -355,12 +355,6 @@
             "rating": 1
         }
     ],
-    "koyn": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kamal indian takeaway": [
         {
             "type": 1,
@@ -17661,12 +17655,6 @@
             "rating": 1
         }
     ],
-    "knights transport": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "knightsbridge care": [
         {
             "type": 1,
@@ -19457,11 +19445,11 @@
     ],
     "kontiki capital management": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20902,12 +20890,6 @@
         }
     ],
     "krazy cuts": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "krb capital": [
         {
             "type": 1,
             "rating": 1

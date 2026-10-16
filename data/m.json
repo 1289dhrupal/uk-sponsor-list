@@ -29929,11 +29929,11 @@
     ],
     "mexichem speciality compounds": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -38101,12 +38101,6 @@
             "rating": 1
         }
     ],
-    "mix store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "mix telematics europe": [
         {
             "type": 5,
@@ -44350,6 +44344,12 @@
         }
     ],
     "moorcare devon": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "moorcastle /": [
         {
             "type": 1,
             "rating": 1
@@ -52149,6 +52149,10 @@
     ],
     "mtn distribution and": [
         {
+            "type": 7,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -56691,12 +56695,6 @@
             "rating": 1
         }
     ],
-    "mz fruit and veg": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "mz joinery and woodworks": [
         {
             "type": 1,
@@ -57602,6 +57600,16 @@
         }
     ],
     "mobile techs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "monteiro": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

@@ -4065,12 +4065,6 @@
             "rating": 1
         }
     ],
-    "far east holdings": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "far east orchard management": [
         {
             "type": 1,
@@ -9226,6 +9220,12 @@
         }
     ],
     "filotimo": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "filtered technologies": [
         {
             "type": 1,
             "rating": 1

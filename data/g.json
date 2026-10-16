@@ -1601,6 +1601,12 @@
             "rating": 1
         }
     ],
+    "ga professional healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ga retail": [
         {
             "type": 1,
@@ -4518,10 +4524,6 @@
     "gateway global communications": [
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -21771,6 +21773,12 @@
             "rating": 1
         }
     ],
+    "gradiant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gradient labs": [
         {
             "type": 1,
@@ -25924,6 +25932,16 @@
     "greenline transport": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "greenly": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],
