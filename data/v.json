@@ -2331,12 +2331,6 @@
             "rating": 1
         }
     ],
-    "valuation office agency": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "value and service dental supplies": [
         {
             "type": 1,
@@ -14996,6 +14990,12 @@
         }
     ],
     "vs one": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vs restaurant": [
         {
             "type": 1,
             "rating": 1

@@ -1541,12 +1541,6 @@
             "rating": 1
         }
     ],
-    "zap production": [
-        {
-            "type": 4,
-            "rating": 2
-        }
-    ],
     "zap property": [
         {
             "type": 1,
@@ -5832,12 +5826,6 @@
         }
     ],
     "zxtech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "zyan consultancy": [
         {
             "type": 1,
             "rating": 1

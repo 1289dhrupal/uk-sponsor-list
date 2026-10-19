@@ -9491,6 +9491,12 @@
             "rating": 1
         }
     ],
+    "abs productions": [
+        {
+            "type": 4,
+            "rating": 2
+        }
+    ],
     "abs qe assurance": [
         {
             "type": 5,
@@ -9544,10 +9550,6 @@
     "absoft": [
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -10182,12 +10184,6 @@
         }
     ],
     "academy building works": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "academy care": [
         {
             "type": 1,
             "rating": 1
@@ -12929,6 +12925,12 @@
             "rating": 1
         }
     ],
+    "acre court care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "acre heathrow": [
         {
             "type": 1,
@@ -13865,6 +13867,12 @@
         {
             "type": 11,
             "rating": 2
+        }
+    ],
+    "acton pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "actonia": [
@@ -15852,12 +15860,6 @@
         }
     ],
     "adexa direct": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "adey innovation": [
         {
             "type": 1,
             "rating": 1
@@ -22588,6 +22590,12 @@
         }
     ],
     "ahq decor": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ahr architects": [
         {
             "type": 1,
             "rating": 1
@@ -30643,6 +30651,12 @@
             "rating": 1
         }
     ],
+    "alfoxton park trust": [
+        {
+            "type": 11,
+            "rating": 2
+        }
+    ],
     "alfred and victoria": [
         {
             "type": 1,
@@ -34090,6 +34104,12 @@
         }
     ],
     "alma lasers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "alma lodge hotel": [
         {
             "type": 1,
             "rating": 1
@@ -37851,12 +37871,6 @@
             "rating": 1
         }
     ],
-    "amazella": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "amazeme": [
         {
             "type": 1,
@@ -40101,20 +40115,14 @@
             "rating": 1
         }
     ],
-    "amnas hair & beauty salon": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "amnesty international international secretariat": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 10,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -44469,12 +44477,6 @@
             "rating": 1
         }
     ],
-    "ann mason care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ann physiocare": [
         {
             "type": 1,
@@ -47117,6 +47119,16 @@
             "rating": 1
         }
     ],
+    "apex ultra racing": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "apex windows": [
         {
             "type": 1,
@@ -48211,6 +48223,16 @@
             "rating": 1
         }
     ],
+    "applexus": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "applexus technologies": [
         {
             "type": 5,
@@ -48314,6 +48336,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "applied medical": [
         {
             "type": 1,
             "rating": 1
@@ -56189,12 +56217,6 @@
             "rating": 1
         }
     ],
-    "arundel agl": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "arundel park lodge": [
         {
             "type": 1,
@@ -63277,12 +63299,6 @@
             "rating": 1
         }
     ],
-    "atelier technology": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "atelier ten scotland": [
         {
             "type": 1,
@@ -66058,7 +66074,7 @@
         },
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "aura financial": [

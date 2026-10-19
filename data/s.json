@@ -17289,12 +17289,6 @@
             "rating": 1
         }
     ],
-    "scalable capital": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "scalable laser": [
         {
             "type": 1,
@@ -18691,11 +18685,11 @@
     ],
     "scm": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -21652,12 +21646,6 @@
         }
     ],
     "secure technology solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "secure thingz": [
         {
             "type": 1,
             "rating": 1
@@ -29223,6 +29211,12 @@
             "rating": 1
         }
     ],
+    "sharnbrook care home t/a": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sharnbrook care home": [
         {
             "type": 1,
@@ -30304,12 +30298,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "shelf": [
         {
             "type": 1,
             "rating": 1
@@ -33805,12 +33793,6 @@
         {
             "type": 11,
             "rating": 2
-        }
-    ],
-    "shree keshav": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "shree khodal store": [
@@ -38713,6 +38695,10 @@
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "simply beds": [
@@ -43392,12 +43378,6 @@
         }
     ],
     "skyefish marine": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "skyfarer": [
         {
             "type": 1,
             "rating": 1
@@ -52091,6 +52071,12 @@
             "rating": 1
         }
     ],
+    "sonder & clay legal": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sonder operations": [
         {
             "type": 1,
@@ -54394,6 +54380,12 @@
         }
     ],
     "south yorkshire care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "south yorkshire future trams": [
         {
             "type": 1,
             "rating": 1
@@ -58516,12 +58508,6 @@
         }
     ],
     "spice n grill": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "spice n ice": [
         {
             "type": 1,
             "rating": 1
@@ -68667,6 +68653,12 @@
             "rating": 1
         }
     ],
+    "star-tec engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "star1214": [
         {
             "type": 1,
@@ -74329,6 +74321,12 @@
             "rating": 1
         }
     ],
+    "strathos energy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "strathroy dairy": [
         {
             "type": 1,
@@ -76387,16 +76385,6 @@
             "rating": 1
         }
     ],
-    "stx entertainment": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "stx new": [
         {
             "type": 1,
@@ -76428,12 +76416,6 @@
         }
     ],
     "style acre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "style analytics": [
         {
             "type": 1,
             "rating": 1
@@ -78187,6 +78169,12 @@
             "rating": 1
         }
     ],
+    "sumillion": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sumison t/as my door handles": [
         {
             "type": 1,
@@ -78748,12 +78736,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "sun clinics t/as dsr academy": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -81425,12 +81407,6 @@
             "rating": 1
         }
     ],
-    "supported care and accommodation": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "supported living enablement": [
         {
             "type": 1,
@@ -82681,6 +82657,12 @@
             "rating": 1
         }
     ],
+    "sushi point sheen": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sushi point twickenham": [
         {
             "type": 1,
@@ -82870,6 +82852,12 @@
         }
     ],
     "sussex stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sustain": [
         {
             "type": 1,
             "rating": 1

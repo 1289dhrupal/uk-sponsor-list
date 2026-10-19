@@ -2253,11 +2253,11 @@
     ],
     "icertis": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13271,6 +13271,12 @@
             "rating": 1
         }
     ],
+    "insight fire solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "insight global": [
         {
             "type": 1,
@@ -15826,12 +15832,6 @@
         }
     ],
     "interactive health": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "interactive investor": [
         {
             "type": 1,
             "rating": 1
@@ -19333,12 +19333,6 @@
             "rating": 1
         }
     ],
-    "iona capital": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "iona logistics": [
         {
             "type": 1,
@@ -22667,7 +22661,7 @@
             "rating": 1
         }
     ],
-    "itasca wines": [
+    "itasca": [
         {
             "type": 1,
             "rating": 1
@@ -23192,6 +23186,12 @@
         }
     ],
     "its all in the image": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "its computing": [
         {
             "type": 1,
             "rating": 1
@@ -24360,12 +24360,6 @@
         }
     ],
     "ibstock bargain booze": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "iar": [
         {
             "type": 1,
             "rating": 1

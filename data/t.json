@@ -3819,12 +3819,6 @@
             "rating": 1
         }
     ],
-    "t robinson consulting": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "t rowe price international": [
         {
             "type": 1,
@@ -4002,12 +3996,6 @@
         }
     ],
     "t&m commerce": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "t&m enterprise batley": [
         {
             "type": 1,
             "rating": 1
@@ -6966,6 +6954,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tanager wealth management": [
         {
             "type": 1,
             "rating": 1
@@ -10078,12 +10072,6 @@
         }
     ],
     "tb mcmann": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "tb peker": [
         {
             "type": 1,
             "rating": 1
@@ -13885,11 +13873,11 @@
     ],
     "teligent": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18755,12 +18743,6 @@
             "rating": 1
         }
     ],
-    "the arkenstone": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the armada hospitality": [
         {
             "type": 1,
@@ -20556,12 +20538,6 @@
         }
     ],
     "the brighton pier": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the bristol chiropractor": [
         {
             "type": 1,
             "rating": 1
@@ -26454,6 +26430,12 @@
         }
     ],
     "the grand travel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the grandtully hotel": [
         {
             "type": 1,
             "rating": 1
@@ -32957,6 +32939,12 @@
             "rating": 2
         }
     ],
+    "the optical store online": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the orange dough company": [
         {
             "type": 1,
@@ -34896,12 +34884,6 @@
         }
     ],
     "the queens head cantonese restaurant & public house": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the queens head cranford": [
         {
             "type": 1,
             "rating": 1
@@ -39329,6 +39311,12 @@
             "rating": 1
         }
     ],
+    "the upper scale home delivery service": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the urban chocolatier ilford": [
         {
             "type": 1,
@@ -41262,6 +41250,12 @@
         }
     ],
     "thera nordic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "thera trust": [
         {
             "type": 1,
             "rating": 1
@@ -43400,12 +43394,6 @@
         }
     ],
     "three bills": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "three body capital": [
         {
             "type": 1,
             "rating": 1
@@ -53103,6 +53091,10 @@
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "tramp jermyn street": [
@@ -57475,12 +57467,6 @@
             "rating": 1
         }
     ],
-    "trois freres concept": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "trojan commercial cleaning": [
         {
             "type": 1,
@@ -57562,6 +57548,12 @@
         }
     ],
     "tropikal food": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "trosnant care home": [
         {
             "type": 1,
             "rating": 1
@@ -58908,16 +58900,6 @@
     "tsg accountants": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "tsg consumer": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],

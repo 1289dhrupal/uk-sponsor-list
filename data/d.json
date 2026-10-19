@@ -309,6 +309,12 @@
             "rating": 1
         }
     ],
+    "d & d retail stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "d & d supermarket": [
         {
             "type": 1,
@@ -11029,6 +11035,12 @@
             "rating": 1
         }
     ],
+    "demir eisen construction and trading": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "demir trade": [
         {
             "type": 1,
@@ -12570,12 +12582,6 @@
         }
     ],
     "dermalogica": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dermwise clinics": [
         {
             "type": 1,
             "rating": 1
@@ -23802,10 +23808,6 @@
     "dormakaba": [
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],

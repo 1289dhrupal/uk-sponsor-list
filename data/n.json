@@ -19367,16 +19367,6 @@
             "rating": 1
         }
     ],
-    "nodes technologies": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "nodety": [
         {
             "type": 5,
@@ -26687,12 +26677,6 @@
         {
             "type": 10,
             "rating": 2
-        }
-    ],
-    "nutmeg clifton": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "nutmeg and hive": [

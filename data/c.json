@@ -1495,12 +1495,6 @@
             "rating": 1
         }
     ],
-    "c v a c": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "c1 solutions": [
         {
             "type": 1,
@@ -6505,6 +6499,12 @@
             "rating": 1
         }
     ],
+    "cannaray brands": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cannelle medispa": [
         {
             "type": 1,
@@ -8677,12 +8677,6 @@
             "rating": 1
         }
     ],
-    "carbon savings": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "carbon trade exchange": [
         {
             "type": 1,
@@ -10558,6 +10552,12 @@
         }
     ],
     "careco": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "careconcepts mayfield": [
         {
             "type": 1,
             "rating": 1
@@ -20871,11 +20871,11 @@
             "rating": 2
         },
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 2,
             "rating": 1
         }
     ],
@@ -28335,6 +28335,12 @@
             "rating": 1
         }
     ],
+    "christchurch court": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "christchurch housing society": [
         {
             "type": 1,
@@ -32336,6 +32342,12 @@
         }
     ],
     "cjx construction": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ck cowgate": [
         {
             "type": 1,
             "rating": 1
@@ -39861,12 +39873,6 @@
             "rating": 1
         }
     ],
-    "coldbrock healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "coldconnection": [
         {
             "type": 1,
@@ -45715,16 +45721,6 @@
             "rating": 1
         }
     ],
-    "construgomes engenharia s a": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "construktclt": [
         {
             "type": 1,
@@ -45892,6 +45888,12 @@
         }
     ],
     "consultonic pvt": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "consultus sustainability": [
         {
             "type": 1,
             "rating": 1
@@ -49128,16 +49130,6 @@
     "corporate taxis dunfermline": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "corporate translations": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -52729,20 +52721,14 @@
             "rating": 1
         }
     ],
-    "cranfield management development": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cranfield university": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 13,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "cranfold physical therapy centre": [
@@ -57330,12 +57316,6 @@
         }
     ],
     "crystal windows mcr": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "crystalite": [
         {
             "type": 1,
             "rating": 1

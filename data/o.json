@@ -1821,16 +1821,6 @@
             "rating": 1
         }
     ],
-    "oasis crescent": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oasis crescent wealth": [
         {
             "type": 1,
@@ -6721,23 +6711,13 @@
             "rating": 1
         }
     ],
-    "omim technology": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "omio travel": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

@@ -1875,6 +1875,12 @@
             "rating": 1
         }
     ],
+    "qualitaste": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "qualitcare /qualitcare24-7": [
         {
             "type": 1,
@@ -2484,6 +2490,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "quant8": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

@@ -4967,19 +4967,13 @@
             "rating": 1
         }
     ],
-    "raisin dads": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "raisin platforms": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9629,6 +9623,16 @@
         {
             "type": 2,
             "rating": 1
+        }
+    ],
+    "rccg house of praise": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "rccg jesus house aberdeen": [
@@ -18633,6 +18637,12 @@
             "rating": 1
         }
     ],
+    "restyle automotive": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "resu it solutions": [
         {
             "type": 1,
@@ -20883,6 +20893,12 @@
             "rating": 1
         }
     ],
+    "riaz & co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "riaz ahmad": [
         {
             "type": 1,
@@ -23018,6 +23034,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "rio transport": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31019,11 +31041,11 @@
     ],
     "rota geek": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -31646,6 +31668,12 @@
         }
     ],
     "rowan alba": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rowan international": [
         {
             "type": 1,
             "rating": 1
@@ -34634,12 +34662,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "ruby shoreditch hotels": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],

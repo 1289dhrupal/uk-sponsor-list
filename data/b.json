@@ -4095,12 +4095,6 @@
             "rating": 1
         }
     ],
-    "ballintaggart hotel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ballochmyle medical": [
         {
             "type": 1,
@@ -11917,12 +11911,6 @@
             "rating": 1
         }
     ],
-    "beauty 1": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "beauty and focus": [
         {
             "type": 1,
@@ -14416,6 +14404,12 @@
         }
     ],
     "bellissima weddings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bellovia skin": [
         {
             "type": 1,
             "rating": 1
@@ -18211,14 +18205,20 @@
             "rating": 1
         }
     ],
-    "bethany school": [
-        {
-            "type": 10,
-            "rating": 2
-        },
+    "bethany lodge kent": [
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "bethany school": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "bethel community church": [
@@ -18850,6 +18850,12 @@
         }
     ],
     "bexprt": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bextec electrical": [
         {
             "type": 1,
             "rating": 1
@@ -19948,18 +19954,6 @@
         }
     ],
     "bhm trader": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bhojnalay": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bhaji pala": [
         {
             "type": 1,
             "rating": 1
@@ -25203,12 +25197,6 @@
             "rating": 1
         }
     ],
-    "black whale": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "black women s resource centre watoto preschool": [
         {
             "type": 1,
@@ -27372,12 +27360,6 @@
         }
     ],
     "bloomsbury institute": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bloomsbury kg": [
         {
             "type": 1,
             "rating": 1
