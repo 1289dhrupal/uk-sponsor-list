@@ -30801,12 +30801,6 @@
             "rating": 1
         }
     ],
-    "duty care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "duty guard security": [
         {
             "type": 1,
@@ -31488,18 +31482,6 @@
         }
     ],
     "dynamic people": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dynamic pizza 2": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dynamic pizza 3": [
         {
             "type": 1,
             "rating": 1

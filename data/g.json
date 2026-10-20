@@ -5309,6 +5309,12 @@
             "rating": 1
         }
     ],
+    "gbdc": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gbe london": [
         {
             "type": 1,
@@ -21085,12 +21091,6 @@
             "rating": 1
         }
     ],
-    "gqs holdings": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gqs-": [
         {
             "type": 1,
@@ -21379,12 +21379,12 @@
     ],
     "grace evangelistic ministries europe": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "grace eyre foundation": [
@@ -23492,6 +23492,12 @@
         }
     ],
     "grays inn road medical": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "grays medica": [
         {
             "type": 1,
             "rating": 1

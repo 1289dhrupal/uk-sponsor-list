@@ -4531,12 +4531,6 @@
             "rating": 1
         }
     ],
-    "mac foods global": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "mac fuels & retail": [
         {
             "type": 1,
@@ -8992,12 +8986,6 @@
         }
     ],
     "maks pharmacy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "maks retailing": [
         {
             "type": 1,
             "rating": 1
@@ -27778,6 +27766,12 @@
         }
     ],
     "meridian health & social care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "meridian health ventures management": [
         {
             "type": 1,
             "rating": 1
@@ -50389,16 +50383,6 @@
             "rating": 1
         }
     ],
-    "mrm worldwide": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "mrmp - manchester": [
         {
             "type": 12,
@@ -57410,12 +57394,6 @@
         }
     ],
     "maharani indian takeaway": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "mount gurkha": [
         {
             "type": 1,
             "rating": 1

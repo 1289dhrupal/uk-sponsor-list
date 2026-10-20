@@ -1269,12 +1269,6 @@
             "rating": 1
         }
     ],
-    "the river garden": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the clean machine": [
         {
             "type": 1,
@@ -9155,6 +9149,12 @@
             "rating": 1
         }
     ],
+    "taurex": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tauro design": [
         {
             "type": 1,
@@ -9510,12 +9510,6 @@
         }
     ],
     "taxaiders": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "taxar enterprise": [
         {
             "type": 1,
             "rating": 1
@@ -15345,12 +15339,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "terra nova school trust": [
-        {
-            "type": 10,
-            "rating": 2
         }
     ],
     "terra payment": [
@@ -23758,6 +23746,12 @@
         }
     ],
     "the digital accessibility centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the digital age": [
         {
             "type": 1,
             "rating": 1
@@ -48807,6 +48801,12 @@
             "rating": 1
         }
     ],
+    "tooling alpha": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "toolrite": [
         {
             "type": 1,
@@ -51276,6 +51276,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tova legal": [
         {
             "type": 1,
             "rating": 1
@@ -58705,11 +58711,11 @@
     ],
     "ts imagine": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

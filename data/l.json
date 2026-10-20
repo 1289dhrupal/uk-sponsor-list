@@ -12285,6 +12285,12 @@
             "rating": 1
         }
     ],
+    "leypass": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "leyton dental surgery": [
         {
             "type": 1,
@@ -14694,6 +14700,12 @@
         }
     ],
     "limak international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "limar trading": [
         {
             "type": 1,
             "rating": 1
@@ -19083,12 +19095,12 @@
     ],
     "ljw 2 private": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "ljw private": [
@@ -19656,12 +19668,6 @@
         }
     ],
     "ln beauty t/a beautique": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ln visa": [
         {
             "type": 1,
             "rating": 1

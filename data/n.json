@@ -3495,16 +3495,6 @@
             "rating": 1
         }
     ],
-    "nasdaq international": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "nasdaq": [
         {
             "type": 5,
@@ -16363,16 +16353,6 @@
             "rating": 1
         }
     ],
-    "niippon sanso": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "niit": [
         {
             "type": 5,
@@ -17286,6 +17266,16 @@
     "nippon paint automotive": [
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "nippon sanso": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26182,6 +26172,12 @@
         }
     ],
     "number seven food technology": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "number seven solutions": [
         {
             "type": 1,
             "rating": 1

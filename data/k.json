@@ -7303,6 +7303,12 @@
             "rating": 1
         }
     ],
+    "kdb building designs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kdc projects": [
         {
             "type": 1,
@@ -10255,7 +10261,7 @@
             "rating": 1
         }
     ],
-    "ketumati buddhist vihara": [
+    "ketumati buddhist vihara trust": [
         {
             "type": 2,
             "rating": 1
@@ -11982,12 +11988,6 @@
         }
     ],
     "khp medtech innovations": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "khp ventures management": [
         {
             "type": 1,
             "rating": 1

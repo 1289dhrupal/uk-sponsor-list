@@ -1459,6 +1459,12 @@
             "rating": 1
         }
     ],
+    "zan traders": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "zanachicken": [
         {
             "type": 1,
@@ -2766,12 +2772,6 @@
         }
     ],
     "zenex plus": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "zenfinex": [
         {
             "type": 1,
             "rating": 1
