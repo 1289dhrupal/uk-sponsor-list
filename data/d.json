@@ -4927,6 +4927,12 @@
             "rating": 1
         }
     ],
+    "dat healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "data 1st": [
         {
             "type": 1,
@@ -23963,12 +23969,6 @@
             "rating": 1
         }
     ],
-    "dorset noodle company": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dorset opera": [
         {
             "type": 10,
@@ -26006,6 +26006,12 @@
         }
     ],
     "dr pullan & partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dr punit sitaram shivhare": [
         {
             "type": 1,
             "rating": 1
@@ -31635,19 +31641,13 @@
             "rating": 1
         }
     ],
-    "dynamo foods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dynamo healthcare training": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

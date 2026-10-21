@@ -10007,12 +10007,6 @@
             "rating": 1
         }
     ],
-    "taz trading": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "taza food": [
         {
             "type": 1,
@@ -28852,6 +28846,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the karma cokitchen": [
         {
             "type": 1,
             "rating": 1
@@ -51364,6 +51364,12 @@
         }
     ],
     "tower fire protection": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tower hamlets gp care cic": [
         {
             "type": 1,
             "rating": 1

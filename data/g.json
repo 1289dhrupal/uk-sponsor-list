@@ -2201,12 +2201,6 @@
             "rating": 1
         }
     ],
-    "gain care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gain credit llc": [
         {
             "type": 1,
@@ -9545,13 +9539,19 @@
             "rating": 1
         }
     ],
-    "gho capital partners advisory": [
+    "ghl bakery equipment": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "gho capital partners advisory": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10722,6 +10722,12 @@
         }
     ],
     "gilpin lodge country house hotel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gilroyd convenience store": [
         {
             "type": 1,
             "rating": 1
@@ -17542,6 +17548,12 @@
         }
     ],
     "gogo super market": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gogodoc": [
         {
             "type": 1,
             "rating": 1
