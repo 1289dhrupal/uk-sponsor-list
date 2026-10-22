@@ -6783,6 +6783,12 @@
             "rating": 1
         }
     ],
+    "hapus home care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "haq halal shop": [
         {
             "type": 1,
@@ -20445,6 +20451,12 @@
             "rating": 1
         }
     ],
+    "hillside-infinitas": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hillsome": [
         {
             "type": 1,
@@ -32283,16 +32295,6 @@
             "rating": 1
         }
     ],
-    "huntsworth health": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "huntsworth": [
         {
             "type": 1,
@@ -34144,12 +34146,6 @@
         }
     ],
     "hce": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hot house pizza northwood": [
         {
             "type": 1,
             "rating": 1

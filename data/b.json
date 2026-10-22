@@ -15185,6 +15185,12 @@
             "rating": 1
         }
     ],
+    "benedex": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "benedictine monks": [
         {
             "type": 2,
@@ -18593,11 +18599,11 @@
     ],
     "bev global": [
         {
-            "type": 5,
+            "type": 3,
             "rating": 1
         },
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
@@ -38271,6 +38277,12 @@
             "rating": 1
         }
     ],
+    "bridge help": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bridge hotel": [
         {
             "type": 1,
@@ -40184,6 +40196,12 @@
         }
     ],
     "brisdoc healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "brisel consult": [
         {
             "type": 1,
             "rating": 1
@@ -44455,6 +44473,12 @@
             "rating": 1
         }
     ],
+    "bs fitted furniture": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bs food supplies": [
         {
             "type": 1,
@@ -44516,12 +44540,6 @@
         }
     ],
     "bs ventures": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bs windows": [
         {
             "type": 1,
             "rating": 1

@@ -323,12 +323,6 @@
             "rating": 1
         }
     ],
-    "sundorne store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sundorne store & premier": [
         {
             "type": 1,
@@ -22011,6 +22005,12 @@
             "rating": 1
         }
     ],
+    "sedir": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sedivcharan": [
         {
             "type": 1,
@@ -38257,6 +38257,12 @@
             "rating": 1
         }
     ],
+    "simo law firm": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "simon & co accountancy": [
         {
             "type": 1,
@@ -52531,13 +52537,23 @@
             "rating": 1
         }
     ],
-    "sony europe b v": [
+    "sony corporate europe": [
         {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "sony europe b v": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -55716,12 +55732,6 @@
         }
     ],
     "space agency design": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "space ape games": [
         {
             "type": 1,
             "rating": 1
@@ -60887,12 +60897,6 @@
             "rating": 1
         }
     ],
-    "spry pay": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "spryker systems": [
         {
             "type": 5,
@@ -63839,6 +63843,12 @@
             "rating": 1
         }
     ],
+    "st advisory chambers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "st albans care": [
         {
             "type": 1,
@@ -64989,14 +64999,20 @@
             "rating": 1
         }
     ],
-    "st james styvechale": [
+    "st james s house": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "st james styvechale": [
         {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "st james surgery": [
@@ -69399,20 +69415,14 @@
             "rating": 1
         }
     ],
-    "state oil": [
+    "state street bank and trust company": [
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "state street bank and trust company": [
+        },
         {
             "type": 8,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         },
         {
             "type": 5,
@@ -69936,16 +69946,6 @@
         }
     ],
     "steam-a solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "steama company": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -70902,6 +70902,12 @@
         }
     ],
     "stepping stones childcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "stepping stones children s homes": [
         {
             "type": 1,
             "rating": 1

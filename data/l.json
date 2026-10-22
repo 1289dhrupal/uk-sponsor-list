@@ -817,6 +817,12 @@
             "rating": 1
         }
     ],
+    "l j heffernan utilities": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "l k supermarket": [
         {
             "type": 1,
@@ -6687,7 +6693,7 @@
             "rating": 1
         }
     ],
-    "lavish concept store": [
+    "lavish concepts": [
         {
             "type": 1,
             "rating": 1
@@ -13713,6 +13719,12 @@
             "rating": 1
         }
     ],
+    "lifeserve solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lifeshare": [
         {
             "type": 1,
@@ -13961,12 +13973,6 @@
             "rating": 1
         }
     ],
-    "light bulb advisory": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "light fantastic production": [
         {
             "type": 1,
@@ -14004,6 +14010,10 @@
     "light research": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

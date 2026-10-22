@@ -22891,6 +22891,12 @@
             "rating": 1
         }
     ],
+    "ericsson enterprise wireless solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ericsson": [
         {
             "type": 5,
@@ -23896,12 +23902,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "esph healthcare": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -29355,6 +29355,12 @@
             "rating": 1
         }
     ],
+    "evoke management london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "evoke neurological rehabilitation": [
         {
             "type": 1,
@@ -29664,6 +29670,12 @@
         }
     ],
     "evotrack": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "evove": [
         {
             "type": 1,
             "rating": 1

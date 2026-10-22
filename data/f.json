@@ -14689,6 +14689,12 @@
             "rating": 1
         }
     ],
+    "flicknmix": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "flight care": [
         {
             "type": 1,
@@ -26316,12 +26322,6 @@
         }
     ],
     "fusion ceramics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fusion chef": [
         {
             "type": 1,
             "rating": 1

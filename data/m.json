@@ -3741,12 +3741,6 @@
             "rating": 1
         }
     ],
-    "m25 logistics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "m2a estates": [
         {
             "type": 1,
@@ -6686,6 +6680,12 @@
         }
     ],
     "magicspoon": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "magictouchv": [
         {
             "type": 1,
             "rating": 1
@@ -16385,12 +16385,6 @@
             "rating": 1
         }
     ],
-    "marvgallup": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "marvgallup travels and tours consultancy": [
         {
             "type": 4,
@@ -16797,7 +16791,7 @@
             "rating": 1
         }
     ],
-    "mas united for electromechanical solutions": [
+    "mas united for high voltage": [
         {
             "type": 1,
             "rating": 1
@@ -50672,12 +50666,6 @@
         }
     ],
     "mrs shabana kousar": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "mrs sivagowri annarasa": [
         {
             "type": 1,
             "rating": 1
