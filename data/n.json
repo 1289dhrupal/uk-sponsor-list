@@ -14267,6 +14267,12 @@
             "rating": 1
         }
     ],
+    "nextek": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "nextenergy capital": [
         {
             "type": 1,
@@ -15349,14 +15355,20 @@
             "rating": 1
         }
     ],
-    "nhs tayside": [
-        {
-            "type": 13,
-            "rating": 2
-        },
+    "nhs surrey and sussex icb": [
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "nhs tayside": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 13,
+            "rating": 2
         }
     ],
     "nhs thames valley integrated care board": [

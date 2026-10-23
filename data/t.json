@@ -6679,16 +6679,6 @@
             "rating": 1
         }
     ],
-    "tambo marketplaces": [
-        {
-            "type": 7,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tamburino": [
         {
             "type": 1,
@@ -48212,6 +48202,12 @@
         }
     ],
     "tom george": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tom harris design": [
         {
             "type": 1,
             "rating": 1

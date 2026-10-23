@@ -9923,6 +9923,12 @@
             "rating": 1
         }
     ],
+    "bbdg vector": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bbf interiors": [
         {
             "type": 1,
@@ -46160,6 +46166,12 @@
         }
     ],
     "building research establishment": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "building products": [
         {
             "type": 1,
             "rating": 1

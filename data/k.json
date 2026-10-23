@@ -4991,12 +4991,6 @@
             "rating": 1
         }
     ],
-    "karno sound": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "karo healthcare": [
         {
             "type": 1,
@@ -7373,6 +7367,12 @@
             "rating": 1
         }
     ],
+    "kdm care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kdm events": [
         {
             "type": 1,
@@ -9359,16 +9359,16 @@
     ],
     "kent sri lankan buddhist cultural centre": [
         {
+            "type": 11,
+            "rating": 2
+        },
+        {
             "type": 10,
             "rating": 2
         },
         {
             "type": 2,
             "rating": 1
-        },
-        {
-            "type": 11,
-            "rating": 2
         }
     ],
     "kent st wines": [
@@ -15878,12 +15878,6 @@
         }
     ],
     "kitchen and catering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kitchen brothers": [
         {
             "type": 1,
             "rating": 1

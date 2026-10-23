@@ -4753,12 +4753,6 @@
             "rating": 1
         }
     ],
-    "s3 care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "s3 dental haywards heath": [
         {
             "type": 1,
@@ -5532,12 +5526,6 @@
         }
     ],
     "saber partners": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "saber solutions": [
         {
             "type": 1,
             "rating": 1
@@ -6370,6 +6358,12 @@
         }
     ],
     "safe dwellings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "safe hands care & support": [
         {
             "type": 1,
             "rating": 1
@@ -10517,6 +10511,12 @@
             "rating": 1
         }
     ],
+    "sama healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sama perfumes": [
         {
             "type": 1,
@@ -12111,12 +12111,6 @@
             "rating": 1
         }
     ],
-    "sander senior living": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sanders chartered accountants": [
         {
             "type": 1,
@@ -12124,6 +12118,12 @@
         }
     ],
     "sanders school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sanders senior living": [
         {
             "type": 1,
             "rating": 1
@@ -16737,11 +16737,11 @@
     ],
     "sb investment advisers": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -25436,6 +25436,12 @@
         }
     ],
     "seti holdings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "setldpay": [
         {
             "type": 1,
             "rating": 1
@@ -34909,12 +34915,6 @@
             "rating": 1
         }
     ],
-    "shuffle finance": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shuffle rewards": [
         {
             "type": 1,
@@ -36498,12 +36498,6 @@
         }
     ],
     "signature 187": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "signature beds": [
         {
             "type": 1,
             "rating": 1
@@ -42354,6 +42348,12 @@
         }
     ],
     "skiff capital advisors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "skill capital advisory": [
         {
             "type": 1,
             "rating": 1
@@ -49975,6 +49975,12 @@
             "rating": 1
         }
     ],
+    "softsleep": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "softspace studios": [
         {
             "type": 1,
@@ -51863,13 +51869,19 @@
             "rating": 2
         }
     ],
+    "sometal": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "somewhere restaurant": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -57993,12 +58005,6 @@
             "rating": 1
         }
     ],
-    "sphere care solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sphere digital recruitment": [
         {
             "type": 1,
@@ -58970,6 +58976,16 @@
         }
     ],
     "spikex": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "spiko": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -77807,14 +77823,20 @@
             "rating": 1
         }
     ],
-    "suleymaniye community association": [
+    "sulem care": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "suleymaniye community association": [
         {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         },
         {
             "type": 1,
@@ -81820,12 +81842,6 @@
         }
     ],
     "surecare central cheshire": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "surecare enfield": [
         {
             "type": 1,
             "rating": 1

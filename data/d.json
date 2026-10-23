@@ -11223,16 +11223,6 @@
             "rating": 1
         }
     ],
-    "dencorp": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 12,
-            "rating": 1
-        }
-    ],
     "dendrite clinical systems": [
         {
             "type": 1,
@@ -19305,6 +19295,12 @@
             "rating": 1
         }
     ],
+    "direct tool company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "direct trade windows": [
         {
             "type": 1,
@@ -21141,6 +21137,12 @@
             "rating": 1
         }
     ],
+    "dl business systems": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dl catering": [
         {
             "type": 1,
@@ -21216,6 +21218,12 @@
         }
     ],
     "dlf seeds": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dlf utilities": [
         {
             "type": 1,
             "rating": 1

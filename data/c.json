@@ -5259,6 +5259,12 @@
             "rating": 1
         }
     ],
+    "cambs gp network": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cambscuisine": [
         {
             "type": 1,
@@ -10965,12 +10971,6 @@
             "rating": 1
         }
     ],
-    "caressa kahn manufacturing company": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "carestaff solutions": [
         {
             "type": 1,
@@ -14441,14 +14441,20 @@
             "rating": 1
         }
     ],
-    "cathay pacific airways": [
+    "catfoss airfield": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "cathay pacific airways": [
         {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -17174,6 +17180,12 @@
         },
         {
             "type": 12,
+            "rating": 1
+        }
+    ],
+    "celtic renewables": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -48987,12 +48999,6 @@
             "rating": 1
         }
     ],
-    "cornwall health care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cornwall hospice care": [
         {
             "type": 1,
@@ -52642,6 +52648,18 @@
         }
     ],
     "cranage emc testing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cranberrys bar and kitchen": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cranberry s": [
         {
             "type": 1,
             "rating": 1

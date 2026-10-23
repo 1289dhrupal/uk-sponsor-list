@@ -1301,6 +1301,12 @@
             "rating": 1
         }
     ],
+    "w1m investment management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "w1m wealth management": [
         {
             "type": 1,
@@ -5088,12 +5094,6 @@
         }
     ],
     "waverly care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "waverton investment management": [
         {
             "type": 1,
             "rating": 1
@@ -19187,6 +19187,12 @@
             "rating": 1
         }
     ],
+    "woodborough retail stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "woodbridge dental surgery": [
         {
             "type": 1,
@@ -22170,12 +22176,6 @@
     "wrench": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "wrenthorpe sports cricket club": [
-        {
-            "type": 12,
             "rating": 1
         }
     ],

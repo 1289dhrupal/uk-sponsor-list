@@ -20059,6 +20059,12 @@
             "rating": 1
         }
     ],
+    "local tv": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "local utility store": [
         {
             "type": 1,
@@ -28705,6 +28711,12 @@
             "rating": 1
         }
     ],
+    "luminous care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "luminous domiciliary care": [
         {
             "type": 1,
@@ -29960,6 +29972,16 @@
     "luzardi": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "luzern ecommerce solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 7,
             "rating": 1
         }
     ],

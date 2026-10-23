@@ -2119,12 +2119,6 @@
             "rating": 1
         }
     ],
-    "p&p enterprise": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "p&p food groups": [
         {
             "type": 1,
@@ -9411,6 +9405,12 @@
             "rating": 1
         }
     ],
+    "pau family holdings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "paua tech": [
         {
             "type": 1,
@@ -13089,6 +13089,12 @@
             "rating": 1
         }
     ],
+    "penrhos care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "penrhyn bay & deganwy medical centre": [
         {
             "type": 1,
@@ -13464,6 +13470,12 @@
         }
     ],
     "people first care rennington": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "people first care": [
         {
             "type": 1,
             "rating": 1
@@ -25596,12 +25608,6 @@
         }
     ],
     "pocketlaw": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pockets of peace care": [
         {
             "type": 1,
             "rating": 1
@@ -43357,11 +43363,11 @@
     ],
     "parker s": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
