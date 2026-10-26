@@ -2873,6 +2873,12 @@
             "rating": 1
         }
     ],
+    "id sofas midlands": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "id ward": [
         {
             "type": 1,
@@ -3194,12 +3200,6 @@
         }
     ],
     "ideal": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ideal warren": [
         {
             "type": 1,
             "rating": 1
@@ -7731,6 +7731,12 @@
             "rating": 1
         }
     ],
+    "imtiaz & co accountants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "imv europe": [
         {
             "type": 5,
@@ -10562,12 +10568,6 @@
         }
     ],
     "infinity investment partners": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "infinity investments international": [
         {
             "type": 1,
             "rating": 1
@@ -16720,6 +16720,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "international food & halal meat centre": [
         {
             "type": 1,
             "rating": 1

@@ -5393,12 +5393,6 @@
             "rating": 1
         }
     ],
-    "kashar engineering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kashas qb": [
         {
             "type": 1,
@@ -12369,15 +12363,15 @@
     ],
     "kido schools": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 7,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -13808,6 +13802,12 @@
         }
     ],
     "kingdom bank": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kingdom brokerage re": [
         {
             "type": 1,
             "rating": 1
@@ -16041,16 +16041,6 @@
             "rating": 1
         }
     ],
-    "kivnon": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kivue": [
         {
             "type": 1,
@@ -16226,6 +16216,12 @@
         }
     ],
     "kk chicken shop": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kk corporate": [
         {
             "type": 1,
             "rating": 1
@@ -19287,6 +19283,12 @@
             "rating": 1
         }
     ],
+    "konform": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kong international": [
         {
             "type": 1,
@@ -21195,6 +21197,12 @@
             "rating": 1
         }
     ],
+    "krishna trading bristol": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "krishna trading corporation": [
         {
             "type": 1,
@@ -22182,12 +22190,6 @@
         }
     ],
     "ksya": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ksz online": [
         {
             "type": 1,
             "rating": 1

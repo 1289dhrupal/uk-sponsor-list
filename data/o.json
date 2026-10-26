@@ -2049,16 +2049,6 @@
             "rating": 1
         }
     ],
-    "ob media partners": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
-        }
-    ],
     "ob holdings": [
         {
             "type": 5,
@@ -2101,16 +2091,16 @@
     ],
     "obaseki & co": [
         {
-            "type": 8,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
             "rating": 1
         },
         {
-            "type": 1,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         }
     ],
     "obatos care": [
@@ -4392,16 +4382,6 @@
         }
     ],
     "oikos family centres": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "oil & gas measurement": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -9904,12 +9884,6 @@
         }
     ],
     "opendialog ai": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "openesg platform": [
         {
             "type": 1,
             "rating": 1

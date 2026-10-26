@@ -6921,19 +6921,13 @@
             "rating": 1
         }
     ],
-    "weee scotland": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "weefin esg": [
         {
-            "type": 3,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 3,
             "rating": 1
         },
         {
@@ -7418,6 +7412,12 @@
         }
     ],
     "well bite": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "well care 24/7": [
         {
             "type": 1,
             "rating": 1
@@ -9916,12 +9916,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "westbrook food and wine": [
         {
             "type": 1,
             "rating": 1
@@ -13322,6 +13316,12 @@
         }
     ],
     "wholefoods glasgow": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wholesale bathrooms": [
         {
             "type": 1,
             "rating": 1

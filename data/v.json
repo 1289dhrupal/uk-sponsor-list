@@ -1329,6 +1329,12 @@
             "rating": 1
         }
     ],
+    "vah diy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vahid panah": [
         {
             "type": 1,
@@ -2408,12 +2414,6 @@
         }
     ],
     "value stream machinery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "value tech labs": [
         {
             "type": 1,
             "rating": 1
@@ -5447,6 +5447,12 @@
             "rating": 1
         }
     ],
+    "venezia hartlepool": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "venezia saxondale": [
         {
             "type": 1,
@@ -5622,6 +5628,12 @@
         }
     ],
     "ventmann": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ventnor botanic garden": [
         {
             "type": 1,
             "rating": 1

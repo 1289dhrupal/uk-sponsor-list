@@ -14365,6 +14365,12 @@
             "rating": 1
         }
     ],
+    "lightsky": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lightsky operations": [
         {
             "type": 1,
@@ -16438,6 +16444,12 @@
         }
     ],
     "lion care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lion care service": [
         {
             "type": 1,
             "rating": 1
@@ -20559,6 +20571,12 @@
             "rating": 1
         }
     ],
+    "lodbrok": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "loddon bridge road dental practice": [
         {
             "type": 1,
@@ -22623,12 +22641,6 @@
         {
             "type": 4,
             "rating": 2
-        }
-    ],
-    "london global business school": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "london global properties": [
@@ -27370,6 +27382,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lsk productions": [
         {
             "type": 1,
             "rating": 1

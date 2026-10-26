@@ -3969,6 +3969,12 @@
             "rating": 1
         }
     ],
+    "national care consortium": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "national care holdings": [
         {
             "type": 1,
@@ -9596,12 +9602,6 @@
         }
     ],
     "namaste gurkha hayes restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "new abaseen cheethamhill": [
         {
             "type": 1,
             "rating": 1
@@ -20651,15 +20651,7 @@
     ],
     "norgine": [
         {
-            "type": 9,
-            "rating": 2
-        },
-        {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -22456,12 +22448,6 @@
     "northern starlight": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "northern superchargers": [
-        {
-            "type": 12,
             "rating": 1
         }
     ],
@@ -25474,6 +25460,12 @@
         }
     ],
     "nsn local express": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "nsn retail": [
         {
             "type": 1,
             "rating": 1

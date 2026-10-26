@@ -4249,6 +4249,12 @@
             "rating": 1
         }
     ],
+    "s&s one stop": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "s&s pharmacy": [
         {
             "type": 1,
@@ -9946,12 +9952,6 @@
         }
     ],
     "salt & pepper": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "salt & spices superstore": [
         {
             "type": 1,
             "rating": 1
@@ -18601,6 +18601,12 @@
             "rating": 1
         }
     ],
+    "sciris": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "scissero law": [
         {
             "type": 1,
@@ -23974,12 +23980,6 @@
         }
     ],
     "sentiental": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sentify": [
         {
             "type": 1,
             "rating": 1
@@ -30479,12 +30479,6 @@
             "rating": 1
         }
     ],
-    "shelton fleming associates": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shelton machines": [
         {
             "type": 1,
@@ -31567,6 +31561,12 @@
             "rating": 1
         }
     ],
+    "shilsure consultants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "shilton retail": [
         {
             "type": 1,
@@ -32450,12 +32450,6 @@
         }
     ],
     "shivam capital": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "shivam consultants": [
         {
             "type": 1,
             "rating": 1
@@ -39554,6 +39548,12 @@
         }
     ],
     "singh commercial kitchen solution": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "singh concrete": [
         {
             "type": 1,
             "rating": 1
@@ -47669,12 +47669,6 @@
             "rating": 1
         }
     ],
-    "smokers n vapers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "smokeworks": [
         {
             "type": 1,
@@ -48987,23 +48981,29 @@
             "rating": 1
         }
     ],
-    "soap and co": [
-        {
-            "type": 5,
-            "rating": 1
-        },
+    "soanes poultry": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "sakare": [
+    "soap and co": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
+            "type": 5,
+            "rating": 1
+        }
+    ],
+    "sakare": [
+        {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -49902,12 +49902,6 @@
         }
     ],
     "softgenie": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "softheads": [
         {
             "type": 1,
             "rating": 1
@@ -55696,6 +55690,12 @@
         }
     ],
     "spa health": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "spa healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -78613,12 +78613,6 @@
             "rating": 1
         }
     ],
-    "sumon": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sumona trading": [
         {
             "type": 1,
@@ -86258,12 +86252,6 @@
         }
     ],
     "sylhet hospitality": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sylhet house travel centre": [
         {
             "type": 1,
             "rating": 1

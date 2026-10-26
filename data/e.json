@@ -3264,10 +3264,6 @@
     "easteden": [
         {
             "type": 1,
-            "rating": 4
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -5165,6 +5161,12 @@
             "rating": 1
         }
     ],
+    "echinus design studio": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "echion technologies": [
         {
             "type": 1,
@@ -6723,6 +6725,12 @@
             "rating": 1
         }
     ],
+    "edc lord & co solicitors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "edc2": [
         {
             "type": 1,
@@ -8069,6 +8077,12 @@
             "rating": 1
         }
     ],
+    "edp car care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "edp environmental": [
         {
             "type": 1,
@@ -8108,12 +8122,6 @@
             "type": 4,
             "rating": 2
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "edr care": [
         {
             "type": 1,
             "rating": 1
@@ -8730,6 +8738,12 @@
         }
     ],
     "eedge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "eedn": [
         {
             "type": 1,
             "rating": 1
@@ -9796,12 +9810,6 @@
     "egyptair": [
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "eh dental care": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
