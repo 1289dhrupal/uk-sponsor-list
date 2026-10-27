@@ -637,12 +637,6 @@
             "rating": 1
         }
     ],
-    "h & j builders": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "h & j merchants": [
         {
             "type": 1,
@@ -2877,12 +2871,6 @@
             "rating": 1
         }
     ],
-    "hahn automation": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hahnbeck business systems": [
         {
             "type": 1,
@@ -3780,12 +3768,6 @@
         }
     ],
     "haliq and grey": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "halite global": [
         {
             "type": 1,
             "rating": 1
@@ -8054,6 +8036,10 @@
     "harmony energy": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

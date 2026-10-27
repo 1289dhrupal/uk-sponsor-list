@@ -9287,6 +9287,12 @@
             "rating": 1
         }
     ],
+    "care ambassadors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "care and compassion agency": [
         {
             "type": 1,
@@ -33879,11 +33885,11 @@
     ],
     "clay labs": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -35223,12 +35229,6 @@
             "rating": 1
         }
     ],
-    "clickz media": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "clictic consulting": [
         {
             "type": 1,
@@ -36132,6 +36132,12 @@
         }
     ],
     "cloth restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cloth surgeon": [
         {
             "type": 1,
             "rating": 1
@@ -39528,6 +39534,12 @@
         }
     ],
     "cognita schools": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cognitech": [
         {
             "type": 1,
             "rating": 1
@@ -47600,6 +47612,12 @@
         }
     ],
     "copner mini market": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "coppa collection": [
         {
             "type": 1,
             "rating": 1

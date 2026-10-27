@@ -1527,21 +1527,21 @@
     ],
     "vald operations": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "vale base metals": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3534,12 +3534,6 @@
         }
     ],
     "varioline3": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "various eateries": [
         {
             "type": 1,
             "rating": 1
@@ -6760,12 +6754,6 @@
         }
     ],
     "verso clothing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "versori": [
         {
             "type": 1,
             "rating": 1

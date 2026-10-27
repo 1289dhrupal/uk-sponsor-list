@@ -449,12 +449,6 @@
             "rating": 1
         }
     ],
-    "nadu": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "nags head market": [
         {
             "type": 1,
@@ -3548,6 +3542,16 @@
         }
     ],
     "nash corporate": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "nash delivery technologies": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -15964,12 +15968,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "nidhoggr mead co": [
         {
             "type": 1,
             "rating": 1

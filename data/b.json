@@ -33399,16 +33399,6 @@
             "rating": 1
         }
     ],
-    "boslan engineering": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bosmere medical practice": [
         {
             "type": 1,
@@ -33909,6 +33899,12 @@
         {
             "type": 4,
             "rating": 2
+        }
+    ],
+    "boughton medical": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "boujee bad": [
@@ -37691,12 +37687,6 @@
             "rating": 1
         }
     ],
-    "brewdog": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "brewed online": [
         {
             "type": 1,
@@ -40250,6 +40240,12 @@
         }
     ],
     "briss technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bristal investments": [
         {
             "type": 1,
             "rating": 1
@@ -47516,12 +47512,6 @@
         }
     ],
     "burrito mex restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "burrow down support": [
         {
             "type": 1,
             "rating": 1

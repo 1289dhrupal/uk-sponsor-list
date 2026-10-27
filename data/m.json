@@ -12165,12 +12165,6 @@
             "rating": 1
         }
     ],
-    "mantilla network": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "mantis cranes": [
         {
             "type": 1,
@@ -21137,6 +21131,16 @@
             "rating": 1
         }
     ],
+    "mbh architects": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "mbh design studio": [
         {
             "type": 1,
@@ -22816,6 +22820,12 @@
     "mdj investments ta dominos pizza": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "mdm mechanical installation": [
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -31842,6 +31852,12 @@
         }
     ],
     "micro trends": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "micro-epsilon": [
         {
             "type": 1,
             "rating": 1
@@ -45329,6 +45345,12 @@
         {
             "type": 10,
             "rating": 2
+        }
+    ],
+    "morning star nursery": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "morning star nursery school": [

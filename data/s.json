@@ -5243,12 +5243,6 @@
             "rating": 1
         }
     ],
-    "saannie medical": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "saans dental": [
         {
             "type": 1,
@@ -25365,6 +25359,12 @@
             "rating": 1
         }
     ],
+    "set advisory": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "setara": [
         {
             "type": 1,
@@ -42239,7 +42239,7 @@
             "rating": 1
         }
     ],
-    "skene enterprises aberdeen": [
+    "skene developments aberdeen": [
         {
             "type": 1,
             "rating": 1
@@ -50581,6 +50581,16 @@
             "rating": 1
         }
     ],
+    "solar holdco": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "solar warrior": [
         {
             "type": 1,
@@ -57376,6 +57386,12 @@
         }
     ],
     "spectrum wealth management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "spectrum wellness": [
         {
             "type": 1,
             "rating": 1

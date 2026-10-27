@@ -4621,6 +4621,10 @@
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "langabhat medical practice": [
@@ -4969,6 +4973,10 @@
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "languageservicesuk": [
@@ -5840,6 +5848,12 @@
         }
     ],
     "lassic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "last arrow": [
         {
             "type": 1,
             "rating": 1
@@ -25568,12 +25582,6 @@
         }
     ],
     "lotus convenience store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lotus curry house": [
         {
             "type": 1,
             "rating": 1
