@@ -787,6 +787,12 @@
             "rating": 1
         }
     ],
+    "g naprous": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "g peers consultancy": [
         {
             "type": 1,
@@ -8939,11 +8945,11 @@
     ],
     "gfa world": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
@@ -10272,12 +10278,6 @@
         }
     ],
     "gilbert and armstrong": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gilbert global care": [
         {
             "type": 1,
             "rating": 1
@@ -12413,6 +12413,12 @@
             "rating": 1
         }
     ],
+    "glen foundry": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "glen grant": [
         {
             "type": 5,
@@ -13225,12 +13231,12 @@
     ],
     "global aid trust": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 10,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "global airline": [

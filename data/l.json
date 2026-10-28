@@ -3849,12 +3849,6 @@
             "rating": 1
         }
     ],
-    "lanark dental care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lanark smile centre": [
         {
             "type": 1,
@@ -7651,6 +7645,12 @@
             "rating": 1
         }
     ],
+    "lds bloodstock litd": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lds repairs": [
         {
             "type": 1,
@@ -8152,6 +8152,12 @@
         }
     ],
     "leadscale engine": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "leadwood care": [
         {
             "type": 1,
             "rating": 1
@@ -10193,6 +10199,12 @@
         {
             "type": 4,
             "rating": 2
+        }
+    ],
+    "leighview social support": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "leila express": [
@@ -28713,6 +28725,12 @@
             "rating": 1
         }
     ],
+    "luminescent": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "luminet solutions": [
         {
             "type": 1,
@@ -31290,12 +31308,6 @@
         }
     ],
     "lalbagh halal food store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lower bowshaw view nursing home": [
         {
             "type": 1,
             "rating": 1

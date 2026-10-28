@@ -1337,6 +1337,10 @@
         {
             "type": 1,
             "rating": 4
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "fabulous direct": [
@@ -11252,12 +11256,6 @@
         }
     ],
     "first care lodge": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "first care physiotherapy and sports clinic": [
         {
             "type": 1,
             "rating": 1
@@ -22702,12 +22700,6 @@
         }
     ],
     "freight systems express wales": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "freightcore": [
         {
             "type": 1,
             "rating": 1

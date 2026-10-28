@@ -8617,6 +8617,10 @@
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "dechra pharmaceuticals": [
@@ -19112,12 +19116,6 @@
         }
     ],
     "direct food ingredients": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "direct food solution": [
         {
             "type": 1,
             "rating": 1

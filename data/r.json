@@ -14803,6 +14803,12 @@
             "rating": 1
         }
     ],
+    "regency medicine": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "regency nursing home": [
         {
             "type": 1,
@@ -16335,6 +16341,12 @@
             "rating": 1
         }
     ],
+    "remar association": [
+        {
+            "type": 10,
+            "rating": 2
+        }
+    ],
     "remarcable design": [
         {
             "type": 1,
@@ -17790,12 +17802,6 @@
         }
     ],
     "resicare alliance": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "resicare homes": [
         {
             "type": 1,
             "rating": 1
@@ -21395,12 +21401,6 @@
             "rating": 1
         }
     ],
-    "richmond court residential home trading name of dp & s sahni": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "richmond defence systems": [
         {
             "type": 1,
@@ -22670,12 +22670,6 @@
         }
     ],
     "riley square": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "riley squares t/as nisa local": [
         {
             "type": 1,
             "rating": 1

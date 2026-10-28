@@ -14621,12 +14621,6 @@
             "rating": 1
         }
     ],
-    "perim": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "perinatal institute": [
         {
             "type": 1,
@@ -14860,12 +14854,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "pero technologies": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -15977,16 +15965,6 @@
             "rating": 1
         }
     ],
-    "petrofac facilities management": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "petrofast metal & alloys 16556856": [
         {
             "type": 3,
@@ -16390,16 +16368,6 @@
         },
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "pfizer registered office": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -22536,12 +22504,6 @@
         }
     ],
     "pj dental": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pj dunfermline": [
         {
             "type": 1,
             "rating": 1
@@ -40573,12 +40535,6 @@
             "rating": 1
         }
     ],
-    "ptsmartcareservices": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ptt international trading london": [
         {
             "type": 5,
@@ -41114,6 +41070,12 @@
         }
     ],
     "puma investment management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "puma power projects": [
         {
             "type": 1,
             "rating": 1

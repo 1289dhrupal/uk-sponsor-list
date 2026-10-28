@@ -929,12 +929,6 @@
             "rating": 1
         }
     ],
-    "taraj palace": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "t4 bubble tea shop": [
         {
             "type": 1,
@@ -7754,6 +7748,12 @@
         }
     ],
     "tara taree": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "taraj palace": [
         {
             "type": 1,
             "rating": 1
@@ -39895,6 +39895,12 @@
             "rating": 1
         }
     ],
+    "the welcome organisation": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the well ministries": [
         {
             "type": 10,
@@ -48881,6 +48887,12 @@
             "rating": 1
         }
     ],
+    "tooth solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tooth+": [
         {
             "type": 1,
@@ -50829,30 +50841,24 @@
             "rating": 1
         }
     ],
-    "total west": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "totalenergies e&p": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "totalenergies gas and power": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 1,
@@ -52374,6 +52380,12 @@
         }
     ],
     "trade furniture company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "trade kings": [
         {
             "type": 1,
             "rating": 1
@@ -55539,6 +55551,12 @@
             "rating": 1
         }
     ],
+    "tribal education": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tribal": [
         {
             "type": 5,
@@ -56307,6 +56325,16 @@
         {
             "type": 2,
             "rating": 1
+        }
+    ],
+    "trinity church nottingham": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "trinity church of england high school": [
