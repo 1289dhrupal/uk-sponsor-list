@@ -3777,6 +3777,12 @@
             "rating": 1
         }
     ],
+    "offbridge": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "offenham village stores": [
         {
             "type": 1,
@@ -6512,6 +6518,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "omega recruitment": [
         {
             "type": 1,
             "rating": 1
@@ -10019,6 +10031,12 @@
             "rating": 1
         }
     ],
+    "opera catering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "opera gallery": [
         {
             "type": 1,
@@ -10678,6 +10696,12 @@
         }
     ],
     "optimal fm": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "optimal future": [
         {
             "type": 1,
             "rating": 1
@@ -12179,6 +12203,16 @@
             "rating": 1
         }
     ],
+    "orchard valley foods": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "orchard veterinary centre": [
         {
             "type": 1,
@@ -13094,6 +13128,12 @@
         }
     ],
     "origio": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "orimson": [
         {
             "type": 1,
             "rating": 1

@@ -6327,12 +6327,6 @@
             "rating": 1
         }
     ],
-    "safe care solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "safe child thailand": [
         {
             "type": 1,
@@ -7934,12 +7928,6 @@
         }
     ],
     "sai alupack": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sai anusha": [
         {
             "type": 1,
             "rating": 1
@@ -20731,13 +20719,19 @@
             "rating": 1
         }
     ],
-    "sealand projects": [
+    "seal solutions": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "sealand projects": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31701,6 +31695,12 @@
             "rating": 1
         }
     ],
+    "shine care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "shine hair salon": [
         {
             "type": 1,
@@ -32104,12 +32104,6 @@
         }
     ],
     "shirdi sai vada pav": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "shire beds": [
         {
             "type": 1,
             "rating": 1
@@ -40469,12 +40463,12 @@
     ],
     "sisl infotech": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -51422,7 +51416,7 @@
     "solution care 247": [
         {
             "type": 1,
-            "rating": 4
+            "rating": 1
         }
     ],
     "solution enterprises": [
@@ -69105,6 +69099,12 @@
             "rating": 2
         }
     ],
+    "starr international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "starr underwriting agents": [
         {
             "type": 5,
@@ -80399,12 +80399,6 @@
             "rating": 1
         }
     ],
-    "super care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "super chai": [
         {
             "type": 1,
@@ -81767,6 +81761,12 @@
             "rating": 1
         }
     ],
+    "surbiton hockey club enterprises": [
+        {
+            "type": 12,
+            "rating": 1
+        }
+    ],
     "surbiton new life baptist church": [
         {
             "type": 1,
@@ -81792,12 +81792,6 @@
         }
     ],
     "sure health": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sure healthcare & supported living": [
         {
             "type": 1,
             "rating": 1

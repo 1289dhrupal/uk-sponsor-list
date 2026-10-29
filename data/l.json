@@ -4065,6 +4065,12 @@
             "rating": 1
         }
     ],
+    "lancefield care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lancereal": [
         {
             "type": 1,
@@ -7398,16 +7404,6 @@
         }
     ],
     "lch brook": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "lch partners": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -23318,12 +23314,6 @@
         }
     ],
     "london perrotin": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "london pfc and sandwich bar": [
         {
             "type": 1,
             "rating": 1

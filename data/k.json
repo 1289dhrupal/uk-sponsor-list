@@ -6467,6 +6467,12 @@
             "rating": 1
         }
     ],
+    "kaya intelligence": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kaya traders": [
         {
             "type": 1,
@@ -23298,12 +23304,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kuzzy": [
         {
             "type": 1,
             "rating": 1

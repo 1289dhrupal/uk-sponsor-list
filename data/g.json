@@ -8015,19 +8015,13 @@
             "rating": 1
         }
     ],
-    "george on rye": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "george p johnson united kingdom": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12942,12 +12936,6 @@
         }
     ],
     "glenshee craft distillers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "glenshire brands 1": [
         {
             "type": 1,
             "rating": 1
@@ -22744,6 +22732,12 @@
         }
     ],
     "grant bradley charitable trust": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "grant digital": [
         {
             "type": 1,
             "rating": 1

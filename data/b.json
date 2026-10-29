@@ -11323,6 +11323,12 @@
             "rating": 1
         }
     ],
+    "beagle technology": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "beagrie leisure": [
         {
             "type": 1,
@@ -18420,6 +18426,12 @@
         }
     ],
     "better nature": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "better pick": [
         {
             "type": 1,
             "rating": 1
@@ -26577,13 +26589,13 @@
             "rating": 1
         }
     ],
-    "blenheim global": [
+    "blenheim high school": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "blenheim high school": [
+    "blenheim martlet": [
         {
             "type": 1,
             "rating": 1
@@ -28130,12 +28142,6 @@
         }
     ],
     "blue kent": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "blue inn": [
         {
             "type": 1,
             "rating": 1
@@ -30103,22 +30109,28 @@
             "rating": 1
         }
     ],
-    "bmw holdings": [
+    "bmv solicitors": [
         {
-            "type": 8,
-            "rating": 2
-        },
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bmw holdings": [
         {
             "type": 9,
             "rating": 2
         },
         {
-            "type": 12,
-            "rating": 1
+            "type": 8,
+            "rating": 2
         },
         {
             "type": 6,
             "rating": 2
+        },
+        {
+            "type": 12,
+            "rating": 1
         },
         {
             "type": 5,

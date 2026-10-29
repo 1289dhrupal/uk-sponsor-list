@@ -967,12 +967,6 @@
             "rating": 2
         }
     ],
-    "ucl business": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ucl consultants": [
         {
             "type": 1,
@@ -986,6 +980,12 @@
         }
     ],
     "ucl swift": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ucl ventures": [
         {
             "type": 1,
             "rating": 1

@@ -4075,6 +4075,12 @@
             "rating": 1
         }
     ],
+    "halo drive": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "halo media communications": [
         {
             "type": 1,
@@ -4594,12 +4600,6 @@
         }
     ],
     "hamlet hotels": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hamletlaundry": [
         {
             "type": 1,
             "rating": 1
@@ -5685,6 +5685,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "hanjin global logistics gb": [
+        {
+            "type": 3,
+            "rating": 3
         }
     ],
     "hank trading": [
@@ -7652,6 +7658,12 @@
         }
     ],
     "harlesden health": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "harlesden visionplus": [
         {
             "type": 1,
             "rating": 1
@@ -31202,6 +31214,12 @@
         }
     ],
     "hull pound plus": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hull search international": [
         {
             "type": 1,
             "rating": 1

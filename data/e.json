@@ -12395,12 +12395,6 @@
             "rating": 1
         }
     ],
-    "elev8 property management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "elevace": [
         {
             "type": 1,
@@ -17633,12 +17627,6 @@
             "rating": 1
         }
     ],
-    "enck buying": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "encocam": [
         {
             "type": 1,
@@ -19812,6 +19800,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "enquip software": [
         {
             "type": 1,
             "rating": 1
