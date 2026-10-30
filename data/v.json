@@ -5267,6 +5267,12 @@
             "rating": 1
         }
     ],
+    "velox logistics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "velstar": [
         {
             "type": 1,
@@ -15078,6 +15084,16 @@
         }
     ],
     "vsa trading": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vse aviation": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

@@ -283,6 +283,12 @@
             "rating": 1
         }
     ],
+    "lifestyle fitness": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "leicester speedway": [
         {
             "type": 12,
@@ -1736,12 +1742,6 @@
         }
     ],
     "la nonna food": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "la orange": [
         {
             "type": 1,
             "rating": 1
@@ -4588,6 +4588,12 @@
         }
     ],
     "lane physiotherapy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lane7": [
         {
             "type": 1,
             "rating": 1
@@ -16402,12 +16408,6 @@
     "lintz cricket club": [
         {
             "type": 12,
-            "rating": 1
-        }
-    ],
-    "linus technology": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],

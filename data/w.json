@@ -1967,6 +1967,12 @@
             "rating": 1
         }
     ],
+    "walham": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "walhampton school": [
         {
             "type": 10,
@@ -10458,6 +10464,12 @@
         }
     ],
     "westfield house care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "westfield lodge care": [
         {
             "type": 1,
             "rating": 1
@@ -19514,12 +19526,6 @@
         }
     ],
     "woodland kitchen and bedroom": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "woodland newsagent": [
         {
             "type": 1,
             "rating": 1

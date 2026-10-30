@@ -10557,12 +10557,6 @@
             "rating": 1
         }
     ],
-    "new golden inn": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "new gradient": [
         {
             "type": 1,
@@ -21677,12 +21671,6 @@
             "rating": 1
         }
     ],
-    "north weald general aviation": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "north west ambulance service nhs trust": [
         {
             "type": 1,
@@ -26764,6 +26752,12 @@
         }
     ],
     "nutrition": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "nutrition works": [
         {
             "type": 1,
             "rating": 1

@@ -17143,12 +17143,6 @@
             "rating": 2
         }
     ],
-    "thali & tandoor": [
-        {
-            "type": 1,
-            "rating": 4
-        }
-    ],
     "thali tray": [
         {
             "type": 1,
@@ -23113,6 +23107,12 @@
             "rating": 1
         }
     ],
+    "the cro agency": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the croft": [
         {
             "type": 1,
@@ -24879,12 +24879,6 @@
         {
             "type": 10,
             "rating": 2
-        }
-    ],
-    "the fbks": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "the federation of european biochemical societies": [
@@ -32705,12 +32699,6 @@
             "rating": 1
         }
     ],
-    "the old rectory care home bramshall": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the old rectory fradswell": [
         {
             "type": 1,
@@ -35331,20 +35319,6 @@
             "rating": 1
         }
     ],
-    "the redeemed assemblies trust": [
-        {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 10,
-            "rating": 2
-        },
-        {
-            "type": 11,
-            "rating": 2
-        }
-    ],
     "the redeemed assemblies trust love power centre": [
         {
             "type": 10,
@@ -37033,12 +37007,6 @@
             "rating": 1
         }
     ],
-    "the sefton homecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the sele school": [
         {
             "type": 1,
@@ -37438,12 +37406,6 @@
     "the slade evangelical church": [
         {
             "type": 2,
-            "rating": 1
-        }
-    ],
-    "the sleep medicine centre t/as the london sleep centre": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -46597,6 +46559,12 @@
             "rating": 1
         }
     ],
+    "tjm consultancy nw": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tjs online": [
         {
             "type": 1,
@@ -50057,12 +50025,6 @@
             "rating": 1
         }
     ],
-    "tori auto service": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tori": [
         {
             "type": 1,
@@ -51052,6 +51014,12 @@
         }
     ],
     "totty pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "totus care": [
         {
             "type": 1,
             "rating": 1
@@ -60167,6 +60135,16 @@
             "rating": 1
         }
     ],
+    "tundra technical solutions": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tungsten automation": [
         {
             "type": 1,
@@ -61810,7 +61788,7 @@
     "two fifty four": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "two hungry boys": [

@@ -8589,6 +8589,12 @@
             "rating": 1
         }
     ],
+    "mak power": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "mak stores": [
         {
             "type": 1,
@@ -31803,11 +31809,11 @@
     ],
     "micro agi": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -45543,6 +45549,12 @@
             "rating": 1
         }
     ],
+    "morris house practice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "morris leslie": [
         {
             "type": 1,
@@ -51531,6 +51543,12 @@
             "rating": 1
         }
     ],
+    "msk titan solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "msl": [
         {
             "type": 1,
@@ -53174,12 +53192,6 @@
         }
     ],
     "mulroy architects": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "multan business": [
         {
             "type": 1,
             "rating": 1
