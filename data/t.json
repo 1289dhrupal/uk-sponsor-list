@@ -4139,12 +4139,6 @@
             "rating": 1
         }
     ],
-    "t-gem healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "t-ilm": [
         {
             "type": 1,
@@ -9343,12 +9337,6 @@
             "rating": 1
         }
     ],
-    "tax advisory partnership": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tax assure accountants": [
         {
             "type": 1,
@@ -13195,12 +13183,6 @@
             "rating": 1
         }
     ],
-    "tejas software": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tejasv dent": [
         {
             "type": 1,
@@ -13368,12 +13350,6 @@
         }
     ],
     "teknow": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "tekrealm": [
         {
             "type": 1,
             "rating": 1
@@ -14638,12 +14614,6 @@
     "tendring deen education trust": [
         {
             "type": 2,
-            "rating": 1
-        }
-    ],
-    "tene living": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -20653,7 +20623,7 @@
             "rating": 1
         }
     ],
-    "the brokerage citylink": [
+    "the brokerage": [
         {
             "type": 1,
             "rating": 1
@@ -22355,18 +22325,6 @@
             "rating": 1
         }
     ],
-    "the college of health": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the mctimoney college of chiropractic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the college of optometrists": [
         {
             "type": 1,
@@ -23014,12 +22972,6 @@
         }
     ],
     "the covered wagon": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the cowplain school": [
         {
             "type": 1,
             "rating": 1
@@ -24705,12 +24657,6 @@
             "rating": 1
         }
     ],
-    "the excellency centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the exceptional education trust": [
         {
             "type": 1,
@@ -26293,12 +26239,6 @@
             "rating": 1
         }
     ],
-    "the good shepherd homecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the good shepherd trust": [
         {
             "type": 1,
@@ -27101,12 +27041,6 @@
             "rating": 1
         }
     ],
-    "the harvey practice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the haugh": [
         {
             "type": 1,
@@ -27126,12 +27060,6 @@
         }
     ],
     "the haven nursing home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the haven residential care home": [
         {
             "type": 1,
             "rating": 1
@@ -28221,14 +28149,20 @@
             "rating": 1
         }
     ],
-    "the institute of cancer research": [
+    "the institute and faculty of actuaries": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "the institute of cancer research": [
         {
             "type": 13,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "the institute of certified bookkeepers icb": [
@@ -30084,12 +30018,6 @@
         }
     ],
     "the london care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the london care project": [
         {
             "type": 1,
             "rating": 1
@@ -33309,16 +33237,16 @@
     ],
     "the pais project": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 10,
+            "rating": 2
         },
         {
             "type": 11,
             "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 2,
@@ -38039,12 +37967,6 @@
             "rating": 2
         }
     ],
-    "the stewart partnership": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the stickleback fish company": [
         {
             "type": 1,
@@ -38954,12 +38876,6 @@
         }
     ],
     "the two counties trust": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the tyre collective": [
         {
             "type": 1,
             "rating": 1
@@ -49213,12 +49129,6 @@
             "rating": 1
         }
     ],
-    "top mark cash & carry ni": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "top marks for security": [
         {
             "type": 1,
@@ -53339,16 +53249,6 @@
             "rating": 1
         }
     ],
-    "transfer rapid": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "transferforce": [
         {
             "type": 1,
@@ -54385,12 +54285,6 @@
             "rating": 1
         }
     ],
-    "travlin style": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "travtus": [
         {
             "type": 1,
@@ -54734,6 +54628,12 @@
     "tree of life ministries": [
         {
             "type": 2,
+            "rating": 1
+        }
+    ],
+    "treecell": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -55339,16 +55239,6 @@
             "rating": 1
         }
     ],
-    "tresmares direct lending": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "tresnet": [
         {
             "type": 1,
@@ -55402,6 +55292,12 @@
         }
     ],
     "trevor sorbie international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "trew contracts": [
         {
             "type": 1,
             "rating": 1
@@ -58275,12 +58171,6 @@
             "rating": 1
         }
     ],
-    "trussle lab": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "trust accountancy": [
         {
             "type": 1,
@@ -59646,7 +59536,7 @@
     "tudor lodge care home": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "tudor lodge health centre": [

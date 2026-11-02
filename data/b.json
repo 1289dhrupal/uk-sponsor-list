@@ -6121,12 +6121,12 @@
     ],
     "baptist mid-mission of the united kingdom of great britain and northern ireland": [
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "baptist missionary society": [
@@ -6435,16 +6435,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "barca-leeds": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 10,
-            "rating": 2
         }
     ],
     "barcant beardon": [
@@ -9409,12 +9399,6 @@
             "rating": 1
         }
     ],
-    "bay vets": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "baya dynamics": [
         {
             "type": 1,
@@ -10788,12 +10772,6 @@
         }
     ],
     "be amazed": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "be applied": [
         {
             "type": 1,
             "rating": 1
@@ -14218,6 +14196,12 @@
         }
     ],
     "bella freud": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bella interior": [
         {
             "type": 1,
             "rating": 1
@@ -20733,12 +20717,6 @@
             "rating": 1
         }
     ],
-    "big daddy s jordenthorpe": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "big data lake": [
         {
             "type": 1,
@@ -23493,12 +23471,6 @@
             "rating": 1
         }
     ],
-    "birribi": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "birstall cabs": [
         {
             "type": 1,
@@ -26157,12 +26129,6 @@
             "rating": 1
         }
     ],
-    "blakeney": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "blakesley convenience store": [
         {
             "type": 1,
@@ -27171,6 +27137,16 @@
             "rating": 1
         }
     ],
+    "bloom energy": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bloom fresh international": [
         {
             "type": 1,
@@ -27408,12 +27384,6 @@
         }
     ],
     "bloomscare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bloop ai": [
         {
             "type": 1,
             "rating": 1
@@ -31470,6 +31440,12 @@
         }
     ],
     "bolgiaten": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bolinda": [
         {
             "type": 1,
             "rating": 1
@@ -36231,12 +36207,6 @@
             "rating": 1
         }
     ],
-    "branch austin mccormick": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "branch cider": [
         {
             "type": 1,
@@ -38479,12 +38449,6 @@
             "rating": 1
         }
     ],
-    "bridge view medical": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bridge-it housing team": [
         {
             "type": 1,
@@ -38622,6 +38586,16 @@
     "bridgepoint alliance": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "bridgeporth": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -39532,12 +39506,6 @@
     "brighton and hove city mission": [
         {
             "type": 2,
-            "rating": 1
-        }
-    ],
-    "brighton and hove social welfare and educational trust": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -44055,20 +44023,14 @@
             "rating": 1
         }
     ],
-    "brunel pension partnership": [
+    "brunel university london": [
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "brunel university london": [
+        },
         {
             "type": 13,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "brunelcare": [
@@ -51636,12 +51598,6 @@
         }
     ],
     "burrito bull": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "better co": [
         {
             "type": 1,
             "rating": 1

@@ -2467,12 +2467,6 @@
             "rating": 1
         }
     ],
-    "walraven": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "walsall college": [
         {
             "type": 1,
@@ -12697,6 +12691,10 @@
     ],
     "whitebox advisors london": [
         {
+            "type": 5,
+            "rating": 1
+        },
+        {
             "type": 1,
             "rating": 1
         }
@@ -19513,12 +19511,6 @@
             "rating": 1
         }
     ],
-    "woodland": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "woodland initiative": [
         {
             "type": 1,
@@ -20292,12 +20284,6 @@
         }
     ],
     "worcester podiatry": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "worcester therapy": [
         {
             "type": 1,
             "rating": 1
@@ -21739,12 +21725,6 @@
             "rating": 1
         }
     ],
-    "worship jesus ministries": [
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
     "worsley golf club": [
         {
             "type": 1,
@@ -21786,12 +21766,6 @@
         }
     ],
     "worthing homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "worthing medical": [
         {
             "type": 1,
             "rating": 1

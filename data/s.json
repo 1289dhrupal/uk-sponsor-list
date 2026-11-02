@@ -11419,12 +11419,6 @@
             "rating": 1
         }
     ],
-    "samtax accountants": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "samtec it solutions": [
         {
             "type": 1,
@@ -12027,11 +12021,11 @@
     ],
     "sandbrook capital": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -13140,12 +13134,6 @@
         }
     ],
     "sans express": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sans frontieres associates": [
         {
             "type": 1,
             "rating": 1
@@ -16917,12 +16905,6 @@
             "rating": 1
         }
     ],
-    "sbhari": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sbi international": [
         {
             "type": 1,
@@ -20405,12 +20387,6 @@
             "rating": 2
         }
     ],
-    "seabrokers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "seabrook design": [
         {
             "type": 1,
@@ -20970,12 +20946,6 @@
             "type": 4,
             "rating": 2
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "seashore trade": [
         {
             "type": 1,
             "rating": 1
@@ -27865,12 +27835,6 @@
             "rating": 1
         }
     ],
-    "shakara hospitality": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shake a shake forestgate": [
         {
             "type": 1,
@@ -31435,12 +31399,6 @@
             "rating": 1
         }
     ],
-    "shift6 studios": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shiftlogic io": [
         {
             "type": 1,
@@ -33515,12 +33473,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "showtime entertainment": [
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "shozna rochester": [
@@ -36036,6 +35988,16 @@
         }
     ],
     "sievemk gateway": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sievo": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -43913,12 +43875,6 @@
             "rating": 1
         }
     ],
-    "sladen consulting": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "slalom consulting": [
         {
             "type": 1,
@@ -44612,12 +44568,6 @@
         }
     ],
     "slspec": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sludge tek": [
         {
             "type": 1,
             "rating": 1
@@ -45768,6 +45718,12 @@
         }
     ],
     "smart response media": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "smart safe": [
         {
             "type": 1,
             "rating": 1
@@ -50691,12 +50647,6 @@
             "rating": 1
         }
     ],
-    "solcom": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sold out sales & marketing": [
         {
             "type": 1,
@@ -52442,12 +52392,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sonosine": [
         {
             "type": 1,
             "rating": 1
@@ -56233,6 +56177,12 @@
             "rating": 1
         }
     ],
+    "spark tutoring": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "spark360": [
         {
             "type": 1,
@@ -57701,6 +57651,12 @@
             "rating": 1
         }
     ],
+    "speedzee logistics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "speirs and major": [
         {
             "type": 1,
@@ -59049,12 +59005,6 @@
             "rating": 1
         }
     ],
-    "spinal homecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "spinal technologies": [
         {
             "type": 1,
@@ -59889,16 +59839,6 @@
             "rating": 1
         }
     ],
-    "sporting insights": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "sporting knowledge solutions": [
         {
             "type": 1,
@@ -60630,18 +60570,6 @@
         }
     ],
     "springfield properties scotland": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "springfield residential home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "springfields residential home": [
         {
             "type": 1,
             "rating": 1
@@ -62133,6 +62061,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "sri jeya durga temple": [
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "sri kanaparthy": [
@@ -64205,12 +64139,6 @@
             "rating": 1
         }
     ],
-    "st bede s inter-church school": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "st bede s school": [
         {
             "type": 1,
@@ -64492,12 +64420,6 @@
         }
     ],
     "st cuthbert mayne": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "st cyprian s greek orthodox primary academy": [
         {
             "type": 1,
             "rating": 1
@@ -67962,12 +67884,6 @@
         }
     ],
     "stanwell road surgery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "stapely jewish care home": [
         {
             "type": 1,
             "rating": 1
@@ -80269,18 +80185,6 @@
             "rating": 1
         }
     ],
-    "suntharalingam uthayasooriyan": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "suri s store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "suntory europe": [
         {
             "type": 5,
@@ -81436,12 +81340,6 @@
         }
     ],
     "supporting care barking and dagenham": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "supporting care": [
         {
             "type": 1,
             "rating": 1
@@ -84729,12 +84627,6 @@
             "rating": 1
         }
     ],
-    "sweet homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sweet homes manufacturing": [
         {
             "type": 1,
@@ -87434,12 +87326,6 @@
         }
     ],
     "syringa": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "syrinix": [
         {
             "type": 1,
             "rating": 1

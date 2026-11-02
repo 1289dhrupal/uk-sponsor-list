@@ -1089,12 +1089,6 @@
             "rating": 1
         }
     ],
-    "c workshop": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "c wzrd": [
         {
             "type": 1,
@@ -4295,13 +4289,11 @@
             "rating": 1
         }
     ],
-    "calvary christian fellowship silksworth": [
-        {
-            "type": 10,
-            "rating": 2
-        }
-    ],
     "calvary deliverance ministries": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 2,
             "rating": 1
@@ -4309,10 +4301,6 @@
         {
             "type": 10,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "calvary faith chapel": [
@@ -6174,12 +6162,6 @@
         }
     ],
     "canary wharf": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "canaryford": [
         {
             "type": 1,
             "rating": 1
@@ -10865,6 +10847,12 @@
             "rating": 1
         }
     ],
+    "carepoint": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "carepoint365": [
         {
             "type": 1,
@@ -12774,12 +12762,6 @@
         }
     ],
     "carviews": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "carwood smith": [
         {
             "type": 1,
             "rating": 1
@@ -15601,12 +15583,6 @@
             "rating": 1
         }
     ],
-    "ccl technology solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ccl-forensics": [
         {
             "type": 1,
@@ -16352,12 +16328,6 @@
         }
     ],
     "ceg constructions & home improvements": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cegedim rx": [
         {
             "type": 1,
             "rating": 1
@@ -23247,12 +23217,6 @@
             "rating": 1
         }
     ],
-    "chekin": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "chel pharmacy": [
         {
             "type": 1,
@@ -23317,12 +23281,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "chelmsford county high school": [
-        {
-            "type": 10,
-            "rating": 2
         }
     ],
     "chelmsford cricket club": [
@@ -30169,12 +30127,6 @@
             "rating": 1
         }
     ],
-    "cinemersive labs": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cineon training": [
         {
             "type": 1,
@@ -33470,12 +33422,6 @@
         }
     ],
     "clarksfields flooring & furniture": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "clarkson and woods": [
         {
             "type": 1,
             "rating": 1
@@ -42075,12 +42021,6 @@
             "rating": 1
         }
     ],
-    "communitech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "communiteks": [
         {
             "type": 1,
@@ -42183,16 +42123,6 @@
         {
             "type": 11,
             "rating": 2
-        },
-        {
-            "type": 10,
-            "rating": 2
-        }
-    ],
-    "community church warndon": [
-        {
-            "type": 2,
-            "rating": 1
         },
         {
             "type": 10,
@@ -48237,12 +48167,6 @@
             "rating": 1
         }
     ],
-    "core communication": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "core consulting information technology": [
         {
             "type": 1,
@@ -50611,6 +50535,12 @@
             "rating": 1
         }
     ],
+    "counsel universe solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "count energy distribution": [
         {
             "type": 1,
@@ -51216,16 +51146,6 @@
     "covarius technology": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "covasant technologies private": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -52595,12 +52515,6 @@
             "rating": 1
         }
     ],
-    "craig green": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "craig hamilton architects": [
         {
             "type": 1,
@@ -52886,12 +52800,6 @@
         }
     ],
     "cranford medical centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cranford school": [
         {
             "type": 1,
             "rating": 1
@@ -53206,12 +53114,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "craze nw": [
         {
             "type": 1,
             "rating": 1
@@ -55149,19 +55051,13 @@
             "rating": 1
         }
     ],
-    "critchlow and associates": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "criteo": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -61275,12 +61171,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "cosimo": [
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "cedar court hotels": [

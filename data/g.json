@@ -2257,12 +2257,6 @@
             "rating": 1
         }
     ],
-    "gainsborough thoroughbreds": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gainsight": [
         {
             "type": 5,
@@ -3540,6 +3534,12 @@
         }
     ],
     "garcha transport heathrow": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "garcha transport": [
         {
             "type": 1,
             "rating": 1
@@ -5702,12 +5702,6 @@
         }
     ],
     "gdk ilford/ german doner kebab": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gdk international": [
         {
             "type": 1,
             "rating": 1
@@ -8200,18 +8194,6 @@
         }
     ],
     "georgians boston the": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "georgios billis": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gateway dental practice": [
         {
             "type": 1,
             "rating": 1
@@ -21909,12 +21891,6 @@
             "rating": 1
         }
     ],
-    "graham smith - musician": [
-        {
-            "type": 4,
-            "rating": 2
-        }
-    ],
     "graham tiso": [
         {
             "type": 1,
@@ -27645,6 +27621,12 @@
             "rating": 1
         }
     ],
+    "gropath education consulting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "groq": [
         {
             "type": 1,
@@ -30025,12 +30007,6 @@
             "rating": 1
         }
     ],
-    "gulf air b s c c": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gulf bahrain company": [
         {
             "type": 5,
@@ -30130,6 +30106,12 @@
             "type": 4,
             "rating": 2
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "gully howard technical": [
         {
             "type": 1,
             "rating": 1
@@ -31055,16 +31037,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "guru gobind singh gurdwara": [
-        {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 11,
-            "rating": 2
         }
     ],
     "guru gobind singh sikh temple": [

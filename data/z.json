@@ -1459,6 +1459,12 @@
             "rating": 1
         }
     ],
+    "zananet": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "zanders": [
         {
             "type": 5,
@@ -3875,11 +3881,11 @@
     ],
     "zhuzhou crrc times electric innovation center": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -4816,12 +4822,6 @@
         }
     ],
     "zoha logistics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "zoha london": [
         {
             "type": 1,
             "rating": 1
