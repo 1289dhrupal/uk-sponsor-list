@@ -35569,12 +35569,6 @@
             "rating": 1
         }
     ],
-    "alsadiq&sons logistics service": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "alsagar convenience": [
         {
             "type": 1,
@@ -47199,6 +47193,12 @@
             "rating": 1
         }
     ],
+    "apexia vip": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "apexight accounting service": [
         {
             "type": 1,
@@ -50722,6 +50722,12 @@
         }
     ],
     "arcadia care no 1": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "arcadia food industries": [
         {
             "type": 1,
             "rating": 1
@@ -67869,6 +67875,12 @@
             "rating": 1
         }
     ],
+    "avado pq": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "avakino": [
         {
             "type": 1,
@@ -71191,11 +71203,11 @@
     ],
     "ayes consulting": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

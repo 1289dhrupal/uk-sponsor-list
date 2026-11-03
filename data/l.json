@@ -3467,6 +3467,12 @@
             "rating": 1
         }
     ],
+    "laleham gap school": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lalia": [
         {
             "type": 1,
@@ -7553,13 +7559,19 @@
             "rating": 1
         }
     ],
+    "ldc": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ldf operations t/a white oak": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -10800,6 +10812,12 @@
         }
     ],
     "leoch battery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "leocrys care": [
         {
             "type": 1,
             "rating": 1
@@ -15590,6 +15608,12 @@
         }
     ],
     "lindum": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "lindus health cro": [
         {
             "type": 1,
             "rating": 1

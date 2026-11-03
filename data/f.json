@@ -2159,6 +2159,12 @@
             "rating": 1
         }
     ],
+    "fairfield park health centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fairfield plumbing and heating": [
         {
             "type": 1,
@@ -7321,6 +7327,12 @@
             "rating": 1
         }
     ],
+    "fenton + reece": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fenton holloway": [
         {
             "type": 1,
@@ -8208,6 +8220,10 @@
         }
     ],
     "fiable technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 3,
             "rating": 3
@@ -13375,16 +13391,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "fkp scorpio": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "fks clinic": [

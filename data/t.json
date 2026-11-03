@@ -14039,25 +14039,13 @@
             "rating": 1
         }
     ],
-    "teme care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "teme court residential care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "temenos": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -17082,12 +17070,6 @@
         }
     ],
     "thakur-chabert": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "thalasic": [
         {
             "type": 1,
             "rating": 1
@@ -23878,6 +23860,12 @@
         }
     ],
     "the dow surgery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the downland bedding company": [
         {
             "type": 1,
             "rating": 1
@@ -36725,12 +36713,6 @@
             "rating": 1
         }
     ],
-    "the samsons": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the san francisco ai factory": [
         {
             "type": 1,
@@ -40702,12 +40684,6 @@
         }
     ],
     "the zen master": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the-bunch": [
         {
             "type": 1,
             "rating": 1
@@ -50739,22 +50715,22 @@
     ],
     "totalenergies e&p": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "totalenergies gas and power": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -51404,12 +51380,6 @@
         }
     ],
     "towertrend": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "towerview care": [
         {
             "type": 1,
             "rating": 1
@@ -58439,6 +58409,12 @@
             "rating": 1
         }
     ],
+    "trustpro consulting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "trustus care": [
         {
             "type": 1,
@@ -59629,13 +59605,19 @@
             "rating": 2
         }
     ],
-    "tufin software europe": [
+    "tuffx processed glass": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "tufin software europe": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -59826,12 +59808,6 @@
         }
     ],
     "tulip management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "tulip mental health and community care": [
         {
             "type": 1,
             "rating": 1

@@ -2987,11 +2987,11 @@
     ],
     "zennar": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -5522,6 +5522,12 @@
         }
     ],
     "zudiioclub": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "zudu": [
         {
             "type": 1,
             "rating": 1

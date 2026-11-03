@@ -2729,6 +2729,10 @@
         {
             "type": 3,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "ocean partners": [
@@ -14278,6 +14282,12 @@
         }
     ],
     "oshino lamps": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "oshkosh aerotech": [
         {
             "type": 1,
             "rating": 1

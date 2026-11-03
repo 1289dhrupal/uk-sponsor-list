@@ -3335,6 +3335,12 @@
             "rating": 1
         }
     ],
+    "pak builder construction": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pak building": [
         {
             "type": 1,
@@ -15944,7 +15950,7 @@
     "petrofast metal & alloys 16556856": [
         {
             "type": 3,
-            "rating": 3
+            "rating": 1
         }
     ],
     "petroff": [
@@ -15961,11 +15967,11 @@
     ],
     "petrogas north sea": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23555,6 +23561,12 @@
             "rating": 1
         }
     ],
+    "plasmapen": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "plasmic healthsciences": [
         {
             "type": 1,
@@ -24870,6 +24882,12 @@
         }
     ],
     "plus tenders": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "plus value advisory": [
         {
             "type": 1,
             "rating": 1
@@ -29718,12 +29736,6 @@
         }
     ],
     "prablin stores": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pracedo": [
         {
             "type": 1,
             "rating": 1
@@ -41368,6 +41380,12 @@
         }
     ],
     "purcell architecture": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "purdex": [
         {
             "type": 1,
             "rating": 1

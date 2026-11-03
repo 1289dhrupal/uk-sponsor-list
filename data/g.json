@@ -10307,6 +10307,12 @@
             "rating": 1
         }
     ],
+    "gilead homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gilead sciences europe": [
         {
             "type": 1,
@@ -18904,12 +18910,6 @@
         }
     ],
     "goldstar cabs": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "goldstar care": [
         {
             "type": 1,
             "rating": 1
@@ -30804,12 +30804,6 @@
         }
     ],
     "gurkha embassy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gurkha express": [
         {
             "type": 1,
             "rating": 1

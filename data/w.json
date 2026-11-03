@@ -3603,12 +3603,6 @@
             "rating": 1
         }
     ],
-    "warrington and halton hospitals nhs foundation trust": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "warrington borough council": [
         {
             "type": 1,
@@ -6542,6 +6536,12 @@
         }
     ],
     "weber & associates": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "weber industries": [
         {
             "type": 1,
             "rating": 1
@@ -13362,6 +13362,12 @@
         }
     ],
     "whs c s": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "whs central": [
         {
             "type": 1,
             "rating": 1
