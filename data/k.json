@@ -3393,12 +3393,6 @@
             "rating": 1
         }
     ],
-    "kamakura 2 sushi and ramen": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kamakura restaurant carrick ni": [
         {
             "type": 1,
@@ -3790,6 +3784,12 @@
         }
     ],
     "ksg fast food": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kanagawa sushi and ramen": [
         {
             "type": 1,
             "rating": 1
@@ -4758,7 +4758,7 @@
     "karelink": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "karen anne jamieson": [
@@ -10254,7 +10254,7 @@
     "kettonby care": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "ketumati buddhist vihara trust": [
@@ -22678,12 +22678,6 @@
         }
     ],
     "kukavannan kanagarasa": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kukd com": [
         {
             "type": 1,
             "rating": 1

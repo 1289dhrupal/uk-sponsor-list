@@ -555,12 +555,6 @@
             "rating": 1
         }
     ],
-    "the boogaloo": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the new bengal": [
         {
             "type": 1,
@@ -4845,6 +4839,12 @@
             "rating": 1
         }
     ],
+    "tacp": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tacs count": [
         {
             "type": 1,
@@ -8023,18 +8023,6 @@
             "rating": 1
         }
     ],
-    "tarleton service station": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "tarleton station": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tarlingwell": [
         {
             "type": 1,
@@ -10152,12 +10140,6 @@
     "tbs london tokyo broadcasting system": [
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "tbss care": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -15481,14 +15463,20 @@
             "rating": 1
         }
     ],
-    "tes-amm": [
+    "tes water": [
         {
-            "type": 8,
-            "rating": 2
-        },
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tes-amm": [
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "tesco personal finance": [
@@ -45573,12 +45561,6 @@
             "rating": 1
         }
     ],
-    "timor enterprises": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "timothy hatton architects": [
         {
             "type": 1,
@@ -55851,12 +55833,6 @@
             "rating": 1
         }
     ],
-    "trilogy writing and consulting": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "trilokya": [
         {
             "type": 1,
@@ -59032,12 +59008,6 @@
         }
     ],
     "tsunami axis": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "tsur": [
         {
             "type": 1,
             "rating": 1

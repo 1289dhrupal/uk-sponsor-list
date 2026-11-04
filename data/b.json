@@ -3367,11 +3367,11 @@
     ],
     "baker tilly international": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -3699,19 +3699,13 @@
             "rating": 1
         }
     ],
-    "balanceher": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "balanz capital": [
         {
-            "type": 1,
+            "type": 12,
             "rating": 1
         },
         {
-            "type": 12,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15028,12 +15022,6 @@
         }
     ],
     "benar dermatology": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "benbulben enterprises": [
         {
             "type": 1,
             "rating": 1
@@ -34863,6 +34851,12 @@
             "rating": 1
         }
     ],
+    "bp beverley west service station": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bp carpets and flooring": [
         {
             "type": 1,
@@ -38020,12 +38014,6 @@
         }
     ],
     "brickfield store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "brickfields dental care": [
         {
             "type": 1,
             "rating": 1
@@ -51213,6 +51201,12 @@
             "rating": 1
         }
     ],
+    "bathgate mosque": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "bridge end food and wine": [
         {
             "type": 1,
@@ -51764,6 +51758,12 @@
         }
     ],
     "black": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "barton brook care home": [
         {
             "type": 1,
             "rating": 1

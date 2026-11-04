@@ -5741,12 +5741,6 @@
             "rating": 1
         }
     ],
-    "eco power business": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "eco property development global": [
         {
             "type": 1,
@@ -10438,6 +10432,12 @@
         }
     ],
     "ek & g enterprise": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "ek catering": [
         {
             "type": 1,
             "rating": 1

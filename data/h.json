@@ -4155,6 +4155,12 @@
             "rating": 1
         }
     ],
+    "halton view road stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "halwill manor nursing home": [
         {
             "type": 1,
@@ -20677,6 +20683,16 @@
             "rating": 1
         }
     ],
+    "hilton grand vacations europe": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hilton house essex": [
         {
             "type": 1,
@@ -23549,14 +23565,20 @@
             "rating": 1
         }
     ],
-    "hogan lovells international": [
+    "hofseth": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "hogan lovells international": [
         {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -29057,6 +29079,12 @@
             "rating": 1
         }
     ],
+    "howard roth": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "howard sanderson gardening": [
         {
             "type": 1,
@@ -34108,12 +34136,6 @@
         }
     ],
     "himalayan dine": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "heritage healthcare cardiff": [
         {
             "type": 1,
             "rating": 1

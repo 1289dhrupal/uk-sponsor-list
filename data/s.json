@@ -717,12 +717,6 @@
             "rating": 1
         }
     ],
-    "spar crumpsall": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "saffron indian diner": [
         {
             "type": 1,
@@ -14257,6 +14251,12 @@
             "rating": 1
         }
     ],
+    "sarajia islamic studies and community centre": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "saram hotels droitwich tas st andrews town hotel": [
         {
             "type": 1,
@@ -18649,11 +18649,11 @@
     ],
     "scm": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22553,6 +22553,12 @@
             "rating": 1
         }
     ],
+    "sekhon brother": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sekhon building": [
         {
             "type": 1,
@@ -24919,18 +24925,24 @@
             "rating": 1
         }
     ],
+    "servac": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "servant trust": [
         {
             "type": 10,
             "rating": 2
         },
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "servants of the word": [
@@ -24939,12 +24951,12 @@
             "rating": 2
         },
         {
-            "type": 11,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "servatech": [
@@ -36515,6 +36527,12 @@
             "rating": 1
         }
     ],
+    "signature law": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "signature leisure": [
         {
             "type": 1,
@@ -46101,7 +46119,7 @@
             "rating": 1
         }
     ],
-    "smartbots incltd": [
+    "smartbots": [
         {
             "type": 1,
             "rating": 1
@@ -51438,6 +51456,12 @@
         }
     ],
     "solutions in service": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "solutions makers": [
         {
             "type": 1,
             "rating": 1
@@ -58826,12 +58850,6 @@
         }
     ],
     "spicy hut": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "spicy hyderabad": [
         {
             "type": 1,
             "rating": 1
@@ -78924,12 +78942,6 @@
         }
     ],
     "sunbim": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sunbird care": [
         {
             "type": 1,
             "rating": 1

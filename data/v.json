@@ -9759,6 +9759,16 @@
             "rating": 1
         }
     ],
+    "vinarchy": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
+        }
+    ],
     "vinayak pharma": [
         {
             "type": 1,
@@ -10190,12 +10200,6 @@
         }
     ],
     "vintage tea & coffee co": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "vintage tea emporium": [
         {
             "type": 1,
             "rating": 1
@@ -11406,6 +11410,12 @@
         }
     ],
     "vision norfolk": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vision old field equipment": [
         {
             "type": 1,
             "rating": 1
@@ -15718,6 +15728,12 @@
         }
     ],
     "vypr validation technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vyrsa logic": [
         {
             "type": 1,
             "rating": 1

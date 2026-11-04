@@ -10623,6 +10623,12 @@
             "rating": 1
         }
     ],
+    "new herblife": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "new heritage": [
         {
             "type": 1,
@@ -15227,12 +15233,6 @@
             "rating": 1
         }
     ],
-    "nhs frimley icb": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "nhs grampian": [
         {
             "type": 1,
@@ -17726,6 +17726,12 @@
         }
     ],
     "nishi sushi": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "nishi s": [
         {
             "type": 1,
             "rating": 1
@@ -23806,6 +23812,10 @@
         }
     ],
     "notts pharma": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

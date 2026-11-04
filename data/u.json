@@ -479,6 +479,12 @@
             "rating": 1
         }
     ],
+    "u k carline": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "u k massala mix": [
         {
             "type": 1,
@@ -1032,6 +1038,12 @@
         }
     ],
     "ucss": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "uctel": [
         {
             "type": 1,
             "rating": 1
@@ -4640,6 +4652,10 @@
         }
     ],
     "united autosports": [
+        {
+            "type": 12,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
