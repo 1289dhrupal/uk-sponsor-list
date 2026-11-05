@@ -1173,16 +1173,6 @@
             "rating": 1
         }
     ],
-    "iaaas": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 3,
-            "rating": 1
-        }
-    ],
     "iac accountants": [
         {
             "type": 1,
@@ -10412,12 +10402,6 @@
         }
     ],
     "infiniti building": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "infiniti care": [
         {
             "type": 1,
             "rating": 1

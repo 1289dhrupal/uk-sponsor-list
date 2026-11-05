@@ -2733,6 +2733,12 @@
             "rating": 1
         }
     ],
+    "lagree fitness": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lahore cafe bar manchester": [
         {
             "type": 1,
@@ -11602,12 +11608,6 @@
         }
     ],
     "levantine express": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "levantine n": [
         {
             "type": 1,
             "rating": 1
@@ -27152,13 +27152,13 @@
     "lrch": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "leighswood": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "lrf": [

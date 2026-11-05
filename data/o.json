@@ -1537,6 +1537,12 @@
             "rating": 1
         }
     ],
+    "oakridge park medical centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "oaks asset management": [
         {
             "type": 1,
@@ -1644,6 +1650,12 @@
         }
     ],
     "oakview care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "oakview medical practice 85403": [
         {
             "type": 1,
             "rating": 1
@@ -12811,12 +12823,6 @@
             "rating": 1
         }
     ],
-    "oriental 8": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oriental bu trading": [
         {
             "type": 1,
@@ -16976,12 +16982,6 @@
     "oxford stadium": [
         {
             "type": 12,
-            "rating": 1
-        }
-    ],
-    "oxford summer courses": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],

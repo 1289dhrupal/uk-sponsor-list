@@ -7983,12 +7983,6 @@
             "rating": 1
         }
     ],
-    "ffy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fg auto solutions": [
         {
             "type": 1,
@@ -10988,6 +10982,12 @@
         }
     ],
     "fireproof studios": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "firescue": [
         {
             "type": 1,
             "rating": 1
@@ -23440,12 +23440,6 @@
         }
     ],
     "fresnillo management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "freston analytics": [
         {
             "type": 1,
             "rating": 1

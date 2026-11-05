@@ -367,12 +367,6 @@
             "rating": 1
         }
     ],
-    "king s dinner": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "kingsbury": [
         {
             "type": 1,
@@ -9329,6 +9323,12 @@
             "rating": 1
         }
     ],
+    "kent othodox monastery": [
+        {
+            "type": 10,
+            "rating": 2
+        }
+    ],
     "kent pharma": [
         {
             "type": 1,
@@ -13340,6 +13340,12 @@
     "kindred united ocean development culture": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "kindt clinics": [
+        {
+            "type": 5,
             "rating": 1
         }
     ],
