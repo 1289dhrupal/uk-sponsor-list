@@ -31479,6 +31479,12 @@
             "rating": 1
         }
     ],
+    "city house platform": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "city hygiene": [
         {
             "type": 1,
@@ -59925,11 +59931,11 @@
     ],
     "cvc advisers": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

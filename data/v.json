@@ -7957,6 +7957,12 @@
             "rating": 1
         }
     ],
+    "vibe church": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "vibe jewellery": [
         {
             "type": 1,
@@ -14584,6 +14590,12 @@
         }
     ],
     "vow jewellery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vows and dine": [
         {
             "type": 1,
             "rating": 1

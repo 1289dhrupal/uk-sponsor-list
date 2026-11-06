@@ -2897,6 +2897,12 @@
             "rating": 1
         }
     ],
+    "m&m assist": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "m&m bowness": [
         {
             "type": 1,
@@ -16847,12 +16853,6 @@
             "rating": 1
         }
     ],
-    "masala bazaar smethwick": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "masala bazaar swansea": [
         {
             "type": 1,
@@ -19840,12 +19840,6 @@
         }
     ],
     "maya cuisine": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "maya cuisine wiltshire": [
         {
             "type": 1,
             "rating": 1
@@ -27597,16 +27591,6 @@
             "rating": 1
         }
     ],
-    "mercy corps europe": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "mercy food wine": [
         {
             "type": 1,
@@ -34312,12 +34296,6 @@
         }
     ],
     "millennium mini market": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "millennium staffing": [
         {
             "type": 1,
             "rating": 1
@@ -52257,6 +52235,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "mtw28002": [
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "mtx consulting": [

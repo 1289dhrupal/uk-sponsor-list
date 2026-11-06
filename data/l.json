@@ -7185,6 +7185,12 @@
             "rating": 1
         }
     ],
+    "laystall engineering company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "layton medical centre": [
         {
             "type": 1,
@@ -18251,6 +18257,12 @@
             "rating": 1
         }
     ],
+    "lively minds": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "livemore capital": [
         {
             "type": 1,
@@ -24561,18 +24573,6 @@
             "rating": 1
         }
     ],
-    "longdale fuel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "longdale service station esso": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "longdays derby": [
         {
             "type": 1,
@@ -29330,6 +29330,12 @@
             "type": 11,
             "rating": 2
         },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
+    "luton islamic community forum": [
         {
             "type": 2,
             "rating": 1
