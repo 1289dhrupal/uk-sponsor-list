@@ -2375,12 +2375,6 @@
             "rating": 1
         }
     ],
-    "caerus lifecare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "caerwylan hotel": [
         {
             "type": 1,
@@ -4843,6 +4837,12 @@
             "rating": 1
         }
     ],
+    "cambridge female founders network cic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cambridge finance": [
         {
             "type": 1,
@@ -6129,11 +6129,11 @@
     ],
     "canalys com": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8251,6 +8251,12 @@
             "rating": 1
         }
     ],
+    "car care plan": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "car clinic wembley t/as car clinic": [
         {
             "type": 1,
@@ -10312,12 +10318,6 @@
         }
     ],
     "care world wide": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "care worldwide bexhill": [
         {
             "type": 1,
             "rating": 1
@@ -17949,16 +17949,6 @@
             "rating": 1
         }
     ],
-    "centralnic": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "centralock": [
         {
             "type": 1,
@@ -18032,6 +18022,16 @@
         }
     ],
     "centre for education-": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "centre for effective altruism": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -23627,6 +23627,12 @@
             "rating": 1
         }
     ],
+    "chemexell": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "chemical business association": [
         {
             "type": 1,
@@ -24024,6 +24030,12 @@
         }
     ],
     "cherre residential care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cherry & white": [
         {
             "type": 1,
             "rating": 1
@@ -25376,12 +25388,6 @@
         }
     ],
     "child & child solicitors": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "child connect": [
         {
             "type": 1,
             "rating": 1
@@ -31885,20 +31891,14 @@
             "rating": 1
         }
     ],
-    "city spice restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "city st george s university of london": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 13,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "city store": [
@@ -32845,12 +32845,6 @@
             "rating": 2
         }
     ],
-    "clare mathias": [
-        {
-            "type": 12,
-            "rating": 1
-        }
-    ],
     "claredonlocal retail": [
         {
             "type": 1,
@@ -33454,6 +33448,12 @@
         }
     ],
     "clartes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "clarus global capital": [
         {
             "type": 1,
             "rating": 1
@@ -38264,12 +38264,6 @@
         }
     ],
     "coba holdings": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "coba international": [
         {
             "type": 1,
             "rating": 1
@@ -43983,11 +43977,11 @@
     ],
     "concord": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -47957,12 +47951,6 @@
             "rating": 1
         }
     ],
-    "corbett medical practice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "corbin & hassan": [
         {
             "type": 1,
@@ -48618,12 +48606,6 @@
         }
     ],
     "cornelius vermuyden school": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cornelsen": [
         {
             "type": 1,
             "rating": 1
@@ -55048,12 +55030,6 @@
         }
     ],
     "cristina s care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cristofoli international": [
         {
             "type": 1,
             "rating": 1

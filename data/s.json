@@ -191,12 +191,6 @@
             "rating": 1
         }
     ],
-    "star anise restaurant & bar": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "skybreak": [
         {
             "type": 1,
@@ -4507,6 +4501,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
         }
     ],
     "s c s hotline": [
@@ -6896,12 +6894,6 @@
         }
     ],
     "saffron indian restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "saffron indian takeaway": [
         {
             "type": 1,
             "rating": 1
@@ -9325,12 +9317,6 @@
             "rating": 1
         }
     ],
-    "salad corporation": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "saladishy": [
         {
             "type": 1,
@@ -10610,12 +10596,6 @@
         }
     ],
     "samarkand london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "samary care": [
         {
             "type": 1,
             "rating": 1
@@ -16305,12 +16285,6 @@
             "rating": 1
         }
     ],
-    "saxon cross surgery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "saxon eleven": [
         {
             "type": 1,
@@ -16488,12 +16462,6 @@
         }
     ],
     "sayer vincent": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sayers butterworth": [
         {
             "type": 1,
             "rating": 1
@@ -17993,12 +17961,6 @@
             "rating": 1
         }
     ],
-    "schoen clinic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "schoeni presents": [
         {
             "type": 1,
@@ -18504,12 +18466,6 @@
         }
     ],
     "scientific infra & private assets": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "scientific laboratory supplies": [
         {
             "type": 1,
             "rating": 1
@@ -20972,6 +20928,12 @@
         }
     ],
     "season 25": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "season cookshop": [
         {
             "type": 1,
             "rating": 1
@@ -42677,6 +42639,12 @@
             "rating": 1
         }
     ],
+    "skk convenience": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "skk convenience store": [
         {
             "type": 1,
@@ -47597,6 +47565,10 @@
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "smokemeats": [
@@ -49443,16 +49415,6 @@
             "rating": 1
         }
     ],
-    "society of the sacred mission europe": [
-        {
-            "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
     "society restaurant": [
         {
             "type": 1,
@@ -49988,12 +49950,6 @@
         }
     ],
     "softwire technology": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "softworks": [
         {
             "type": 1,
             "rating": 1
@@ -51048,12 +51004,6 @@
         }
     ],
     "solihull osteopathic practice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "solihull school": [
         {
             "type": 1,
             "rating": 1
@@ -55268,12 +55218,6 @@
         }
     ],
     "soventix gmbh": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sovereign ai operations": [
         {
             "type": 1,
             "rating": 1
@@ -75855,12 +75799,6 @@
             "rating": 1
         }
     ],
-    "studio map": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "studio miko": [
         {
             "type": 1,
@@ -77368,12 +77306,6 @@
         }
     ],
     "suffolk primary care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "suffolk serenity living": [
         {
             "type": 1,
             "rating": 1
@@ -80385,6 +80317,12 @@
             "rating": 1
         }
     ],
+    "super discount stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "super eagle development": [
         {
             "type": 1,
@@ -81943,11 +81881,11 @@
     ],
     "surfaceprep": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

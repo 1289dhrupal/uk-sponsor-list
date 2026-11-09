@@ -1995,12 +1995,6 @@
             "rating": 1
         }
     ],
-    "valley church": [
-        {
-            "type": 11,
-            "rating": 2
-        }
-    ],
     "valley dental practice": [
         {
             "type": 1,
@@ -4673,6 +4667,12 @@
             "rating": 1
         }
     ],
+    "vedic voyages": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "vedspiration": [
         {
             "type": 1,
@@ -6859,11 +6859,11 @@
     ],
     "vertex fm": [
         {
-            "type": 7,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 7,
             "rating": 1
         }
     ],
@@ -8873,11 +8873,11 @@
     ],
     "videojet technologies": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -12521,6 +12521,12 @@
             "rating": 2
         }
     ],
+    "vittoria and partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "viva city technologies": [
         {
             "type": 1,
@@ -12962,6 +12968,12 @@
         }
     ],
     "vizst technology": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vj assets": [
         {
             "type": 1,
             "rating": 1

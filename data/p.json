@@ -3049,6 +3049,12 @@
             "rating": 1
         }
     ],
+    "padiham cricket club": [
+        {
+            "type": 12,
+            "rating": 1
+        }
+    ],
     "padiham practice": [
         {
             "type": 1,
@@ -5171,19 +5177,13 @@
             "rating": 1
         }
     ],
-    "pantheon partners": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "pantheon platform": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7380,12 +7380,6 @@
         }
     ],
     "parkview general store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "parkview gloucester": [
         {
             "type": 1,
             "rating": 1
@@ -12254,12 +12248,6 @@
         }
     ],
     "peli biothermal": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pelican architecture and design": [
         {
             "type": 1,
             "rating": 1
@@ -24007,12 +23995,6 @@
             "rating": 1
         }
     ],
-    "play & learn nursery and pre-school": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "play and learn day nursery": [
         {
             "type": 1,
@@ -26024,20 +26006,6 @@
         }
     ],
     "polefield nursing home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "polen capital": [
-        {
-            "type": 8,
-            "rating": 2
-        },
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -41512,6 +41480,12 @@
         }
     ],
     "pure dental surgery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "pure design pdg": [
         {
             "type": 1,
             "rating": 1

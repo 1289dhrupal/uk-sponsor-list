@@ -233,12 +233,6 @@
             "rating": 1
         }
     ],
-    "the corner london city": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the merchants of spice": [
         {
             "type": 1,
@@ -573,12 +567,6 @@
             "rating": 1
         }
     ],
-    "the auction house": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "turves convenience": [
         {
             "type": 1,
@@ -776,6 +764,12 @@
         }
     ],
     "the bayleaf": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the pharmacy at mayfair & clinic": [
         {
             "type": 1,
             "rating": 1
@@ -3497,12 +3491,6 @@
             "rating": 1
         }
     ],
-    "t a baxter": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "t a packaging": [
         {
             "type": 1,
@@ -4156,6 +4144,12 @@
         }
     ],
     "t-w-m associates": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "t a colbourne projects": [
         {
             "type": 1,
             "rating": 1
@@ -10803,6 +10797,16 @@
             "rating": 1
         }
     ],
+    "team internet": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "team itz 2": [
         {
             "type": 1,
@@ -14034,12 +14038,6 @@
         }
     ],
     "temp37 healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "tempcare personnel": [
         {
             "type": 1,
             "rating": 1
@@ -18721,12 +18719,6 @@
             "rating": 1
         }
     ],
-    "the ashdown hub": [
-        {
-            "type": 10,
-            "rating": 2
-        }
-    ],
     "the ashton care home": [
         {
             "type": 1,
@@ -19861,12 +19853,6 @@
             "rating": 1
         }
     ],
-    "the bishop of lincoln": [
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
     "the bishop wand church of england school": [
         {
             "type": 1,
@@ -19968,6 +19954,12 @@
         }
     ],
     "the blues cafe bar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the blues kitchen manchester": [
         {
             "type": 1,
             "rating": 1
@@ -23096,12 +23088,6 @@
         }
     ],
     "the crown hotel bawtry": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the crown medical centre": [
         {
             "type": 1,
             "rating": 1
@@ -27075,16 +27061,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "the health and social care alliance scotland": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 10,
-            "rating": 2
         }
     ],
     "the health grain": [
@@ -41305,10 +41281,6 @@
         {
             "type": 1,
             "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
         }
     ],
     "thermserve": [
@@ -42727,12 +42699,6 @@
             "rating": 1
         }
     ],
-    "thornhill health care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "thornhill legal": [
         {
             "type": 1,
@@ -43164,12 +43130,6 @@
         }
     ],
     "the viking fish bar": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "three angel health care": [
         {
             "type": 1,
             "rating": 1
@@ -56223,12 +56183,6 @@
             "rating": 1
         }
     ],
-    "trinity grain": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "trinity grand investment management": [
         {
             "type": 1,
@@ -59740,12 +59694,6 @@
         }
     ],
     "tulip management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "tulip warbrook house hotel opco": [
         {
             "type": 1,
             "rating": 1

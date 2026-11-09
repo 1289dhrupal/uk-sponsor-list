@@ -1415,12 +1415,6 @@
             "rating": 1
         }
     ],
-    "k&n stables": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "k&r accountants": [
         {
             "type": 1,
@@ -4212,12 +4206,6 @@
         }
     ],
     "kantar advisory partners": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kantar media audiences": [
         {
             "type": 1,
             "rating": 1
@@ -11301,20 +11289,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "khalsa centre": [
-        {
-            "type": 10,
-            "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
-        },
-        {
-            "type": 11,
-            "rating": 2
         }
     ],
     "khalsa darbar gurdwara sarbat da bhala derby": [
@@ -19864,6 +19838,12 @@
         }
     ],
     "korean zip": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "korecyte bio": [
         {
             "type": 1,
             "rating": 1

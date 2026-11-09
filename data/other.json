@@ -3453,6 +3453,12 @@
             "rating": 1
         }
     ],
+    "4-rail": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "4-site power & fibre networks": [
         {
             "type": 1,
@@ -5101,11 +5107,11 @@
     ],
     "98 land and house company": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

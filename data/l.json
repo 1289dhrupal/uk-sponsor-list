@@ -2389,12 +2389,6 @@
             "rating": 1
         }
     ],
-    "lacuna consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lacuna solutions": [
         {
             "type": 1,
@@ -10233,12 +10227,6 @@
             "rating": 1
         }
     ],
-    "leiston dental care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "leiston newsagent": [
         {
             "type": 1,
@@ -17071,6 +17059,16 @@
             "rating": 1
         }
     ],
+    "litran": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "little & large inns": [
         {
             "type": 1,
@@ -17132,6 +17130,12 @@
         }
     ],
     "little angels nursery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "little angels schoolhouse london management": [
         {
             "type": 1,
             "rating": 1
@@ -18362,12 +18366,6 @@
         },
         {
             "type": 2,
-            "rating": 1
-        }
-    ],
-    "liverpool chirochem": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -26961,6 +26959,12 @@
             "rating": 1
         }
     ],
+    "lp sd fifty five": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "lp sd one hundred seven": [
         {
             "type": 1,
@@ -28649,11 +28653,11 @@
     ],
     "luminal": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
