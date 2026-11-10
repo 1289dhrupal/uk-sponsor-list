@@ -22471,12 +22471,6 @@
             "rating": 1
         }
     ],
-    "the compleat food holdings": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the complete works alternative education": [
         {
             "type": 1,
@@ -23699,6 +23693,12 @@
         {
             "type": 10,
             "rating": 2
+        }
+    ],
+    "the do good charity": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "the doctors house": [
@@ -37149,12 +37149,6 @@
             "rating": 2
         }
     ],
-    "the simple pharma company": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the simulator company": [
         {
             "type": 1,
@@ -42068,12 +42062,6 @@
         }
     ],
     "thistle dental care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "thistle dental lab": [
         {
             "type": 1,
             "rating": 1
@@ -56458,6 +56446,16 @@
         }
     ],
     "trintuk": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "trio advisory": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1

@@ -363,6 +363,12 @@
             "rating": 1
         }
     ],
+    "stirlight": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "salford curry king": [
         {
             "type": 1,
@@ -1666,6 +1672,12 @@
         }
     ],
     "sincere immigration": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "swindon road express": [
         {
             "type": 1,
             "rating": 1
@@ -3024,12 +3036,6 @@
         }
     ],
     "s and j brothers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "s and j drinks": [
         {
             "type": 1,
             "rating": 1
@@ -8088,7 +8094,7 @@
     "sai hara": [
         {
             "type": 1,
-            "rating": 4
+            "rating": 1
         }
     ],
     "sai hospitality": [
@@ -8584,12 +8590,6 @@
     "saint john jacob": [
         {
             "type": 2,
-            "rating": 1
-        }
-    ],
-    "saint john of god hospitaller": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -22971,6 +22971,12 @@
             "rating": 1
         }
     ],
+    "sella c studio": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sella controls": [
         {
             "type": 5,
@@ -28515,12 +28521,6 @@
             "rating": 1
         }
     ],
-    "shankar leicester": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shankar tech": [
         {
             "type": 1,
@@ -31460,6 +31460,12 @@
         }
     ],
     "shiloh restaurant": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "shiloz": [
         {
             "type": 1,
             "rating": 1
@@ -36289,6 +36295,12 @@
             "rating": 1
         }
     ],
+    "sigmatic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sigmus": [
         {
             "type": 1,
@@ -39222,7 +39234,7 @@
     "sindherfoods": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "sindhu immigration": [
@@ -46634,6 +46646,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "smbs healthcare": [
         {
             "type": 1,
             "rating": 1

@@ -2463,6 +2463,12 @@
             "rating": 2
         }
     ],
+    "baclor": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bacon lane surgery": [
         {
             "type": 1,
@@ -23335,6 +23341,12 @@
             "rating": 1
         }
     ],
+    "birmingham presbyterian church": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "birmingham raw pet food": [
         {
             "type": 1,
@@ -33889,6 +33901,12 @@
             "rating": 1
         }
     ],
+    "boulebar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "boult audio": [
         {
             "type": 1,
@@ -43185,11 +43203,11 @@
     ],
     "brose": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -46657,12 +46675,6 @@
             "rating": 1
         }
     ],
-    "buonkey general trading 15422771": [
-        {
-            "type": 3,
-            "rating": 3
-        }
-    ],
     "buoyancy aerospace": [
         {
             "type": 1,
@@ -48054,12 +48066,6 @@
         }
     ],
     "business mail solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "business management london": [
         {
             "type": 1,
             "rating": 1

@@ -9115,6 +9115,12 @@
             "rating": 1
         }
     ],
+    "filipino flavours & hospitality": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "filishack partners": [
         {
             "type": 1,
@@ -10201,11 +10207,11 @@
     ],
     "finmechanics": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

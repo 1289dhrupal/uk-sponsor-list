@@ -4947,12 +4947,6 @@
             "rating": 1
         }
     ],
-    "yummy karachi food": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "yummy chicken and pizza": [
         {
             "type": 1,
@@ -4966,6 +4960,12 @@
         }
     ],
     "yummy gyros": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "yummy karachi food": [
         {
             "type": 1,
             "rating": 1

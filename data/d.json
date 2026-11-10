@@ -4117,11 +4117,11 @@
     ],
     "daregal gourmet": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -20881,12 +20881,6 @@
             "rating": 1
         }
     ],
-    "djp varsani": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "djr food and beverage": [
         {
             "type": 1,
@@ -21784,16 +21778,6 @@
         }
     ],
     "dnb bank asa london branch": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dnb carnegie investment bank ab branch": [
         {
             "type": 5,
             "rating": 1
@@ -30490,12 +30474,6 @@
         }
     ],
     "durata": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "duratem supported living": [
         {
             "type": 1,
             "rating": 1

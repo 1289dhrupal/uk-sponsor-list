@@ -1701,12 +1701,6 @@
             "rating": 1
         }
     ],
-    "vale view heights care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "valefresco": [
         {
             "type": 1,
@@ -2798,6 +2792,12 @@
         }
     ],
     "vangmayi": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "vangoo": [
         {
             "type": 1,
             "rating": 1

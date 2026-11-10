@@ -5955,6 +5955,12 @@
             "rating": 1
         }
     ],
+    "ecoflow innovation": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ecofusion strategies": [
         {
             "type": 1,
@@ -12383,6 +12389,16 @@
             "rating": 1
         }
     ],
+    "elettronica spa": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "elev8 fire engineering": [
         {
             "type": 1,
@@ -13200,12 +13216,6 @@
         }
     ],
     "elite doors & windows": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "elite dynamics london": [
         {
             "type": 1,
             "rating": 1
@@ -23037,14 +23047,20 @@
             "rating": 1
         }
     ],
-    "ernst & young": [
+    "ernies convenience store": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "ernst & young": [
         {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,
@@ -32616,6 +32632,12 @@
         }
     ],
     "eyhurst court": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "eykon": [
         {
             "type": 1,
             "rating": 1
