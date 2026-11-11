@@ -4375,6 +4375,12 @@
             "rating": 1
         }
     ],
+    "s-curve economics cic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "s-frame software": [
         {
             "type": 1,
@@ -16639,6 +16645,12 @@
             "rating": 1
         }
     ],
+    "sb holdings": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sb heritage": [
         {
             "type": 1,
@@ -21027,12 +21039,6 @@
             "rating": 1
         }
     ],
-    "seaton healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "seattle software": [
         {
             "type": 1,
@@ -21496,6 +21502,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "secure mission security": [
         {
             "type": 1,
             "rating": 1
@@ -23509,12 +23521,6 @@
             "rating": 1
         }
     ],
-    "senior architectural systems": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "senior internet": [
         {
             "type": 1,
@@ -23638,16 +23644,6 @@
     "sensat digital": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "sensata technologies intermediate": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -24024,7 +24020,7 @@
     "sentricare": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "sentry aerospares": [
@@ -25394,6 +25390,12 @@
         }
     ],
     "setting steps support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "settla legal": [
         {
             "type": 1,
             "rating": 1
@@ -27782,12 +27784,6 @@
         }
     ],
     "shainika": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "shajan indian restaurant": [
         {
             "type": 1,
             "rating": 1
@@ -42417,12 +42413,6 @@
             "rating": 1
         }
     ],
-    "skills office network": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "skills provider": [
         {
             "type": 1,
@@ -43606,6 +43596,12 @@
         }
     ],
     "skyray engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "skyrise intelligence": [
         {
             "type": 1,
             "rating": 1
@@ -52177,12 +52173,6 @@
             "rating": 1
         }
     ],
-    "sonic gold": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sonic megastore": [
         {
             "type": 1,
@@ -53881,6 +53871,16 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "south lakes islamic centre": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "south lanarkshire college": [
@@ -71769,12 +71769,6 @@
             "rating": 1
         }
     ],
-    "stillcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "stillman reserve": [
         {
             "type": 1,
@@ -72856,6 +72850,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "stonewall equality": [
         {
             "type": 1,
             "rating": 1
@@ -79709,12 +79709,6 @@
             "rating": 1
         }
     ],
-    "sunrise day care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sunrise dryliner and interior finishing": [
         {
             "type": 1,
@@ -83256,12 +83250,6 @@
         }
     ],
     "suyrt": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "suzanna maria emmanuel": [
         {
             "type": 1,
             "rating": 1

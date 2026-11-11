@@ -17067,19 +17067,13 @@
             "rating": 2
         }
     ],
-    "reni care personnel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "renishaw": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -23613,12 +23607,6 @@
             "rating": 1
         }
     ],
-    "riskxchange": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "risley 1": [
         {
             "type": 1,
@@ -27912,16 +27900,6 @@
         }
     ],
     "rocketeer restaurant & lobster shack": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "rocketmill": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1

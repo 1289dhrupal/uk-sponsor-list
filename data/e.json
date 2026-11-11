@@ -1315,6 +1315,12 @@
             "rating": 1
         }
     ],
+    "e4law": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "e5 bakehouse": [
         {
             "type": 1,
@@ -23927,19 +23933,13 @@
             "rating": 1
         }
     ],
-    "espersen": [
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "espex batteries": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28687,6 +28687,12 @@
             "rating": 1
         }
     ],
+    "evermere capital management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "evermore care": [
         {
             "type": 1,
@@ -32340,6 +32346,16 @@
     "extrafriend": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "extrahop networks": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

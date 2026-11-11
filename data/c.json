@@ -6955,6 +6955,12 @@
             "rating": 1
         }
     ],
+    "canyon capital advisors": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "canzelysh global": [
         {
             "type": 1,
@@ -9638,12 +9644,6 @@
         }
     ],
     "care excellence": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "care expertise": [
         {
             "type": 1,
             "rating": 1
@@ -28791,11 +28791,11 @@
     ],
     "chronomics": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -34324,6 +34324,12 @@
         }
     ],
     "clearabee": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "clearance and logistics": [
         {
             "type": 1,
             "rating": 1
@@ -42249,6 +42255,12 @@
             "rating": 1
         }
     ],
+    "community links support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "community lives consortium": [
         {
             "type": 1,
@@ -47719,6 +47731,12 @@
             "rating": 1
         }
     ],
+    "coppett hill": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "coppice alupack": [
         {
             "type": 1,
@@ -52008,6 +52026,12 @@
         }
     ],
     "cphk": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cpi books": [
         {
             "type": 1,
             "rating": 1

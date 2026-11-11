@@ -1241,12 +1241,6 @@
             "rating": 1
         }
     ],
-    "mo baz": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "mcdonald s": [
         {
             "type": 1,
@@ -2282,6 +2276,12 @@
         }
     ],
     "m n mollon & partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "m n pulse solutions": [
         {
             "type": 1,
             "rating": 1
@@ -9861,6 +9861,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "mama ghar entertainment": [
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "mama nimi": [
@@ -25641,6 +25647,12 @@
             "rating": 1
         }
     ],
+    "megaa bargain / megabargain cash & carry": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "megabuild construction": [
         {
             "type": 1,
@@ -35130,6 +35142,12 @@
         }
     ],
     "mind links mcr": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "mind over matter medtech": [
         {
             "type": 1,
             "rating": 1
@@ -55963,6 +55981,12 @@
             "rating": 1
         }
     ],
+    "mycare home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "mycare homes": [
         {
             "type": 1,
@@ -56186,12 +56210,6 @@
         }
     ],
     "myic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "myjam marketplace": [
         {
             "type": 1,
             "rating": 1

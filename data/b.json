@@ -1643,12 +1643,6 @@
             "rating": 1
         }
     ],
-    "baaz scaffolding": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "baaz trucking": [
         {
             "type": 1,
@@ -3470,16 +3464,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "bakkavor london": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -20215,12 +20199,6 @@
             "rating": 1
         }
     ],
-    "bibendum restaurant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bibi restaurants": [
         {
             "type": 1,
@@ -28963,6 +28941,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "bluebridge technology 17155688": [
+        {
+            "type": 3,
+            "rating": 3
         }
     ],
     "blueco healthcare": [

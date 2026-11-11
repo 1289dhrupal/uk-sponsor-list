@@ -30775,12 +30775,6 @@
             "rating": 1
         }
     ],
-    "duty guard security": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "duua": [
         {
             "type": 1,
@@ -31945,12 +31939,6 @@
             "rating": 1
         }
     ],
-    "dixy chicken": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dhoom": [
         {
             "type": 1,
@@ -32168,6 +32156,12 @@
         }
     ],
     "days inn hyde park": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dixy chicken": [
         {
             "type": 1,
             "rating": 1
