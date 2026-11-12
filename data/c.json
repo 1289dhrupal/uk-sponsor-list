@@ -603,12 +603,6 @@
             "rating": 1
         }
     ],
-    "credera": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "caprinos pizza": [
         {
             "type": 1,
@@ -12150,12 +12144,6 @@
         }
     ],
     "carpet world london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "carpeteria": [
         {
             "type": 1,
             "rating": 1
@@ -31101,6 +31089,12 @@
             "rating": 1
         }
     ],
+    "city accountancy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "city accounts": [
         {
             "type": 1,
@@ -41224,6 +41218,10 @@
         }
     ],
     "comelit pac": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -52740,12 +52738,6 @@
         }
     ],
     "crane biosciences": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "crane electronics": [
         {
             "type": 1,
             "rating": 1

@@ -5143,6 +5143,12 @@
             "rating": 1
         }
     ],
+    "fast food operations": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fast food packaging": [
         {
             "type": 1,
@@ -7088,6 +7094,10 @@
         }
     ],
     "fenchurch advisory partners": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -20208,7 +20218,7 @@
     "foundation of lady katherine leveson": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "foundations what works centre for children and families": [
@@ -25212,6 +25222,10 @@
     "fuji industries": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

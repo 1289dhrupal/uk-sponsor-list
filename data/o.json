@@ -9501,13 +9501,19 @@
             "rating": 1
         }
     ],
-    "opde": [
+    "opco lloyds wealth management": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "opde": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -11197,12 +11203,6 @@
             "rating": 1
         }
     ],
-    "opto-e tech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "optometric technology": [
         {
             "type": 1,
@@ -12727,12 +12727,6 @@
             "rating": 1
         }
     ],
-    "ori industries 1": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oribiotech": [
         {
             "type": 1,
@@ -12974,6 +12968,12 @@
         }
     ],
     "origin import and export": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "origin peptides": [
         {
             "type": 1,
             "rating": 1

@@ -5607,12 +5607,6 @@
             "rating": 1
         }
     ],
-    "gd auto": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gd fashion": [
         {
             "type": 1,
@@ -7728,6 +7722,12 @@
         }
     ],
     "geoactive": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "geobear": [
         {
             "type": 1,
             "rating": 1
@@ -14145,7 +14145,7 @@
             "rating": 1
         }
     ],
-    "global legal action network": [
+    "global legal action network glan": [
         {
             "type": 1,
             "rating": 1
@@ -22943,12 +22943,6 @@
             "rating": 1
         }
     ],
-    "grapevine coventry and warwickshire": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "graph strategy": [
         {
             "type": 1,
@@ -24486,6 +24480,12 @@
         }
     ],
     "green collar resources": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "green colo": [
         {
             "type": 1,
             "rating": 1
@@ -26504,6 +26504,12 @@
         }
     ],
     "greif": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "greif plastics": [
         {
             "type": 1,
             "rating": 1

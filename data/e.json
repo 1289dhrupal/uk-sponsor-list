@@ -7077,6 +7077,12 @@
             "rating": 1
         }
     ],
+    "edenbrook": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "edenfield cricket club": [
         {
             "type": 12,
@@ -7724,12 +7730,6 @@
     "edinburgh korean grace church": [
         {
             "type": 2,
-            "rating": 1
-        }
-    ],
-    "edinburgh medical resources": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -18239,7 +18239,7 @@
             "rating": 1
         }
     ],
-    "energy and systems technical": [
+    "energy and system technical": [
         {
             "type": 1,
             "rating": 1
@@ -19592,6 +19592,12 @@
         }
     ],
     "enlim excavations": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "enliva homecare taunton": [
         {
             "type": 1,
             "rating": 1
@@ -30600,7 +30606,7 @@
     "exclusive care": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "exclusive law": [

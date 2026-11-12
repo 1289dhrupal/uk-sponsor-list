@@ -697,12 +697,6 @@
             "rating": 1
         }
     ],
-    "polwarth pharmacy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "premier convenience store & post office": [
         {
             "type": 1,
@@ -13655,19 +13649,13 @@
             "rating": 1
         }
     ],
-    "pepper enterprises": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "pepper money pmb": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -28807,6 +28795,12 @@
             "rating": 1
         }
     ],
+    "powakaddy international": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "powder white lite": [
         {
             "type": 1,
@@ -32173,6 +32167,12 @@
             "rating": 1
         }
     ],
+    "prescription2you healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "prescriptions4u": [
         {
             "type": 1,
@@ -32374,12 +32374,6 @@
         }
     ],
     "prestige constructions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "prestige consultants": [
         {
             "type": 1,
             "rating": 1
@@ -37555,6 +37549,12 @@
         {
             "type": 10,
             "rating": 2
+        }
+    ],
+    "projektride": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "projex cellular infrastructure": [

@@ -579,12 +579,6 @@
             "rating": 1
         }
     ],
-    "wayfield local": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "wood street general store": [
         {
             "type": 1,
@@ -2040,6 +2034,12 @@
         }
     ],
     "walker & smith": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "walker & sutcliffe": [
         {
             "type": 1,
             "rating": 1
@@ -5231,6 +5231,12 @@
             "rating": 1
         }
     ],
+    "wayfield local": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "wayflyer": [
         {
             "type": 1,
@@ -6986,6 +6992,12 @@
         }
     ],
     "weg": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "west end garage": [
         {
             "type": 1,
             "rating": 1
@@ -12864,12 +12876,6 @@
         }
     ],
     "whitehead-ross education and consulting": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "whiteheath junior school": [
         {
             "type": 1,
             "rating": 1
@@ -18839,7 +18845,7 @@
             "rating": 1
         }
     ],
-    "women s professional leagues": [
+    "womens super league football": [
         {
             "type": 1,
             "rating": 1
@@ -19058,6 +19064,12 @@
         }
     ],
     "woo sang supermarket": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "woocheen international": [
         {
             "type": 1,
             "rating": 1

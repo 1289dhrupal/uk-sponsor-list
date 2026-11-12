@@ -745,6 +745,12 @@
             "rating": 1
         }
     ],
+    "i&s": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "i&s transport": [
         {
             "type": 1,
@@ -19602,12 +19608,6 @@
         }
     ],
     "ip-performance": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ipackchem": [
         {
             "type": 1,
             "rating": 1

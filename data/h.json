@@ -20271,12 +20271,6 @@
             "rating": 1
         }
     ],
-    "hillfoot steel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hillgay": [
         {
             "type": 1,
@@ -21620,12 +21614,6 @@
         }
     ],
     "hirt and carter london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hirtenberger defence international": [
         {
             "type": 1,
             "rating": 1
@@ -25491,6 +25479,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 4
         }
     ],
     "homebuds": [
@@ -32424,6 +32416,12 @@
         },
         {
             "type": 2,
+            "rating": 1
+        }
+    ],
+    "huschem": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

@@ -6279,11 +6279,11 @@
     ],
     "jay jay private": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7964,6 +7964,12 @@
         }
     ],
     "jenki drinks": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jenkin support": [
         {
             "type": 1,
             "rating": 1

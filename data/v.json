@@ -3569,6 +3569,12 @@
             "rating": 1
         }
     ],
+    "varni": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "varnish software": [
         {
             "type": 1,
@@ -4339,7 +4345,7 @@
             "rating": 1
         }
     ],
-    "vea telecoms": [
+    "vea": [
         {
             "type": 5,
             "rating": 1
