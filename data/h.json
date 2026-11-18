@@ -1121,12 +1121,6 @@
             "rating": 1
         }
     ],
-    "h s health": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "h s internaional enterprise": [
         {
             "type": 1,
@@ -4698,7 +4692,7 @@
     "hammersmith and fulham partnership": [
         {
             "type": 1,
-            "rating": 4
+            "rating": 1
         }
     ],
     "hammersmith healthcare": [
@@ -4979,16 +4973,6 @@
             "rating": 1
         }
     ],
-    "hampton international": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hampton manor": [
         {
             "type": 1,
@@ -5206,6 +5190,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "hana petroleum": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6056,12 +6046,6 @@
         }
     ],
     "hanslope care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hansom cab": [
         {
             "type": 1,
             "rating": 1
@@ -9907,6 +9891,12 @@
             "rating": 1
         }
     ],
+    "hassl": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hassle free education": [
         {
             "type": 1,
@@ -10700,6 +10690,12 @@
         }
     ],
     "haverstock 154": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "havesters care": [
         {
             "type": 1,
             "rating": 1
@@ -14997,16 +14993,6 @@
             "rating": 1
         }
     ],
-    "heimstaden": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "heineken": [
         {
             "type": 8,
@@ -15194,6 +15180,12 @@
         }
     ],
     "helios investment partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "helios renewable energy solutions": [
         {
             "type": 1,
             "rating": 1
@@ -15497,6 +15489,12 @@
             "rating": 1
         }
     ],
+    "helm care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "helm great britain": [
         {
             "type": 1,
@@ -15760,6 +15758,12 @@
         }
     ],
     "hemisphere cap": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hemisphere freight": [
         {
             "type": 1,
             "rating": 1
@@ -16827,19 +16831,13 @@
             "rating": 1
         }
     ],
-    "herman claude": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "herman miller": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -18581,12 +18579,6 @@
             "rating": 1
         }
     ],
-    "hicom technology": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hicp": [
         {
             "type": 1,
@@ -19394,6 +19386,12 @@
         }
     ],
     "highgate care 2025": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "highgate care north": [
         {
             "type": 1,
             "rating": 1
@@ -22077,6 +22075,12 @@
             "rating": 1
         }
     ],
+    "hive kensington": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hive learning": [
         {
             "type": 1,
@@ -22402,6 +22406,12 @@
         }
     ],
     "hkd stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hkes red": [
         {
             "type": 1,
             "rating": 1
@@ -23535,11 +23545,7 @@
             "rating": 1
         }
     ],
-    "hogan lovells international": [
-        {
-            "type": 8,
-            "rating": 2
-        },
+    "hogan lovells cadwalader international": [
         {
             "type": 1,
             "rating": 1
@@ -23547,6 +23553,10 @@
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "hogg & son chemists": [
@@ -29909,6 +29919,12 @@
             "rating": 1
         }
     ],
+    "hs health": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hs jackson & son fencing": [
         {
             "type": 1,
@@ -30044,10 +30060,6 @@
     "hsf london": [
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -31033,21 +31045,21 @@
     ],
     "hughes systique private": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
     "hugo boss": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -33477,6 +33489,12 @@
             "rating": 1
         }
     ],
+    "hydrotech piping systems": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hydrotechnik test engineering": [
         {
             "type": 1,
@@ -34956,6 +34974,12 @@
         }
     ],
     "holy spice": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "haughton arms hotel": [
         {
             "type": 1,
             "rating": 1

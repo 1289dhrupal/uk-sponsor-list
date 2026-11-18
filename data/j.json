@@ -2095,11 +2095,11 @@
     ],
     "j s held": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4421,20 +4421,6 @@
             "rating": 1
         }
     ],
-    "jamia darus sunnah london": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 10,
-            "rating": 2
-        },
-        {
-            "type": 11,
-            "rating": 2
-        }
-    ],
     "jamia hanfia ghosia mosque and princess street resource centre": [
         {
             "type": 2,
@@ -5458,6 +5444,12 @@
         }
     ],
     "jara solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "jara trading": [
         {
             "type": 1,
             "rating": 1
@@ -12169,6 +12161,12 @@
             "rating": 1
         }
     ],
+    "john pye and sons": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "john quinn racing": [
         {
             "type": 1,
@@ -15505,12 +15503,6 @@
             "rating": 1
         }
     ],
-    "julee care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "jules diamonds": [
         {
             "type": 1,
@@ -15846,12 +15838,6 @@
         }
     ],
     "junction tandoori": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "june capital": [
         {
             "type": 1,
             "rating": 1

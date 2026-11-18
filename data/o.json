@@ -1255,6 +1255,12 @@
             "rating": 1
         }
     ],
+    "oakland support": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "oaklands care hove": [
         {
             "type": 1,
@@ -4125,14 +4131,20 @@
             "rating": 1
         }
     ],
-    "ogilvy & mathers holdings": [
+    "ogigconsult": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "ogilvy & mathers holdings": [
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -5849,12 +5861,6 @@
             "rating": 1
         }
     ],
-    "ollie s house": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ollier smurthwaite architects": [
         {
             "type": 1,
@@ -6100,12 +6106,6 @@
         }
     ],
     "om medical centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "om mobile ventures": [
         {
             "type": 1,
             "rating": 1
@@ -9067,6 +9067,12 @@
             "rating": 1
         }
     ],
+    "onside youth zones": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "onsite support": [
         {
             "type": 1,
@@ -9884,16 +9890,6 @@
         }
     ],
     "opencast software europe": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "opencoreos": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -10834,12 +10830,6 @@
         }
     ],
     "optimax imaging inspection and measurement": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "optimhouse": [
         {
             "type": 1,
             "rating": 1
@@ -12349,12 +12339,6 @@
             "rating": 1
         }
     ],
-    "orchid woodlands healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "orchids care": [
         {
             "type": 1,
@@ -12368,6 +12352,12 @@
         }
     ],
     "orci trials": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "orcion systems": [
         {
             "type": 1,
             "rating": 1
@@ -12849,11 +12839,11 @@
     ],
     "oriental food express": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16098,12 +16088,6 @@
         }
     ],
     "ox products": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ox support": [
         {
             "type": 1,
             "rating": 1

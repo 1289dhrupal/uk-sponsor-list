@@ -741,6 +741,12 @@
             "rating": 1
         }
     ],
+    "d rocks restaurant & takeaway": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "d roy": [
         {
             "type": 1,
@@ -986,6 +992,12 @@
         }
     ],
     "d&juk": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "d&m cakes": [
         {
             "type": 1,
             "rating": 1
@@ -2215,12 +2227,6 @@
             "rating": 1
         }
     ],
-    "daish s esplanade hotel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "daisy chain studio": [
         {
             "type": 1,
@@ -2516,6 +2522,12 @@
         }
     ],
     "dale carnegie london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "dale farm cooperative": [
         {
             "type": 1,
             "rating": 1
@@ -7771,12 +7783,6 @@
             "rating": 1
         }
     ],
-    "ddteck": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ddz interiors": [
         {
             "type": 1,
@@ -9119,12 +9125,6 @@
             "rating": 1
         }
     ],
-    "deep planet": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "deep render": [
         {
             "type": 1,
@@ -9494,6 +9494,12 @@
         }
     ],
     "definite article media": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "definition holdings": [
         {
             "type": 1,
             "rating": 1
@@ -11933,13 +11939,19 @@
             "rating": 1
         }
     ],
+    "denton-powell": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dentons europe": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -12959,12 +12971,6 @@
         {
             "type": 4,
             "rating": 2
-        }
-    ],
-    "desi spice": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "desi street": [
@@ -17737,12 +17743,6 @@
             "rating": 1
         }
     ],
-    "digital unlimited": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "digital voices": [
         {
             "type": 1,
@@ -19104,6 +19104,12 @@
         }
     ],
     "direct health first": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "direct health solutions": [
         {
             "type": 1,
             "rating": 1
@@ -21065,6 +21071,12 @@
             "rating": 1
         }
     ],
+    "dkm healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dkms foundation": [
         {
             "type": 1,
@@ -22616,12 +22628,6 @@
         }
     ],
     "dolmen development": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dolon": [
         {
             "type": 1,
             "rating": 1
@@ -26275,6 +26281,12 @@
             "rating": 1
         }
     ],
+    "dr s mcverry mcgee & farnon": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dr-ime": [
         {
             "type": 1,
@@ -29689,6 +29701,12 @@
             "rating": 1
         }
     ],
+    "dulwich therapy rooms": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "dum factory": [
         {
             "type": 1,
@@ -30498,6 +30516,10 @@
         }
     ],
     "duress": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 3,
             "rating": 1

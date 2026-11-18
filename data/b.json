@@ -4579,6 +4579,12 @@
             "rating": 1
         }
     ],
+    "bambi air": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bambi s": [
         {
             "type": 1,
@@ -6136,12 +6142,6 @@
         }
     ],
     "bar 86": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bar b que base foods": [
         {
             "type": 1,
             "rating": 1
@@ -11373,12 +11373,6 @@
             "rating": 1
         }
     ],
-    "beamo": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "beams & co": [
         {
             "type": 1,
@@ -12566,6 +12560,10 @@
         }
     ],
     "bedford square international": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -14347,12 +14345,6 @@
             "rating": 1
         }
     ],
-    "bellhouse care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bellini s italian restaurant": [
         {
             "type": 1,
@@ -14640,6 +14632,12 @@
         }
     ],
     "belogic systems": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "belong learning cic": [
         {
             "type": 1,
             "rating": 1
@@ -16487,6 +16485,12 @@
             "rating": 1
         }
     ],
+    "bermuda brokers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bermuda civil aviation authority": [
         {
             "type": 1,
@@ -17390,12 +17394,6 @@
         }
     ],
     "best halal meat": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "best halal meat supply": [
         {
             "type": 1,
             "rating": 1
@@ -18321,7 +18319,7 @@
             "rating": 1
         }
     ],
-    "better decision groups": [
+    "better decisions": [
         {
             "type": 1,
             "rating": 1
@@ -20469,12 +20467,6 @@
             "rating": 1
         }
     ],
-    "bidstack": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bidvest noonan": [
         {
             "type": 1,
@@ -21961,12 +21953,6 @@
             "rating": 1
         }
     ],
-    "binsina": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "binsols gb": [
         {
             "type": 1,
@@ -22607,12 +22593,6 @@
             "rating": 1
         }
     ],
-    "birch care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "birch grove capital": [
         {
             "type": 1,
@@ -22826,12 +22806,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "birdmilk one": [
         {
             "type": 1,
             "rating": 1
@@ -26417,12 +26391,6 @@
             "rating": 1
         }
     ],
-    "blend and brew": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "blend crafters": [
         {
             "type": 1,
@@ -27328,7 +27296,7 @@
     "bloomscare": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "bloor and co": [
@@ -29049,11 +29017,11 @@
     ],
     "blueground furnished apartments": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -29918,16 +29886,6 @@
         },
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "bmi healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -31133,12 +31091,6 @@
             "rating": 1
         }
     ],
-    "boing international trading": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "boisdale": [
         {
             "type": 1,
@@ -31738,6 +31690,12 @@
         }
     ],
     "bombay delight": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "bombay dragon": [
         {
             "type": 1,
             "rating": 1
@@ -34119,6 +34077,12 @@
             "rating": 1
         }
     ],
+    "bourneside": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bourns": [
         {
             "type": 1,
@@ -35989,6 +35953,12 @@
             "rating": 1
         }
     ],
+    "braintree pcn": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "braintree specsavers": [
         {
             "type": 1,
@@ -36447,12 +36417,6 @@
         {
             "type": 10,
             "rating": 2
-        }
-    ],
-    "brandon groundworks": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "brandon medical": [
@@ -38973,12 +38937,6 @@
             "rating": 1
         }
     ],
-    "bright associates": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bright biotech": [
         {
             "type": 1,
@@ -40162,12 +40120,6 @@
         }
     ],
     "brisel consult": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "brisfix": [
         {
             "type": 1,
             "rating": 1
@@ -43673,6 +43625,12 @@
             "rating": 1
         }
     ],
+    "brownhill surgery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "browning & associates": [
         {
             "type": 1,
@@ -44261,12 +44219,6 @@
             "rating": 1
         }
     ],
-    "brymore care homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "brympton house estates": [
         {
             "type": 1,
@@ -44366,10 +44318,6 @@
     "bryter": [
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -49028,12 +48976,6 @@
         }
     ],
     "bw1 consultants": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bw1 enterprise": [
         {
             "type": 1,
             "rating": 1

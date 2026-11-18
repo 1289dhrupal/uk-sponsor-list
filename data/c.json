@@ -551,16 +551,6 @@
             "rating": 1
         }
     ],
-    "circle health": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "cafe bueno": [
         {
             "type": 1,
@@ -2736,18 +2726,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "cafe salford": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cafe sia": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -6805,6 +6783,12 @@
             "rating": 2
         }
     ],
+    "canterbury visionplus": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cantifix": [
         {
             "type": 1,
@@ -6898,12 +6882,6 @@
         }
     ],
     "canvas events": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "canvas software": [
         {
             "type": 1,
             "rating": 1
@@ -9712,7 +9690,7 @@
     "care force": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "care gates": [
@@ -10750,6 +10728,12 @@
         }
     ],
     "careline lifestyles": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "carelink healthcare professionals": [
         {
             "type": 1,
             "rating": 1
@@ -13744,6 +13728,12 @@
         }
     ],
     "castle villas": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "castle waste": [
         {
             "type": 1,
             "rating": 1
@@ -21997,6 +21987,12 @@
             "rating": 1
         }
     ],
+    "charter hcp": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "charter kontron": [
         {
             "type": 5,
@@ -25715,12 +25711,6 @@
             "rating": 1
         }
     ],
-    "chilli spice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "chilli zone": [
         {
             "type": 1,
@@ -26180,16 +26170,6 @@
         }
     ],
     "china merchants bank co": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "china merchants securities": [
         {
             "type": 5,
             "rating": 1
@@ -26729,6 +26709,12 @@
             "rating": 1
         }
     ],
+    "chirpy heat": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "chisenhale gallery": [
         {
             "type": 4,
@@ -26963,19 +26949,13 @@
             "rating": 1
         }
     ],
-    "chocoberry bolton": [
+    "chocoberry cafe": [
         {
             "type": 1,
             "rating": 1
         }
     ],
     "chocoberry": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "chocoberry cafe": [
         {
             "type": 1,
             "rating": 1
@@ -30393,6 +30373,12 @@
             "rating": 1
         }
     ],
+    "circadian therapeutics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "circana": [
         {
             "type": 1,
@@ -32160,6 +32146,12 @@
         }
     ],
     "civic marketing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "civic mep": [
         {
             "type": 1,
             "rating": 1
@@ -34104,12 +34096,6 @@
         }
     ],
     "cleaning equipment sales and": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cleaning fairies bristol": [
         {
             "type": 1,
             "rating": 1
@@ -38211,20 +38197,14 @@
             "rating": 1
         }
     ],
-    "coastlands": [
-        {
-            "type": 10,
-            "rating": 2
-        }
-    ],
     "coastline vineyard church": [
-        {
-            "type": 10,
-            "rating": 2
-        },
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "coatdyke": [
@@ -39386,6 +39366,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "cogent bytes": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -40927,6 +40913,16 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "columbo south": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "columbus forty five": [
@@ -44294,12 +44290,6 @@
         }
     ],
     "conexus healthcare c i c": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "confederation of indian industry cii": [
         {
             "type": 1,
             "rating": 1
@@ -50237,6 +50227,12 @@
             "rating": 1
         }
     ],
+    "cotswold medical clinics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cotswold medical practice": [
         {
             "type": 1,
@@ -51652,16 +51648,6 @@
         }
     ],
     "cowater": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cowbell cyber": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -54061,20 +54047,6 @@
             "rating": 1
         }
     ],
-    "credit data research": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 8,
-            "rating": 2
-        }
-    ],
     "credit financier invest": [
         {
             "type": 1,
@@ -54168,6 +54140,12 @@
         }
     ],
     "credo technology": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cree restaurants": [
         {
             "type": 1,
             "rating": 1
@@ -54328,12 +54306,6 @@
         }
     ],
     "crescendo biologics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "crescendo entertainment": [
         {
             "type": 1,
             "rating": 1
@@ -54988,6 +54960,12 @@
         }
     ],
     "crisis24": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "crisp pizza": [
         {
             "type": 1,
             "rating": 1
@@ -57583,6 +57561,12 @@
             "rating": 1
         }
     ],
+    "csh -hvac": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "csi global holdings": [
         {
             "type": 1,
@@ -58019,12 +58003,6 @@
             "rating": 1
         }
     ],
-    "cuantec": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cuatrecasas": [
         {
             "type": 8,
@@ -58284,12 +58262,6 @@
         }
     ],
     "cuckoo dought": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cuckoo fibre": [
         {
             "type": 1,
             "rating": 1
@@ -61605,6 +61577,12 @@
             "rating": 1
         }
     ],
+    "culbert ellis": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "csk auto parts": [
         {
             "type": 1,
@@ -63245,16 +63223,16 @@
     ],
     "curriculum and accreditation body ukcab": [
         {
+            "type": 1,
+            "rating": 1
+        },
+        {
             "type": 10,
             "rating": 2
         },
         {
             "type": 4,
             "rating": 2
-        },
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "cyber security council": [

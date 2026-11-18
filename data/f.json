@@ -5053,12 +5053,6 @@
             "rating": 1
         }
     ],
-    "fast action": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fast and fresh food": [
         {
             "type": 1,
@@ -6352,12 +6346,6 @@
         }
     ],
     "fdmuk": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fdr social care": [
         {
             "type": 1,
             "rating": 1
@@ -17833,6 +17821,12 @@
             "rating": 1
         }
     ],
+    "force contracting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "force engineering": [
         {
             "type": 1,
@@ -19954,6 +19948,12 @@
         }
     ],
     "forward3d": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "forwardplus": [
         {
             "type": 1,
             "rating": 1
@@ -22504,6 +22504,12 @@
         }
     ],
     "freeki": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "freelance consultancy pvt": [
         {
             "type": 1,
             "rating": 1
@@ -25807,14 +25813,20 @@
             "rating": 1
         }
     ],
-    "funding circle": [
+    "funders together": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "funding circle": [
         {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 5,
@@ -25910,6 +25922,12 @@
         }
     ],
     "funtabee": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "funtazia soft play": [
         {
             "type": 1,
             "rating": 1
@@ -26810,6 +26828,12 @@
         }
     ],
     "future leap es": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "future leap holdings": [
         {
             "type": 1,
             "rating": 1
@@ -27981,6 +28005,12 @@
             "rating": 1
         }
     ],
+    "fv achilles": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "fareye": [
         {
             "type": 1,
@@ -28298,6 +28328,12 @@
         }
     ],
     "fruit & veg supplies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fuel": [
         {
             "type": 1,
             "rating": 1

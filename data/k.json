@@ -601,12 +601,6 @@
             "rating": 1
         }
     ],
-    "k & k stores": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "k & l healthcare": [
         {
             "type": 1,
@@ -1871,11 +1865,11 @@
     ],
     "k2 partnering solutions holding co": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -4471,6 +4465,12 @@
             "rating": 1
         }
     ],
+    "kaprix powerhouse logistics": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kaptius": [
         {
             "type": 1,
@@ -6610,12 +6610,6 @@
         }
     ],
     "kaytons": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "kayu bakehouse": [
         {
             "type": 1,
             "rating": 1
@@ -20971,6 +20965,12 @@
             "rating": 1
         }
     ],
+    "krimpterm": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "krina beauty": [
         {
             "type": 1,
@@ -23435,6 +23435,12 @@
             "rating": 1
         }
     ],
+    "kwality vegetables & fruit": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "kwame owusuoppong": [
         {
             "type": 1,
@@ -23767,11 +23773,11 @@
     ],
     "kyndryl": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
