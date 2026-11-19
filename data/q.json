@@ -1707,13 +1707,19 @@
             "rating": 1
         }
     ],
+    "quadreal residential properties": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "quadreal": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

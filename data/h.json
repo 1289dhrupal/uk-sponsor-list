@@ -9343,6 +9343,12 @@
             "rating": 1
         }
     ],
+    "harvest grocery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "harvest land management": [
         {
             "type": 1,
@@ -19227,7 +19233,7 @@
             "rating": 1
         }
     ],
-    "highcroft care home": [
+    "highcroft nursing home": [
         {
             "type": 1,
             "rating": 1
@@ -26011,12 +26017,6 @@
             "rating": 1
         }
     ],
-    "homewood support": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "homeworld2004": [
         {
             "type": 1,
@@ -26886,12 +26886,6 @@
     "hope4you housing c i c": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "hopealive outreach ministries": [
-        {
-            "type": 2,
             "rating": 1
         }
     ],

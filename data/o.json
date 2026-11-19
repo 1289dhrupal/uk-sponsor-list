@@ -7913,12 +7913,6 @@
             "rating": 1
         }
     ],
-    "one life health support": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "one little independent": [
         {
             "type": 1,
@@ -8852,12 +8846,6 @@
         }
     ],
     "online accountant": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "online art school": [
         {
             "type": 1,
             "rating": 1
@@ -13033,12 +13021,6 @@
             "rating": 1
         }
     ],
-    "original biryaniwala london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "original btc": [
         {
             "type": 1,
@@ -13569,6 +13551,16 @@
             "rating": 1
         }
     ],
+    "oro labs": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "oromah international": [
         {
             "type": 1,
@@ -14004,12 +13996,6 @@
         }
     ],
     "os designs and partners": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "os glasgow": [
         {
             "type": 1,
             "rating": 1
@@ -16960,12 +16946,6 @@
     "oxford specsavers": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "oxford stadium": [
-        {
-            "type": 12,
             "rating": 1
         }
     ],

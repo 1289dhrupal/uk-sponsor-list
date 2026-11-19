@@ -823,6 +823,12 @@
             "rating": 1
         }
     ],
+    "tamworth pharmacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "thorpe hesley dental practice": [
         {
             "type": 1,
@@ -5990,12 +5996,6 @@
         }
     ],
     "talbot medical centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "talbot woods lodge": [
         {
             "type": 1,
             "rating": 1
@@ -14081,12 +14081,6 @@
             "rating": 1
         }
     ],
-    "temple central": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "temple cornwall": [
         {
             "type": 1,
@@ -20681,12 +20675,6 @@
             "rating": 1
         }
     ],
-    "the bug and barrel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the building safety regulator": [
         {
             "type": 1,
@@ -22841,12 +22829,6 @@
             "rating": 1
         }
     ],
-    "the court care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the court care home": [
         {
             "type": 1,
@@ -23522,12 +23504,6 @@
         }
     ],
     "the desserts room": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the developer academy": [
         {
             "type": 1,
             "rating": 1
@@ -25433,12 +25409,6 @@
             "rating": 1
         }
     ],
-    "the french kitchen": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the french partridge horton": [
         {
             "type": 1,
@@ -25674,12 +25644,6 @@
         }
     ],
     "the garage car sales sheffield": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the garage door centre": [
         {
             "type": 1,
             "rating": 1
@@ -26592,6 +26556,12 @@
         }
     ],
     "the greyhound bar and grill": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the griffin amersham": [
         {
             "type": 1,
             "rating": 1
@@ -32165,6 +32135,12 @@
             "rating": 1
         }
     ],
+    "the nuclear house": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the nucleo project": [
         {
             "type": 1,
@@ -33493,6 +33469,12 @@
         {
             "type": 11,
             "rating": 2
+        }
+    ],
+    "the parochial church council of the ecclesiastical parish of st barnabas woodside park": [
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "the parochial church council of the ecclesiastical parish of st edmund the king st mary woolnoth and st clement eastcheap": [
@@ -36669,12 +36651,6 @@
             "rating": 1
         }
     ],
-    "the scalers operations": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the scarf lounge": [
         {
             "type": 1,
@@ -37131,14 +37107,20 @@
             "rating": 1
         }
     ],
-    "the sisters of providence rosminian": [
+    "the sirius hotel": [
         {
-            "type": 2,
+            "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "the sisters of providence rosminian": [
         {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "the sisters of st joseph of peace cio": [
@@ -39604,12 +39586,6 @@
         }
     ],
     "the wedding dress shop": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the wedding hire company": [
         {
             "type": 1,
             "rating": 1
@@ -46181,12 +46157,6 @@
             "rating": 1
         }
     ],
-    "tj consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tj convenience stores": [
         {
             "type": 1,
@@ -46550,7 +46520,7 @@
     "tlc care management": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "tlc college": [
@@ -51232,6 +51202,12 @@
         }
     ],
     "towers & sanders": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "towers associates": [
         {
             "type": 1,
             "rating": 1

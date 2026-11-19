@@ -2843,12 +2843,6 @@
             "rating": 1
         }
     ],
-    "wan plastering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "wanb express": [
         {
             "type": 1,
@@ -3988,6 +3982,12 @@
         }
     ],
     "wastewater fuels": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "wastib studio": [
         {
             "type": 1,
             "rating": 1
@@ -14049,6 +14049,12 @@
             "rating": 1
         }
     ],
+    "wilde consultants": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "wilder logistics": [
         {
             "type": 1,
@@ -17416,6 +17422,12 @@
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "wisfy": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

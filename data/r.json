@@ -1443,12 +1443,6 @@
             "rating": 1
         }
     ],
-    "r and s south east developments": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "r and s medical and allied": [
         {
             "type": 1,
@@ -11299,12 +11293,6 @@
             "rating": 1
         }
     ],
-    "realstar management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "realterm europe management": [
         {
             "type": 5,
@@ -13930,6 +13918,12 @@
         }
     ],
     "redtitan": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "redtorch": [
         {
             "type": 1,
             "rating": 1
@@ -17807,12 +17801,6 @@
             "rating": 1
         }
     ],
-    "resident hotels": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "residential care providers": [
         {
             "type": 1,
@@ -19046,6 +19034,12 @@
         }
     ],
     "retro track & air": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "retrofit clicks": [
         {
             "type": 1,
             "rating": 1
@@ -29765,12 +29759,6 @@
             "rating": 1
         }
     ],
-    "roots kitchen": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "roots law": [
         {
             "type": 1,
@@ -29878,12 +29866,6 @@
         }
     ],
     "rorcon": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ros and mos house support": [
         {
             "type": 1,
             "rating": 1
@@ -30062,12 +30044,6 @@
         }
     ],
     "rose grocers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "rose healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -30508,7 +30484,7 @@
     "rosewood & brook house": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "rosewood consultants": [

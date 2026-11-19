@@ -2175,12 +2175,6 @@
             "rating": 1
         }
     ],
-    "yianni motors": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "yiannis doors": [
         {
             "type": 1,
@@ -3789,6 +3783,12 @@
             "rating": 1
         }
     ],
+    "your childcare solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "your choice barnet": [
         {
             "type": 1,
@@ -4420,6 +4420,12 @@
         },
         {
             "type": 2,
+            "rating": 1
+        }
+    ],
+    "youth works northamptonshire": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],

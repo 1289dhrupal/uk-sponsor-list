@@ -8991,12 +8991,6 @@
             "rating": 1
         }
     ],
-    "indian aroma cuisine": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "indian basmati lmited": [
         {
             "type": 1,
@@ -12586,16 +12580,6 @@
         }
     ],
     "innovation tax specialists": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "innovation technology and business solutions": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -18101,19 +18085,13 @@
             "rating": 1
         }
     ],
-    "intrix systems": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "introba consulting": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -20461,13 +20439,13 @@
             "rating": 1
         }
     ],
-    "iraye": [
+    "iravya infrastructure": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "irbis capital": [
+    "iraye": [
         {
             "type": 1,
             "rating": 1
@@ -20797,13 +20775,13 @@
             "rating": 1
         }
     ],
-    "ironbridge holdings": [
+    "ironbridge medical practice": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "ironbridge medical practice": [
+    "ironbridge tech": [
         {
             "type": 1,
             "rating": 1
@@ -20811,11 +20789,11 @@
     ],
     "ironclad contracting": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22074,6 +22052,12 @@
         }
     ],
     "isource": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "isp global advisory": [
         {
             "type": 1,
             "rating": 1

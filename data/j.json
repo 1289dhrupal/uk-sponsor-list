@@ -4443,6 +4443,12 @@
             "rating": 2
         }
     ],
+    "jamia islamia islamic studies centre trust": [
+        {
+            "type": 10,
+            "rating": 2
+        }
+    ],
     "jamia islamia ghousia trust": [
         {
             "type": 2,
@@ -11003,12 +11009,6 @@
             "rating": 1
         }
     ],
-    "jmg pvt": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "jmg store": [
         {
             "type": 1,
@@ -13715,11 +13715,11 @@
     ],
     "joy global": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

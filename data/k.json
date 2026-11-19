@@ -12117,6 +12117,12 @@
             "rating": 1
         }
     ],
+    "ki 13": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ki associates": [
         {
             "type": 1,
@@ -12124,12 +12130,6 @@
         }
     ],
     "ki e-works": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ki hydrogen": [
         {
             "type": 1,
             "rating": 1
@@ -12786,6 +12786,12 @@
         }
     ],
     "kiloh associates": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kilostate": [
         {
             "type": 1,
             "rating": 1
@@ -16484,6 +16490,16 @@
         }
     ],
     "kla corporation": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "kla legal": [
         {
             "type": 5,
             "rating": 1

@@ -8241,12 +8241,6 @@
             "rating": 1
         }
     ],
-    "bash grill kingsbury road": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bashir aa & sons": [
         {
             "type": 1,
@@ -14825,12 +14819,6 @@
             "rating": 1
         }
     ],
-    "belvoir steak and curry house": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "belyfted limted": [
         {
             "type": 1,
@@ -16635,19 +16623,13 @@
             "rating": 1
         }
     ],
-    "berry health": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "berry palmer & lyle": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -22319,12 +22301,6 @@
             "rating": 1
         }
     ],
-    "bionic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bionical solutions": [
         {
             "type": 1,
@@ -26753,12 +26729,6 @@
             "rating": 1
         }
     ],
-    "bliss eventworks": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bliss growth": [
         {
             "type": 1,
@@ -27100,12 +27070,6 @@
         }
     ],
     "bloom stones london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bloom trade": [
         {
             "type": 1,
             "rating": 1
@@ -44021,12 +43985,6 @@
             "rating": 1
         }
     ],
-    "brunswick east": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "brunswick health centre": [
         {
             "type": 1,
@@ -47887,6 +47845,12 @@
             "rating": 1
         }
     ],
+    "business essentials": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "business excellence europe": [
         {
             "type": 1,
@@ -50370,12 +50334,6 @@
         }
     ],
     "broadoak manor nursing home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bluebird care tamworth lichfield nuneaton & north warwickshire": [
         {
             "type": 1,
             "rating": 1

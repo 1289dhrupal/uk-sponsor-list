@@ -5405,11 +5405,11 @@
     ],
     "fasthosts internet": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -6504,6 +6504,12 @@
         }
     ],
     "feb bros ta usa fried & peri peri chicken": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "febdol corporate": [
         {
             "type": 1,
             "rating": 1
@@ -7621,11 +7627,11 @@
     ],
     "ferragamo u k": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -8303,13 +8309,19 @@
             "rating": 1
         }
     ],
-    "fibrisol service": [
+    "fibretx": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "fibrisol service": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -15896,6 +15908,12 @@
         }
     ],
     "flyp homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "flypharm": [
         {
             "type": 1,
             "rating": 1
