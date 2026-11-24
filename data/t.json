@@ -4921,13 +4921,19 @@
             "rating": 1
         }
     ],
+    "tafah": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tafe advanced ag solutions": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -7546,6 +7552,12 @@
         }
     ],
     "tapestry partners": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tapestry venture capital": [
         {
             "type": 1,
             "rating": 1
@@ -12336,6 +12348,12 @@
         }
     ],
     "technowshop": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "techouse": [
         {
             "type": 1,
             "rating": 1
@@ -22795,12 +22813,6 @@
             "rating": 1
         }
     ],
-    "the cotswold nursing home co": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the cotswold nursing home company": [
         {
             "type": 1,
@@ -27953,6 +27965,12 @@
             "rating": 1
         }
     ],
+    "the information commission": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the information lab": [
         {
             "type": 1,
@@ -31228,7 +31246,7 @@
     "the modality partnership": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "the model ireland": [
@@ -49281,6 +49299,12 @@
             "rating": 1
         }
     ],
+    "topframe engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "topfurnishing": [
         {
             "type": 1,
@@ -55051,6 +55075,12 @@
             "rating": 1
         }
     ],
+    "trevally capital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "trevibban mill": [
         {
             "type": 1,
@@ -59949,11 +59979,11 @@
     ],
     "turbo power systems": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

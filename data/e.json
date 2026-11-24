@@ -5299,11 +5299,11 @@
     ],
     "echosec systems": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8646,6 +8646,10 @@
         }
     ],
     "edyn development studio": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -31179,11 +31183,11 @@
     ],
     "exor investments": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -32762,12 +32766,6 @@
         }
     ],
     "ezone repairs nuneaton": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ezonecornwall": [
         {
             "type": 1,
             "rating": 1

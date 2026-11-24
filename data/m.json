@@ -5927,12 +5927,6 @@
             "rating": 1
         }
     ],
-    "madiox": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "madison berkeley": [
         {
             "type": 1,
@@ -14537,11 +14531,11 @@
     ],
     "market news": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24528,6 +24522,12 @@
         }
     ],
     "medify": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "medigas": [
         {
             "type": 1,
             "rating": 1
@@ -47283,6 +47283,12 @@
             "rating": 1
         }
     ],
+    "movement collective": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "movemeon": [
         {
             "type": 1,
@@ -51291,12 +51297,12 @@
     ],
     "msi computer": [
         {
-            "type": 5,
-            "rating": 1
-        },
-        {
             "type": 8,
             "rating": 2
+        },
+        {
+            "type": 5,
+            "rating": 1
         },
         {
             "type": 1,

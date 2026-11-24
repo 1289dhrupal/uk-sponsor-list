@@ -1149,12 +1149,6 @@
             "rating": 1
         }
     ],
-    "oakfield pharma": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "oakfield psychological": [
         {
             "type": 1,
@@ -3516,6 +3510,12 @@
         }
     ],
     "odi global": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "odicci": [
         {
             "type": 1,
             "rating": 1
@@ -13391,6 +13391,12 @@
             "rating": 1
         }
     ],
+    "orla homes": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "orlando refrigeration & air conditioning": [
         {
             "type": 1,
@@ -16618,6 +16624,12 @@
         }
     ],
     "oxford hr": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "oxford human capital incorporated": [
         {
             "type": 1,
             "rating": 1

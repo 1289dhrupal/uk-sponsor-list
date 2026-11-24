@@ -3285,19 +3285,13 @@
             "rating": 1
         }
     ],
-    "hakka village": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hakkasan": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -5680,6 +5674,12 @@
         }
     ],
     "hank trading": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hank zarihs associates": [
         {
             "type": 1,
             "rating": 1
@@ -11195,6 +11195,12 @@
             "rating": 1
         }
     ],
+    "haydon power": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "haydon school": [
         {
             "type": 1,
@@ -16121,6 +16127,12 @@
             "rating": 1
         }
     ],
+    "henley retail": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "henley retail mg": [
         {
             "type": 1,
@@ -19501,11 +19513,11 @@
     ],
     "highland europe management": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -30034,6 +30046,12 @@
         }
     ],
     "hsbf": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hscale": [
         {
             "type": 1,
             "rating": 1

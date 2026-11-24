@@ -21737,6 +21737,12 @@
             "rating": 1
         }
     ],
+    "grady dental": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "graebel centre": [
         {
             "type": 5,
@@ -25811,12 +25817,12 @@
     ],
     "greenlight healthcare": [
         {
-            "type": 13,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 13,
+            "rating": 2
         }
     ],
     "greenlight re marketing": [
@@ -30149,11 +30155,11 @@
     ],
     "gulzare madina islamic welfare trust": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
@@ -32566,12 +32572,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "good deals": [
         {
             "type": 1,
             "rating": 1

@@ -9603,11 +9603,11 @@
     ],
     "baywater healthcare": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -31043,12 +31043,6 @@
             "rating": 1
         }
     ],
-    "boing international tea": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "boisdale": [
         {
             "type": 1,
@@ -34663,6 +34657,12 @@
             "rating": 2
         }
     ],
+    "boyas barbers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "boyatt wood surgery": [
         {
             "type": 1,
@@ -35282,12 +35282,6 @@
         }
     ],
     "bradbury street": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bradcare": [
         {
             "type": 1,
             "rating": 1
@@ -36220,7 +36214,7 @@
     "brand global": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "brand ice": [
@@ -46635,12 +46629,6 @@
             "rating": 1
         }
     ],
-    "burak transport & solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "buraq cafes private": [
         {
             "type": 1,
@@ -48180,12 +48168,6 @@
         }
     ],
     "butacare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "butchies": [
         {
             "type": 1,
             "rating": 1
@@ -51624,12 +51606,6 @@
         }
     ],
     "buyback": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "black": [
         {
             "type": 1,
             "rating": 1
