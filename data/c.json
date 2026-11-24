@@ -505,6 +505,12 @@
             "rating": 1
         }
     ],
+    "chef s kitchen": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "costcutter convenience store": [
         {
             "type": 1,
@@ -1732,6 +1738,12 @@
             "type": 4,
             "rating": 2
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "cabin units": [
         {
             "type": 1,
             "rating": 1
@@ -3359,6 +3371,12 @@
             "rating": 1
         }
     ],
+    "cakes & dreams": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cakes & flakes": [
         {
             "type": 1,
@@ -3774,12 +3792,6 @@
         }
     ],
     "caleres europe": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "calero mdsl": [
         {
             "type": 1,
             "rating": 1
@@ -9381,12 +9393,6 @@
             "rating": 1
         }
     ],
-    "care at your home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "care by mail": [
         {
             "type": 1,
@@ -10034,6 +10040,12 @@
         }
     ],
     "care property management": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "care provision healthcare t/as philia lodge rest home": [
         {
             "type": 1,
             "rating": 1
@@ -11374,12 +11386,6 @@
         }
     ],
     "caring hand": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "caring hands wiltshire": [
         {
             "type": 1,
             "rating": 1
@@ -13242,12 +13248,6 @@
         }
     ],
     "casperaki multimedia solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "caspertron": [
         {
             "type": 1,
             "rating": 1
@@ -17314,6 +17314,16 @@
         }
     ],
     "centa-co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "centalion": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -23872,16 +23882,6 @@
     "cheonmong": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "chep": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -30673,6 +30673,12 @@
             "rating": 1
         }
     ],
+    "cis equestrian livery": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "cis london & partners": [
         {
             "type": 5,
@@ -34379,6 +34385,12 @@
             "rating": 1
         }
     ],
+    "clearfield envirotech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "clearglass analytics": [
         {
             "type": 1,
@@ -36667,12 +36679,6 @@
             "rating": 1
         }
     ],
-    "cloudshop": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cloudsman it solutions": [
         {
             "type": 1,
@@ -36778,6 +36784,12 @@
         }
     ],
     "cloux": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "clove": [
         {
             "type": 1,
             "rating": 1
@@ -38761,12 +38773,6 @@
             "rating": 1
         }
     ],
-    "coda to coda": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "codaire": [
         {
             "type": 1,
@@ -40077,12 +40083,6 @@
             "rating": 1
         }
     ],
-    "colian": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "coliance": [
         {
             "type": 1,
@@ -40255,11 +40255,11 @@
     ],
     "collective iq": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -41731,12 +41731,6 @@
             "rating": 1
         }
     ],
-    "commissionbeis menachem chabad lubavitch": [
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
     "commissioning agents international": [
         {
             "type": 1,
@@ -42341,12 +42335,6 @@
         {
             "type": 10,
             "rating": 2
-        }
-    ],
-    "community renewal trust": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "community revival": [
@@ -44566,16 +44554,6 @@
     "conisbrough cricket club": [
         {
             "type": 12,
-            "rating": 1
-        }
-    ],
-    "conjecture": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -47284,12 +47262,6 @@
         }
     ],
     "coolways-": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "coombe academy trust": [
         {
             "type": 1,
             "rating": 1
@@ -52415,12 +52387,6 @@
             "rating": 1
         }
     ],
-    "craft machine": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "craft minds": [
         {
             "type": 1,
@@ -54665,12 +54631,6 @@
             "rating": 1
         }
     ],
-    "crewton care": [
-        {
-            "type": 1,
-            "rating": 4
-        }
-    ],
     "crex technologies": [
         {
             "type": 1,
@@ -56081,12 +56041,6 @@
             "rating": 1
         }
     ],
-    "crow events": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "crow wood leisure": [
         {
             "type": 1,
@@ -56295,6 +56249,12 @@
             "rating": 1
         }
     ],
+    "crown concrete": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "crown convenience": [
         {
             "type": 1,
@@ -56473,12 +56433,6 @@
             "rating": 1
         }
     ],
-    "crown pharmacovigilance": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "crown plus": [
         {
             "type": 1,
@@ -56562,12 +56516,6 @@
         }
     ],
     "crowne home care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "crowne plaza reading east": [
         {
             "type": 1,
             "rating": 1
@@ -58906,12 +58854,6 @@
         }
     ],
     "curation zone": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "curcumin": [
         {
             "type": 1,
             "rating": 1

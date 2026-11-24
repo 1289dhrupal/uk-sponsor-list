@@ -2563,12 +2563,6 @@
             "rating": 1
         }
     ],
-    "ladybird lane nursery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ladybird montessori nursery": [
         {
             "type": 1,
@@ -9029,12 +9023,6 @@
             "rating": 1
         }
     ],
-    "leec": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "leech mechanical": [
         {
             "type": 1,
@@ -11279,12 +11267,6 @@
             "rating": 1
         }
     ],
-    "lestari ldn": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "lester and hamilton": [
         {
             "type": 1,
@@ -12897,6 +12879,12 @@
             "rating": 1
         }
     ],
+    "liberay legal": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "liberis": [
         {
             "type": 1,
@@ -13417,6 +13405,12 @@
         {
             "type": 1,
             "rating": 1
+        }
+    ],
+    "life for a kid": [
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "life health foods": [
@@ -14065,6 +14059,18 @@
             "rating": 1
         }
     ],
+    "light print": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "light print london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "light research": [
         {
             "type": 1,
@@ -14126,12 +14132,6 @@
     "lightcliffe & halifax cricket club": [
         {
             "type": 12,
-            "rating": 1
-        }
-    ],
-    "lightdale trading": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -16243,12 +16243,6 @@
             "rating": 1
         }
     ],
-    "links security": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "linksmax": [
         {
             "type": 1,
@@ -17442,12 +17436,6 @@
     "little giants volleyball club": [
         {
             "type": 12,
-            "rating": 1
-        }
-    ],
-    "little goose": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -20786,6 +20774,12 @@
         }
     ],
     "loftme": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "log h network": [
         {
             "type": 1,
             "rating": 1
@@ -25816,6 +25810,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "loudlocal": [
         {
             "type": 1,
             "rating": 1

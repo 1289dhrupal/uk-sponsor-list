@@ -4907,12 +4907,6 @@
             "rating": 1
         }
     ],
-    "aaa eagles": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "aaa enterprises gloucester": [
         {
             "type": 1,
@@ -7392,12 +7386,6 @@
         }
     ],
     "abbeywell veterinary clinic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "abbeywood house care": [
         {
             "type": 1,
             "rating": 1
@@ -9942,12 +9930,6 @@
     "ac & aa": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "ac and ja brodie": [
-        {
-            "type": 12,
             "rating": 1
         }
     ],
@@ -16734,6 +16716,12 @@
     "adrenaline alley": [
         {
             "type": 12,
+            "rating": 1
+        }
+    ],
+    "adria news network sales": [
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -26115,6 +26103,12 @@
             "rating": 1
         }
     ],
+    "akin palmer": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "akinn": [
         {
             "type": 1,
@@ -26778,12 +26772,6 @@
         }
     ],
     "al aqsa fish market": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "al aqsa travel & tour": [
         {
             "type": 1,
             "rating": 1
@@ -29295,6 +29283,12 @@
             "rating": 1
         }
     ],
+    "alcemi": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "alcester grammar school": [
         {
             "type": 1,
@@ -31629,11 +31623,11 @@
     ],
     "alison education": [
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -32707,12 +32701,6 @@
             "rating": 1
         }
     ],
-    "allbound": [
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "allbro s pharmacy": [
         {
             "type": 1,
@@ -33426,12 +33414,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "allied engines": [
         {
             "type": 1,
             "rating": 1
@@ -44111,12 +44093,6 @@
             "rating": 1
         }
     ],
-    "animmersion": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "animoca brands": [
         {
             "type": 1,
@@ -47495,12 +47471,6 @@
             "rating": 1
         }
     ],
-    "apna tyres": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "apocom kitchen community interest company": [
         {
             "type": 1,
@@ -50719,12 +50689,6 @@
             "rating": 2
         }
     ],
-    "arcade": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "arcade newsagents": [
         {
             "type": 1,
@@ -51199,6 +51163,10 @@
         {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         },
         {
             "type": 2,
@@ -52250,12 +52218,6 @@
         }
     ],
     "areli care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "aren enterprises": [
         {
             "type": 1,
             "rating": 1
@@ -55079,19 +55041,13 @@
             "rating": 1
         }
     ],
-    "arsak": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "arsenal football club": [
         {
-            "type": 12,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 12,
             "rating": 1
         },
         {
@@ -55100,6 +55056,10 @@
         }
     ],
     "arsenal women football club": [
+        {
+            "type": 1,
+            "rating": 1
+        },
         {
             "type": 12,
             "rating": 1
@@ -55622,12 +55582,6 @@
         }
     ],
     "arth pvt": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "artheal": [
         {
             "type": 1,
             "rating": 1
@@ -57887,12 +57841,6 @@
             "rating": 1
         }
     ],
-    "asgard estates": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "asgard": [
         {
             "type": 1,
@@ -58224,12 +58172,6 @@
         }
     ],
     "ashbrook care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ashbrookes": [
         {
             "type": 1,
             "rating": 1
@@ -59692,12 +59634,6 @@
         }
     ],
     "asian harvest butchers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "asian kitchen hull": [
         {
             "type": 1,
             "rating": 1
@@ -73280,12 +73216,6 @@
         }
     ],
     "andover store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "asha s restaurant": [
         {
             "type": 1,
             "rating": 1

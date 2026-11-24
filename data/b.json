@@ -3053,12 +3053,6 @@
             "rating": 1
         }
     ],
-    "bains & hayre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bains healthcare": [
         {
             "type": 1,
@@ -8733,12 +8727,6 @@
             "rating": 1
         }
     ],
-    "bath best food": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bath college": [
         {
             "type": 1,
@@ -10750,12 +10738,6 @@
         }
     ],
     "be bird": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "be bold lc": [
         {
             "type": 1,
             "rating": 1
@@ -13525,6 +13507,12 @@
             "rating": 1
         }
     ],
+    "beis menachem chabad lubavitch": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "beit el zaytoun": [
         {
             "type": 1,
@@ -15526,6 +15514,12 @@
         }
     ],
     "bluebird care worcester wychavon & north cotswolds": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "benjamin solicitors t/as integrity law": [
         {
             "type": 1,
             "rating": 1
@@ -24199,12 +24193,6 @@
             "rating": 1
         }
     ],
-    "bizbell ventures": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bizclik media": [
         {
             "type": 1,
@@ -28016,6 +28004,12 @@
         }
     ],
     "blue latan": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "blue leaf composites": [
         {
             "type": 1,
             "rating": 1
@@ -34429,12 +34423,6 @@
             "rating": 1
         }
     ],
-    "bowman power": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bowman riley architects": [
         {
             "type": 1,
@@ -37769,12 +37757,6 @@
             "rating": 1
         }
     ],
-    "briarcroft care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "briardale road g & s": [
         {
             "type": 1,
@@ -38795,13 +38777,19 @@
             "rating": 1
         }
     ],
-    "brigad": [
+    "briffa legal": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "brigad": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -50771,6 +50759,12 @@
             "rating": 1
         }
     ],
+    "bliss care home": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "bodyset": [
         {
             "type": 1,
@@ -51470,6 +51464,12 @@
         }
     ],
     "bridge street stores": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "briarcroft care home": [
         {
             "type": 1,
             "rating": 1

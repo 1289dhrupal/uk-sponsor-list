@@ -11427,6 +11427,12 @@
             "rating": 1
         }
     ],
+    "haynote": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hayo u": [
         {
             "type": 1,
@@ -15244,6 +15250,12 @@
         }
     ],
     "helix hire": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "helix learning trust": [
         {
             "type": 1,
             "rating": 1
@@ -19289,12 +19301,6 @@
             "rating": 1
         }
     ],
-    "higher healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "higher jump logistics": [
         {
             "type": 1,
@@ -21117,16 +21123,6 @@
             "rating": 2
         }
     ],
-    "hindu religious association": [
-        {
-            "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
     "hindu samaj sheffield": [
         {
             "type": 2,
@@ -21750,12 +21746,6 @@
         }
     ],
     "hispeed": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "histocyte laboratories": [
         {
             "type": 1,
             "rating": 1
@@ -28311,12 +28301,6 @@
             "rating": 1
         }
     ],
-    "houndswood house care home": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hounsdown school": [
         {
             "type": 1,
@@ -28986,6 +28970,16 @@
         }
     ],
     "hovedene hotel": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hover": [
+        {
+            "type": 7,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -30971,6 +30965,18 @@
             "rating": 1
         }
     ],
+    "hugh and liam mcquaid": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "humac engineering": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hugh baird college": [
         {
             "type": 1,
@@ -31328,12 +31334,6 @@
         }
     ],
     "humaans software": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "humac engineering": [
         {
             "type": 1,
             "rating": 1
@@ -32816,6 +32816,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hvl solutions": [
         {
             "type": 1,
             "rating": 1

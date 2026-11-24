@@ -2031,12 +2031,6 @@
             "rating": 1
         }
     ],
-    "2r capital investment management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "2r1": [
         {
             "type": 1,
@@ -3733,6 +3727,12 @@
             "rating": 1
         }
     ],
+    "4ei": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "4ever care": [
         {
             "type": 1,
@@ -3886,6 +3886,10 @@
         }
     ],
     "4site consulting": [
+        {
+            "type": 7,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -4648,12 +4652,6 @@
         }
     ],
     "73 wr": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "75 media": [
         {
             "type": 1,
             "rating": 1

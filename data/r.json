@@ -1449,12 +1449,6 @@
             "rating": 1
         }
     ],
-    "r b a": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "r b grill": [
         {
             "type": 1,
@@ -4434,6 +4428,12 @@
         }
     ],
     "raida care london": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "raiden industries": [
         {
             "type": 1,
             "rating": 1
@@ -8103,19 +8103,13 @@
             "rating": 1
         }
     ],
-    "rational labelling and marking systems": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rational": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -9733,6 +9727,20 @@
             "rating": 1
         }
     ],
+    "rccg mount zion liverpool": [
+        {
+            "type": 10,
+            "rating": 2
+        },
+        {
+            "type": 11,
+            "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "rccg oldbury on the rock": [
         {
             "type": 10,
@@ -11264,12 +11272,6 @@
         }
     ],
     "realm investment house": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "realm staffing solutions": [
         {
             "type": 1,
             "rating": 1
@@ -16150,12 +16152,6 @@
         }
     ],
     "relife physiotherapy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "relifetech recycling": [
         {
             "type": 1,
             "rating": 1
@@ -30759,12 +30755,6 @@
             "rating": 1
         }
     ],
-    "rossi southend on sea": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rossi cafe": [
         {
             "type": 1,
@@ -32838,12 +32828,6 @@
         }
     ],
     "rpg healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "rpg strategy partners": [
         {
             "type": 1,
             "rating": 1
@@ -36578,12 +36562,6 @@
         }
     ],
     "reena food store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "raj of kensington": [
         {
             "type": 1,
             "rating": 1

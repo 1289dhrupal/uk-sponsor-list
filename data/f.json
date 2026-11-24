@@ -2599,12 +2599,6 @@
             "rating": 1
         }
     ],
-    "faisal curry house & pizza bar": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "faisal hairdressers": [
         {
             "type": 1,
@@ -4480,6 +4474,12 @@
         }
     ],
     "farming partners arbigland": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "farming partners holdings": [
         {
             "type": 1,
             "rating": 1
@@ -7331,12 +7331,6 @@
             "rating": 1
         }
     ],
-    "fenton pharmaceuticals": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fenton property": [
         {
             "type": 1,
@@ -8535,11 +8529,11 @@
     ],
     "fiege logistics dirft": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -8659,19 +8653,13 @@
             "rating": 1
         }
     ],
-    "fieldbay management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fieldfisher": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -9352,6 +9340,12 @@
         }
     ],
     "finance advice helpline": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "finance and business academy": [
         {
             "type": 1,
             "rating": 1
@@ -12853,12 +12847,6 @@
             "rating": 1
         }
     ],
-    "five lads goodmayes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "five mile films": [
         {
             "type": 4,
@@ -13045,12 +13033,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "fivefold studios": [
-        {
-            "type": 4,
-            "rating": 2
         }
     ],
     "fiver london": [
@@ -13276,6 +13258,12 @@
         }
     ],
     "fizzy moon": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "fizzzbee": [
         {
             "type": 1,
             "rating": 1
@@ -15204,12 +15192,6 @@
         }
     ],
     "floriental": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "florin court capital": [
         {
             "type": 1,
             "rating": 1
@@ -20469,12 +20451,6 @@
             "rating": 1
         }
     ],
-    "four capital": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "four counties restaurant / four counties spice": [
         {
             "type": 1,
@@ -21341,12 +21317,6 @@
         {
             "type": 4,
             "rating": 2
-        }
-    ],
-    "framework edinburgh": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "framework housing association": [
@@ -27096,12 +27066,6 @@
         }
     ],
     "futurenet publishing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "futureon": [
         {
             "type": 1,
             "rating": 1

@@ -1613,12 +1613,6 @@
             "rating": 1
         }
     ],
-    "ukhifu": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ukhomess": [
         {
             "type": 1,
@@ -4973,20 +4967,14 @@
             "rating": 1
         }
     ],
-    "united it and consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "united jewish israel appeal": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "united kars": [
@@ -5822,12 +5810,6 @@
         }
     ],
     "universal dispense systems": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "universal distribution": [
         {
             "type": 1,
             "rating": 1
@@ -7889,6 +7871,12 @@
             "rating": 1
         }
     ],
+    "upperthorpe medical centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "uppingham community college": [
         {
             "type": 1,
@@ -8333,6 +8321,12 @@
             "rating": 1
         }
     ],
+    "urban cgi": [
+        {
+            "type": 3,
+            "rating": 3
+        }
+    ],
     "urban choola ta urban choola": [
         {
             "type": 1,
@@ -8672,6 +8666,12 @@
         }
     ],
     "urbanbubble": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "urbanchain enterprise logistics": [
         {
             "type": 1,
             "rating": 1

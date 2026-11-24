@@ -1677,12 +1677,6 @@
             "rating": 1
         }
     ],
-    "ibr property": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ibra s pizza & grill aka i & i pizza & grill": [
         {
             "type": 1,
@@ -2042,6 +2036,10 @@
     "icbc london": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -3636,6 +3634,12 @@
     "idx technology europe": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "ie eventing": [
+        {
+            "type": 12,
             "rating": 1
         }
     ],
@@ -6872,6 +6876,12 @@
         }
     ],
     "imperf consulting": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "imperial hospitality management": [
         {
             "type": 1,
             "rating": 1
@@ -10877,6 +10887,12 @@
             "rating": 1
         }
     ],
+    "infocorperp": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "infocus charity": [
         {
             "type": 1,
@@ -12865,6 +12881,12 @@
             "rating": 1
         }
     ],
+    "innowise works": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "innowood": [
         {
             "type": 1,
@@ -13036,16 +13058,6 @@
         }
     ],
     "inovia capital": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
-    "inoxilos": [
         {
             "type": 1,
             "rating": 1
@@ -17819,6 +17831,12 @@
             "rating": 1
         }
     ],
+    "intigriti": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "intimacy in arts": [
         {
             "type": 1,
@@ -18557,6 +18575,12 @@
             "rating": 1
         }
     ],
+    "inverness smile centre": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "inverness visionplus": [
         {
             "type": 1,
@@ -18582,6 +18606,12 @@
         }
     ],
     "inverskilavulin estate": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "invert developments": [
         {
             "type": 1,
             "rating": 1
@@ -21903,13 +21933,13 @@
             "rating": 1
         }
     ],
-    "iso sushi chapel ash": [
+    "iso sushi cheadle": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "iso sushi cheadle": [
+    "iso sushi ca": [
         {
             "type": 1,
             "rating": 1
@@ -23686,12 +23716,6 @@
         }
     ],
     "ivors academy trust": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ivory & ledoux": [
         {
             "type": 1,
             "rating": 1
