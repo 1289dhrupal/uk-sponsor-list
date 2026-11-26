@@ -495,12 +495,6 @@
             "rating": 1
         }
     ],
-    "taste of belgium": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tasty chicken peri peri": [
         {
             "type": 1,
@@ -882,12 +876,6 @@
         }
     ],
     "the bromley court hotel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the lowdown": [
         {
             "type": 1,
             "rating": 1
@@ -6493,12 +6481,6 @@
             "rating": 1
         }
     ],
-    "tamago": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tamak cafe": [
         {
             "type": 1,
@@ -10121,12 +10103,6 @@
             "rating": 1
         }
     ],
-    "tbtt direct": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tc beattie & co": [
         {
             "type": 1,
@@ -12203,6 +12179,12 @@
             "rating": 1
         }
     ],
+    "technology strategy roleplay": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "technology-check": [
         {
             "type": 1,
@@ -12993,12 +12975,6 @@
             "rating": 1
         }
     ],
-    "teesside care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "teesside": [
         {
             "type": 1,
@@ -13616,6 +13592,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "teleleo": [
         {
             "type": 1,
             "rating": 1
@@ -15653,6 +15635,12 @@
             "rating": 1
         }
     ],
+    "testcard": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "testdel": [
         {
             "type": 1,
@@ -17577,12 +17565,6 @@
             "rating": 1
         }
     ],
-    "tharai": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tharmalingam mukilavarman": [
         {
             "type": 1,
@@ -18643,12 +18625,6 @@
             "rating": 1
         }
     ],
-    "the armada hospitality": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the aroma indian takeaway": [
         {
             "type": 1,
@@ -19388,12 +19364,6 @@
         }
     ],
     "the beautiful truth": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the beauty alliance international": [
         {
             "type": 1,
             "rating": 1
@@ -25569,6 +25539,12 @@
             "rating": 1
         }
     ],
+    "the future governance forum": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "the future vehicles company": [
         {
             "type": 1,
@@ -27060,12 +27036,6 @@
         }
     ],
     "the health lottery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -30156,6 +30126,12 @@
         }
     ],
     "the love tank cic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the lowdown": [
         {
             "type": 1,
             "rating": 1
@@ -38196,12 +38172,6 @@
         }
     ],
     "the syed": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the sygnature dish": [
         {
             "type": 1,
             "rating": 1
@@ -50589,6 +50559,12 @@
             "rating": 1
         }
     ],
+    "totalfit personal training": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "totall ventures": [
         {
             "type": 1,
@@ -51481,11 +51457,15 @@
     ],
     "toyota racing gmbh branch": [
         {
-            "type": 5,
+            "type": 12,
             "rating": 1
         },
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -55793,6 +55773,12 @@
             "rating": 1
         }
     ],
+    "trimontium capital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "trimontium museum trust": [
         {
             "type": 1,
@@ -57292,6 +57278,12 @@
         }
     ],
     "trostrey store": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "troubadour goods": [
         {
             "type": 1,
             "rating": 1
@@ -60633,6 +60625,12 @@
             "rating": 1
         }
     ],
+    "tuzdemir co": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tuzios": [
         {
             "type": 1,
@@ -61150,6 +61148,12 @@
         }
     ],
     "twig": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "twig delight": [
         {
             "type": 1,
             "rating": 1

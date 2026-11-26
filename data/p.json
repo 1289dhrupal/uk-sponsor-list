@@ -1771,12 +1771,6 @@
             "rating": 1
         }
     ],
-    "p cars": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "p chapman construction": [
         {
             "type": 1,
@@ -1976,12 +1970,6 @@
         }
     ],
     "p turley & sons": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "p w circuits": [
         {
             "type": 1,
             "rating": 1
@@ -3567,6 +3555,12 @@
             "rating": 1
         }
     ],
+    "pakeeza": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pakeezah gourmet": [
         {
             "type": 1,
@@ -4377,12 +4371,6 @@
             "rating": 1
         }
     ],
-    "pamis care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "pampeano": [
         {
             "type": 1,
@@ -4542,12 +4530,6 @@
         }
     ],
     "panama travel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "panandpaper": [
         {
             "type": 1,
             "rating": 1
@@ -5142,12 +5124,6 @@
         }
     ],
     "pantaleon": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "pantechnicon london": [
         {
             "type": 1,
             "rating": 1
@@ -5852,6 +5828,12 @@
         }
     ],
     "paragkumar suryakant suthar aka gajjar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "paraglide ai": [
         {
             "type": 1,
             "rating": 1
@@ -6893,12 +6875,6 @@
             "rating": 1
         }
     ],
-    "park restaurant trading": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "park road fish & chips shop": [
         {
             "type": 1,
@@ -6952,12 +6928,6 @@
         }
     ],
     "park stores": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "park stores gateshead": [
         {
             "type": 1,
             "rating": 1
@@ -7908,16 +7878,6 @@
         }
     ],
     "partners in change consulting": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "partners in performance": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -23269,16 +23229,6 @@
             "rating": 1
         }
     ],
-    "planit software testing": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "planlab ai": [
         {
             "type": 1,
@@ -23524,6 +23474,10 @@
         }
     ],
     "plasma labs": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -23840,7 +23794,7 @@
         },
         {
             "type": 1,
-            "rating": 4
+            "rating": 1
         }
     ],
     "platinum exec transfers": [
@@ -24448,12 +24402,6 @@
         }
     ],
     "plimsoll publishing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "plk chicken": [
         {
             "type": 1,
             "rating": 1
@@ -31667,12 +31615,6 @@
             "rating": 1
         }
     ],
-    "premier business": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "premier trading": [
         {
             "type": 1,
@@ -35301,6 +35243,12 @@
             "rating": 1
         }
     ],
+    "pritex": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "pritpal chana architects": [
         {
             "type": 1,
@@ -36777,6 +36725,12 @@
             "rating": 1
         }
     ],
+    "professional health and care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "professional healthcare": [
         {
             "type": 1,
@@ -37564,12 +37518,6 @@
         }
     ],
     "prolectric": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "prolibertas care solutions": [
         {
             "type": 1,
             "rating": 1
@@ -40063,12 +40011,6 @@
             "rating": 1
         }
     ],
-    "psg civils": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "psg equity": [
         {
             "type": 1,
@@ -41314,12 +41256,6 @@
         }
     ],
     "punjabi thali & sweets": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "punto italian restaurant": [
         {
             "type": 1,
             "rating": 1

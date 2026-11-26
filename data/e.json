@@ -15453,6 +15453,12 @@
             "rating": 2
         }
     ],
+    "embassy site": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "embed": [
         {
             "type": 1,
@@ -18069,12 +18075,6 @@
             "rating": 1
         }
     ],
-    "energex eco": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "energex partners": [
         {
             "type": 1,
@@ -18206,10 +18206,6 @@
         }
     ],
     "energy efficiency": [
-        {
-            "type": 1,
-            "rating": 1
-        },
         {
             "type": 5,
             "rating": 1
@@ -19123,12 +19119,12 @@
     ],
     "english touring opera": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "english touring theatre": [
@@ -19492,12 +19488,6 @@
         }
     ],
     "enlightened care generation": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "enlightenment care": [
         {
             "type": 1,
             "rating": 1
@@ -21789,23 +21779,29 @@
             "rating": 1
         }
     ],
-    "epsilon international": [
-        {
-            "type": 5,
-            "rating": 1
-        },
+    "epsilon heat transfer": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "epsilon telecommunications": [
+    "epsilon international": [
         {
             "type": 1,
             "rating": 1
         },
         {
             "type": 5,
+            "rating": 1
+        }
+    ],
+    "epsilon telecommunications": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24644,12 +24640,6 @@
         }
     ],
     "esso wholesale": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "essure technologies": [
         {
             "type": 1,
             "rating": 1
@@ -32749,7 +32739,7 @@
             "rating": 1
         }
     ],
-    "ezo charging": [
+    "ezo ukasset one": [
         {
             "type": 1,
             "rating": 1
@@ -32757,11 +32747,11 @@
     ],
     "ezoic": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

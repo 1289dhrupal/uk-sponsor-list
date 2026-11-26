@@ -167,6 +167,12 @@
             "rating": 1
         }
     ],
+    "selekt chicken": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sedgefield convenient store": [
         {
             "type": 1,
@@ -222,6 +228,12 @@
         }
     ],
     "seahaven dental practic": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "starbucks": [
         {
             "type": 1,
             "rating": 1
@@ -2364,12 +2376,6 @@
         }
     ],
     "sherborne convenience shop": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "secret spices": [
         {
             "type": 1,
             "rating": 1
@@ -5171,18 +5177,6 @@
             "rating": 1
         }
     ],
-    "saad london": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "saad": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "saadia": [
         {
             "type": 1,
@@ -6604,6 +6598,12 @@
         }
     ],
     "safeguarding security solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "safehands recruitment": [
         {
             "type": 1,
             "rating": 1
@@ -10378,6 +10378,12 @@
         }
     ],
     "sam": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sam solicitors": [
         {
             "type": 1,
             "rating": 1
@@ -16522,6 +16528,12 @@
         }
     ],
     "sazerac": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sazy capital holdings": [
         {
             "type": 1,
             "rating": 1
@@ -24125,13 +24137,19 @@
             "rating": 1
         }
     ],
-    "sepura": [
+    "septic tank solutions": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "sepura": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],
@@ -24536,12 +24554,6 @@
         }
     ],
     "serene surroundings": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "serenissima energy": [
         {
             "type": 1,
             "rating": 1
@@ -28571,6 +28583,12 @@
             "rating": 1
         }
     ],
+    "shanthy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "shanti dham": [
         {
             "type": 10,
@@ -29184,12 +29202,6 @@
         }
     ],
     "sharp glazing": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sharp hawk": [
         {
             "type": 1,
             "rating": 1
@@ -29822,12 +29834,6 @@
         }
     ],
     "sheen engineering consultants": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sheep included": [
         {
             "type": 1,
             "rating": 1
@@ -31391,12 +31397,6 @@
             "rating": 1
         }
     ],
-    "shikumen investment w12": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shilam": [
         {
             "type": 1,
@@ -31660,12 +31660,6 @@
         }
     ],
     "shine tutor": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "shinedream global": [
         {
             "type": 1,
             "rating": 1
@@ -35193,12 +35187,6 @@
             "rating": 1
         }
     ],
-    "sibelius": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sibfordstores": [
         {
             "type": 1,
@@ -35347,12 +35335,12 @@
     ],
     "sid gentle films": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "sid hatton": [
@@ -46213,16 +46201,16 @@
     ],
     "smarter grid solutions": [
         {
-            "type": 8,
-            "rating": 2
-        },
-        {
             "type": 5,
             "rating": 1
         },
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 8,
+            "rating": 2
         }
     ],
     "smarter rent": [
@@ -48720,6 +48708,12 @@
         }
     ],
     "sns healthcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "sns international": [
         {
             "type": 1,
             "rating": 1
@@ -68747,6 +68741,12 @@
             "rating": 1
         }
     ],
+    "starlight labs": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "starlight linen": [
         {
             "type": 1,
@@ -70929,6 +70929,12 @@
             "rating": 1
         }
     ],
+    "sterling care solutions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sterling catering": [
         {
             "type": 1,
@@ -71277,11 +71283,11 @@
     ],
     "stevenage football club": [
         {
-            "type": 1,
+            "type": 12,
             "rating": 1
         },
         {
-            "type": 12,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -71944,6 +71950,12 @@
         }
     ],
     "stoats porridge bars": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "stobart premium pet food": [
         {
             "type": 1,
             "rating": 1
@@ -78351,6 +78363,12 @@
             "rating": 1
         }
     ],
+    "summon digital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "summr": [
         {
             "type": 1,
@@ -79426,7 +79444,7 @@
     "sunnyside house": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "sunnyside medical centre": [
@@ -80563,6 +80581,12 @@
             "rating": 1
         }
     ],
+    "supercharger north": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "supercharger restaurants": [
         {
             "type": 1,
@@ -81206,6 +81230,12 @@
         }
     ],
     "supra fast food supplies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "supra products": [
         {
             "type": 1,
             "rating": 1
@@ -84007,12 +84037,6 @@
             "rating": 1
         }
     ],
-    "swap architects": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "swap circle": [
         {
             "type": 1,
@@ -84344,12 +84368,6 @@
         }
     ],
     "sweet & spice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sweet affairs hounslow": [
         {
             "type": 1,
             "rating": 1

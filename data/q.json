@@ -1945,12 +1945,6 @@
             "rating": 1
         }
     ],
-    "quality bites": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "quality booze": [
         {
             "type": 1,
@@ -4930,6 +4924,12 @@
         }
     ],
     "qyh": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "qyrus": [
         {
             "type": 1,
             "rating": 1

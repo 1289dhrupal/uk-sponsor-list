@@ -3759,6 +3759,12 @@
             "rating": 1
         }
     ],
+    "off market": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "off site solutions r t": [
         {
             "type": 1,
@@ -5502,7 +5508,7 @@
     "olive care solutions": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "olive farmer": [
@@ -9419,6 +9425,12 @@
             "rating": 1
         }
     ],
+    "opa": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "opal banqueting": [
         {
             "type": 1,
@@ -11669,16 +11681,6 @@
             "rating": 1
         }
     ],
-    "orange tree trust": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 4,
-            "rating": 2
-        }
-    ],
     "orange twist": [
         {
             "type": 1,
@@ -12553,19 +12555,19 @@
             "rating": 1
         }
     ],
-    "oremus accountants": [
-        {
-            "type": 5,
-            "rating": 1
-        },
+    "oremus dental": [
         {
             "type": 1,
             "rating": 1
         }
     ],
-    "oremus dental": [
+    "oremus": [
         {
             "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],

@@ -985,6 +985,10 @@
         {
             "type": 5,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "f8 it solutions": [
@@ -2500,12 +2504,6 @@
         }
     ],
     "fairway of course": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fairway trading": [
         {
             "type": 1,
             "rating": 1
@@ -13805,6 +13803,12 @@
             "rating": 1
         }
     ],
+    "flatley construction": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "flatmead": [
         {
             "type": 1,
@@ -18220,6 +18224,12 @@
         }
     ],
     "forest dispensing chemists": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "forest edge practice": [
         {
             "type": 1,
             "rating": 1

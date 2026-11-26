@@ -8785,12 +8785,6 @@
             "rating": 1
         }
     ],
-    "decorative concepts": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "decorative panels holdings": [
         {
             "type": 1,
@@ -10506,6 +10500,12 @@
         }
     ],
     "delta capita": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "delta caravans international": [
         {
             "type": 1,
             "rating": 1
@@ -16679,12 +16679,6 @@
             "rating": 1
         }
     ],
-    "dibco": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "dibend": [
         {
             "type": 1,
@@ -17020,6 +17014,16 @@
     "digi technology": [
         {
             "type": 1,
+            "rating": 1
+        }
+    ],
+    "digi telecom": [
+        {
+            "type": 1,
+            "rating": 1
+        },
+        {
+            "type": 5,
             "rating": 1
         }
     ],
@@ -22170,6 +22174,12 @@
         }
     ],
     "doctor clare orrom swan doctor thanh mai nguyen": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "doctor cost": [
         {
             "type": 1,
             "rating": 1
@@ -29768,12 +29778,6 @@
         }
     ],
     "dunamis homes": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "dunbai international": [
         {
             "type": 1,
             "rating": 1

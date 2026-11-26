@@ -2373,12 +2373,6 @@
             "rating": 1
         }
     ],
-    "r&s convenience store": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "r&s pharma": [
         {
             "type": 1,
@@ -5653,12 +5647,6 @@
             "rating": 1
         }
     ],
-    "rajpoot ilminster": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rajpoot indian": [
         {
             "type": 1,
@@ -6575,12 +6563,6 @@
             "rating": 1
         }
     ],
-    "ramsgate spice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "ramsha private": [
         {
             "type": 1,
@@ -6708,6 +6690,12 @@
         }
     ],
     "rana traders 2": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rana transport": [
         {
             "type": 1,
             "rating": 1
@@ -7973,12 +7961,6 @@
             "rating": 1
         }
     ],
-    "rate masters": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rated labs": [
         {
             "type": 1,
@@ -8076,12 +8058,6 @@
     "rathnakumar rathinajothy": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "rathplace developments": [
-        {
-            "type": 12,
             "rating": 1
         }
     ],
@@ -11443,6 +11419,12 @@
             "rating": 1
         }
     ],
+    "rebecca menzies racing": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rebekah s restoration": [
         {
             "type": 1,
@@ -11921,12 +11903,6 @@
             "rating": 1
         }
     ],
-    "rectory farm supermarket": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "rectory house care t/as rectory house nursing home": [
         {
             "type": 1,
@@ -11952,16 +11928,6 @@
     "recurrent energy power": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "recursion london": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -12024,12 +11990,6 @@
         }
     ],
     "recycling": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "recycling solutions plastics": [
         {
             "type": 1,
             "rating": 1
@@ -12735,12 +12695,6 @@
             "rating": 1
         }
     ],
-    "red rose travel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "red rover interactive": [
         {
             "type": 1,
@@ -13070,6 +13024,12 @@
             "type": 5,
             "rating": 1
         },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "redcoat express": [
         {
             "type": 1,
             "rating": 1
@@ -15045,7 +15005,7 @@
             "rating": 1
         }
     ],
-    "regional care cambridge": [
+    "regional care peterborough": [
         {
             "type": 1,
             "rating": 1
@@ -15490,12 +15450,6 @@
         }
     ],
     "reimagining general practice health support service": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "reina be": [
         {
             "type": 1,
             "rating": 1
@@ -18237,12 +18191,6 @@
             "rating": 1
         }
     ],
-    "response360": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "responsible home carers": [
         {
             "type": 1,
@@ -18660,12 +18608,6 @@
         }
     ],
     "retail & financial": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "retail assist": [
         {
             "type": 1,
             "rating": 1
@@ -19599,12 +19541,6 @@
             "rating": 1
         }
     ],
-    "revotech systems": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "revqore consulting": [
         {
             "type": 1,
@@ -20176,6 +20112,12 @@
         }
     ],
     "rgm service company": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "rgs forfar": [
         {
             "type": 1,
             "rating": 1
@@ -22599,6 +22541,12 @@
             "rating": 1
         }
     ],
+    "rima food": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rimac energy r&d": [
         {
             "type": 1,
@@ -24021,14 +23969,14 @@
             "rating": 1
         }
     ],
-    "river of life church": [
-        {
-            "type": 11,
-            "rating": 2
-        },
+    "river of life church dumfries": [
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "river of life city church": [
@@ -28219,6 +28167,12 @@
             "rating": 2
         }
     ],
+    "rodeos bbq birmingham": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rodericks dental partners": [
         {
             "type": 1,
@@ -31563,6 +31517,12 @@
             "rating": 1
         }
     ],
+    "rowlinson constructions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "rowm": [
         {
             "type": 1,
@@ -34499,13 +34459,19 @@
             "rating": 1
         }
     ],
-    "ruder finn": [
+    "ruddy joinery": [
         {
             "type": 1,
             "rating": 1
-        },
+        }
+    ],
+    "ruder finn": [
         {
             "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
             "rating": 1
         }
     ],

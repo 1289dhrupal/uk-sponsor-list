@@ -4399,14 +4399,26 @@
             "rating": 1
         }
     ],
-    "hamilton academical football club": [
+    "hamilton & pollock 2012": [
         {
-            "type": 4,
-            "rating": 2
-        },
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hdkp": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hamilton academical football club": [
         {
             "type": 12,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         },
         {
             "type": 1,
@@ -16827,6 +16839,12 @@
             "rating": 1
         }
     ],
+    "heritage research": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "heritage staffing": [
         {
             "type": 1,
@@ -21669,6 +21687,12 @@
             "rating": 1
         }
     ],
+    "his tech": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "hisamitsu": [
         {
             "type": 5,
@@ -26289,6 +26313,12 @@
             "rating": 1
         }
     ],
+    "honeysuckle home care": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "honeysys": [
         {
             "type": 1,
@@ -27585,6 +27615,12 @@
             "rating": 1
         }
     ],
+    "horsham dining": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "horsham learning alliance": [
         {
             "type": 1,
@@ -28091,11 +28127,11 @@
     ],
     "hotel technology management htm": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],

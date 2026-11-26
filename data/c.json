@@ -5711,6 +5711,12 @@
             "rating": 1
         }
     ],
+    "campbell plant hire": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "campbell reed": [
         {
             "type": 1,
@@ -8784,12 +8790,6 @@
         }
     ],
     "cardaq": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "cardea financial": [
         {
             "type": 1,
             "rating": 1
@@ -23931,12 +23931,6 @@
             "rating": 1
         }
     ],
-    "cherish able care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cherish home care": [
         {
             "type": 1,
@@ -27357,6 +27351,12 @@
             "rating": 1
         }
     ],
+    "chosen people ministries": [
+        {
+            "type": 2,
+            "rating": 1
+        }
+    ],
     "choton & co ta ck international link": [
         {
             "type": 1,
@@ -27609,6 +27609,16 @@
             "rating": 1
         }
     ],
+    "christ apostolic church - outreach coventry": [
+        {
+            "type": 2,
+            "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
+        }
+    ],
     "christ apostolic church balm of gilead christian ministries international": [
         {
             "type": 2,
@@ -27623,26 +27633,26 @@
     ],
     "christ apostolic church dominion outreach": [
         {
-            "type": 2,
-            "rating": 1
-        },
-        {
             "type": 11,
             "rating": 2
+        },
+        {
+            "type": 2,
+            "rating": 1
         }
     ],
     "christ apostolic church faith chapel": [
         {
-            "type": 1,
-            "rating": 1
+            "type": 11,
+            "rating": 2
         },
         {
             "type": 2,
             "rating": 1
         },
         {
-            "type": 11,
-            "rating": 2
+            "type": 1,
+            "rating": 1
         }
     ],
     "christ apostolic church glorious assembly": [
@@ -27651,11 +27661,11 @@
             "rating": 1
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         }
     ],
@@ -27665,12 +27675,12 @@
             "rating": 2
         },
         {
-            "type": 10,
-            "rating": 2
-        },
-        {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 10,
+            "rating": 2
         }
     ],
     "christ apostolic church international miracle centre": [
@@ -27679,11 +27689,11 @@
             "rating": 1
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         }
     ],
@@ -31978,6 +31988,10 @@
         }
     ],
     "citycoast church citycoast trust": [
+        {
+            "type": 11,
+            "rating": 2
+        },
         {
             "type": 2,
             "rating": 1
@@ -37214,12 +37228,6 @@
         }
     ],
     "clydebank specsavers hearcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "clydesdale bank": [
         {
             "type": 1,
             "rating": 1
@@ -47571,7 +47579,7 @@
             "rating": 1
         }
     ],
-    "coppa collection": [
+    "coppa collective": [
         {
             "type": 1,
             "rating": 1
@@ -49781,12 +49789,6 @@
             "rating": 1
         }
     ],
-    "cosmo buy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cosmo clinic": [
         {
             "type": 1,
@@ -50915,12 +50917,6 @@
             "rating": 1
         }
     ],
-    "courier holdings": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "courmacs legal": [
         {
             "type": 1,
@@ -51236,12 +51232,6 @@
         }
     ],
     "covent garden fx": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "covent garden hardware store": [
         {
             "type": 1,
             "rating": 1
@@ -53793,12 +53783,6 @@
             "rating": 1
         }
     ],
-    "creative support solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "creative synergies consulting": [
         {
             "type": 1,
@@ -56244,12 +56228,6 @@
         }
     ],
     "crown dental care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "crown foods bradford": [
         {
             "type": 1,
             "rating": 1
@@ -59897,12 +59875,6 @@
             "rating": 1
         }
     ],
-    "cw & dk": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cw aberdeen": [
         {
             "type": 1,
@@ -60887,19 +60859,13 @@
             "rating": 1
         }
     ],
-    "cytoswim": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "cyts tours": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],

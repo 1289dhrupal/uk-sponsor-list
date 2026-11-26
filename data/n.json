@@ -203,12 +203,6 @@
             "rating": 1
         }
     ],
-    "newick tandoori": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "newick village tandoori": [
         {
             "type": 1,
@@ -4507,6 +4501,12 @@
             "rating": 1
         }
     ],
+    "nationwide care pharamacy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "nationwide care birmingham central": [
         {
             "type": 1,
@@ -5767,12 +5767,6 @@
             "rating": 1
         }
     ],
-    "naya medicals": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "nayak properties": [
         {
             "type": 1,
@@ -6765,13 +6759,19 @@
             "rating": 1
         }
     ],
+    "nebumi technologies": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "nec art & design": [
         {
-            "type": 3,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 3,
             "rating": 1
         }
     ],
@@ -11721,12 +11721,6 @@
             "rating": 1
         }
     ],
-    "new taste of china": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "new team recovery & repairs": [
         {
             "type": 1,
@@ -14022,7 +14016,7 @@
     "next generation construction": [
         {
             "type": 1,
-            "rating": 1
+            "rating": 4
         }
     ],
     "next generation ict ta fractional teams": [
