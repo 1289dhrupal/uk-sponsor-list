@@ -2303,6 +2303,12 @@
             "rating": 1
         }
     ],
+    "gak capital": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gak enterprises": [
         {
             "type": 1,
@@ -2686,12 +2692,6 @@
         }
     ],
     "galileo energy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gall engineering": [
         {
             "type": 1,
             "rating": 1
@@ -4269,19 +4269,13 @@
             "rating": 1
         }
     ],
-    "gate capital": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "gate church international scio": [
         {
-            "type": 11,
+            "type": 10,
             "rating": 2
         },
         {
-            "type": 10,
+            "type": 11,
             "rating": 2
         },
         {
@@ -4312,12 +4306,6 @@
         }
     ],
     "gate2pharma": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gateford executive travel": [
         {
             "type": 1,
             "rating": 1
@@ -11085,6 +11073,12 @@
             "rating": 2
         }
     ],
+    "girvan early growers": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "gis-mic": [
         {
             "type": 5,
@@ -11158,12 +11152,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gitlife biotech": [
         {
             "type": 1,
             "rating": 1
@@ -11580,12 +11568,6 @@
         }
     ],
     "gks mini market": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gks stores": [
         {
             "type": 1,
             "rating": 1
@@ -12030,6 +12012,12 @@
         }
     ],
     "glasgow traditions": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "glasgow training academy": [
         {
             "type": 1,
             "rating": 1
@@ -13165,18 +13153,6 @@
             "rating": 1
         }
     ],
-    "global access": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "ga24care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "global accommodation": [
         {
             "type": 1,
@@ -14252,12 +14228,6 @@
         },
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "global luxury london": [
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -19519,12 +19489,6 @@
             "rating": 1
         }
     ],
-    "goodall transport": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "goodbody stockbrokers uc": [
         {
             "type": 1,
@@ -20836,12 +20800,6 @@
         }
     ],
     "gp venture": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "gp wise guys": [
         {
             "type": 1,
             "rating": 1
@@ -24589,12 +24547,6 @@
             "rating": 1
         }
     ],
-    "green environment": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "green environment management": [
         {
             "type": 1,
@@ -26896,18 +26848,6 @@
         }
     ],
     "greywacke enterprises": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "greywalls": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "greywalls hotel & chez roux": [
         {
             "type": 1,
             "rating": 1
@@ -32276,10 +32216,6 @@
     "greetings": [
         {
             "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],

@@ -1513,12 +1513,6 @@
             "rating": 1
         }
     ],
-    "wadsley parish church": [
-        {
-            "type": 11,
-            "rating": 2
-        }
-    ],
     "waer systems": [
         {
             "type": 1,
@@ -3253,12 +3247,6 @@
             "rating": 1
         }
     ],
-    "waring and mckenna": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "warings furniture": [
         {
             "type": 1,
@@ -4735,12 +4723,6 @@
         {
             "type": 10,
             "rating": 2
-        }
-    ],
-    "watford grammar school for boys": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "watford hotel": [
@@ -14263,6 +14245,12 @@
             "rating": 1
         }
     ],
+    "will earl": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "will interiors": [
         {
             "type": 1,
@@ -15687,11 +15675,11 @@
     ],
     "winchester procurement": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -16004,12 +15992,6 @@
         }
     ],
     "windrush surgery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "windrush valley school": [
         {
             "type": 1,
             "rating": 1
@@ -19885,12 +19867,6 @@
             "rating": 1
         }
     ],
-    "woodsgift interiors": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "woodsgift joinery": [
         {
             "type": 1,
@@ -20628,12 +20604,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "workforce people solutions": [
         {
             "type": 1,
             "rating": 1

@@ -5009,12 +5009,6 @@
             "rating": 1
         }
     ],
-    "hampton wick royal cricket club": [
-        {
-            "type": 12,
-            "rating": 1
-        }
-    ],
     "hamptons": [
         {
             "type": 1,
@@ -7119,12 +7113,6 @@
             "rating": 1
         }
     ],
-    "hardshell": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hardwick dene": [
         {
             "type": 1,
@@ -8409,19 +8397,7 @@
             "rating": 1
         }
     ],
-    "harris academy greenwich": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "harris academy merton": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "harris academy ockendon": [
         {
             "type": 1,
             "rating": 1
@@ -11551,12 +11527,6 @@
             "rating": 1
         }
     ],
-    "hayward & green aviation": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hayward hotel": [
         {
             "type": 1,
@@ -11565,11 +11535,11 @@
     ],
     "hayward tyler": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -13644,6 +13614,12 @@
         }
     ],
     "hearbuy": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "hearing aid": [
         {
             "type": 1,
             "rating": 1
@@ -18579,12 +18555,6 @@
             "rating": 1
         }
     ],
-    "hibiki": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hibo": [
         {
             "type": 1,
@@ -18721,12 +18691,6 @@
             "rating": 1
         }
     ],
-    "hieta technologies": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "hiex derry operations": [
         {
             "type": 1,
@@ -18834,12 +18798,6 @@
         }
     ],
     "high commission of brunei darussalam": [
-        {
-            "type": 6,
-            "rating": 2
-        }
-    ],
-    "high commission of canada": [
         {
             "type": 6,
             "rating": 2
@@ -23685,12 +23643,6 @@
             "rating": 1
         }
     ],
-    "holborn accountancy tuition": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "holborn community association": [
         {
             "type": 1,
@@ -23702,12 +23654,6 @@
             "type": 5,
             "rating": 1
         },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "holborn studios": [
         {
             "type": 1,
             "rating": 1
@@ -24040,12 +23986,6 @@
         }
     ],
     "holland park dental centre": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hollandgreen": [
         {
             "type": 1,
             "rating": 1
@@ -25409,12 +25349,6 @@
             "rating": 1
         }
     ],
-    "home support matters cic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "home support havering & essex": [
         {
             "type": 1,
@@ -25729,12 +25663,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "homeless world cup foundation": [
-        {
-            "type": 10,
-            "rating": 2
         }
     ],
     "homelink property": [
@@ -26464,12 +26392,6 @@
         }
     ],
     "hook hampshire": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hook norton veterinary": [
         {
             "type": 1,
             "rating": 1
@@ -29766,12 +29688,6 @@
         }
     ],
     "hrh healthcare": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "hrh": [
         {
             "type": 1,
             "rating": 1

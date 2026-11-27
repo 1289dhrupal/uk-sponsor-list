@@ -8953,12 +8953,6 @@
             "rating": 1
         }
     ],
-    "fighting words northern ireland": [
-        {
-            "type": 10,
-            "rating": 2
-        }
-    ],
     "figma": [
         {
             "type": 5,
@@ -11448,12 +11442,6 @@
         }
     ],
     "first contact property": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "first corporate finance": [
         {
             "type": 1,
             "rating": 1
@@ -14141,19 +14129,13 @@
             "rating": 1
         }
     ],
-    "fleetcheck": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "fleetcor europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18911,12 +18893,6 @@
             "rating": 1
         }
     ],
-    "formation media": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "formation physiotherapy": [
         {
             "type": 1,
@@ -19403,11 +19379,11 @@
     ],
     "fortil": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -19490,12 +19466,6 @@
         }
     ],
     "fortisat": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "fortitude coffee newington": [
         {
             "type": 1,
             "rating": 1
@@ -25573,18 +25543,6 @@
             "rating": 1
         }
     ],
-    "full communications": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "full comms": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "full fat commerce": [
         {
             "type": 1,
@@ -26968,12 +26926,6 @@
         }
     ],
     "future tech info": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "future tech labs": [
         {
             "type": 1,
             "rating": 1

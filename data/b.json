@@ -6481,19 +6481,13 @@
             "rating": 1
         }
     ],
-    "barcud shared": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bard": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -10627,12 +10621,6 @@
             "rating": 1
         }
     ],
-    "bdr civil & structural engineering": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bdr2": [
         {
             "type": 1,
@@ -10646,12 +10634,6 @@
         }
     ],
     "bds marketing research qmj": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bds plant hire orkney": [
         {
             "type": 1,
             "rating": 1
@@ -18099,12 +18081,6 @@
             "rating": 1
         }
     ],
-    "bethany christian centre": [
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
     "bethany christian trust": [
         {
             "type": 1,
@@ -18918,12 +18894,6 @@
         }
     ],
     "beyond now technology": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "beyond retail": [
         {
             "type": 1,
             "rating": 1
@@ -21631,12 +21601,6 @@
         {
             "type": 1,
             "rating": 1
-        }
-    ],
-    "bim united kingdom": [
-        {
-            "type": 8,
-            "rating": 2
         }
     ],
     "bim yorkshire": [
@@ -25120,16 +25084,6 @@
     "blackbird trading bham": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "blackboard": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -30557,18 +30511,6 @@
             "rating": 1
         }
     ],
-    "bocacina": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bocabar": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "bocan international": [
         {
             "type": 1,
@@ -32362,12 +32304,6 @@
     "bookshoppe": [
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "booktrust": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -37799,12 +37735,6 @@
             "rating": 1
         }
     ],
-    "brick hill estates": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "brick lane bikes": [
         {
             "type": 1,
@@ -38854,12 +38784,6 @@
         }
     ],
     "bright biotech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bright blue campaign": [
         {
             "type": 1,
             "rating": 1
@@ -40719,12 +40643,6 @@
             "rating": 1
         }
     ],
-    "britannia skips": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "britannia social care": [
         {
             "type": 1,
@@ -41303,12 +41221,6 @@
             "rating": 1
         }
     ],
-    "british society for rheumatology": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "british solar renewables": [
         {
             "type": 1,
@@ -41317,11 +41229,11 @@
     ],
     "british standards institution": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -42562,12 +42474,6 @@
         }
     ],
     "brook medical partnership": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "brook street": [
         {
             "type": 1,
             "rating": 1
@@ -44678,18 +44584,6 @@
         }
     ],
     "bssg foods": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "bsshse": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "british safety": [
         {
             "type": 1,
             "rating": 1
@@ -49837,12 +49731,6 @@
             "rating": 1
         }
     ],
-    "big barn news & booze": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "b&b bargains": [
         {
             "type": 1,
@@ -51750,12 +51638,6 @@
         }
     ],
     "butterfly dental practice": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "biomonde": [
         {
             "type": 1,
             "rating": 1

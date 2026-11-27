@@ -1105,12 +1105,6 @@
             "rating": 1
         }
     ],
-    "a j jones & co legal": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "a j mini market ta baskerville stores": [
         {
             "type": 1,
@@ -12257,12 +12251,6 @@
             "rating": 1
         }
     ],
-    "acker u k": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "acklam medical centre": [
         {
             "type": 1,
@@ -12337,12 +12325,6 @@
         {
             "type": 10,
             "rating": 2
-        }
-    ],
-    "acm global central laboratory": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "acme credit consultants": [
@@ -13708,12 +13690,6 @@
         }
     ],
     "activefence": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "activeis": [
         {
             "type": 1,
             "rating": 1
@@ -17425,6 +17401,12 @@
             "rating": 1
         }
     ],
+    "advanced ip": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "advanced labelling systems": [
         {
             "type": 1,
@@ -17433,11 +17415,11 @@
     ],
     "advanced logistics for aerospace": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -18459,12 +18441,6 @@
             "rating": 1
         }
     ],
-    "aei music": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "aei solutions": [
         {
             "type": 1,
@@ -18731,12 +18707,6 @@
             "rating": 1
         }
     ],
-    "aeron branding": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "aeron vets": [
         {
             "type": 1,
@@ -18826,12 +18796,6 @@
         }
     ],
     "aerotech": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "aerotech solutions": [
         {
             "type": 1,
             "rating": 1
@@ -24363,12 +24327,6 @@
             "rating": 1
         }
     ],
-    "airsource": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "airspan communications": [
         {
             "type": 5,
@@ -25866,12 +25824,6 @@
         }
     ],
     "ake trade consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "akela future living": [
         {
             "type": 1,
             "rating": 1
@@ -30059,6 +30011,12 @@
             "rating": 1
         }
     ],
+    "alex williams": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "alex s plaice": [
         {
             "type": 1,
@@ -32022,6 +31980,10 @@
         }
     ],
     "all market europe": [
+        {
+            "type": 5,
+            "rating": 1
+        },
         {
             "type": 1,
             "rating": 1
@@ -34816,6 +34778,12 @@
         }
     ],
     "alpha lounge restaurant and bar": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "alpha machines": [
         {
             "type": 1,
             "rating": 1
@@ -39201,12 +39169,6 @@
             "rating": 1
         }
     ],
-    "amg systems": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "amg tipper & grab hire": [
         {
             "type": 1,
@@ -42167,19 +42129,13 @@
             "rating": 1
         }
     ],
-    "anderson law": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "anderson mori & tomotsune": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -43178,6 +43134,12 @@
         }
     ],
     "angelcare": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "angelcare wales": [
         {
             "type": 1,
             "rating": 1
@@ -45411,12 +45373,6 @@
         {
             "type": 4,
             "rating": 2
-        }
-    ],
-    "anthomania": [
-        {
-            "type": 1,
-            "rating": 1
         }
     ],
     "anthonisz neville": [
@@ -52805,6 +52761,16 @@
             "rating": 1
         }
     ],
+    "arife": [
+        {
+            "type": 5,
+            "rating": 1
+        },
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "arigato sushi and ramen": [
         {
             "type": 1,
@@ -54355,12 +54321,6 @@
             "rating": 1
         }
     ],
-    "aroma care people": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "aroma cocepts": [
         {
             "type": 1,
@@ -55105,12 +55065,6 @@
             "rating": 2
         }
     ],
-    "art and science": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "art convenience store": [
         {
             "type": 1,
@@ -55359,11 +55313,11 @@
     ],
     "artefact": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -55406,12 +55360,6 @@
         }
     ],
     "artelium wine estate": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "artellite": [
         {
             "type": 1,
             "rating": 1
@@ -55990,12 +55938,6 @@
         }
     ],
     "arts university bournemouth": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "arts university plymouth": [
         {
             "type": 1,
             "rating": 1
@@ -64223,12 +64165,6 @@
             "rating": 1
         }
     ],
-    "atlantis resources scotland": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "atlantis technology solutions": [
         {
             "type": 1,
@@ -71178,12 +71114,6 @@
         }
     ],
     "aydan smith accountancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "aydawines": [
         {
             "type": 1,
             "rating": 1

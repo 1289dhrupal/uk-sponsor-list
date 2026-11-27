@@ -1,10 +1,4 @@
 {
-    "the fox tavern": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the meating room": [
         {
             "type": 1,
@@ -8703,6 +8697,12 @@
             "rating": 1
         }
     ],
+    "tasty foods cuisine": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "tasty idea": [
         {
             "type": 1,
@@ -10567,16 +10567,6 @@
             "rating": 2
         }
     ],
-    "teach all nations - europe": [
-        {
-            "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
     "teach first": [
         {
             "type": 1,
@@ -11280,12 +11270,6 @@
         }
     ],
     "tech mania": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "tech mta": [
         {
             "type": 1,
             "rating": 1
@@ -12150,12 +12134,6 @@
         }
     ],
     "technology innovators": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "technology management midlands": [
         {
             "type": 1,
             "rating": 1
@@ -15029,12 +15007,6 @@
             "rating": 1
         }
     ],
-    "teranode": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "terarecon": [
         {
             "type": 1,
@@ -16505,12 +16477,6 @@
             "rating": 1
         }
     ],
-    "tgl": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tgle holdings": [
         {
             "type": 1,
@@ -17040,6 +17006,12 @@
         }
     ],
     "thakur-chabert": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "thakurs logistics": [
         {
             "type": 1,
             "rating": 1
@@ -22011,12 +21983,6 @@
             "rating": 1
         }
     ],
-    "the clear company": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the clearing consultancy": [
         {
             "type": 1,
@@ -24129,12 +24095,6 @@
             "rating": 1
         }
     ],
-    "the eggfree cake box bradford": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the eggfree cake box smethwick": [
         {
             "type": 1,
@@ -26155,12 +26115,6 @@
             "rating": 1
         }
     ],
-    "the good wine shop": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the goodluck and melville charity": [
         {
             "type": 10,
@@ -26874,6 +26828,12 @@
         }
     ],
     "the happy apple": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "the happy baby community": [
         {
             "type": 1,
             "rating": 1
@@ -28279,12 +28239,6 @@
             "rating": 1
         }
     ],
-    "the island surgery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the islington chinese association": [
         {
             "type": 10,
@@ -29429,20 +29383,14 @@
             "rating": 2
         }
     ],
-    "the licious": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the life centre education": [
-        {
-            "type": 12,
-            "rating": 1
-        },
         {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 12,
+            "rating": 1
         }
     ],
     "the life goddess investments": [
@@ -29670,12 +29618,6 @@
         }
     ],
     "the little fish shop": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the little ripley day nurseries": [
         {
             "type": 1,
             "rating": 1
@@ -30700,12 +30642,6 @@
         }
     ],
     "the mds global": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the meat counter": [
         {
             "type": 1,
             "rating": 1
@@ -31761,12 +31697,6 @@
             "rating": 1
         }
     ],
-    "the nehemiah project": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the nelson vp": [
         {
             "type": 1,
@@ -32502,12 +32432,6 @@
         }
     ],
     "the old rectory ewhurst co": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the old rectory fradswell": [
         {
             "type": 1,
             "rating": 1
@@ -37203,12 +37127,6 @@
             "rating": 1
         }
     ],
-    "the small & friendly pub co": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "the smart cube": [
         {
             "type": 5,
@@ -38554,12 +38472,6 @@
         }
     ],
     "the training school": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "the trampery peckham": [
         {
             "type": 1,
             "rating": 1
@@ -40756,12 +40668,6 @@
         }
     ],
     "thekedar constructions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "theleme": [
         {
             "type": 1,
             "rating": 1
@@ -44363,30 +44269,24 @@
             "rating": 1
         }
     ],
-    "tiga health": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "tiger analytics consulting": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "tiger aspect holdings": [
         {
-            "type": 1,
-            "rating": 1
-        },
-        {
             "type": 4,
             "rating": 2
+        },
+        {
+            "type": 1,
+            "rating": 1
         }
     ],
     "tiger belly": [
@@ -51161,16 +51061,6 @@
             "rating": 1
         }
     ],
-    "towerpros": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
-            "rating": 1
-        }
-    ],
     "towers & sanders": [
         {
             "type": 1,
@@ -54417,6 +54307,10 @@
         {
             "type": 2,
             "rating": 1
+        },
+        {
+            "type": 11,
+            "rating": 2
         }
     ],
     "treecell": [
@@ -55056,12 +54950,6 @@
         }
     ],
     "trevally capital": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "trevibban mill": [
         {
             "type": 1,
             "rating": 1
@@ -58379,6 +58267,12 @@
             "rating": 1
         }
     ],
+    "ts enterprises t/as the real pizza company wigston": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "ts feast": [
         {
             "type": 1,
@@ -58496,6 +58390,12 @@
         }
     ],
     "tsa retail": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "tsa riley infrastructure": [
         {
             "type": 1,
             "rating": 1

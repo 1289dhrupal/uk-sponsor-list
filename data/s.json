@@ -1243,12 +1243,6 @@
             "rating": 1
         }
     ],
-    "studio kitchen": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shabna tandoori": [
         {
             "type": 1,
@@ -3398,12 +3392,6 @@
         }
     ],
     "s l hotel": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "s l rainbow holdings pvt": [
         {
             "type": 1,
             "rating": 1
@@ -6275,6 +6263,10 @@
         {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 5,
+            "rating": 1
         }
     ],
     "safariland": [
@@ -8433,6 +8425,12 @@
             "rating": 1
         }
     ],
+    "sail dental": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sail line": [
         {
             "type": 1,
@@ -9931,20 +9929,6 @@
             "rating": 1
         }
     ],
-    "salt factory sports": [
-        {
-            "type": 10,
-            "rating": 2
-        },
-        {
-            "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 2,
-            "rating": 1
-        }
-    ],
     "salt": [
         {
             "type": 1,
@@ -10301,12 +10285,6 @@
             "rating": 1
         }
     ],
-    "sam cox": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sam enterprise": [
         {
             "type": 1,
@@ -10640,12 +10618,6 @@
         },
         {
             "type": 5,
-            "rating": 1
-        }
-    ],
-    "sambal shiok laksa bar": [
-        {
-            "type": 1,
             "rating": 1
         }
     ],
@@ -13301,12 +13273,6 @@
             "rating": 1
         }
     ],
-    "santapas": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "santas": [
         {
             "type": 1,
@@ -15955,12 +15921,6 @@
             "rating": 1
         }
     ],
-    "saville medical": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "savills": [
         {
             "type": 1,
@@ -16214,16 +16174,6 @@
     "sawthiri pvt": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "sawtooth software": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -17085,29 +17035,23 @@
             "rating": 1
         }
     ],
-    "sc insights international": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sc johnson professional": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
     "sc lowy asset management": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -17661,12 +17605,6 @@
             "rating": 1
         }
     ],
-    "scene connect": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "scene cuisine": [
         {
             "type": 1,
@@ -17762,10 +17700,6 @@
         }
     ],
     "scheibye trading": [
-        {
-            "type": 3,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -18078,16 +18012,6 @@
     "school run": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "school sisters of notre dame cio": [
-        {
-            "type": 11,
-            "rating": 2
-        },
-        {
-            "type": 2,
             "rating": 1
         }
     ],
@@ -20631,12 +20555,6 @@
             "rating": 1
         }
     ],
-    "seal dynamics": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "seal it": [
         {
             "type": 1,
@@ -22807,12 +22725,6 @@
             "rating": 1
         }
     ],
-    "self fulfilling prophecy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "self funding": [
         {
             "type": 1,
@@ -24259,12 +24171,6 @@
             "rating": 1
         }
     ],
-    "sequoia strategy advisors": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sequoia transactions": [
         {
             "type": 1,
@@ -25002,18 +24908,6 @@
         }
     ],
     "servicepower business solutions": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "servicepower": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "seba developments": [
         {
             "type": 1,
             "rating": 1
@@ -27933,12 +27827,6 @@
             "rating": 1
         }
     ],
-    "shal jalal belfast": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "shalam packaging": [
         {
             "type": 1,
@@ -28108,6 +27996,12 @@
         }
     ],
     "shami pvt": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "shamila": [
         {
             "type": 1,
             "rating": 1
@@ -31104,12 +30998,6 @@
         }
     ],
     "shi & naz trading as legis chambers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "shi fw": [
         {
             "type": 1,
             "rating": 1
@@ -37669,12 +37557,6 @@
             "rating": 1
         }
     ],
-    "silverplay": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "silversea cruises": [
         {
             "type": 5,
@@ -42631,6 +42513,12 @@
             "rating": 1
         }
     ],
+    "skirting world": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "skirwith hall farms": [
         {
             "type": 1,
@@ -44322,16 +44210,6 @@
     "slk manchester": [
         {
             "type": 1,
-            "rating": 1
-        }
-    ],
-    "slk private": [
-        {
-            "type": 1,
-            "rating": 1
-        },
-        {
-            "type": 5,
             "rating": 1
         }
     ],
@@ -46866,16 +46744,6 @@
         }
     ],
     "smidsy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "smiggle": [
-        {
-            "type": 5,
-            "rating": 1
-        },
         {
             "type": 1,
             "rating": 1
@@ -50399,12 +50267,6 @@
             "rating": 1
         }
     ],
-    "solai": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "solaimaniyah": [
         {
             "type": 1,
@@ -50800,6 +50662,12 @@
         }
     ],
     "solid cars": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
+    "solid control": [
         {
             "type": 1,
             "rating": 1
@@ -53088,12 +52956,6 @@
         }
     ],
     "soul feet": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "soul food jesmond": [
         {
             "type": 1,
             "rating": 1
@@ -56255,12 +56117,6 @@
             "rating": 1
         }
     ],
-    "sparkshire development": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sparkswood": [
         {
             "type": 1,
@@ -57859,19 +57715,13 @@
             "rating": 1
         }
     ],
-    "spesic": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "spex": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -58576,12 +58426,6 @@
         }
     ],
     "spice-er-anando": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "spicecrest": [
         {
             "type": 1,
             "rating": 1
@@ -60485,12 +60329,6 @@
             "rating": 1
         }
     ],
-    "springfield manor gardens": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "springfield manor": [
         {
             "type": 1,
@@ -61740,12 +61578,6 @@
         }
     ],
     "sreekrish": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sreema fashion": [
         {
             "type": 1,
             "rating": 1
@@ -65189,12 +65021,6 @@
             "rating": 1
         }
     ],
-    "st lawrence surgery": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "st leger homes doncaster": [
         {
             "type": 1,
@@ -66823,12 +66649,6 @@
             "rating": 1
         }
     ],
-    "stadium traffic management": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "stadler rail service": [
         {
             "type": 5,
@@ -67222,12 +67042,6 @@
         }
     ],
     "stamford hill computers": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "stamford hill practice": [
         {
             "type": 1,
             "rating": 1
@@ -70594,12 +70408,6 @@
         }
     ],
     "stephen ongpin fine art": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "stephen parsons associates": [
         {
             "type": 1,
             "rating": 1
@@ -75631,6 +75439,12 @@
             "rating": 1
         }
     ],
+    "studio hofu": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "studio hoodless": [
         {
             "type": 1,
@@ -75651,12 +75465,12 @@
     ],
     "studio lambert media": [
         {
-            "type": 4,
-            "rating": 2
-        },
-        {
             "type": 1,
             "rating": 1
+        },
+        {
+            "type": 4,
+            "rating": 2
         }
     ],
     "studio lba": [
@@ -75798,12 +75612,6 @@
         }
     ],
     "studio seilern architects": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "studio semiz": [
         {
             "type": 1,
             "rating": 1
@@ -78435,13 +78243,19 @@
             "rating": 1
         }
     ],
+    "sumuk edn": [
+        {
+            "type": 1,
+            "rating": 1
+        }
+    ],
     "sumup payments": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -80055,12 +79869,6 @@
             "rating": 1
         }
     ],
-    "suono consultancy": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "sup hair salon de coiffure": [
         {
             "type": 1,
@@ -80518,12 +80326,6 @@
         }
     ],
     "superb hair and beauty": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "superb healthcare": [
         {
             "type": 1,
             "rating": 1
@@ -81044,12 +80846,6 @@
         }
     ],
     "support and sustain care": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "support asia": [
         {
             "type": 1,
             "rating": 1
@@ -83115,12 +82911,6 @@
             "rating": 1
         }
     ],
-    "suzanna rosenthal productions": [
-        {
-            "type": 4,
-            "rating": 2
-        }
-    ],
     "suzerain": [
         {
             "type": 1,
@@ -84699,11 +84489,11 @@
     ],
     "swietelsky construction company": [
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         },
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         }
     ],
@@ -86199,16 +85989,6 @@
             "rating": 1
         }
     ],
-    "symogen": [
-        {
-            "type": 5,
-            "rating": 1
-        },
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "symology": [
         {
             "type": 1,
@@ -86319,19 +86099,13 @@
             "rating": 1
         }
     ],
-    "symvan capital": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
     "synack europe": [
         {
-            "type": 1,
+            "type": 5,
             "rating": 1
         },
         {
-            "type": 5,
+            "type": 1,
             "rating": 1
         }
     ],
@@ -87156,12 +86930,6 @@
         }
     ],
     "syringa": [
-        {
-            "type": 1,
-            "rating": 1
-        }
-    ],
-    "sys private": [
         {
             "type": 1,
             "rating": 1
